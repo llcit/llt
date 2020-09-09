@@ -1,0 +1,373 @@
+Language Learning & Technology
+http://llt.msu.edu/vol6num2/edwards/
+May 2002, Volume 6, Number 2
+pp. 59-69
+Copyright ' 2002, ISSN 1094-3501 59
+FABULA: A BILINGUAL MULTIMEDIA AUTHORING ENVIRONMENT
+FOR CHILDREN EXPLORING MINORITY LANGUAGES
+Viv Edwards
+University of Reading
+Lyn Pemberton
+University of Brighton
+John Knight
+City University, London
+Frank Monaghan
+North Westminster Community School, London
+ABSTRACT
+Fabula, an interdisciplinary project funded by the EU Multimedia Software programme, provides
+software to enable children learning European minority languages to create bilingual digital
+books. We share a set of assumptions and approaches to the key issues addressed by the project.
+First, bilingual books are a powerful teaching tool of great value in multilingual classrooms.
+Second, the graphic design of books has important effects in finding inventive solutions to
+problems. Third, multimedia can enrich bilingual books. Finally, self-made materials motivate
+children. These assumptions led to a general definition of the Fabula software: an easy-to-use
+software environment for making and viewing interactive multimedia bilingual books,
+concentrating on "languages of lesser diffusion." The language pairs we currently cater for are
+Welsh/English, Irish/English, Basque/French, Catalan/Spanish and Frisian/Dutch. We shall
+present a brief description of the Fabula software and discuss the ways in which it has been used
+in schools in Europe. We shall also set out our future plans for Fabula, including a Europe-wide
+competition for schools and the creation of a WWW-based "on-line library" for teachers and
+children who use the Fabula software.
+INTRODUCTION
+Minority languages suffer from a dearth of electronic media suitable for children, whether for language
+learning or for general use. The market for multimedia products in minority languages rarely justifies the
+outlay required from developers and publishers. However, the availability of electronic media can be a
+powerful motivator for young people in particular, to develop and maintain their knowledge of a minority
+language which might otherwise be overshadowed by more glamorous media products in the more widely
+used languages.
+Fabula is a multidisciplinary, multinational project, initially funded by the European Commission, which
+goes some way to repairing this lack. In its two-year development phase, it involved teachers, children,
+software engineers, information designers and translators, together with academic researchers in
+linguistics, education, human-computer interaction and typography. Partners in England, the Basque
+country, Catalunia, Friesland, Ireland, and Wales set out to produce a simple-to-use tool for making
+bilingual multimedia story books in the lesser used languages of Europe. The aims were twofold: to help
+ensure that minority languages were not excluded from the Information Age and to increase the perceived
+status of lesser-used languages by associating them with new technologies.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 60
+This paper offers a brief description of the development and evaluation of the Fabula software and the
+ways in which it has been used in schools in Europe. We also set out our future plans for Fabula,
+including a virtual library of multimedia books for speakers and learners of minority languages.
+Assumptions of the Fabula Project
+The partners in the Fabula project shared a set of assumptions and approaches to the key issues addressed
+by the project. To begin with, we had a shared belief that bilingual books can be a powerful teaching tool.
+At a pragmatic level, those of the team experienced in language teaching in the UK context had long been
+convinced of the value of (paper-based) bilingual books for strengthening the position of minority
+languages. They had recently published a book of design guidelines for teachers thinking of using such
+books in the classroom (Edwards & Walker, 1995). Although the language learning setting in some of the
+other partners’ regions was rather different, with an emphasis on foregrounding the minority language in a
+monolingual school setting, teachers in each region were open to experimenting with this new tool.
+We also believed that the graphic design of books, paper or electronic, has important effects. Designers of
+paper-based books have struggled to find inventive solutions to problems such as how to position text in
+both languages on a page without suggesting that one is more important than the other. These details are
+noted by children given bilingual books as educational material, and influence their attitude towards the
+languages in question, often negatively. Enabling children to create products that are aesthetically
+pleasing is an important goal.
+We shared the view that multimedia can enrich bilingual books. The specific stimulus for the project was
+the belief that creating digital versions of bilingual books can at once enrich the books by adding audio
+and other interactive elements and also solve some of the design problems connected with the paper
+medium. In addition, and importantly, digital books will give minority languages the high status attached
+to computer-based material and give children enjoyable, engaging language learning/exploration tools.
+Finally, we believed that self-made materials motivate children. Some of the most successful of the paper
+bilingual books had been created by the children themselves, illustrating the constructionist approach to
+teaching, which holds broadly that creating an artefact is a more powerful way of learning than
+consuming another’s product (Druin & Solomon, 1996; Jonassen, Peck, Wilson, & Pfeiffer, 1998). The
+active involvement of the children as collaborative creators rather than consumers is central to the
+successful use of the software in classrooms. An important practical spin-off is that these projects produce
+minority language materials for use in other teaching situations.
+These assumptions led to a general definition of the Fabula software: an easy-to-use software
+environment for making and viewing interactive multimedia bilingual books, concentrating on European
+"languages of lesser diffusion." The language pairs used in the development phase were Welsh/English,
+Irish/English, Basque/French, Catalan/Spanish and Friesian/Dutch. The software consists of two
+integrated components: a simple multimedia authoring environment (the Fabula Maker) enabling users to
+create pages of text and graphics, plus interactive elements; and a browser-like environment (Fabula
+Reader) for reading and interacting with the products of the Fabula Maker.
+The Fabula Software
+In the development phase, the project had two main objectives. The first was to develop a tool sufficiently
+usable and flexible to meet the needs of teachers and children producing their own bilingual multimedia
+materials in a range of different settings. Several multimedia applications were already available and were
+considered for use: high-end professional programs like Macromedia Authorware and Director can be
+found alongside others such as the Learning Company’s KidPix or StoryBook Weaver, which are more
+likely to be available on a school budget. However, the more sophisticated programs require relatively
+advanced technical and design skills to create a reasonable result. The lower-end products, while easy and
+fun to use, tend to encourage the use of prepared graphic and audio material with an unmistakably U.S.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 61
+flavour. In addition, localised versions of whatever software we produced would be essential, and while
+authoring packages exist in the major languages, the lesser used languages were not well catered for, and
+the code of the packages would not have been available to us for localisation. In contrast, we envisaged
+Fabula as an easy to use tool which would draw on the principles of best practice for screen based
+learning materials and be designed specifically to meet the needs of bilingual children and teachers in a
+number of different countries. This objective has now been achieved: the authoring and browsing tools
+are currently available in the project languages on CD-ROM (for schools which are not yet online) and
+can also be downloaded free of charge from the Fabula Web site: www.fabula.eu.org.
+The early thinking on the project assumed a scenario in which an adult professional -- likely to be a
+teacher or a translator, or possibly a commercial publisher -- would create a second language version of a
+pre-existing monolingual text for display in the Fabula Reader. Alternatively, we thought the teacher
+might take an existing bilingual electronic book in one pair of languages and substitute her own language
+version for either one or both original languages. The bilingual product would then be given to the
+children. The team’s thinking on this point evolved, however, and the scenario we worked toward was of
+children being involved in creating bilingual storybooks, probably from scratch, using their own graphic
+material. This assigns children a more active role and is in line with current best practice in bilingual
+classrooms.
+The decision to target children as users of the Fabula Maker as well as the Reader meant that it had to be
+straightforward and simple to use. Maker is used to assemble multimedia objects, acquired for instance
+from a scanner, digital camera, or audio CD, into an electronic book. We have not attempted to build in
+media editing facilities (word processor, drawing package, sound editor) as these are available relatively
+easily elsewhere. There are two screen areas for text, one for each language, to be assigned as the user
+chooses. Users can add various types of interactivity, such as in the form of links from the picture to
+media objects such as sound files (containing spoken dialogue fragments or recorded sound effects),
+labels, or speech and thought bubbles (containing text). In addition, users can place links between a word
+or phrase of one language and its equivalent in the other to create a kind of simple guessing game for any
+child reading it. Links can also be made from individual words to a bilingual glossary for the book. If a
+spoken version of the entire text in a text panel has been recorded, this can be linked in via a special
+button on the relevant text panel (Figure 1).
+The overall look of the package is quiet and plain. Our aim has been for the software itself to melt into the
+background and become "invisible," that is, so easy to use that it does not present itself as an object of
+interest in its own right. Perhaps controversially for a children’s software package, there is little room to
+experiment with font styles, border patterns, or background colours. While the graphics imported into the
+package may obviously be of any kind the user chooses, once inside the package the choices for fonts and
+backgrounds are strictly limited to a single set of colour combinations and fonts that "work." We hope
+that this will enable our users to produce high quality products with the accompanying satisfaction that
+this gives, while avoiding the confusion and the "where do I start" feeling often aroused by more open-
+ended software (Druin & Salomon, 1996).
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 62
+Figure 1. The Fabula Maker window
+The Reader stands in the same relation to the Maker as a Web browser to a Web authoring programme.
+Here a reader can page through the book, explore the interactive elements of the pictures, look words up
+in the glossary and try to work out which parts of the version in one language correspond to the other
+version. A more passive use is to click the "Read to me" button on the title page, which takes the reader
+from page to page as a spoken version of the book is read out in the language of the child’s choice.
+Documentation and Training
+The second objective was to disseminate guidance for teachers intending to create, repurpose, and/or use
+bilingual multimedia material. The software is accompanied by user documentation and includes
+information on how to do things such as taking digital photos or digitising sound recordings that are
+outside the scope of the project, together with teaching tips on how to integrate the programme into
+classroom practice. This teaching advice has been developed in collaboration with teacher partners in the
+participating countries. Workshops were arranged in each of the five countries involved to introduce it to
+an even wider base of teachers and thereby to establish a community of expert users. The project web is
+also important here, as a focus for discussion by users of the software.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 63
+FABULA IN USE
+The following section describes three examples of the ways in which Fabula has actually been used in
+schools. We have deliberately chosen this case study approach so as to highlight not only the different
+benefits associated with bilingual digital stories, but to draw attention to the ways in which these benefits
+mutually reinforce each other.
+Zaunka ari zen gatua (The Cat That Barked)
+Errobi Ikastola is a small four-class school in Cambo les Bains in the Northern Basque country. The
+teachers’ salaries are paid by the French government, but the buildings and other resources are funded by
+a co-operative of parents and teachers anxious to provide a Basque-medium education for their children.
+Although the teachers in the Ikastola had very little experience of IT at the start of the project, they
+embraced the opportunity to use the Fabula program with great enthusiasm. They were particularly adept
+at enlisting the help of other members of the community when faced with gaps in their own knowledge
+and experience.
+The Fabula story was developed with a class of 8 - 10 year olds, co-taught by Lilian Hirigoyen and Janine
+Urruty, as part of work on narratives and the structure of stories. The children were put into groups of two
+or three and asked to analyse the underlying structure of A Lovely Bunch of Coconuts, a conventional
+picturebook by English writer Dennis Reader (1991) that had been repurposed as the first Fabula story in
+order to give children and teachers a taste of what a bilingual digital story might look like. In a subsequent
+session, they were asked to write their own stories in Basque using a similar structure: introduction of the
+characters, setting a problem, saying what happened, providing a resolution, giving the tale a twist. The
+children then read each other’s stories and voted for the best draft.
+The winning story was "Zaunka ari zen gatua" (The Cat That Barked). Bintu the cat drinks a magical
+potion and starts to bark like a dog. He sets off to find the old man of the mountains to help him get his
+meow back. When he gets back he finds that something else has changed  After h aving chosen the
+story, the whole class worked on improving it together. At this stage, the teachers encouraged the children
+to enrich the language, focusing in particular on connectors and adjectives. Once the Basque version of
+the story was complete, it was sent to another class, who translated it into French. The story was then read
+by a class of 6 year-olds with less well-developed Basque language skills, who drew the illustrations.
+The children now had access to the ingredients for making a Fabula storybook (Figure 2). The specially
+commissioned illustrations were scanned and made into jpeg files and the two older classes made digital
+audio recordings of both language versions of the story. The older children then combined the story texts,
+audio recordings, and images into a full Fabula storybook. The entire story-making activity took around
+one month to complete from initial analysis and drafting to implementation with the software. The
+bilingual "Cat That Barked" storybook has subsequently been used as the basis for a range of language
+awareness lessons with the younger children. Another inter-class activity involving the older children was
+used to develop a bilingual wordlist to accompany the story.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 64
+Figure 2. Fabula storybook version of Zaunka ari zen gatua / Le chat qui aboyait
+Stori Branwen (The Story of Branwen)
+The second example comes from St Illtyd’s Roman Catholic Primary School in Swansea, South Wales. In
+Wales, both English and Welsh have equal status for official purposes. Small but growing numbers of
+children are educated through the medium of both Welsh and English in ysgolion Cymraeg, or designated
+Welsh schools. However, even in English medium schools, Welsh forms part of the National Curriculum
+and by 1999 almost all pupils between the ages of 5 and 16 were studying it either as a joint or a second
+language (Peate, Coupland, & Garrett, 1998). St Illtyd’s is an English medium school where children learn
+Welsh as a second language.
+As was the case for Errobi Ikastola, the children at St Illtyd’s were centrally involved in the planning and
+creation of a bilingual, multimedia story. The class had been working on a school drama project
+developing their own play based on the ancient Welsh myth of Branwen, and a group of children from the
+school had been involved in performing the play in the Millennium Dome in London. The children had all
+written their own English version of the story and it was decided that this would form the basis for a
+bilingual digital story using the Fabula software (Figure 3).
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 65
+Figure 3. Stori Branwen / The Story of Branwen
+Agreement was reached on which were the key scenes in the story. The children divided into groups with
+each group taking responsibility for a scene. They also discussed the layout of the page, the sounds they
+could use and how they would produce them -- battle raging; cauldrons cracking; waves breaking; gossips
+whispering, and so forth. The realisation that they would need to produce a Welsh version had the effect
+of focussing their minds on the English text. At the outset they were only thinking in terms of vocabulary.
+They saw their task as finding any unfamiliar words in a Welsh-English dictionary. As things progressed,
+however, they realised that they needed to find equivalents not only for individual words, but also for
+idioms and grammatical structures and that, in many cases, they lacked the linguistic resources to be able
+to find appropriate translations. This led them to find other solutions. They realised that the task was more
+a process of parallel authoring than translation, where the English text needed to be driven by their
+existing knowledge of Welsh. This process can be illustrated by looking at the first and second drafts of
+one of the pages of the story:
+Bran went to the battlefield with 500 men. You would be able only to hear "For Wales!" and
+screaming. Mofuloch waited with 500 men also. Wales were behind because Ireland had the
+cauldron of rebirth so Nisien tried to smash it, but he died. The battle was tiring, long. Blood
+stained the grass and bodies scattered the battlefield.
+This early draft is the product of native speakers of English with little sensitivity to the main structural
+differences between English and Welsh. The final version embodies a much more realistic view from the
+children of what they could achieve as learners of Welsh as a second language at their current stage of
+development:
+The battle had begun. Ireland had the advantage because of the cauldron. The battle was long,
+tiring and bloody.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 66
+Interestingly, it is possible to argue that the final draft of the English version is a more focused and more
+coherent structure. In this sense, the exercise of producing a bilingual story is also incidentally providing
+support for writing in the children’s first language.
+Annwyl Fferm (Dear Farm)
+The third story was developed in a Swansea school where children learn Welsh as a second language.
+Sharon Davies is the teacher of a class of 5 - 6 year-olds. Because she was working with younger
+children, she decided to take a more structured, didactic approach than the teachers in Errobi Ikastola or
+St Illtyd’s. She began by reading Dear Zoo, a well-known children’s book by Rod Campbell based on
+highly predictable patterns of language:
+I wrote to the zoo to send me a pet. They sent me an elephant. He was too big!
+I sent him back.
+So they sent me a giraffe. He was too tall!
+I sent him back.
+The children used this as the model for their own story of a visit to a farm, drawing on the same pattern
+and structures, but substituting different animals and adjectives.
+Figure 4. Annwyl Fferm / Dear Farm
+The highly predictable language patterns not only allowed the children to learn the Welsh constructions
+very quickly but also to make suggestions for new words in Welsh. For instance, when translating "So
+they sent me a duck. He was too quacky," they invented the word gwaciog, based partly of the sound of
+the duck and partly on the -iog ending often associated with adjectives in Welsh. Although gwaciog is no
+more a conventional Welsh word than quacky is an English word, it was none the less totally
+comprehensible to a Welsh speaker and showed an impressive understanding of how the language works.
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 67
+LESSONS LEARNED
+One of the things that have become apparent in the evaluation of the Fabula software is the very wide
+range of ways in which this tool can be used in the classroom. Most possibilities involve collaboration
+between, on the one hand, children, teachers, and parents who speak the minority language and, on the
+other hand, children, teachers, and parents keen to acquire it. Such collaboration also offers opportunities
+to write for real audiences for a real reason, a feature that has frequently been identified as a fundamental
+in the successful development of writing skills (Hall & Robinson, 1994).
+Although the three classes approached the making of their Fabula stories in very different ways, a number
+of common threads can be identified both in the stories already considered and from the experiences of
+other teachers and children who took part in the evaluation of the software.
+The opportunity to compare two languages allows even very young children to develop their
+metalinguistic awareness: the fact that word order differs from one language to another; that different
+languages are sometimes written in different directions; that equivalent words in different languages often
+bear no physical relationship to each other. Speculation of this kind can lead to greater understanding of
+the target language.
+The comparison of texts can also lead to language awareness of a rather higher order. Children are
+encouraged to think about the nature of translation: Are they aiming for word-for-word meaning or trying
+to communicate the sense of the first text in composing the second? Second language learners are also
+challenged by the need for parallel authoring, a process in which the children’s level of competence in the
+second language determines the nature of the first language text.
+The creation of bilingual digital books encourages the development of skills that benefit writing both in
+the first and second languages. The advantages of book making have already been well-documented for
+"paper" books (Johnson, 1994). Children develop a range of social and organisational skills that help
+consolidate their progress as writers. The organisational and planning aspects of electronic stories are
+even more complex. As a result, they offer children many opportunities for collaboration and the
+development of project management skills as well, of course, as for deepening their understanding of
+Information and Communication Technology (ICT). Indeed, children who author their own multimedia
+stories will be developing relatively high levels of ICT skills, as they make decisions about multimedia
+design. In this way they become not just consumers of software but also creators.
+The bilingual focus of the Fabula software offers valuable opportunities for language learning. These can
+take the form of discussion of the spontaneous comments offered by children as they read and create texts
+in two languages. They can also be more didactic in approach as, for instance, in the case of group
+writing, where the teacher models particular vocabulary or constructions which children help to develop
+into their own distinctive story -- or through looking closely at similarities and differences between texts.
+Status is another common thread, not previously mentioned, but running through the experiences of all
+the teachers who took part in the evaluation. The association of high status multimedia technologies with
+minority languages has far-reaching implications. Educators within these minority contexts are faced with
+various challenges in relation to both print and electronic resources. Because print runs for paper
+publications are small, the unit price is necessarily high and, as a result, the range and quality of material
+are far more limited than is the case for languages with larger numbers of speakers. Electronic resources
+are also subject to market forces. Whereas "major" languages like English, Spanish, and French feature
+prominently in commercial applications, minority languages, such as Friesian, Basque, and Welsh, are
+poorly served.
+It is therefore not surprising that the few electronic resources that do exist in minority languages are
+greeted with enthusiasm. Chana, edwards, and Walker (1998), for instance, describe how attendance at a
+Urdu club in a multilingual primary school increased from 6 to 22 (including six monolingual English
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 68
+speakers) when an Urdu word-processing programme was introduced. The high status associated with the
+new technologies seems to have been transferred to the minority language. The reactions of children
+taking part in the Fabula project were very similar. Many commented spontaneously -- and with
+enthusiasm -- on the fact that the interface was in the minority language; many also expressed approval
+for the fact that the sound functions allowed them to practice the minority language independently of the
+teacher.
+FURTHER DEVELOPMENT
+Current efforts on Fabula (now that the first version of the software has been developed, launch events
+have taken place, and trained users are in place) are concentrated on the development of the Web site.
+During the initial phase, this served mainly as a download site for the software and documentation.
+However, the ambition for the site is that it should be a focus for ongoing development and use of the
+software, with two major areas. The first is a "Virtual Fabula Community." Here teachers, parents and
+eventually children, will be able to communicate via e-mail, bulletin boards, and conferencing software.
+They will be able to hold discussions about their use of the software, as well as presumably provide
+descriptions of their schools, their classes, their language situations, and so on. Using Fabula as common
+ground, we hope that this will create a community of teachers and parents interested in discussing new
+approaches to teaching and learning minority languages. This has already begun within the regions where
+the project partners are located, but there is clearly potential for increasing the circle of participants to
+other regions and languages of Europe.
+The second major area of the Web site is the Fabula "Virtual Library." Here, those who have used the
+software to create bilingual stories will be encouraged to deposit their work so that other teachers and
+children can download it to read it or reuse it in their own classrooms. Versions of "A Lovely Bunch of
+Coconuts" in five language pairs are already available and other titles are in preparation. The stories will
+be indexed so that both teachers and children can pick suitable titles and in turn add to the collection
+themselves. We see this creation of a collection of electronic resources in minority languages as
+potentially a major benefit of the project. The prospect of having their work published for the rest of
+Europe to see has proven highly motivating, especially for the older children in the partner schools, and
+they are keen to see this aspect of the project progress, to make contact with other schools, to hear what
+they thought of their stories, and so on. This enthusiasm reflects the attitudes of the teachers who have
+given their own time to be involved in the project. What has become very clear over the course of the
+project is that Fabula is much more than a software package. While the software is a useful tool, it also
+forms the focus for a community of users with a commitment to high quality and innovative language
+teaching, keen to look outwards to share their experiences.
+ABOUT THE AUTHORS
+Viv Edwards is Professor of Language and Education at the University of Reading where she is also
+Director of the Reading and Language Information Centre. She is editor of Language and Education and
+has published widely in the area of teaching and learning in multilingual classrooms.
+E-mail: v.k.edwards@reading.ac.uk
+Lyn Pemberton is Principal Lecturer in the Faculty of IT of the University of Brighton, specialising in
+Human Computer Interaction and Multimedia. She has been involved for over 10 years in developing
+educational software for language support.
+E-mail: LP22@bton.ac.uk
+V. Edwards, L. Pemberton, J. Knight, & F. Monaghan Fabula
+Language Learning & Technology 69
+John Knight taught English at universities in Turkey, Qatar and the UK before completing an MA in
+media-assisted language teaching at Brighton University. John now works at City University, London,
+providing students and staff with support in online learning. He also runs online professional development
+courses in online tutoring.
+E-mail: johnk@soi.city.ac.uk
+Frank Monaghan was seconded to the Fabula project from his current post as Literacy and Numeracy
+Coordinator at North Westminster Community School, a large, multicultural and multilingual school in
+central London. He was primarily responsible for the field work with teachers and students in Wales.
+E-mail: kca06@dial.pipex.com
+REFERENCES
+Chana, U., Edwards, V., & Walker, S. (1998). Hidden resources: multilingual word-processing in the
+primary school. Race, Ethnicity and Education, 1(1), 49—61.
+Druin, A., & Salomon, C. (1996). Designing multimedia environments for children: Computers, creativity
+and kids. New York: John Wiley.
+Edwards, V., & Walker, S. (1995). Building bridges: Multilingual resources for children. Clevedon, UK:
+Multilingual Matters.
+Hall, N., & Robinson, A. (1994). Keeping in touch: Using interactive writing with young children.
+London: Hodder & Stoughton.
+Johnson, P. (1994). Children making books. Reading, UK: Reading and Language Information Centre,
+The University of Reading.
+Jonassen, D. H., Peck, K. L., Wilson, B. G., & Pfeiffer, W. S. (1998). Learning with technology: A
+constructivist perspective. New York: Prentice Hall.
+Peate, M., Coupland, N., & Garrett, P. (1998). Teaching Welsh and English in Wales. In W. Tulasiewicz
+& A. Adams (Eds.), Teaching the mother tongue in a multilingual Europe. (pp. 87-100). London: Cassell.
+Reader, D. (1991). A lovely bunch of coconuts. London: Walker Books.

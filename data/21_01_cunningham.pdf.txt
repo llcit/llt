@@ -1,0 +1,1138 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2017/cunningham.pdf 
+February 2017, Volume 21, Number 1 
+pp. 76–99 
+ 
+Copyright © 2017, ISSN 1094-3501 76 
+METHODOLOGICAL INNOVATION FOR THE STUDY OF  
+REQUEST PRODUCTION IN TELECOLLABORATION 
+D. Joseph Cunningham, Georgetown University 
+Second language (L2) request production has long been a central area of inquiry in interlanguage 
+pragmatics, including how L2 learners mitigate their requests and whether such strategies correspond 
+to or differ from those of first language (L1) speakers. Methodologically, such research often involves 
+elicited speech and tends to isolate the speech act from the surrounding discourse using instruments 
+such as discourse completion tasks. While some naturalistic speech contexts (e.g., academic advising 
+sessions) have been investigated, few studies to date have analyzed requesting in synchronous 
+computer-mediated communication (SCMC). The current study responds by presenting a 
+multifactorial analysis of L1 and L2 request production that occurred during eight one-hour web 
+conferences between L2 learners of German for professional purposes and L1 German professionals. 
+Three taxonomies traditionally used in face-to-face pragmatics research were adapted for analysis of 
+the SCMC, enabling the use of a generalized linear mixed model. Findings indicate that while both 
+groups of speakers used predominantly direct requesting behavior, L1 speakers used significantly 
+more internal modification devices than did L2 learners. 
+Language(s) Learned in this Study: German 
+Keywords: Telecollaboration, Computer-mediated Communication, Pragmatics, Research 
+Methods 
+APA Citation: Cunningham, D. J. (2017). Methodological innovation for the study of 
+request production in telecollaboration. Language Learning & Technology, 21(1), 75–98. 
+Retrieved from http://llt.msu.edu/issues/february2017/cunningham.pdf 
+Received: November 1, 2015; Accepted: July 19, 2016; Published: February 1, 2017 
+Copyright: © D. Joseph Cunningham 
+INTRODUCTION 
+A central area of inquiry in pragmatics research has been the production of requests by second language 
+(L2) learners, including the means by which L2 learners mitigate their requests and how such strategies 
+correspond to or differ from strategies employed by native speakers and more proficient users of the target 
+language (e.g., Blum-Kulka & Olshtain, 1984; Economidou-Kogetsidis, 2008, 2009, 2012; Faerch & 
+Kasper, 1989; Félix-Brasdefer, 2007; Rose, 2000; Trosborg, 1995). 
+Methodologically, much research has tended to isolate speech acts from surrounding discourse using 
+controlled instruments such as discourse completion tasks (DCTs; e.g., Blum-Kulka & Olshtain, 1984, 
+1986; Economidou-Kogetsidis, 2008, 2009, 2010; Faerch & Kasper, 1989; Woodfield & Economidou-
+Kogetsidis, 2010). Although DCTs, especially in written form, are simple to administer and yield 
+quantifiable data, they have been criticized for a lack of authenticity and inattention to social parameters 
+(Golato, 2003). As it more closely approximates authentic spoken discourse than data gathered from written 
+or oral DCTs (Kasper, 2000; Sasaki, 1998; Yuan, 2001), another instrument used widely in ILP studies is 
+the open role play (e.g., Economidou-Kogetsidis, 2012; Göy, Zeyrek, & Otcu, 2012; Hassall, 2001, 2012; 
+Otcu & Zeyrek, 2008; Woodfield, 2012). In an effort to capture even more authentic production data, 
+researchers have also collected and analyzed naturally occurring conversations (e.g., Beebe & Cummings, 
+1996; Félix-Brasdefer, 2007; Golato, 2003; Yuan, 2001). The analysis of naturally occurring data is 
+methodologically complex, and these studies are invariably linked to a specific speech context. While such 
+communicative contexts as telephone conversations (Beebe & Cummings, 1996), academic advising 
+sessions (Reinhardt, 2010) and e-mails (Chen, 2001; Economidou-Kogetsidis, 2011; Hartford & Bardovi-
+Harlig, 1996) have been investigated, little research has investigated synchronous computer-mediated 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 77 
+communication (SCMC). An exception is Golato and Taleghani-Nikazm (2006), who investigated request 
+production by first language (L1) speakers in synchronous chat, finding that the participants “take practices 
+from ordinary conversation and apply them to their interaction within this new form of communication” (p. 
+316). In order to shed further light on request production in SCMC, the current study presents an empirical 
+analysis of L1 and L2 request production that occurred during eight 1-hour web conferences between L2 
+learners of German for professional purposes and L1 German professionals. In so doing, the study 
+illustrates two methodological innovations that facilitated the analysis of request production in 
+telecollaboration: 1) examination of telecollaborative discourse as a context for naturalistic pragmatic 
+production and data collection and 2) application of multilevel statistical models that allowed for 
+exploration of different aspects of request production. 
+BACKGROUND 
+L2 Request Production and Mitigation 
+Requests are an inherently face-threatening act (Brown & Levinson, 1987) that often must be mitigated to 
+maintain interpersonal relations while also achieving the requestive end (Weizman, 1989). Mitigation of 
+requesting behavior can be achieved through indirectness, internal modification, and external modification. 
+Direct requests occur when a speaker states without ambiguity what he or she desires, whereas indirect 
+requests contain an implicit meaning that may not be readily deducible from the linguistic expression itself. 
+Internal modification is achieved through “elements within the request utterance proper [i.e., head act]...the 
+presence of which is not essential for the utterance to be potentially understood as a request” (Blum-Kulka, 
+1989, p. 60). Faerch and Kasper (1989) further classify internal modifiers into two groups: syntactic 
+modifiers (i.e., conditional sentences, tense and aspect markings, interrogatives, etc.) and lexical modifiers 
+(i.e., word choices such as the politeness marker please). External modifiers, in contrast, are “supporting 
+statements that are used by requesters to persuade the hearer to carry out a desired action” (Schauer, 2007, 
+p. 201). They are extraneous to the head act of the request and instead address the context in which the 
+speech act is embedded, thus indirectly modifying the illocutionary force. External modifiers serve a range 
+of functions, from signaling that a request is shortly forthcoming (i.e., the alerter or preparator) to 
+expressing gratitude for the granting of the request (i.e., the appreciator). 
+In the following sections, I review existing research of request modification, as achieved through 
+(in)directness, internal modification, and external modification. Although the review addresses L2 German 
+requesting behavior, it is organized according to the three focal features described previously and, in order 
+to be comprehensive, studies examining other languages have also been included. 
+Directness in Request Production across Languages 
+Much research examining directness in requesting behavior can be traced to the Cross-Cultural Study of 
+Speech Act Realization Patterns (CCSARP) project (Blum-Kulka & Olshtain, 1984; Blum-Kulka, House, & 
+Olshtain, 1989). Rating requests from most direct (1) to least direct (9) allowed the researchers to compare 
+the linguistic realization of requests in eight languages and language varieties. The CCSARP project proved 
+foundational for the study of directness in requesting behavior, with many researchers adopting the project’s 
+investigative framework for research of pragmatic production in face-to-face communication (e.g, 
+Economidou-Kogetsidis, 2010; Fukushima, 1996; Ogiermann, 2009; Taguchi, 2006, 2011; Trosborg, 1995). 
+As regards request directness in L1 German and English, studies have shown differing results: whereas 
+House (2006) suggests that “Germans prefer more direct expressions when complaining or making a 
+request” (p. 251), often drawing on explicit imperative structures to perform requests, Ogiermann (2009) 
+argued that both English and German speakers dispreferred the use of direct request expressions (as 
+compared to Polish and Russian speakers). To wit, English speakers used direct expressions (i.e., 
+imperatives) in only 4% of cases and German speakers used direct expressions in only 5% of the requests 
+analyzed (p. 209). Research comparing the directness of L1 and L2 German request production has not, to 
+my knowledge, drawn on the CCSARP framework. Instead, such studies are situated in the tradition of 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 78 
+conversation analysis and have shown, for instance, that both L1 and L2 speakers of German “treat the 
+social action of requesting as dispreferred” (Taleghani-Nikazm & Huth, 2010, p. 190) and instead rely on 
+pre-request sequences designed to elicit offers. 
+Internal Modification in L2 Request Production 
+Research has indicated that L2 learners tend to underuse internal modifiers when compared to native 
+speakers or learners of higher proficiency levels (Chen, 2001; Economidou-Kogetsidis, 2008, 2009; Faerch 
+& Kasper, 1989; Hassall, 2001, 2012; Göy et al., 2012; Trosborg, 1995; Wigglesworth & Yates, 2011). 
+Faerch and Kasper (1989) showed that Danish learners of German used comparatively fewer syntactic 
+modifications than German native speakers. Regarding lexical modifications, Danish learners of English 
+and German overused conventionalized politeness markers (e.g., please) and underused downtoners in 
+comparison to native speakers. Trosborg’s (1995) study of Danish learners of English shows that, across 
+proficiency levels, they underused internal modifiers compared to native speakers, but that this usage went 
+up as proficiency in the target language increased. Göy et al. (2012) investigated request production in three 
+different populations: two groups of Turkish learners of English with differing proficiency levels and a 
+group of American English speakers. Subjects performed similarly in situations where the difference in 
+power between speakers was minimal; however, when this difference became greater, the native speakers 
+used more syntactic and lexical downgraders than the learner groups, except for the politeness marker 
+please.1 
+External Modification in L2 Request Production 
+In comparison to L1 speakers, L2 learners tend to overuse external modifiers (Blum-Kulka & Olshtain, 
+1986; Faerch & Kasper, 1989; Hassall, 2001, 2012; Kasper, 1981). Faerch and Kasper (1989) explain this 
+tendency by pointing to the very explicit politeness function associated with their use, while Hassall (2001) 
+notes that learners may be able to use these linguistic elements more easily than comparatively complex 
+internal modification devices. Regarding specific devices, learners tend to make use of the grounder more 
+frequently than other modifications (Economidou-Kogetsidis, 2008, 2009); however, their overuse 
+sometimes resulted in provision of repetitive information and compromised pragmatic ability (Hassall 2001, 
+2012). 
+To summarize the previous sections, research suggests that differences in request directness by German and 
+English speakers may exist, but are likely minimal, especially when compared with speakers of Polish and 
+Russian. Given the prevalence of the CCSARP framework, it is surprising that no such studies could be 
+found that compared the directness of requests between L1 and L2 speakers of German, making the current 
+study all the more urgent. Regarding request modification, L2 learners have shown preference for external 
+modification over internal modification (excepting the lexical modifier please), but overuse of external 
+modifiers may lead to compromised pragmatic ability. With these findings in mind, the focus of the 
+literature review will now shift to methodological concerns regarding collection of requesting data. 
+Data Collection Procedures for the Study of Requests  
+When researching request production, there exists a certain tension among various data collection methods. 
+A great many studies utilize DCTs. DCTs present L1 or L2 speakers of a language with a particular social 
+setting and interlocutor in order to elicit a linguistic response. DCTs are most often written instruments and 
+have been used to examine many aspects of requests, including L1 request production across languages and 
+cultures (Blum-Kulka & Olshtain, 1984; Blum-Kulka et al., 1989; Economidou-Kogetsidis, 2010; Faerch & 
+Kasper, 1989), request production of L1 and L2 speakers (Byon, 2004; Woodfield & Economidou-
+Kogetsidis, 2010), request modification in L2 speakers (Economidou-Kogetsidis, 2008, 2009), selection of 
+request strategy by L2 learners (Kuriscak, 2015), and the effect of instruction on L2 request production 
+(Cohen & Shively, 2007; Li, Q. 2011). Less common are DCTs that collect oral production data. Such 
+studies have probed L1 request strategies in British English and Japanese (Fukushima, 1996), the effect of 
+instruction on L2 request production (Li, S. 2011; Pearson, 2006), and the influence of proficiency and 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 79 
+study abroad on L2 request production (Taguchi, 2011).  
+From a research perspective, the advantages of DCTs are numerous. Researchers can collect large data sets 
+quickly (Beebe & Cummings, 1996), while, in the case of written DCTs, avoiding the time-consuming 
+process of transcription. Despite these benefits, the use of DCTs is not without criticism. Golato (2003) 
+notes that “while DCTs provide researchers with data rather quickly, that data can be very different from 
+naturalistically collected data” (p. 110). They therefore do not shed light on how pragmatic knowledge is 
+realized in more naturalistic settings. Golato (2003) further argues that DCTs are essentially metapragmatic 
+in nature, enabling researchers to understand how learners might react in situations that—although 
+possible—remain nonetheless hypothetical at the time of data collection. 
+In response to the perceived lack of authenticity that characterizes DCTs, many research protocols 
+implement role-play tasks, noting that they are more likely to elicit authentic language use while still 
+allowing a certain measure of control and standardization (Kasper & Dahl, 1991). Such studies have 
+investigated development in L2 request production as a result of study abroad (Barron, 2003; Schauer, 
+2004; Woodfield, 2012), L2 request mitigation (Economidou-Kogetsidis, 2012), the impact of recasts on L2 
+request production (Fukuya & Zhang, 2002), the influence of bilingualism on third language request 
+production (Safont Jordà, 2003), and the effect of proficiency level on L2 request production (Al-Gahtani & 
+Roever, 2012, 2014; Göy et al., 2012; Roever & Al-Gahtani, 2015). Among this latter group of studies, Al-
+Gahtani and Roever (2014) is of particular interest since the participants did not know that they were 
+participating in a role play.2 The authors characterize this data collection method as “semi-authentic” (p. 
+197) in that there was less control and contrivance than a traditional role play, but it still did not have the 
+same degree of authenticity that characterizes naturally occurring data. Although role plays can 
+approximate natural interaction more closely than DCTs, Kerbrat-Orecchioni (2005) cautions that they still 
+do not constitute a “faithful representation of reality” (p. 29). 
+If authenticity and granularity are prized, researchers may opt to collect request production data from 
+naturally occurring conversations, despite the methodological complexity involved. In the case of Ellis 
+(1992), the researcher used a case-based, longitudinal approach to study the development of L2 requests in 
+two school-aged boys in the context of classroom discourse. More recently, language corpora have 
+facilitated the study of naturally occurring request data. For example, Placenia (2008) created a small 
+corpus of 171 interactions collected from five different corner stores in Ecuador in order to compare request 
+production in two varieties of Spanish. Reinhardt (2010) utilized two large corpora, ITAcorp (International 
+Teaching Assistant Corpus) and MICASE (Michigan Corpus of Academic Spoken English), to compare 
+novice and expert produced directives in office hour consultations. (To be clear, only the data from 
+MICASE represent naturally occurring conversation; the data from ITAcorp had been collected from office 
+hour role plays.) 
+Ultimately, choices regarding data collection should reflect the particular focus and research goal of the 
+study (Placenia, 2008). If we seek insight into learner intuitions and metapragmatic awareness, the use of 
+DCTs is a methodologically sound choice. If, on the other hand, the goal is to investigate how learners can 
+operationalize their metapragmatic awareness under the pressure of actual communication, as in the current 
+study, then it is appropriate to collect and analyze more naturalistic production data. 
+Pragmatics and Telecollaboration 
+Before moving to a discussion of the methodology used in the current study, it is first necessary to 
+illuminate the specific relationship between pragmatics and telecollaboration. As Belz (2007) notes, 
+“telecollaborative activity, by nature, is tightly aligned with the teaching and learning of L2 pragmatics” (p. 
+54). Accordingly, many studies have focused on the development of pragmatic competence and the role of 
+instruction in telecollaboration in such areas as German da-compounds (i.e., pronominal referential 
+constructions) and modal particles (Belz & Vyatkina, 2005, 2008; Vyatkina & Belz, 2006), modality 
+markers (Cunningham & Vyatkina, 2012), and modified external support moves in requesting behavior 
+(Cunningham, 2016). These studies demonstrate that pedagogical intervention based on participant 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 80 
+production data can lead to development in a variety of morphosyntactic features that index pragmatic 
+intent. 
+To my knowledge, no studies to date have compared L1 and L2 production in telecollaboration, despite the 
+rich history of such comparative research in other contexts. A small number of studies, however, have 
+examined the naturalistic production of requests in non-telecollaborative asynchronous CMC (ACMC). 
+Hartford and Bardovi-Harlig (1996) examined request production in e-mails of L1 speakers and L2 learners 
+of English, finding that L1 speakers more often downgraded face-threatening requests through mitigators, 
+which resulted in more positive evaluations from the faculty member recipients. Chen’s (2001) analysis of 
+e-mail requests of American and Taiwanese speakers of English revealed that the L1 speakers used more 
+internal modifications in their requests than their L2 counterparts, both syntactically and lexically. 
+Economidou-Kogetsidis (2011) found that e-mails written by L2 learners of English were overly direct, 
+lacked sufficient lexical and syntactic modifications, and used inappropriate address forms. It thus seems 
+that even in ACMC, wherein L2 learners are afforded as much time as necessary to compose their 
+messages, there are still gaps between their pragmatic abilities and those of L1 users. 
+As the above review demonstrates, studies comparing the pragmatic performance of L1 and L2 speakers are 
+well represented in the literature. However, the setting for such studies tends to be in-person communication 
+or, in rare cases, ACMC. Furthermore, studies that examine pragmatics in telecollaboration predominantly 
+have a developmental focus. The current study attempts to bridge this divide by comparing the oral request 
+production of L2 learners of German with expert speakers of German in SCMC-based telecollaboration.3 
+The following research questions guided the investigation: 
+1. Is the request directness of L2 German learners similar to or different from the request directness of 
+expert German speakers in SCMC-based telecollaboration? 
+2. Is the use of internal modification by L2 German learners similar to or different from the use of 
+internal modification by expert German speakers in SCMC-based telecollaboration? 
+3. Is the use of external modification by L2 German learners similar to or different from the use of 
+external modification by expert German speakers in SCMC-based telecollaboration? 
+Based on my review of the literature, I expected that the requesting behavior of the L2 German learners 
+would differ from the expert participants in the following ways: 1) learners would use more direct request 
+strategies than experts; 2) learners would use fewer internal modifiers than experts; and 3) learners would 
+use more external modifiers than experts. 
+METHODS 
+Participants and Research Context 
+The study took place in the context of an intermediate-level language for specific purposes course, German 
+for the Professions, at a large public university in the Midwest of the United States. Participants were L1 
+speakers of English (N = 17) who communicated synchronously with L1 German speakers (N = 5) 
+employed in a variety of professions in Germany. As the instructor of the course, I was present during all 
+SCMC interactions and, in certain instances, needed to produce requests of my own. As a highly proficient 
+speaker of L2 German, my request production was classified as that of an expert speaker for analytical 
+purposes. Recognizing, however, that my own presence could potentially influence the output of the 
+participants (Placenia, 2008), I attempted to mitigate this possibility by maintaining as unobtrusive a 
+presence as possible. In this regard, my requests were constrained to management of logistical and technical 
+details during the web conferences. 
+The learner participants in the study also took part in an instructional intervention that focused on the use of 
+indirectness and internal modification for request mitigation. Analysis of the pre-intervention and post-
+intervention production data showed statistical non-significance. Although linguistic development did take 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 81 
+place in certain learners, it was subtle and only revealed through qualitative analysis (Cunningham, 2016). 
+For that reason, I do not differentiate between learner pre-intervention and post-intervention production data 
+in the design of the current study. 
+Web Conferencing with Adobe Connect Pro 
+During two fall semesters, L2 learners of German participated in eight web conferences with L1 German-
+speaking professionals in Germany. A web conference is a type of multi-person, multimodal SCMC, in 
+which participants interact in a virtual conference room. The moderator of a virtual conference room can 
+design the space to facilitate the intended communicative purpose of the interaction by selecting the 
+preferred modes of communication and arranging the visual layout of the room. In this case, participants 
+used video, audio, text chat, and a virtual white board to communicate. The main channel was oral/aural, 
+with occasional use of the text chat box for informal small talk or management of technical issues. 
+Although the video was turned on, due to its relatively small size and low resolution, it did not always 
+clearly show the current speaker’s face. 
+Table 1. Invited Guests, Areas of Expertise, and Discussion Topics 
+Guest  Area of expertise Discussion topic  
+Cohort 1   
+Guest  Area of expertise Discussion topic  
+Roland Teacher at upper-level vocational school Discussion 1: Vocational education and entry 
+into the working world 
+Erika Project manager at Siemens  Discussion 2: Project management at a 
+multinational corporation 
+Thomas Employee of community bank and student 
+internship coordinator 
+Discussion 3: Banking in Germany 
+Thomas  Employee of community bank and student 
+internship coordinator 
+Discussion 4: Internships and other 
+professional opportunities in Germany 
+Cohort 2 
+Thomas  Employee of community bank and student 
+internship coordinator 
+Discussion 1: Internships and other 
+professional opportunities in Germany 
+Gisela Active member of Social Democratic Party 
+of Germany (SPD) 
+Discussion 2: Comparing German and 
+American politics 
+Roland Teacher at upper-level vocational school Discussion 3: Controversies in the German 
+educational system 
+Manfred Managing editor of Die Sendung mit der 
+Maus (“The Show with the Mouse”)  
+Discussion 4: The influence of television on 
+children 
+Learner and Expert Roles 
+The web conferences, each lasting approximately one hour, were moderated by student dyads and triads. 
+Student moderators prepared a set of 10–12 discussion questions that focused on the invited experts’ 
+respective areas of expertise (see Table 1). Student non-moderators were directed to respond to discussion 
+questions, but were also free to question the invited expert on their own. The role of the invited expert was 
+to respond to students’ questions, providing both linguistic and topical expertise. Prior to participating, 
+experts were briefed as to their expected role in the web conferences. It was explained to them that the web 
+conferences were an integrated part of the course curriculum designed to provide course participants the 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 82 
+opportunity to engage in meaningful interaction and acquire new content knowledge. The experts were also 
+invited to prepare visual support for their talk in the form of PowerPoint slides. Three of the invited experts 
+(Roland, Thomas, and Erika) prepared such slides, while two (Manfred and Gisela) did not. Similarly, 
+Roland, Thomas, and Erika produced multiple requests in their interaction with the learners, whereas 
+Manfred and Gisela did not produce any requests. 
+Data Collection with Adobe Connect Pro 
+Although the web conferencing platform enabled multimodal communication, the main channel was 
+oral/aural. Accordingly, data for the current study come from oral interactions between the web conference 
+participants. Given the communicative context, the data cannot be considered as naturalistic as other 
+contexts in which unmonitored language production is recorded (e.g., Placenia, 2008); nevertheless, the 
+data more closely approximate naturalistic data than data collected via DCTs or role plays and may help 
+further our understanding of how requests are produced in SCMC. 
+As both the instructor of the course and the primary investigator, I reviewed the audio data for all instances 
+of request production (N = 239) and transcribed them. Understanding that requests are not produced in 
+isolation, but usually occur over multiple turns, I began transcription of each request sequence at the first 
+instance of external modification, or, when lacking external modification, at the beginning of the head act. I 
+concluded transcription of request sequences after the interlocutor’s response to the request. 
+Taxonomies Used in the Study 
+For coding purposes, the study draws on three taxonomies previously utilized in the study of pragmatics. 
+These taxonomies were developed based on a thorough review of existing literature and an extensive 
+process of piloting and revision undertaken with two other raters (see below). In so doing, the study 
+repurposed existing frameworks in order to elucidate further the relationship between second language 
+acquisition (SLA) and computer-assisted language learning. 
+Directness Taxonomy 
+To measure the focal construct of directness, I developed an 8-level taxonomy (Appendix A). As noted 
+previously, many studies have adapted the directness taxonomy first developed for the CCSARP project. 
+For example, Economidou-Kogetsidis (2010) compared the directness level of British speakers of English 
+and Greek speakers of English as a second language, noting the emergence of two new requesting strategies 
+not present in the original framework: the “reminder request” and “pre-decided statements” (p. 2270). In 
+Taguchi (2006), the author investigated the request directness of Japanese learners of English, adding three 
+additional levels to the coding taxonomy (for a total of 12) “in order to fine-tune the linguistic analysis” (p. 
+521). Taguchi (2011) utilized a 9-level scale of directness, plus an additional category of “conventional 
+questions.” It is thus clear that there is flexibility in determining the number and nature of directness levels, 
+according to the specific research setting and goals. Based on the taxonomy developed for the present study, 
+raters were able to identify the directness of the head act in transcribed request sequences. 
+Internal Modification Taxonomy 
+To measure the focal construct of internal modification, I developed a taxonomy to include both syntactic 
+and lexical modification (Appendix B). In adapting the framework of Blum-Kulka et al. (1989), I combined 
+both categories of internal modification (syntactic and lexical downgraders) into one taxonomy for ease of 
+use. Only those categories that could be attested with examples from the oral production data were 
+included. Each level of the revised internal modification taxonomy features a description of the modifier 
+and attested examples coming directly from the transcribed data set. Based on this taxonomy, raters were 
+able to identify the type and frequency of internal modifiers in transcribed request sequences. 
+External Modification Taxonomy 
+To measure the focal construct of external modification, I developed a taxonomy based on Schauer’s (2007) 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 83 
+model, but with certain adaptations (Appendix C). First, the category of Head was eliminated due to the fact 
+that it is not actually an external modifier, but instead signifies the core requestive move. Additional 
+external modification categories (i.e., imposition minimizer, sweetener, promise of reward, and 
+considerator) were not included in the revised taxonomy due to the fact that they were not attested in the 
+actual production data. Based on this taxonomy, raters were able to identify type and frequency of external 
+modifiers in transcribed request sequences. 
+Interrater Reliability 
+Two additional raters rated a portion of the data independently. One was a native speaker of German and 
+participated as an expert guest during both instances of the study. The other was a PhD student of German 
+Applied Linguistics at the institution where the study took place. After reviewing a set of coding 
+instructions and participating in a norming session, each additional rater received an identical set of 24 
+randomly selected request sequences, an amount sufficient for establishing confidence in the rating 
+procedures (Mackey & Gass, 2005). Reliability was calculated using Fleiss’ Kappa, a variation of Cohen’s 
+Kappa that allows for the inclusion of more than two raters. Fleiss’ Kappa demonstrated a high degree of 
+agreement among the three raters as shown in Table 2. 
+Table 2. Interrater Reliability 
+Focal area Fleiss’ Kappa 
+Directness 0.873  
+Internal modification 1.000  
+External modification 0.884  
+Analytical Methods 
+The study employed a mixed-methods, multifactorial analysis in order to compare the requesting behavior 
+of L2 German learners and expert German speakers along three dimensions: directness, internal 
+modification, and external modification. Quantitative analysis was performed using a Generalized Linear 
+Mixed Model (GLMM), a relatively new statistical tool in SLA research. An assumption underlying the use 
+of most statistical analyses (e.g., ANOVA, T-tests, etc.) is that the data must fit a Gaussian distribution. 
+GLMMs, in contrast, allow for analysis of a data set that is not normally distributed, which, due to the small 
+sample size in this study, is the case. GLMMs are also useful for analyzing data collected in non-clinical 
+settings because they are robust against missing data and they effectively account for the influence of 
+randomness that is not part of the research design (Baayen, Davidson, & Bates, 2008), making 
+interpretation of dynamic linguistic phenomena more feasible (Cunnings, 2012). A final advantage lies in 
+the fact that the model can include multiple predictors, allowing the researcher to consider the simultaneous 
+influence of several factors (Baayen et al., 2008; Cunnings, 2012). Accordingly, GLMMs can accommodate 
+binary data (one of two possible outcomes), ordinal data (outcomes that can be organized into a set 
+beginning at X and ending at Y), or count data (more than two outcomes, but the data are not ordered). 
+Binary analysis was used for the following predictors: Conditional, Tense, Mood, Subjectivizer, Disarmer, 
+Small Talk, and Appreciator. Ordinal analysis was used for Directness, Internal syntactic modification, 
+Internal lexical modification, Politeness markers, Downgraders, and Understaters. Count analysis was used 
+for the remaining predictors: Consultatives, Appealers, External modification, Alerters, Preparators, and 
+Grounders. Parallel to the quantitative analysis, I performed a qualitative discourse-based analysis to 
+provide further insight into meaningful differences in the request production of the two groups. 
+ 
+ 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 84 
+RESULTS 
+Quantitative Analysis 
+With statistical significance set at p < .05, the results show that directness in L1 and L2 requests was not 
+significantly different (Table 3). However, L1 speakers used significantly more internal modifiers than L2 
+speakers. No significant difference was observed in the use of external modification by L1 and L2 speakers. 
+In sum, one of the predicted outcomes (i.e., higher frequency of internal modification in expert group) was 
+met, whereas two of the predicted outcomes (i.e., higher degree of directness and higher frequency of 
+external modification in the learner group) were not observed in the data. 
+Table 3. Learner versus Expert Performance 
+Predictor Estimate SE Wald-Z p 
+Directness  1.21 0.66 1.84 .0655 
+Internal modification  1.11 0.25 4.35 .0000* 
+  syntactic:  1.42 0.49 2.90 .0038* 
+    conditional clause  1.65 0.61 2.70 .0069* 
+    subjunctive mood  1.28 0.69 1.85 .0646 
+  lexical:  1.15 0.34 3.38 .0007* 
+    politeness marker  0.63 0.57 1.10 .2720 
+    downtoner 1.33 0.47 2.85 .0044* 
+    understater 1.13 1.02 1.12 .2640 
+    appealer -0.14 0.83 -0.17 .8640 
+External modification  -0.10 0.34 -0.29 .7710 
+    alerter  -0.14 0.40 -0.35 .7267 
+    preparator  -0.60 0.41 -1.49 .1365 
+    grounder  1.86 1.31 1.42 .1550 
+    disarmer  18.12 8829.00 0.00 .9980 
+    small talk  -0.79 0.90 -0.88 .3810 
+    appreciator  -17.89 5197.13 -0.00 .9970 
+Qualitative Analysis 
+The qualitative analysis compares the proportional use of directness, internal modification, and external 
+modification in the L2 learner group and the expert group. I present several salient tokens in each of the 
+focal areas to exemplify similarities and differences in request production. Due to low frequencies of certain 
+tokens, I performed a simple count analysis, illustrating the results in the form of proportional graphs. 
+Learner Directness versus Expert Directness 
+The difference in directness level between groups was not statistically significant (p = .0655); however, 
+despite both groups using an overall majority of direct request strategies, the L2 German learners used 
+proportionally more direct expressions than expert speakers (Figure 1). I will first discuss directness in the 
+learner group, before proceeding to a discussion of directness in the expert group. 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 85 
+ 
+Figure 1. Comparison of within-groups distribution of request strategies by directness 
+Table 4. Ratio of Direct to Indirect Requests per Individual Learner 
+Pseudonym Frequency of direct 
+requests (N=130) 
+Frequency of indirect 
+requests (N=23) 
+Beth 9 2 
+Tim 7 4  
+Karl 5 0 
+Gregor 7 1 
+Andrea 3 5  
+Jackson 3  1 
+Kate 15 1 
+Bill  7 0 
+Jenny  9 2 
+Chuck 3  4 
+Henry 8 0 
+Grant 9 0 
+Carson 16 0 
+Lisa 9 2 
+Max 11 0  
+82% of the requests produced by learners were direct requests (i.e., rated between directness levels 1–4), 
+whereas only 18% of requests were indirectly formulated (i.e., rated between directness levels 5–8). On an 
+individual level, only two learners, Andrea and Chuck, produced indirect requests with greater frequency 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Novices (N=153) Experts (N=86)
+Direct requests
+Indirect requests
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 86 
+(Table 4). Qualitative analysis revealed a possible explanation for the directness strategies of the L2 speaker 
+group: In order to maintain the flow of conversation and consistently engage their interlocutors, learners 
+produced a high frequency of direct requests for information. Illustrative tokens of such requests are 
+presented in Table 5. 
+Table 5. Direct Requests for Information in the Learner Group 
+Pseudonym Request head act  
+Beth Als Managerin, wie motivieren Sie Ihre Mitarbeiter? 
+As a manager, how do you motivate your employees?  
+Gregor Ähm, und wie schwer ist es aus als Ausländer äh in Deutschland zu studieren? 
+Um, and how difficult is it to study in Germany from as a foreigner?  
+Andrea Also, wie wichtig ist es für Ihre Mitarbeiter und Sie äh Fremdsprachen zu kennen? 
+So, how important is it for your employees and you uh to know foreign languages?  
+Jackson Wie wurde Siemens von der Wirtschaftkrisis getroffen? 
+How was Siemens affected by the economic crisis?  
+Kate Was für eine Arbeit machen Sie in der Kreditabteilung der Volksbank Eutin? 
+What kind of work do you do in the credit division of the People’s Bank of Eutin?  
+Bill  Wie gut sollen Praktikanten Deutsch sprechen können?  
+How well should interns be able to speak German?  
+Chuck Gibt es Studenten, die...zweimal oder dreimal Praktikum machen? 
+Are there students who...do an internship twice or three times?  
+Joshua Also, ist eine Ausbil–Ausbildung in Deutschland total kostenlos? Oder..muss man 
+bezahlen? 
+So, is an educ–education in Germany totally free? Or..do you have to pay?  
+Similar to the learners, experts produced an overall greater proportion of direct requests (see Figure 1 and 
+Table 6). Three of the four expert participants produced a greater frequency of direct requests than indirect 
+requests, while John produced an equal proportion of direct and indirect requests. One explanation for this 
+outcome lies in the difference between requests for information and requests for action. In the case of Erika, 
+three of the four indirect requests she produced were requests for action and occurred in the context of John 
+helping her to navigate through her slides using the Whiteboard function of Adobe Connect Pro (Table 7). 
+Similarly, John’s indirect requests occur primarily in the context of attending to logistical aspects of the 
+web conference administration and, as such, are also requests for action. 
+Table 6. Ratio of Direct to Indirect Requests per Individual Expert 
+Pseudonym Frequency of direct 
+requests (N=61) 
+Frequency of indirect 
+requests (N=25) 
+Erika  8 4 
+Roland 33 2 
+Thomas 6 5 
+John  14 14 
+Gisela 0 0 
+Manfred 0 0 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 87 
+Table 7. Erika’s Indirect Requests for Action 
+Request number Request head act  
+2 Ähm, John, könntest du dann bitte mal die erste Folie aufblenden bitte? 
+Um, John, could you please go ahead and show the first slide then please? 
+8 Ähm, John, wenn wir mal auf Folie sieben gehen könnten. 
+Um, John, if we could go to slide seven.  
+12 Ähm, John, könntest du mal bitte auf Folie drei springen? 
+Um, John, could you jump over to slide three?  
+In contrast to her indirect formulations, Erika produces direct requests for information when engaged in 
+dialogue with the students, often using these questions to prompt the learners and facilitate conversation 
+(Table 8). In this regard, the use of direct questions reflects a similar discourse strategy to that seen in the 
+learner group. 
+Table 8. Erika’s Direct Requests for Information 
+Request number Request head act  
+3 Weiß denn jemand von Ihnen, wie viele Mitarbeiter Siemens hat heute? 
+So do any of you know how many employees Siemens has today?  
+6 Ähm..kennt jemand von Ihnen den Unterschied zwischen einem Projekt und einem 
+Programm? 
+Um..do any of you know the difference between a project and a program?  
+10 Ähm, wie wird denn in den USA mit dem Thema ähm Fortbildung umgegangen? 
+Um, how does one handle the topic of continuing education in the USA?  
+Expert participant Roland also produced a majority of direct requests, and like both Erika and participants 
+in the learner group, these are requests for information and serve to stimulate conversation and build 
+rapport. A particular salient example of this is found in Roland’s interaction with the learner Jenny (Excerpt 
+1). 
+Learner Internal Modification versus Expert Internal Modification  
+The overall frequency of internal modification was significantly higher in the expert group (p = .0000) and 
+both groups produced approximately the same ratio of syntactic to lexical modifiers, using twice as many of 
+the latter type than the former. In fact, the entire range of internal modifications produced by the two groups 
+shows a similar distribution (Figure 2). 
+  
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 88 
+Excerpt 1. Roland’s Interaction with Jenny 
+Request 13 Roland (expert) Was haben Sie denn in Stuttgart studiert? 
+  So what did you study in Stuttgart then?  
+ Jenny (learner) Architektur. 
+  Architecture. 
+ Roland Ah ja, okay.  
+  Oh yes, okay.  
+Request 14 Roland Und das Studium war aber dann auf Deutsch? 
+  And your studies were in German then? 
+ Jenny Ja, genau. 
+  Aber mit Architektur ist ein bisschen anders 
+  weil es soviel mit Bildern hat zu tun 
+  hat so viel mit Bildern zu tun. 
+  Yes, exactly. 
+  But with architechture is a little different 
+  because it has so much with pictures to do 
+  has so much to do with pictures 
+ Roland Ja, das verstehe ich.  
+Request 15  Und haben Sie dann Ihr ganzes Studium in Deutschland 
+gemacht? 
+  Oder nur ein Semester oder zwei oder wie auch immer? 
+  Yes, I understand.  
+And did you complete your entire course of studies in 
+Germany? 
+  Or just a semester or two or what ever? 
+ Jenny Ja, zwei Semestern. Also ein Jahr. 
+  Yes, two semesters. So one year.  
+ Roland Okay. Mm hm. Na, gut. 
+Request 16  Und haben Sie noch Kontakt nach Stuttgart? 
+  Okay. Mm hm. So, good. 
+  And are you still in touch with Stuttgart? 
+ Jenny Ja..ein bisschen. 
+  Yes..a little. 
+ 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 89 
+ 
+Figure 2. Comparison of within-groups distribution of internal modifiers 
+In the case of the lexical modifier Understater, no significant difference was found between groups (p 
+= .2640). This similarity in the use of the modifier type Understater, however, does not reflect the difference 
+between the two groups’ use of specific lexical tokens. A token analysis of the L2 production data revealed 
+seven instances of an Understater: ein bisschen (a little bit) was used six times (86%), and kurz (briefly) was 
+used just once (14%). There are also seven instances of an Understater in the native speaker production 
+data: five occurrences of kurz (72%), one instance of irgendwie (sort of, 14%), and only one instance of ein 
+bisschen (14%). The difference between the two groups therefore lies in the speakers’ choice of specific 
+lexical items, a fine-grained distinction not captured by the quantitative analysis of modifier types. While it 
+is possible to analyze for such differences using a GLMM, the overall low frequency of such modifiers in 
+the production data would result in quantitatively insignificant results. 
+Learner Internal Modification versus Expert Internal modification 
+Although the two groups did not exhibit statistically significant differences in their use of external 
+modification (p = .7710), there are certain variances in the proportional use of external modifiers between 
+the L2 and L1 groups (Figure 3). 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Novices (N=20) Experts (N=90)
+Conditional structure
+Subjunctive mood
+Politeness marker
+Consultative device
+Downtoner
+Understater
+Subjectivizer
+Appealer
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 90 
+ 
+Figure 3. Comparison of within-groups distribution of external modifiers 
+Of the 35 external modifiers coded in the expert group, 23 of these instances (66%) occurred as Alerters or 
+Preparators. Similarly, the learner group produced a total of 80 external modifiers, 65 of which (81%) 
+occurred as Alerters or Preparators. Grounders, Disarmers, Small talk, and Appreciators comprise a 
+comparatively small part of the data set for both groups, showing that these strategies were dispreferred 
+when modifying requests externally. The preponderance of Alerters and Preparators in both the learner and 
+expert data reflect the need for all participants to signal availability and manage turn-taking in a very 
+explicit manner. In the learner group, however, not all participants managed their contributions to equal 
+effect. Excerpt 2 illustrates a felicitous usage of external modification to manage the discourse. 
+Excerpt 2. Andrea’s Interaction with Erika 
+ Andrea (learner) Sehr gut. Guten Tag. 
+  Wir freuen uns darauf, Sie durch diese Sitzung zu führen 
+  äh Jackson und ich sind heute zuständig 
+  für die Leitung des Gespräch, 
+  aber alle in dieser Klasse 
+  werden in die Diskussionen teilnehmen. 
+  Wir haben einige Fragen vorbereitet, 
+  und wir möchten damit anfangen, 
+  und vielleicht werden Sie einige unsere Fragen beantworten, 
+  und neue Fragen geweckt könnten. 
+  Äh vielen Dank für Ihre Aufmerks–äh–samkeit, 
+Request 1  und ich darf Sie nun bitten, sich vorzustellen. 
+  Very good. Hello. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Novices (N=80) Experts (N=35)
+Alerter
+Preparator
+Grounder
+Disarmer
+Small talk
+Appreciator
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 91 
+  We are looking forward to leading you through this meeting 
+  uh, Jackson and I are responsible today  
+  for leading the discussion 
+  but everyone in this class 
+  will take part in the discussion 
+  We have prepared some questions, 
+  and we would like to begin with that, 
+  and perhaps you will answer some of our questions, 
+  and could awake new questions. 
+  Uh thank you very much for your atten–uh–tion,  
+  and I would now ask that you introduce yourself.  
+ Erika (expert) Ja, mein Name ist Erika Schmidt. 
+  Yes, my name is Erika Schmidt.  
+Prior to the request head act (ich darf Sie nun bitten, sich vorzustellen), Andrea utilized several external 
+modifiers: an Alerter (Guten Tag); Small talk (Wir freuen uns darauf, Sie durch diese Sitzung zu führen); 
+and an Appreciator (vielen Dank für Ihre Aufmerksamkeit), which have the effect of not only laying the 
+groundwork for a successful discussion, but also appropriately frame the forthcoming request that Erika 
+introduce herself. In contrast to Andrea’s introduction, we see a less successful instance in Carson’s request 
+sequence (Excerpt 3). 
+Excerpt 3. Carson’s Interaction with Gisela 
+Request 1 Carson (learner) Ja, äh...bitte...äh vorstellen Sie...unsere ähm, ja. 
+  Yes, uh...please...uh introduce...our um, yes.  
+ Gisela (expert) Ja...vorstellen. Mein Name ist Gisela Ziegler. 
+  Yes...introduce. My name is Gisela Ziegler.  
+Whereas Andrea made extensive use of external modifiers to frame her request, Carson produced the 
+request with no framing through external modification. The difference in production is all the more striking 
+given that both learners are essentially making the same request of their respective interlocutors in the same 
+SCMC context. One potential explanation could be the relative amount of preparation that the two learners 
+completed prior to the discussion. Whereas the more elaborate formulations of Andrea point to a planned 
+introduction, the lack of external modification coupled with the frequent pausing in Carson’s production 
+seem to indicate that he produced his request with little or no planning. 
+DISCUSSION 
+This study investigated requesting behavior in learner-expert telecollaborative interaction. Comparison of 
+the two groups through statistical analysis showed that they varied in just one aspect of their requesting 
+behavior, with the L2 German speakers producing a lower frequency of internal modifiers than the experts. 
+These results were in keeping with the research hypothesis and largely support previous research 
+observations that L2 speakers underuse internal modification as compared to expert speakers (Chen, 2001; 
+Economidou-Kogetsidis, 2008, 2009; Faerch & Kasper, 1989; Hassall, 2001, 2012; Göy et al., 2012; 
+Trosborg, 1995; Wigglesworth & Yates, 2011). A qualitative token analysis of the lexical modifier type 
+Understater showed further differences between groups. Even though the quantitative analysis showed a 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 92 
+non-significant difference for this particular modifier, the learners preferred to use ein bisschen (a little bit), 
+whereas the experts preferred to use kurz (briefly). Such differences in production should therefore be made 
+salient to the learners through focused instruction. 
+Regarding directness of requests, no significant differences were found between groups. In this regard, the 
+study corroborates previous research that showed similarity in the request directness of L1 speakers of 
+English and German (Ogiermann, 2009) and of L1–L2 speakers of German (Taleghani-Nikazm & Huth, 
+2010); however, the study does not support House’s (2006) contention that German speakers use more 
+direct requesting behavior than English speakers. There are two possible explanations for this result. One is 
+an effect for task: the student moderators needed to prevent the discussion from flagging and produced a 
+high frequency of direct requests for information to keep the invited experts engaged and talking. Of 
+interest here is also the respective requesting behavior of the experts. Whereas Roland and Erika produced 
+many direct requests, in essence adopting shared responsibility for maintaining an active discussion, Gisela 
+and Manfred produced no requests, meaning that the expert data set was heavily weighted towards Roland 
+and Erika, possibly skewing the overall picture of L1 German request directness. As for the second 
+explanation, it may be that the learner group did not produce many indirect requests because they did not 
+need to address logistical or technical difficulties. Such requests were usually made on an expert–expert 
+basis, obviating to a large extent the need for the learners to produce action-oriented requests that would 
+have called for more indirect request formulation. 
+There was no observable difference regarding external modification in both groups. The most likely 
+explanation is that both groups used such moves to manage synchronous computer-mediated interaction in a 
+group setting. The Preparator in particular played a crucial role in signaling intent to claim the floor and was 
+proportionally the most frequently produced external modifier in both groups. This tendency would seem to 
+contradict the findings of Economidou-Kogetsidis (2008, 2009) and Hassall (2001, 2012) that the Grounder 
+represents the most frequently employed external modifier in L2 speakers’ requests; however, the 
+communicative context and goals of the requests must be considered. Whereas Economidou-Kogetsidis 
+(2008, 2009) and Hassall (2001, 2012) focused on requests for action in face-to-face interaction, the current 
+research predominantly dealt with requests for information in computer-mediated interaction, wherein the 
+Preparator was indispensable for managing turn-taking and negotiating topics. 
+Study Limitations 
+The present research is limited to a small sample of students and experts in a particular SCMC context, and 
+the claims should be understood as preliminary. Because two of the expert participants did not produce any 
+requests during interaction, the expert data set is limited to requests produced by four people in total. It will 
+therefore be of considerable interest to determine whether future investigation of SCMC-based interaction 
+between L2 and expert speakers bear out these findings. 
+Methodological Considerations 
+This study contributes important methodological innovations to the study of pragmatic production in 
+SCMC. First, it demonstrates that telecollaboration provides a context for more naturalistic request 
+production and data collection. Second, the study shows that it is possible to conduct mixed-methods 
+research in a SCMC context by combining multilevel statistical models and type-token qualitative analysis. 
+This research approach allowed for in-depth exploration of different aspects of request production and may 
+serve as a template for future investigations of pragmatic production in SCMC interaction. Although 
+transcription, adaptation of existing taxonomies, and establishing interrater reliability are time-intensive and 
+complex endeavors, they are essential elements of the process if we seek to understand what learners 
+actually do in SCMC interaction. 
+ 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 93 
+APPENDIX A. Coding Taxonomy for Directness (based on Blum-Kulka & Olshtain, 1989; Taguchi, 
+2011) 
+Directness 
+level 
+Request 
+Strategy  
+Descriptors Tokens 
+Direct expressions 
+1 
+Direct questions  
+(requests for 
+information)  
+The request is conveyed by a 
+direct question.  
+Wie lange arbeiten Sie schon bei einer 
+Bank? 
+(How long have you worked at a bank?)  
+Imperatives 
+(requests for 
+action)  
+The grammatical mood of the 
+verb in the utterance marks its 
+illocutionary force as a request  
+Sagen Sie doch mal was! 
+(Go ahead and say something!)  
+2 
+Indirect questions 
+(requests for 
+information) 
+The request is conveyed by an 
+indirect question. 
+Wissen Sie, wie viele Bundesländer es 
+in Deutschland gibt?  
+(Do you know how many federal states 
+there are in Germany?) 
+Performatives 
+(requests for 
+action)  
+The illocutionary force of the 
+request is named by the 
+speaker  
+Ich bitte unsere zwei Moderatoren, die 
+Diskussion zu starten.  
+(I request that our two moderators begin 
+the discussion.) 
+3 
+Obligation 
+statements 
+The illocutionary force is 
+derivable in obligatory 
+sentences  
+Du musst wohl wieder auf diese andere 
+Seite gehen.  
+(You probably need to go back to the 
+other page.)  
+4 
+Want statements  The illocutionary force is 
+derivable in want/wish/need 
+sentences  
+Ich möchte wissen, wie viel Deutsch 
+muss man sprechen können.  
+(I would like to know how much 
+German one must be able to speak.)  
+Indirect expressions  
+5 
+Preparatory 
+questions and 
+statements 
+Reference to preparatory 
+conditions such as the hearer’s 
+ability, willingness or 
+possibility to perform the 
+action 
+Können Sie sich alle bitte vorstellen? 
+(Can you all please introduce 
+yourselves?) 
+6 
+Suggestions The illocutionary intent is 
+phrased as a suggestion  
+Ich würde vorschlagen, dass wir jetzt 
+beginnen.  
+(I would suggest that we get started.) 
+7 
+Permissions  The speaker asks for the 
+hearer’s permission  
+Ich darf Sie nun bitten, sich 
+vorzustellen.  
+(May I ask that you introduce yourself?) 
+8 
+Hints Questions or statements with 
+implicit reference to the action  
+Er hat ein bisschen mehr vorbereitet. 
+(He has prepared a little bit more.)  
+ 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 94 
+APPENDIX B. Coding Taxonomy for Internal Modification (based on Blum-Kulka et al., 1989) 
+Lexical modifiers 
+Name Definition  Tokens 
+Politeness marker  an optional element added to a request to 
+bid for cooperative behavior 
+bitte; gerne 
+(please; feel free) 
+Consultative devices expressions by means of which the 
+speaker seeks to involve the hearer 
+directly bidding for cooperation 
+glauben Sie, ist es nicht so... 
+(don’t you think it’s the case..) 
+Downtoners modifiers which are used by a speaker in 
+order to modulate the impact his or her 
+request is likely to have on the hearer 
+vielleicht; eigentlich; doch; mal; eher; 
+einfach; denn  
+(perhaps; actually; in fact; just; rather; 
+simply; then)  
+Understaters adverbial modifiers by means of which 
+the speaker underrepresents the state of 
+affairs denoted in the proposition 
+irgendwie; ein bisschen; kurz; ein 
+paar  
+(somehow; a little bit; briefly; a 
+couple) 
+Subjectivizers elements in which the speaker explicitly 
+expresses his or her subjective opinion 
+vis-à-vis the state of affairs referred to in 
+the proposition, thus lowering the 
+assertive force of the request  
+ich glaube...; ich denke... 
+(I believe...; I think...) 
+Appealers addressee-oriented elements occurring in 
+a syntactically final position. They may 
+signal turn-availability and are used by 
+the speaker whenever he or she wishes to 
+appeal to his or her hearer’s benevolent 
+understanding 
+...oder?  
+(...right?)  
+Syntactic modifiers  
+Name Examples 
+Conditional clause Wenn ich zu schnell spreche, bitte geben Sie mir Bescheid. 
+(If I speak too quickly, please let me know.) 
+Subjunctive mood Wenn Sie ein paar Kommentare zu dieser Frage hätten, wäre das auch interessant 
+zu hören. 
+(If you had a couple of comments on this question, that would be interesting to 
+hear.) 
+ 
+  
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 95 
+APPENDIX C. Coding Taxonomy for External Modification (based on Schauer, 2007) 
+Name Definition  Tokens 
+Alerter linguistic device that is used to get the 
+interlocutor’s attention; precedes the Head [act]  
+Entschuldigung, hey, Herr/Frau... 
+(Excuse me; hey; Mr./Mrs...) 
+Preparator short utterance that intends to prepare the 
+interlocutor for the request; can follow or 
+substitute the Alerter  
+ich habe eine Frage; ich möchte eine Frage 
+stellen; darf ich eine Frage stellen?  
+(I have a question; I’d like to ask a question; 
+May I ask a question?) 
+Grounder provides an explanation for the request  dann können wir mit unseren Fragen anfangen 
+(Then we can begin with our questions) 
+Disarmer used to preempt the interlocutor’s potential 
+objections  
+Entschuldigung, ich möchte nicht unterbrechen 
+(Sorry, I don’t mean to interrupt) 
+Small talk  short utterance at the beginning of the request 
+that is intended to establish a positive 
+atmosphere  
+wir freuen uns darauf, Sie durch diese Sitzung 
+zu führen 
+(We are pleased to lead you through this 
+meeting) 
+Appreciator usually employed at the end of the request to 
+positively reinforce it  
+vielen Dank 
+(Thank you very much) 
+ 
+NOTES 
+1. Many other studies (e.g., Barron, 2003; Faerch & Kasper, 1989; House, 1989; Taguchi, 2011) have 
+pointed out the overuse of please by L2 learners. 
+2. The researchers obtained permission from their institutional review board and potential risks to 
+participants were kept to a minimum. 
+3. The term SCMC-based telecollaboration is used to mean synchronous audio interaction taking place in 
+a video-enhanced environment. The study does not treat synchronous text-based interaction, which also 
+took place in certain instances. 
+ 
+ACKNOWLEDGEMENTS 
+Many thanks to the expert reviewers whose feedback helped to improve this article. Special recognition 
+goes to Dr. Nina Vyatkina for her assistance with an early draft of this article. 
+ 
+ABOUT THE AUTHOR 
+D. Joseph Cunningham is an Assistant Professor of German at Georgetown University with specialization 
+in applied linguistics and second language acquisition. His research is situated at the intersection of 
+technology-mediated second/foreign language pedagogy and instructed pragmatic development. 
+E-mail: joe.cunningham@georgetown.edu 
+ 
+ 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 96 
+REFERENCES 
+Al-Gahtani, S., & Roever, C. (2012). Proficiency and sequential organization of L2 requests. Applied 
+Linguistics, 33(1), 42–65. 
+Al-Gahtani, S., & Roever, C. (2014). Insert and post-expansion in L2 Arabic requests. System, 42, 189–206. 
+Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with crossed random effects 
+for subjects and items. Journal of Memory and Language, 59, 390–412. 
+Barron, A. (2003). Acquisition in interlanguage pragmatics: Learning how to do things with words in a 
+study abroad context. Amsterdam, Netherlands: John Benjamins. 
+Beebe, L., & Cummings, M. C. (1996). Natural speech act data versus written questionnnaire data: How 
+data collection method affects speech act performance. In S. M. Gass & N. Joyce (Eds.), Speech acts across 
+cultures: Challenges to communication in a second language (pp. 65–86). Berlin, Germany: Mouton de 
+Gruyter. 
+Belz, J. A. (2007). The role of computer mediation in the instruction and development of L2 pragmatic 
+competence. Annual Review of Applied Linguistics, 27, 45–75. 
+Belz, J. A., & Vyatkina, N. (2005). Learner corpus analysis and the development of L2 pragmatic 
+competence in networked intercultural language study: The case of German modal particles. The Canadian 
+Modern Language Review, 62(1), 17–48. 
+Belz, J. A., & Vyatkina, N. (2008). The pedagogical mediation of a developmental learner corpus for 
+classroom-based language instruction. Language Learning & Technology, 12(3), 33–52. Retrieved from 
+http://llt.msu.edu/vol12num3/default.html 
+Blum-Kulka, S. (1989). Playing it safe: The role of conventionality in indirectness. In S. Blum-Kulka, J. 
+House, & G. Kasper (Eds.), Cross-cultural pragmatics: Requests and apologies (pp. 37–70). Malden, NJ: 
+Ablex. 
+Blum-Kulka, S., & Olshtain, E. (1984). Requests and apologies: A cross cultural study of speech act 
+realization patterns. Applied Linguistics, 5(3), 196–213. 
+Blum-Kulka, S., & Olshtain, E. (1986). Too many words: Length of utterance and pragmatic failure. Studies 
+in L2 Acquisition, 8(2), 165–179. 
+Blum-Kulka, S., House, J., & Kasper, G. (1989). The CCSARP coding manual. In S. Blum-Kulka, J. 
+House, & G. Kasper (Eds.), Cross cultural pragmatics: Requests and apologies (pp. 273–294). Norwood, 
+NJ: Ablex. 
+Brown, P., & Levinson, S. (1987). Politeness: Some universals in language usage. Cambridge, UK: 
+Cambridge University Press. 
+Byon, A. S. (2004). Sociopragmatic analysis of Korean requests: Pedagogical settings. Journal of 
+Pragmatics, 36(9), 1673–1704. 
+Chen, C.-F. E. (2001). Making e-mail requests to professors: Taiwanese vs. American students. Paper 
+presented at the American Association for Applied Linguistics, St. Louis. 
+Cohen, A. D., & Shively, R. L. (2007). Acquisition of requests and apologies in Spanish and French: Impact 
+of study abroad and strategy-building intervention. Modern Language Journal, 16(2), 101–132. 
+Cunningham, D. J. (2016). Request modification in synchronous computer-mediated communication: The 
+role of focused instruction. Modern Language Journal, 100(2), 484–507. 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 97 
+Cunningham, D. J., & Vyatkina, N. (2012). Telecollaboration for professional purposes: Towards 
+developing a formal register in the foreign language classroom. The Canadian Modern Language Review, 
+68(4), 422–450. 
+Cunnings, I. (2012). An overview of mixed-effects statistical models for second language researchers. 
+Second Language Research, 28(3), 369–382. 
+Economidou-Kogetsidis, M. (2008). Internal and external mitigation in interlanguage request production: 
+The case of Greek learners of English. Journal of Politeness Research, 4, 111–138. 
+Economidou-Kogetsidis, M. (2009). Interlanguage request modification: The use of lexical/phrasal 
+downgraders and mitigating supportive moves. Multilingua, 28, 79–112. 
+Economidou-Kogetsidis, M. (2010). Cross-cultural and situational variation in requesting behaviour: 
+Perceptions of social situations and strategic use of request patterns. Journal of Pragmatics, 42(8), 2262–
+2281. 
+Economidou-Kogetsidis, M. (2011). ‘‘Please answer me as soon as possible’’: Pragmatic failure in non-
+native speakers’ e-mail requests to faculty. Journal of Pragmatics, 43(13), 3193–3215. 
+Economidou-Kogetsidis, M. (2012). Modifying oral requests in a foreign language: The case of Cypriot 
+Greek learners of English. In M. Economidou-Kogetsidis & H. Woodfield (Eds.), Interlanguage request 
+modification (pp. 163–201). Amsterdam, Netherlands: John Benjamins. 
+Ellis, R. (1992). Learning to communicate in the classroom: A study of two language learners' requests. 
+Studies in Second Language Acquisition, 14, 1–23. 
+Faerch, C., & Kasper, G. (1989). Internal and external modification in interlanguage request realization. In 
+S. Blum-Kulka, J. House, & G. Kasper (Eds.), Cross-cultural pragmatics: Requests and apologies (pp. 
+221–247). Norwood, NJ: Ablex. 
+Félix-Brasdefer, J. C. (2007). Pragmatic development in the Spanish as a FL classroom. Intercultural 
+Pragmatics, 4(2), 253–286. 
+Fukushima, S. (1996). Request strategies in British English and Japanese. Language Sciences, 18(3–4), 
+671–688. 
+Fukuya, Y. J., & Zhang, Y. (2002). Effects of recasts on EFL learners' acquisition of pragmalinguistic 
+conventions of request. Second Language Studies, 21(1), 1–47. 
+Golato, A. (2003). Studying compliment responses: A comparison of DCTs and recordings of naturally 
+occurring talk. Applied Linguistics, 24(1), 90–121. 
+Golato, A., & Taleghani-Nikazm, C. (2006). Negotiation of face in web chats. Multilingua, 25, 293–321. 
+Göy, E., Zeyrek, D., & Otcu, B. (2012). Developmental patterns in internal modification of requests. In M. 
+Economidou-Kogetsidis (Ed.), Interlanguage request modification (pp. 51–86). Amsterdam, Netherlands: 
+John Benjamins. 
+Hartford, B. S., & Bardovi-Harlig, K. (1996). “At your earliest convenience:” A study of written student 
+requests to faculty. In L. F. Bouton (Ed.), Pragmatics and Language Learning, Monograph Series, Vol. 7 
+(pp. 55–69). Urbana Champaign, IL: University of Illinois, Division of English as an International 
+Language. 
+Hassall, T. (2001). Modifying requests in a second language. International Review of Applied Linguistics in 
+Language Teaching (IRAL), 39(4), 259–283. 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 98 
+Hassall, T. (2012). Request modification by Australian learners of Indonesian. In M. Economidou-
+Kogetsidis & H. Woodfield (Eds.), Interlanguage request modification (pp. 203–242). Amsterdam, 
+Netherlandd: John Benjamins. 
+House, J. (1989). Politeness in English and German: The functions of please and bitte. In S. Blum-Kulka, J. 
+House, & G. Kasper (Eds.), Cross-cultural pragmatics: Requests and apologies (pp. 96–119). Norwood, 
+NJ: Ablex. 
+House, J. (2006). Communicative styles in English and German. European Journal of English Studies, 
+10(3), 249–267. 
+Kasper, G. (1981). Pragmatische Aspekte in der Interimsprache. Tübingen, West Germany: Narr. 
+Kasper, G. (2000). Data collection in pragmatics. In H. Spencer-Oatey (Ed.), Culturally speaking (pp. 316–
+341). New York, NY: Continuum. 
+Kasper, G., & Dahl, M. (1991). Research methods in interlanguage pragmatics. Studies in Second Language 
+Acquisition, 13(2), 215–247. 
+Kerbrat-Orecchioni, C. (2005). Politeness in France: How to buy bread politely. In L. Hickey & M. Stewart 
+(Eds.), Politeness in Europe. Clevedon, UK: Multilingual Matters. 
+Kuriscak, L. (2015). Examination of learner and situation level variables: Choice of speech act and request 
+strategy by Spanish L2 learners. Hispania, 98(2), 300–318. 
+Li, Q. (2011). Effects of instruction on adolescent beginners acquistion of request modification. TESOL 
+Quarterly, 46(1), 30–55. 
+Li, S. (2011). The effects of input-based practice on pragmatic development of requests in L2 Chinese. 
+Language Learning, 62(2), 403–438. 
+Mackey, A., & Gass, S. M. (2005). Second language research: Methodology and design. New York, NY: 
+Routledge. 
+Ogiermann, E. (2009). Politeness and in-directness across cultures: A comparison of English, German, 
+Polish, and Russian requests. Journal of Politeness Research, 5, 189–216. 
+Otcu, B., & Zeyrek, D. (2008). Development of requests: A study on Turkish learners of English. In M. 
+Puetz & J. Neff-Van Aertslaer (Eds.), Developing contrastive pragmatics: Interlanguage and cross-cultural 
+perspectives. Berlin, Germany: Mouton de Gruyter. 
+Pearson, L. (2006). Patterns of development in Spanish L2 pragmatic acquisition: An analysis of novice 
+learners’ production of directives. Modern Language Journal, 90(4), 473–495. 
+Placenia, M. E. (2008). Requests in corner shop transactions in Ecuadorian Andean and Coastal Spanish. In 
+K. P. Schneider & A. Barron (Eds.), Variational pragmatics (pp. 307–332). Amsterdam, Netherlands: John 
+Benjamins. 
+Reinhardt, J. (2010). Directives in office hour consultations: A corpus-informed investigation of learner and 
+expert usage. English for Specific Purposes, 29, 94–107. 
+Roever, C., & Al-Gahtani, S. (2015). The development of ESL proficiency and pragmatic performance. 
+ELT Journal, 69(4), 395–404. 
+Rose, K. R. (2000). An exploratory cross-sectional study of interlanguage pragmatic development. Studies 
+in Second Language Acquisition, 22, 27–67. 
+Safont Jordà, M. P. (2003). Metapragmatic awareness and pragmatic production of third language learners 
+of English: A focus on request acts realizations. The International Journal of Bilingualism, 7(1), 43–68. 
+D. Joseph Cunningham Request Production in Telecollaboration 
+ 
+Language Learning & Technology 99 
+Sasaki, M. (1998). Investigating EFL students' productino of speech acts: A comparison of production 
+questionnaires and role plays. Journal of Pragmatics, 30(4), 457–484. 
+Schauer, G. A. (2004). May you speak louder maybe? Interlanguage pragmatic development in requests. 
+EUROSLA Yearbook, 4, 253–273. 
+Schauer, G. A. (2007). Finding the right words in the study abroad context: The development of German 
+learners’ use of external modifiers in English. Intercultural Pragmatics, 4(2), 193–220. 
+Taguchi, N. (2006). Analysis of appropriateness in a speech act of request in L2 English. Pragmatics, 16(4), 
+513–533. 
+Taguchi, N. (2011). Pragmatic development as a dynamic, complex process: General patterns and case 
+histories. Modern Language Journal, 95(4), 605–627. 
+Taleghani-Nikazm, C., & Huth, T. (2010). L2 requests: Preference structure in talk-in-interaction. 
+Multilingua, 29, 185–202. 
+Trosborg, A. (1995). Interlanguage pragmatics: Requests, complaints, and apologies. Berlin, Germany: 
+Mouton de Gruyter. 
+Vyatkina, N., & Belz, J. A. (2006). A learner corpus-driven intervention for the development of L2 
+pragamtic competence. In K. Bardovi-Harlig, J. C. Félix-Brasdefer, & A. S. Omar (Eds.), Pragmatics and 
+Language Learning (pp. 315–357). Honolulu, HI: University of Hawai‘i at Mānoa National Foreign 
+Language Center. 
+Weizman, E. (1989). Requestive hints. In S. Blum-Kulka, J. House, & G. Kasper (Eds.), Cross-cultural 
+pragmatics: Requests and apologies (pp. 71–95). Norwood, NJ: Ablex. 
+Wigglesworth, G., & Yates, L. (2011). Mitigating difficult requests in the workplace: What learners and 
+teachers need to know. TESOL Quarterly, 41(4), 791–803. 
+Woodfield, H. (2012). “I think maybe I want to lend the notes from you”: Development of request 
+modification in graduate learners. In M. Economidou-Kogetsidis & H. Woodfield (Eds.), Interlanguage 
+request modification (pp. 9–50). Amsterdam, Netherlands: John Benjamins. 
+Woodfield, H., & Economidou-Kogetsidis, M. (2010). “I just need more time”: A study of native and non-
+native requests to faculty for an extension. Multilingua, 29(1), 77–118. 
+Yuan, Y. (2001). An inquiry into empirical pragmatics data-gathering methods: Written DCTs, oral DCTs, 
+field notes, and natural conversations. Journal of Pragmatics, 33(2), 271–292. 

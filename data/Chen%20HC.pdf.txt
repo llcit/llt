@@ -1,0 +1,1207 @@
+Language Learning & Technology
+http://llt.msu.edu/issues/february2013/chenetal.pdf
+
+February 2013, Volume 17, Number 1
+pp. 89–106
+
+USING A RADICAL-DERIVED CHARACTER E-LEARNING PLATFORM
+TO INCREASE LEARNER KNOWLEDGE OF CHINESE CHARACTERS
+Hsueh-Chih Chen, National Taiwan Normal University
+Chih-Chun Hsu, National Defense University
+Li-Yun Chang, University of Pittsburgh
+Yu-Chi Lin, National Taiwan Normal University
+Kuo-En Chang, National Taiwan Normal University
+Yao-Ting Sung, National Taiwan Normal University
+The present study is aimed at investigating the effect of a radical-derived Chinese
+character teaching strategy on enhancing Chinese as a Foreign Language (CFL) learners’
+Chinese orthographic awareness. An e-learning teaching platform, based on statistical data
+from the Chinese Orthography Database Explorer (Chen, Chang, L.Y., Chou, Sung, &
+Chang, K.E., 2011), was established and used as an auxiliary teaching tool. A
+nonequivalent pretest-posttest quasi-experiment was conducted, with 129 ChineseAmerican CFL learners as participants (69 people in the experimental group and 60 people
+in the comparison group), to examine the effectiveness of the e-learning platform. After a
+three-week course—involving instruction on Chinese orthographic knowledge and at least
+seven phonetic/semantic radicals and their derivative characters per week—the
+experimental group performed significantly better than the comparison group on a
+phonetic radical awareness test, a semantic radical awareness test, as well as an
+orthography knowledge test.
+Keywords: Chinese as a Foreign Language (CFL), Chinese Orthographic Awareness,
+Radical-Derived Character Instructional Method, Phonetic/Semantic Radicals
+INTRODUCTION
+The rise of China to international prominence in recent years has made learning Chinese extremely
+popular, and increasing numbers of non-native Chinese students have begun to choose Chinese as their
+second language of study. Though learners when learning a second language may attempt to apply
+techniques used when acquiring their first language (cf. Cook, 2003; Dulay, Burt, & Krashen, 1982;
+Larsen-Freeman & Long, 1991; Jiang, 2008), learners of Chinese who have alphabetic first languages
+tend to find Chinese writing difficult to learn. This is because in alphabetic writing systems, the
+orthography of a phrase typically has a specific relationship with its pronunciation, which is known as the
+grapheme-phoneme correspondence (GPC) rule. Chinese orthography, on the other hand, is logographic
+and composed of radicals in two-dimensional squares. As specific characters do not necessarily
+correspond to specific phonemes, one cannot know a character’s pronunciation simply by observing its
+representation. International students or heritage Chinese learners whose learning strategies may rely on
+phonemes probably are accustomed to determining a word’s pronunciation by simply reading the
+representation; thus, the absence of the GPC rule for Chinese characters may become one of the major
+obstacles when these students learn and memorize characters (Shi & Wan, 1998).1
+Because Chinese character structure is so different from alphabetic words, it is highly recommended to
+incorporate multiple strategies when learning Chinese characters (Fan, 2003). Many researchers have
+focused on maximizing character learning (cf., Ho & Bryant, 1997; Huang & Hanley, 1994; Shen, 2005;
+Zheng, 2010). To tackle this learning challenge, some researchers suggest using radical-derived character
+learning strategies to increase character learning performance (Huang, 2006). Radicals are the minimal
+orthographic unit in Chinese writing. They can be as small as a stroke or as large as a semantic radical.
+
+Copyright © 2013, ISSN 1094-3501
+
+89
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+Many radicals are phonographic (e.g., 里 neighborhood, li3; 巴 cling to, ba1; 文 word, wen2)2 or
+logographic (e.g., 虫 bug, hui3; 山 mountain, shan1; 金 gold, jing1). Those that are phonographic are also
+called phonetic radicals, and can serve as a pronunciation guide. Those that are logographic are called
+semantic radicals, and can suggest the meaning of the character. The radical-derived character learning
+strategy uses either a phonetic radical or a semantic radical to learn other words that are related
+derivations. For example, after learning the phonetic radical 里 (li3, neighborhood), learners are wellpositioned to learn phonetically derived characters such as 俚 (li3, rustic), 浬 (li3, nautical mile), 哩 (li3,
+mile), 鋰 (li3, a kind of metal), 狸 (li2, fox), 裡 (li3, inside), 娌 (li3, sister-in-law), 理 (li3, reason), and 鯉
+(li3, a kind of fish). After learning the semantic radical character 虫 (hui3, insect), learners are wellpositioned to learn other semantically derived characters such as 蚊 (wen2, mosquito), 蛀 (zhu4, bore
+through), 蛆 (qu1, maggot), 蜂 (feng1, bee), 蛾 (e2, moth), 蝶 (die2, butterfly), 蝸 (gua1, snail), 蟻 (yi3,
+ant). In other words, by knowing one radical, one can learn a set of similar words, including phonosemantic compound characters.
+The radical-derived character learning strategy is based on the principle of chunking (Gobert et al., 2001).
+A chunk is a collection of elements having strong associations with one another. In terms of radicals,
+common elements to be chunked can refer to either a phonetic radical or semantic radical, and their
+hierarchically lower derivative characters. Using chunking, learners can utilize familiar characters as a
+scaffold to memorize those they have not learned yet (Lu, 2000). Should learners be able to learn and use
+the radical-derived character learning rule, they will be able to understand most characters. Besides
+having the merits of chunking, the radical-derived character learning strategy also sheds light for the
+learner on different characteristics of Chinese orthography: configuration categories, radical positionbased regularity, and stroke order (Yeh, Li, & Chen, 1999; Yeh, 2000). In terms of configuration
+categories—the different structures in which radicals can be combined spatially—Chinese characters,
+with square-shape features, can be categorized into at least eleven structures, which constrains the
+combinations of radicals (Chen et al., 2011). Then, in terms of position based-regularity, each derived
+character contains radicals that are usually displayed in certain positions within a certain configuration.
+Furthermore, stroke order means the radicals have specific sequences of strokes following a specific order
+in their written composition. Since instruction in radical-derived characters provides learners with
+hierarchical frameworks for characters which can be derived from identical radicals, it is somewhat easier
+for learners to observe the orthographic features. This orthographic knowledge can be delivered explicitly
+via teachers who use the radical-derived character teaching method.
+However, previous research indicates that it is uncommon for CFL beginners to use phonetic components
+or semantic components when learning characters (Zhao & Jiang, 2002; Shen, 2005). In their
+investigation on strategies used by CFL beginners for learning characters, Zhao and Jiang (2002)
+indicated that the most traditionally used strategies are memorizing a character’s shape as a whole and
+writing a character mechanically; phonetic or semantic components were rarely used to learn characters.
+This was particularly the case with phonetic components. Some researchers suggest that the reason for
+this is that beginners have such a restricted vocabulary that they do not realize the importance of a
+character’s phonetic and semantic components. However, the longer learners study Chinese, the more
+frequently they can use phonetic and semantic components to make inferences about new words and
+phrases. This strategy works not only with CFL learners but also with learners whose first language is
+Chinese (Jiang, 2008; Shu & Zeng, 1996; Taylor & Taylor, 1990). Indeed, this pedagogical approach has
+become more and more popular for teaching Chinese as a first language (Huang, 2008).
+This theoretical trajectory has been supported by empirical studies that have tested beginning adult
+
+Language Learning & Technology
+
+90
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+Chinese learners’ sensitivity to the visual-orthographic structures of Chinese characters (Wang, Perfetti,
+& Liu, 2003), and others that have investigated the developmental radical awareness among adult
+nonnative learners of Chinese across learning levels (Shen, 2000; Shen & Ke, 2007). In line with this
+argument, Taft and Chung (1999) reasoned that the longer the learners study Chinese, the better they can
+use radical structures to facilitate learning. Moreover, Jackson, Everson, and Ke (2003) found that adult
+CFL students developed semantic radical awareness and were able to guess the meanings of unknown
+characters after one year of Chinese learning. Additionally, Liu et al. (2007) reported that adult CFL
+learners acquired orthographic representations of characters after one 15-wekk term of instruction (e.g.,
+the learners could understand that 間 (jin1, between) and 問 (wen4, to ask) are orthographically similar),
+and further, that the learners displayed greater semantic and phonetic priming effects in Chinese naming
+tasks at the end of second term than at the end of first term. (i.e., the learners’ reaction time is shorter
+when they see that the prime-target character pairs are semantically or phonetically related as opposed to
+their reaction time for unrelated pairs). For example, the learners respond faster when they see the
+semantic pairs, 姐 (ji3, sister) — 弟 (di4, brother), or the phonetic pairs,十 (shi2, ten) — 時 (shi2, time),
+than when they see unrelated pairs such as 馬 (m3, horse) — 弟 (di4, brother) or 小 (xio3, small) — 時
+(shi2, time). These studies suggest that as the vocabulary size of CFL learners increases, the learners’
+Chinese orthographic knowledge expands.
+In recent years, the field of education has become aware of the potential impact of computer technology
+on language learning, suggesting that computer technology is a useful compliment to teachers in assisting
+language acquisition (Jin, 2003, 2007); we propose three benefits of computer-assisted language
+instruction based on related empirical studies. First, computer technology provides interesting ways to
+represent learning content, thus motivating learners to get involved in language learning (Lin, Huang, &
+Chiang, 2009; Lu, Wu, Martin, & Shah, 2009). According to the dual coding theory (Clark & Paivio,
+1991; Mayer & Moreno, 2002), when both visual and verbal information are presented to learners
+simultaneously, they are more motivated and have better recall of the learning materials compared to
+learners who receive only one mode of information. Thus, multiple coding should positively impact
+language learning. Second, instructors, when employing multimedia to deliver messages to learners, will
+have more diverse ways of presenting information. Moreover, as instructors enrich their lesson plans via
+digital technology, they can also offer prompt feedback to their students, without temporal or spatial
+restrictions. For instance, in a study that investigated how different instructional methods affect the
+learning process of character handwriting among beginning college level learners of Chinese, the learners
+wrote characters on digital writing tablets and then submitted them to a computer-assisted program (Tsai,
+Kuo, Horng, & Chen, 2012). When learners made a writing error, they received immediate feedback from
+the program and were forced to correct the error before continuing. The computer-assisted program
+improved the quality of the learners’ character handwriting. Then too, as computer-based materials can be
+reused and work well for repetitive practice, they are well-suited for language learning (Wen, 2003). In
+contrast with traditional instruction, computer-assisted language learning approaches enable learners to
+select multimedia learning materials (e.g., reading, animations, or auditory explanations) that match their
+learning styles, to do repetitive practice, and to start a lesson anytime and anywhere. This approach can be
+quite student-centered.
+Although there are many benefits of computer-assisted language instruction, little is known about the
+impact of combining a radical-based strategy with the use of multimedia in the classroom, a computerassisted approach commonly believed to enhance language learning (Bush & Terry, 1997). One of the
+few studies on this was conducted by Jin (2003). In this study, multimedia was used to present three
+interfaces for memorizing characters to 120 U.S. college students learning Chinese at one Beijing summer
+school. The first interface used Hanyu pinyin3 along with an English translation: as an example, the
+character 好 is presented on the computer screen with its pronunciation in Pinyin “ho3” and the English
+
+Language Learning & Technology
+
+91
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+meaning, “good.” This provided students with both the phonetic and semantic information. The second
+interface used stroke animations showing the stroke-by-stroke sequence together with the phonetic and
+semantic information. The third interface also retained the phonetic and semantic information while
+including radicals and illustrations, displayed by means of video clips in order to introduce etymology,
+radicals, and orthographic rules. The display time for each character (36 characters in total) was limited to
+approximately five to eight seconds. Each student practiced learning the characters using the different
+computer interfaces, and then reported the characters individually to the experimenter. The recognition
+rate for characters was higher in the group using the interface with radicals and illustrations than in the
+group using the interface with animations. The recognition rate of the group using the interface along with
+animations was higher still than the group using the interface with the pinyin and English translations.
+Therefore, if learners can develop an awareness of the semantic and phonetic components of characters,
+as a result of incorporating radicals and their derivatives in instruction, better learning performances can
+be expected.
+While the aforementioned research (Jin, 2003) asked participants to memorize Chinese characters, a
+separate study conducted by Lam, Ki, Chung, and Ko (2000) actually combined computer-assisted
+language learning and a radical-derived character instruction. In their study, these authors provided
+Chinese children with the Dragon Wise Series software, which considered 500 Chinese characters. To
+better motivate children to learn using the radical-derived character learning strategy, topics such as
+Rhymes, Interactive Exercises on Character Origin, Stroke Sequence, Character Component,
+Morphological Component, and Chinese Character Knowledge Base were designed. Lam et al. (2001)
+further invited instructors to use the system and offer their feedback. This study indicated that the radicalderived character learning strategy was feasible. However, the researchers did not systematically organize
+the Chinese characters and phase instruction by their teachability, nor did they provide sufficient
+instructional procedures and specific assessment indicators to objectively evaluate the learning outcomes.
+Additionally, the results could only be generalized to native Chinese children, and the authors did not use
+this system to investigate whether or not a positive learning outcome could be seen in CFL students using
+radicals to derive characters. Therefore, it is necessary to further examine the strategy’s feasibility and
+applicability.
+The purpose of this study was to investigate CFL students’ learning outcomes. We chose the radicalderived character teaching method as our instructional approach since their effectiveness has been
+recognized in previous studies. Along with this, we designed an e-learning platform that provides
+multimedia learning materials and a user-friendly operational interface. The role of the e-learning
+platform is to emphasize radical-derived character instruction though computer-assisted language
+learning. We expected that this combination of content and technique would collectively contribute to
+productive Chinese language learning.
+METHODOLOGY
+Design
+A nonequivalent pretest-posttest, quasi-experimental design was adopted for this study. The independent
+variable had two levels and considered the type of instruction experienced in an intensive Language Study
+Program for Chinese as a Second Language: Chinese language instruction with a radical-derived
+character teaching method (experimental group) versus traditional Chinese language instruction with
+word-based teaching strategy (comparison group). The dependent variables were accuracy rates on a
+Chinese Orthographic Knowledge test, which consisted of a radical recognition test, a semantic radical
+awareness test, and a phonetic radical awareness test. The participants in both the experimental group and
+comparison group were pretested immediately before the three-week treatment. The pre-test scores were
+used as covariates to control for the influence of the number of Chinese characters that students knew
+before the experiment. During the experimental period, each group received an equivalent amount of
+
+Language Learning & Technology
+
+92
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+instructional time but under different teaching strategies. At the end of the treatment period, all
+participants were post-tested with identical subtests of the Chinese Orthographic Knowledge test.
+
+Participants
+A total of 129 Chinese heritage language learners participated in the study, including 68 females and 61
+males, their ages ranging from 19 to 25. One hundred participants had English as their native language, 27
+had other alphabetic languages as their native languages (including French = 5, German = 5, Spanish = 5,
+Thai = 5, Portuguese = 2, Swedish = 2, Arabic = 1, Bahasa Indonesian = 1, and Danish = 1), and two had
+a logographic language (Japanese, in this case) as their native language (see Table 1 for more
+demographic data). The majority of learners were from Chinese-American families and either their fathers
+or their mothers were Chinese native speakers. Note that, from the perspective of literacy development,
+these students’ reading capacities were predicted by the literature to be quite equal to CFL learners due to
+heavily restricted written language input and experience (Koda, Zhang, & Yang, 2008). Furthermore,
+their Chinese language proficiency was highly heterogeneous since they had differing amounts of
+exposure to Chinese language environments. After taking the placement tests developed by the Overseas
+Compatriot Affairs Commission, all CFL learners were placed among eight classes according to their
+scores. Students in odd numbered classes (Class 1, Class 3, Class 5, Class 7 and Class 9) were assigned to
+the experimental group (e-learning radical-derived character instruction); and the remaining learners
+(Class 2, Class 4, Class 6, Class 8 and Class 10) were assigned to the comparison group (traditional
+lecturing instruction). Following the placement test, the three-week Chinese learning program was
+conducted. This program ended with achievement tests, which were also developed by the Overseas
+Compatriot Affairs Commission.
+Table 1. Demographic Data of Participants
+Experimental Group
+(n = 69)
+Gender
+Men
+Women
+
+Comparison Group
+(n = 60)
+
+36
+33
+
+(47.8%)
+(52.2%)
+
+25
+35
+
+(58.3%)
+(41.7%)
+
+Age
+19
+20
+21
+22
+23
+24
+25
+
+19
+20
+5
+10
+6
+7
+2
+
+(27.5%)
+(29.0%)
+(7.2%)
+(14.5%)
+(8.7%)
+(10.1%)
+(2.9%)
+
+11
+18
+13
+8
+7
+2
+1
+
+(18.3%)
+(30.0%)
+(21.7%)
+(13.3%)
+(11.7%)
+(3.3%)
+(1.7%)
+
+Language system
+Alphabetic
+English
+Others
+Logographic
+
+54
+14
+1
+
+(78.3%)
+(20.2%)
+(1.4%)
+
+46
+13
+1
+
+(76.6%)
+(20.0%)
+(1.7%)
+
+Instruments
+A series of tests created by Hung and Fang (Hung, 2006; Hung & Fang, 2006a, 2006b) was used as a
+
+Language Learning & Technology
+
+93
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+reference when designing our research instrument: the Chinese Orthographic Knowledge Test. This test
+consists of three constructs of Chinese orthography—radical recognition, semantic radical awareness, and
+phonetic radical awareness—and was used to assess the participants’ understanding of Chinese
+orthography before and after they received instruction. The researchers modified the original tests because
+they are designed for native Chinese speaking learners between the third and ninth grades. The
+researchers believed that the original test content would be too difficult for CSL/CFL students and that it
+would not assess the variance among the different levels of Chinese language proficiency for this new
+user group. For this reason, we compiled our own test questions so that the resulting test would more
+accurately reflect the CFL students’ understanding of Chinese orthography.
+Each of the three subtests is described below, along with a sample question.
+1. Radical recognition test: to understand if our research participants were able to recognize and
+identify the characters that are associated with the target radicals.
+(
+
+) Which character has the radical (symbol) 木 (mu4, wood)?
+
+ 件 (jian4, piece)  科 (ke1, subject)  材 (tsai2, material)  料 (liao4, material)
+2. Semantic radical awareness test: to evaluate if the participants were able to know where the
+permissible position of a specific radical is within a character.
+(
+
+) Which character is most associated with the meaning of the character 樹 (shu4, tree)?
+
+ 秉 (bing4, grasp)  沐 (mu4, take a bath)  悖 (bei4, rebellious)  梢 (shao1, tip)
+3. Phonetic radical awareness test: to assess if the participants were able to understand where a
+specific phonetic radical is within a character.
+( ) Which character is pronounced “li3”?
+ 種 (zhong3, species)  媦 (wei4, sister)  裡 (li3, inside)  野 (ye3, wild)
+In this test, there were 22, 13, and 12 items in each of the aforementioned subtests, respectively
+(see Appendix A for other items). Each item was multiple choice; the participants received 1 point if they
+chose the correct answer and 0 points otherwise. The participants’ overall recognition ability of Chinese
+orthography was represented not only by their performance on each subtest, but also by the total score
+from the average of the three subtests. The test performed reliably. The Cronbach’s α value for the
+reliability for each of the above subtests was .947, .881, and .857, respectively, which is higher than the
+recommended standard of .700 (Nunnally, 1978). Additionally, these subtests exhibited good content
+validity between the test items and the knowledge being assessed, since all content was examined and
+revised by senior Chinese teachers and experts.
+Chinese Radical-derived Character E-learning Platform
+The e-learning material was developed by senior Chinese teachers and digital experts. It was divided into
+three categories: introduction of radical orthography, radical-derived character instruction, and whole
+character instruction. Given that participants may have learned either Hanyu Pinyin or BoPoMoFo, the
+platform was designed so that the participants could learn using the system of phonetic representation that
+they were familiar with, simply by switching a button.
+The learning content of the system is taken from the Chinese Orthography Database (Chen et al., 2011).
+The database contains the sounds, meaning, radicals, and word frequency of the 6097 most frequentlyused traditional Chinese characters, as defined by the Big–5 encoding method (Chinese Foundation for
+Digitization Technology, 2010) and the Chinese Knowledge and Information Processing group
+(Academia Sinica, 2010). In total, Chen et al. (2011) consider that there are 439 radicals. They also define
+
+Language Learning & Technology
+
+94
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+11 configuration categories (i.e., the spatial structure of the radicals): single, vertical, horizontal, total
+enclosure, left-top-right enclosure, left-bottom-right enclosure, top-left-bottom enclosure, left-top
+enclosure, right-top enclosure, left-bottom enclosure, and left-right enclosure. With these configurations,
+a proposition formalism of Chinese character constituents is created. For example, the character 綴
+(zhui4, decorate) can be represented as | (糸, | (– (又, 又), – (又, 又))). Among these symbols, “|”
+represents the horizontal formation relation, and “–” represents the vertical formation relation. Through
+these configurations and combinations of radicals, the database can be used to calculate the most
+frequently used orthographic indices (including configuration regularity, structure-position regularity,
+phonetic consistency, and semantic transparency).
+In the introductory section to radical orthography, the database system’s contents include structural
+relations, radical definitions, phonetic radicals, semantic radicals, and radicals with phonetic and semantic
+functions. In addition to the information on form, sound, and meaning features of Chinese characters, the
+system also provides clear structural figures (see Figure 1 below) and example characters composed of
+the radicals, so that the orthographic knowledge is explicitly shown in the material.
+
+Figure 1. Introduction and example of the right-top enclosure character (left). Example of the radical
+character 金 (jin1, metal) and its derived characters (right).
+In the section describing radical-derived character instruction, the materials were chosen based on the fact
+that radicals in the database are divided into two categories: the first is radical characters or characters-asradicals; the other is non-character radicals. Radical characters are radicals that can be used alone as a
+character, such as 金 (jin1, metal) or 土 (tu3, dirt). Non-character radicals are radicals that cannot be used
+alone as a character, such as 厂 (han3, cave) or 耂 (lao3, aged). Given that the non-character radicals have
+less clear phonetic and semantic information, the materials used in this research were limited to radical
+characters. Additionally, to highlight the function of the radical characters, the radicals were categorized
+into phonograms and logographs. The logographs fell into seven varieties (e.g., nature, human body,
+numbers, animals, plants, instruments, and others), and characters were selected based on the radicalderived character instruction principle. The term radical-derived character refers to the idea that, using
+radical extension, one can derive characters, and these, more or less, encompass the phonetic and
+semantic information of the radicals. For example, in Figure 2, the characters that are derived from the
+radical character 金 (jin1, metal) are 錢 (qian2, money), 釘 (ding1, nail), 針 (zhen1, needle), 鈴 (ling2,
+jingle), 鋒 (feng1, sharp), 銅 (tong2, copper), 銀 (yin2, silver), 銷 (xiao1, metal), 鈔 (chao1, bill), all of
+which have meanings associated with metal, metal products, or money. Using this radical-derived
+
+Language Learning & Technology
+
+95
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+character learning strategy can simplify learning Chinese characters. Therefore, the derived characters
+were chosen carefully so that the phonetic and semantic components of the radicals would be explicitly
+related. The examples and frequency percentages of the selected characters are as follows.
+For the radical character instruction of the semantic radicals, 11 radical characters were selected that have
+the highest token frequency and explicit semantic information in the database. These were divided into
+the categories of nature (eight semantic radicals: 山 (shan1, mountain), 金 (jin1, metal), 雨 (yu3, rain),
+土 (tu3, dirt), 日 (ri4, day), 木 (mu4, wood), 火 (huo3, fire), 穴 (xue4, cave)) and animals (three
+logographic radicals: 虫 (hui3, worm), 馬 (ma3, horse), 魚 (yu2, fish)). The derived characters included
+in the study have more than 67% semantic transparency4 in the database and account for 100% of the
+logographs in the learning material. In addition, each radical character can be extended to more than eight
+derived characters, as shown in Appendix B.
+As for the phonetic radicals, to emphasize the phonetic components in Chinese and their phonetic
+function, radical characters were selected that have high consistency in reflecting their characters’ sounds
+(12 phonetic radical characters: 里 (li3, neighborhood), 巴 (ba1, cling to), 文 (wen1, word), 主 (zhu3,
+host), 巨 (ju4, giant), 正 (zheng4, correct), 昌 (chang1, prosperous), 朱 (zhu1, red or a family name),
+交 (jiao1, cross), 侖 (lun2, logical sequence), 其 (qi2, third person pronoun), 章 (zhang1, chapter)). All
+characters chosen had more than 82% phonetic consistency5 in the database and accounted for 100% in
+the learning material. In total, 73 characters were derived from these radical characters and are listed
+in Appendix C. Overall, the learners were exposed to 233 Chinese characters after learning the phonetic
+and semantic radical characters and their derived characters in the learning material.
+Finally, for the section of whole character instruction demonstrating each character’s content and
+information, the material was divided into three parts: meaning description, stroke practice, and character
+transformation. Take the example of the radical character 金 (jin1, metal) and its derived character
+錢 (qian2, money) (see Figure 2 below). Its meaning description includes how it is pronounced (shown by
+BoPoMoFo and Hanyu Pinyin), its English translation, its simplified Chinese character, the words that are
+composed of the character, and the English translations of those words. This enables the learners to
+construct their knowledge of the character’s shape, sound, and meaning step by step. The stroke practice
+exposes users to computer-animated writing. A 3 by 3 background grid, highlighted animation to show
+the stroke order, and pause and start buttons provide self-paced learning for users. Finally, the Chinese
+character transformation not only makes learning more interesting but also enables the learners to observe
+shape transformations through different fonts such as bronze inscription, small seal script, and clerical
+
+script.
+
+Language Learning & Technology
+
+96
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+Figure 2. A page from the whole character instruction section showing on the left the radical character 金
+(jin1, metal) and its derived character 錢 (qian2, money).
+Taken together, the above sections in the e-learning platform highlighted the virtues of the radical-derived
+character instructional approach and provided learners with multi-modal inputs to learn Chinese
+characters. Visually, the colorful combinations of structures and radicals can elicit cognitive engagement
+on the part of students, which helps them to notice the lexical sub-units of characters. Auditorily, the
+pronunciations of phonetic radicals and their derived characters can strengthen the students’ knowledge
+about phonetic radicals. As for motivation, the animations showing the writing sequence can draw the
+students’ attention and then reinforce their recognition of the characters, and finally, the character
+transformation illustration can make the learning process informative and interesting.
+Procedure
+This experiment lasted for three weeks. Before the formal experiment started, the participants from the
+experimental group and the comparison group both took the Chinese Orthographic Knowledge test as a
+pretest. The instructor of each class conducted the pretest before any class instruction commenced. Both
+groups took the four-hour-a-day classes that trained the learners in Chinese listening comprehension,
+speaking, reading, and writing. Using the e-learning platform as an auxiliary teaching tool, the
+experimental group instructors employed it flexibly and chose appropriate radical characters that matched
+the curricula of their classes. The instruction workflow is shown in Figure 3. First, the instructors
+introduced radical character knowledge for one hour as initial radical knowledge learning. Each day, the
+instructors spent approximately half of an hour teaching one or more groups of radical-derived characters.
+In a daily cycle, a specific radical character was introduced, followed by more than six derived characters.
+Then, the students were asked to finish an exercise to strengthen and consolidate their knowledge of the
+group of radical-derived characters. The exercise was composed of 10 multiple choice questions, half of
+which asked the students to distinguish the form of the learned radical from several orthographically
+similar radicals, and half of which required students to select a character which conveyed the meaning or
+sound of the learned radical. Within three weeks, more than 15 radical characters and their derived
+characters were taught.
+
+Radical orthographic knowledge instruction
+(1 hour for the first day)
+
+Teach a specific radical character
+
+Teach the characters that can be derived from
+the radical character
+
+Radical-derived character practice
+
+Curriculum over
+Language Learning & Technology
+
+97
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+Figure 3. The instruction workflow of the experimental group instructors teaching with the learning
+platform. The students invested 0.5 hours per day, five days per week, for three weeks, totaling 7.5 hours
+of contact with this instructional method.
+In contrast to the experimental group, the comparison group instructors maintained the traditional wordbased instruction. They used curriculum materials identical to the experimental group, while the core of
+their pedagogical treatment was the collocation of words within a contextual topic. To implement the
+word-based instructional approach, core activities such as phrase practice, sentence making, and text
+reading were repeatedly conducted. Instructors would not direct students’ attentions to the deconstructed
+orthographic units of Chinese characters, even though the learning content might include single-character
+words. Once the vocabulary, lesson, and grammar sections of the lesson were finished, class practice
+focused on word usage and reading comprehension. If there was any remaining free time, the instructors
+taught students to write the characters that appeared in the lesson.
+After the three-week instruction period, both groups of learners took the posttest. The item types of the
+posttest were the same as the pretest. All the specific test items were new characters for all students, in
+order to test the generalization of the radical knowledge of the experiment group and to make the test fair
+for both groups.
+RESULTS
+To control for effects caused by the different Chinese proficiency levels, the pretest scores were entered
+as a covariate in a one-way multivariate analysis of covariance (MANCOVA), with each group being one
+of two levels of the independent variable, and the three posttest scores as the dependent variables.
+Before carrying out the MANCOVA, we conducted an evaluation of assumptions of normality,
+homogeneity of variance, homogeneity of regression slopes, and homogeneity of covariance matrices. All
+assumptions were satisfied except for those between the radical recognition posttest and covariate pretest
+scores. Hence, we removed the radical recognition subtest analysis from the study, leaving only two
+subtest analyses of the Chinese Orthography Knowledge test.
+We used MANCOVA to compare the difference of the means of the two subtests between the
+experimental group and the comparison group. Significant difference was found: Λ = .879, F(2, 124) =
+8.51, p < .001. Then we carried out the post-hoc comparisons comparing the subtests of the experimental
+group to the comparison group. In the test of semantic radical awareness, the adjusted mean of the
+experimental group (7.33) was significantly higher than that of the comparison group (6.07) (F(1, 126) =
+7.300, p = .008). Also, in the phonetic awareness test, the adjusted mean of the experimental group (8.09)
+was significantly higher than that of the comparison group (5.93) (F(1, 123) = 15.073, p < .001).
+Table 2. The mean, standard deviation, and the adjusted mean of the two groups
+Experimental Group
+(n = 69)
+Adjusted
+M
+SD
+Mean
+Radical
+Recognition
+
+pretest
+posttest
+
+20.86
+
+2.57
+
+Semantic
+
+pretest
+
+6.67
+
+4.06
+
+Language Learning & Technology
+
+18.68
+
+Comparison group
+(n = 60)
+
+20.94
+7.33
+
+SD
+
+18.42
+
+4.73
+
+M
+
+4.46
+
+7.27
+
+4.16
+
+Adjusted
+Mean
+
+4.59
+
+19.67
+
+F
+
+19.57
+
+5.292
+
+6.07
+
+7.300
+
+*
+
+98
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+subtests
+
+Radical
+Awareness
+
+Using a Radical-Derived Character E-Learning Platform
+
+7.16
+
+3.06
+
+Phonetic Radical
+Awareness
+total
+
+posttest
+pretest
+
+5.83
+
+3.53
+
+posttest
+
+7.88
+
+3.75
+
+Orthography
+Knowledge Test
+
+pretest
+
+31.17
+
+6.27
+
+9.93
+
+2.90
+
+6.53
+
+3.73
+
+6.17
+
+3.56
+
+32.22
+
+10.35
+
+32.10
+
+8.84
+
+5.93
+
+36.12
+posttest
+
+35.90
+
+7.59
+
+15.073
+
+*
+
+31.84
+
+8.09
+
+12.928
+
+*
+
+Note. The scores in the total test and three subtests are 37, 22, 13 and 12, respectively. *p < .05.
+
+DISCUSSION AND CONCLUSION
+This study used the Chinese Orthography Database (Chen et al., 2011) to design learning material for
+Chinese radical characters. The material included a total of 233 phonetic and semantic radical characters
+and their derived characters. The research participants were Western heritage Chinese learners who were
+exposed to three weeks of radical-derived character instruction. Each week participants learned 7 to 8
+phonetic or semantic radical characters and their derived characters. Results showed that the experimental
+group had significantly better performance than the comparison group in radical recognition, semantic
+radical awareness, and phonetic radical awareness. This supports the view that understanding radicals
+plays an important role in the process of acquiring Chinese orthographic knowledge.
+The results of this experiment confirm the inferences drawn from previous studies that understanding
+radicals is crucial for learning Chinese characters (Lam et al., 2004; Huang, 2006). What is different from
+former work is that this study, in addition to validating the possibility of the radical-derived character
+instruction from a theoretical perspective (Huang, 2008), empirically supports the effectiveness of the
+radical-derived character instruction. In particular, with the addition of e-learning materials, after
+receiving the three-week short-term curriculum, CFL learners with different levels of Chinese proficiency
+could improve their recognition ability in Chinese orthographic knowledge to a level that usually takes
+beginning learners several months (Liu et al., 2007) or a year (Jackson, Everson, & Ke, 2003) to achieve.
+Furthermore, after employing the e-learning platform to learn Chinese characters, the experimental group
+had significant improvements in not only semantic radical tests but also phonetic radical awareness tests.
+This suggests that the experimental group not only understands that the radical characters can imply both
+the meaning and pronunciation, but that they can also distinguish the different radicals when embedded in
+Chinese characters, even though this group learned many radical characters and their derivative characters
+in three weeks. Such a research result extends the population of CFL learners in the study of the digital
+Chinese character instruction (Lam et al., 2004). Both studies suggest that the radical-derived character
+learning strategy helps inform Chinese orthographic knowledge. The study of Lam et al. only included
+learners whose first language was Chinese, and its purpose was to investigate how children’s character
+recognition processes were influenced by the assistance of digital materials. Our study had CFL students
+as participants and demonstrates the effectiveness of incorporating digital learning materials in facilitating
+radical-derived character instruction in this population. In short, whether it is Chinese-as-first-language
+students or CFL students in the process of learning Chinese characters, digital radical-derived character
+instruction seems to improve learners’ recognition ability of Chinese orthography.
+On the other hand, in previous studies, CFL students at the early stages of learning never had practiced
+the strategy of simultaneously using both the phonetic and semantic components of characters. Instead,
+they learned the individual phonetic or semantic components separately. This study demonstrates that as
+
+Language Learning & Technology
+
+99
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+long as the explicit instruction of Chinese orthographic knowledge is systematically conducted, learners
+can still improve their recognition ability of Chinese orthography even if they learn the semantic and
+phonetic functions of the radicals at the same time. They will not confuse these different radical types
+with each other, and can they will perform better on semantic and phonetic radical awareness tasks.
+Therefore, we suggest that learners’ cognitive load (e.g., learning Chinese orthography through
+summarizing) can be reduced through teachers’ proper use of this e-learning platform. For instance, the
+instructors can train the CFL students to consciously learn what implications the phonetic and semantic
+radicals have in the Chinese characters. With such implications in mind, students can better understand
+character composition. Thus, learners can develop Chinese orthographic awareness earlier, complete the
+process from non-automation to automation, and show some improvements in learning Chinese characters.
+In terms of this study’s implications, although the instructional content of this study focused on traditional
+Chinese, we believe that the results will also generalize to studies associated with simplified Chinese
+learning, given that traditional and simplified Chinese are both logographic writing forms. Additionally,
+studies such as those by Shen (2005) or Zhao and Jiang (2002) have been conducted in simplified Chinese
+learning fields and these suggested that the radical-derived character learning strategy is an efficient
+Chinese character learning method. Our study, using a nonequivalent pretest-posttest, quasi-experiment
+design, demonstrated that radical-based strategy is also valid in traditional Chinese character learning,
+providing a convergent view from previous quantitative studies. In the mean time, researchers should bear
+in mind that there are differences between Chinese-as-first-language learners and CFL students in their
+respective processes of learning Chinese characters. The latter know far fewer Chinese characters, have
+lower levels of Chinese proficiency, and have less Chinese cultural knowledge than the former. These
+factors may constrain CFL learners’ understanding of the functions of phonetic and semantic radicals.
+Our research suggests that instructors should conduct gradual instruction of the radicals’ characteristics
+and develop their students’ ability to recognize and analyze radicals. For example, instructors can bring
+together the characters from Hanyu Shuiping Kaoshi (HSK, 8822 words), Test of Chinese as a Foreign
+Language (TOCFL, 8000 words), and the Chinese characters issued by the Ministry of Education in
+France for the first-stage learning materials for the Chinese language learning beginners and identify both
+the radicals and their derivative characters in these materials. Also, to avoid negative transfer and
+overgeneralization on the part of learners, instructors need to take advantage of the comprehensive
+database of the radicals and whole characters to sort out characters that are most worthy of instruction
+from those that may be confusing from the perspective of shape or sounds. Doing this will help learners
+identify useful patterns when recognizing or learning Chinese characters.
+Finally, given that e-learning tools have the possibility of diversifying learning materials, promoting selfpaced learning, and increasing accessibility without time and space limitations (Gao, 2006), the
+significant results of our research can be attributed to the radical-derived character e-learning platform. In
+the radical recognition test, compared to the comparison group, the experimental group had better
+knowledge of radicals and the stroke orders of the whole characters. For example, they could tell the
+difference between 木 (mu4, wood) and 禾 (he2, standing grain). This can be attributed to the fact that the
+e-learning materials employ animation to demonstrate the character transformation of the radicals and the
+stroke orders. Therefore, our research emphasizes the effectiveness of incorporating digitalization to learn
+Chinese characters. This radical-derived character e-learning system can not only work as an in-class
+teaching aid for CFL students, but also breaks the limitation of time and space, enabling learners to study
+Chinese radicals and their derived characters by themselves at home, providing accessibility, and
+increasing learning motivation. Additionally, this system incorporates a bottom-up and data-driven
+database. It offers the ability to sort out the representative phonetic and semantic radical characters with
+moderate difficulty and use them as the e-learning materials, so that the contents of the system are easily
+amenable to future scientific exploration. With this e-learning system, learners can absorb the relevant
+Chinese orthographic knowledge with their own appropriate learning strategies and organize the explicit
+
+Language Learning & Technology
+
+100
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+orthographic knowledge with more efficiency with user-friendly interface customization.
+In sum, the digital radical-derived character teaching strategy used in this research is different from the
+traditional Chinese language instruction with word-based instructional method. Such a strategy has more
+interesting and efficient ways to encourage active learning. The systematic learning strategies help
+learners to better control the contents and principles of Chinese radical characters, accelerating the
+learning of more Chinese characters.
+In the future, this radical-derived character e-learning system will be supplemented with practice
+exercises for words, sentences, and articles, and will also have online tests. In this way, the learners can
+have immediate feedback once they have studied the whole series of radicals and the information about
+their derived characters. This can further solidify and strengthen the new knowledge they acquire. In
+addition, the e-learning system will incorporate learning strategies such as memorization techniques and
+story-telling to enrich the instructional contents, so that Chinese character learning performance can be
+boosted and the digital contents and topics of Chinese character learning can be more profound.
+APPENDIX A. Orthography knowledge test (BoPoMoFo version, selected items)
+Part 1. Radical recognition test (22 items in total)
+
+Part 2. Semantic radical awareness test (13 items in total)
+
+Part 3. Phonetic radical awareness test (12 items in total)
+
+Language Learning & Technology
+
+101
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Language Learning & Technology
+
+Using a Radical-Derived Character E-Learning Platform
+
+102
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+APPENDIX B. Categories, radical characters, and the derived characters of the semantic radicalderived character instruction
+Category
+
+Radical
+Character
+
+Nature
+
+山
+
+Nature
+
+金
+
+Nature
+
+雨
+
+Derived
+Characters
+
+Category
+
+Radical
+Character
+
+炒炮烤熄熔
+
+屹峽峰峻崗岸
+
+Nature
+
+震霉霖
+
+馬
+
+Animal
+
+雲雷電雪霜零
+
+虫
+
+Animal
+
+銀銷鈔
+
+穴
+
+Animal
+
+錢釘針鈴鋒銅
+
+火
+
+Nature
+
+崇崩岔島
+
+魚
+
+地坦埋境坑城
+Nature
+
+土
+
+堆址坡場塑壁
+塵壘
+明晚晒昨晴時
+
+Nature
+
+日
+
+Derived
+Characters
+
+映昇旦早旱昏
+春昔
+
+煙炎榮災炭
+窗突穿挖究
+竅腔窄窩空
+蚊蚯蛀蝌蚪
+蚓蝶蜂蛾
+馳駐騙駛騎
+騷駕驚
+鮮魷鮭鯛鯨
+鯉鱗鰻鮪鯊
+
+林材框植杯根
+Nature
+
+木
+
+柱枝板樹椅休
+棵 床茶 架 桌 集
+朵李
+
+APPENDIX C. Categories, radical characters, and the derived characters of the phonetic radicalderived character instruction
+Radical
+Character
+
+Derived Character
+
+里
+
+俚哩娌浬理裡貍鋰
+
+Radical
+Character
+
+Derived Character
+
+昌
+
+倡唱娼猖鯧
+
+鯉
+巴
+
+爸疤笆芭把吧靶
+
+朱
+
+侏株珠硃蛛誅銖
+
+文
+
+蚊紋抆玟汶紊雯
+
+交
+
+姣狡皎絞蛟跤較鉸餃鮫
+佼珓
+
+主
+
+注蛀註駐住拄柱炷
+
+侖
+
+倫掄淪綸論輪
+
+巨
+
+拒炬距鉅矩詎
+
+其
+
+淇棋琪騏祺旗麒蜞
+
+正
+
+征怔証鉦
+
+章
+
+樟璋漳蟑獐障幛嶂
+
+Language Learning & Technology
+
+103
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+NOTES
+1. This issue is usually encountered by students who learn Chinese as a second language (CSL) in a
+country where Chinese is the official language, students who study Chinese as a foreign language (CFL)
+in a non-Chinese-speaking region, or students who acquire Chinese as a heritage language (CHL) since
+their immigrated family continues to speak Chinese at home. Though the backgrounds of these students
+are idiosyncratic, learning Chinese is their common goal. In this article, the term CFL is used to cover all
+above usages (i.e., CSL, CFL, and CHL) since it conveys broad meaning and implications in second
+language acquisition research (Kroll & de Groot, 2005).
+2. From this first set of examples, “里 neighborhood, li3” indicates the form, meaning, and sound of the
+character, 里. Here, the character is 里, which means neighborhood; “li3” is the character’s pronunciation
+written using Hanyu-Pinyin system, a phonetic transcription for Mandarin Chinese. The letters represent
+the initial and final of the sound-syllable, while the digit at the end represents one of four tones in
+Mandarin Chinese.
+3. Hanyu-Pinyin and BoPoMoFo (also known as “Zhuyinfuhao”) are two commonly used phonetic
+transcription systems for Mandarin Chinese. The former is the official standard in Mainland China
+(Chinese characters are transliterated into 26 Latin alphabet letters), and the latter is the official standard
+in Taiwan (consisting of 37 phonetic symbols and four tone markers). Both of the systems use a sequence
+of their phonetic symbols to transcribe every Mandarin syllable sound.
+4. Semantic transparency means the proportion presented by direct or indirect relationship in meaning
+between a component character and its character derivations. For example, “魚 (fish, yu2)”, as a semantic
+component character, has 36 derived characters: 漁 魯 嚕 櫓 魷 穌 蘇 囌 鮑 薊 鮪 鮫 鮭 鮮 蘚 癬 鯀 鯈
+鯉 鯊 鯽 鯖 鯛 鯧 鯨 鰍 鰭 鰱 鰻 鰾 鱉 鱟 鱔 鱖 鱷 鱸. Among these character derivations, there are 27
+characters whose semantic radical is 魚. Thus, the semantic transparency of 魚 is calculated as
+27/36 x 100% = 75%.
+5. Phonetic consistency means the proportion calculated by the similarity of homophones between a
+component character and its character derivations, without the consideration of four tones. For instance,
+the phonological character “里 (neighbor, li3)” has 17 character derivations: 俚 哩 埋 娌 浬 狸 理 野 童
+量 裡 貍 霾 釐 纏 鋰 鯉. Among these 17 characters, there are 11 characters, 俚 哩 娌 浬 狸 理 裡 貍 釐
+鋰 鯉, which have the same pronunciation with character 里. Therefore, the phonetic consistency of 里 is
+calculated as 11/17 x 100% = 65%.
+
+ACKNOWLEDGEMENTS
+
+Language Learning & Technology
+
+104
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+The work was supported by the Ministry of Education in Taiwan, under the “Aiming for the Top
+University Project” of National Taiwan Normal University. We also thank the National Science Council
+for funding this study, through the project titled Competence-Oriented Omniform Learning for Chinese as
+a Foreign Language (NSC-100-2631-S-003-007).
+
+REFERENCES
+Big-5 encoding method (2010, January, 1). Taipei: Chinese Foundation for Digitization Technology.
+Retrieved from: http://www.cmex.org.tw/info009.htm
+Bush, M., & Terry, R. (1997). Technology-Enhanced Language Learning. Lincolnwood, IL: National
+Textbook Co.
+Chen, H. C., Chang, L. Y., Chou, Y. S., Sung, Y. T., & Chang, K. E. (2011). Construction of Chinese
+Orthographic Database for Chinese Character Instruction. Bulletin of Educational Psychology, 43
+(Special Issue on Reading), 269–290.
+Clark, J.M., & Paivio, A. (1991). Dual coding theory and education. Educational Media, 24 (4), 333–339.
+Chen, H.Y., & Liu, K.Y. (2008). Web-based synchronized multimedia lecture system design for teaching
+learning Chinese as second language. Computers & Education, 50, 693–702.
+Chinese Knowledge and Information Processing group (2010, January, 1). Taipei, TW: Academia Sinica.
+Retrieved from: http://ckip.iis.sinica.edu.tw/CKIP/engversion/index.htm
+Cobb, T. (2007). Computing the vocabulary demands of L2 reading. Language Learning & Technology,
+11(3), 38–63. Retrieved from http://llt.msu.edu/vol11num3/pdf/cobb.pdf
+Cook, V. (2003). Introduction: The changing LI in the L2 user's mind. In V. Cook (Ed.), Effects of the
+second language on the first (pp. 1–18). Clevedon, UK: Multilingual Matters.
+Dulay, H., Burt, M., & Krashen, S. (1982). Language two. New York, NY: Oxford University Press.
+Fan, L. N. (2003). The strategy research of teaching Chinese as a second language. Journal of National
+University of Tainan, 37 (2), 1–16.
+Gao, Y. J. (2006). E-learning—New Trend for Learning. E-Soc Journal. 57, Retrieved
+from http://www.nhu.edu.tw/~society/e-j/57/57-22.htm
+Gobert, F., Lane, P. C. R., Croker, S., Cheng, P. C-H., Jones, G., Oliver, I. & Pine, J. M.
+(2001). Chunking mechanisms in human learning. TRENDS in Cognitive Sciences, 5, 236-243.
+Ho, C.S.H., & Bryant, P. (1997). Phonological skills are important in learning to read Chinese.
+Developmental Psychology, 33, 946–951.
+Huang, P. J. (2006). Theory and practice of Chinese character instruction. Taipei, TW: Lexis Book Co.
+Huang, Y. P. (2008). Investigation on the effectiveness of radical instruction in character recognition
+instruction and its application. The Elementary Education Journal. 55 (1), 63–67.
+Huang, H.-S., & Hanley, J. R. (1994). Phonological awareness and visual skills in learning to read
+Chinese and English. Cognition, 54, 73–98.
+Hung, L. Y. (2006). Test on Radical Recognition. Taipei, TW: Special Education Unit, Ministry of
+Education.
+Hung, L. Y. & Fang, J. Y. (2006a). Test on Semantic Radicals. Taipei, TW: Special Education Unit,
+Ministry of Education.
+
+Language Learning & Technology
+
+105
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+Hung, L. Y. & Fang, J. Y. (2006b). Test on Phonetic Radicals. Taipei, TW: Special Education Unit,
+Ministry of Education.
+Larsen-Freeman, D., & Long, M. (1991). An introduction to second language acquisition research.
+London: Longman.
+Jackson, N. E., Everson, M. E., & Ke, C. (2003). Beginning readers' awareness of the orthographic
+structure of semantic-phonetic compounds: Lessons from a study of learners of Chinese as a foreign
+language. In C. McBride-Chang & H.-C. Chen (Eds.), Reading development in Chinese children (pp.
+141–153). London, UK: Praeger.
+Jiang, X. (2008). Research on Words of Teaching Chinese as a Second Language and Learning to Read.
+Beijing, CN: Beijing Language and Culture University Press.
+Jiang, W., & Ramsay, G. (2005). Rapport-Building CALL in teaching Chinese as a foreign language: an
+exploratory study. Language Learning & Technology, 9(2), 47–63. Retrieved
+from http://llt.msu.edu/vol9num2/jiang/default.html
+Jin, H. G. (2003). Empirical evidence on character recognition in multimedia Chinese tasks. Concentric:
+Studies in English Literature and Linguistics, 29(2), 36–58.
+Jin, H. G. (2007). Multimedia Effects and Chinese Character Processing: An Empirical Study of CFL
+Learners from Three Different Orthographic Backgrounds, Journal for Chinese Language Teachers
+Association (JCLTA), 42(1), 27–48.
+Koda, K., Zhang, Y., & Yang, C. L. (2008). Literacy development in Chinese as a heritage language. In
+A. W. He, & Y. Xiao (Eds.), Chinese as a heritage language: Fostering rooted world citizenry (pp. 137–
+149). Honolulu, HI: University of Hawaii, National Foreign Language Resources Center.
+Kroll, J. F., & de Groot, A. M. B. (Eds.) (2005). Handbook of bilingualism: Psycholinguistic approaches.
+New York, NY: Oxford University Press.
+Lam, H. C., Ki, W. W., Chung, A. L. S., & Ko, P. Y. (2000). Experience in Designing Databases for
+Learning Chinese Characters. International Journal of Computer Processing of Oriental Languages,
+13(4), 351.
+Lam, H. C., Ki, W. W., Law, N., Chung, A. L. S., Ko, P. Y., Ho, A. H. S., et al. (2001). Designing CALL
+for learning Chinese characters. Journal of Computer Assisted Learning, 17(1), 115–128. doi:
+10.1046/j.1365-2729.2001.00164.x
+Lam, H. C., Ki, W. W., Chung, A. L. S., Ko, P. Y., Lai, A. C. Y., Lai, S. M. S., et al. (2004). Original
+article: Designing learning objects that afford learners the experience of important variations in Chinese
+characters. Journal of Computer Assisted Learning, 20(2), 114–123. doi: 10.1111/j.13652729.2004.00071.x
+Lin, C., Huang, C., & Chiang, Y. (2009). Learners' Perspectives on Incorporating Drupal and Web 2.0
+Tools in a Blended-learning Chinese Classroom. In G. Siemens & C. Fulford (Eds.), Proceedings of
+World Conference on Educational Multimedia, Hypermedia and Telecommunications 2009 (pp. 4223–
+4228). Chesapeake, VA: AACE.
+Lin, M. C., & Wang, P. Y. (2008). A knowledge management system for Chinese language arts teachers.
+British Journal of Educational Technology, 39(5), 953–943.
+Liu, Y., Wang, M., & Perfetti, C.A. (2007). Threshold-style processing of Chinese characters for adult
+second-language learners. Memory & Cognition, 35(3), 471–480.
+Lu, M., Wu, C., Martin, E., & Shah, R. (2009). The Effects of Computer-Assisted Language Learning
+
+Language Learning & Technology
+
+106
+
+Hsueh-Chih Chen, Chih-Chun Hsu, Li-Yun Chang,
+Yu-Chi Lin, Kuo-En Chang, and Yao-Ting Sung
+
+Using a Radical-Derived Character E-Learning Platform
+
+(CALL) in Grammar Classrooms. In G. Siemens & C. Fulford (Eds.), Proceedings of World Conference
+on Educational Multimedia, Hypermedia and Telecommunications 2009 (pp. 2217–2236). Chesapeake,
+VA: AACE.
+Lu, M. C. (2000). The effectiveness of Chinese stem-deriving instruction on elementary students with
+severely word-recognition difficulties. Bulletin of Special Education, 18, 207–235.
+Mayer, R.E., & Moreno, R. (2002). Animation as an aid to multimedia learning. Educational
+Psychological Review, 14 (1), 87–99.
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). New York, NY: McGraw-Hill.
+Shen, H. H. (2000). Radical knowledge and character learning among learners of Chinese as a foreign
+language, Linguistic Studies, June, 85–93.
+Shen, H. H. (2005). An Investigation of Chinese-Character Learning Strategies among Non-Native
+Speakers of Chinese. System: An International Journal of Educational Technology and Applied
+Linguistics, 33(1), 49–68.
+Shen, H. H., & Ke, C. (2007). Radical awareness and word acquisition among non-native learners of
+Chinese. Modern Language Journal, 91(1), 97–111.
+Shi, D. G. & Wan, Y. X. (1998). Report on Teaching Chinese as a Second Language. Research and
+Language Instruction, 1, 37–48.
+Shu, H. & Zeng, H. M. (1996). Kids’ Awareness and Development of the Phonetic Clues in Chinese
+Character Structure. Bulletin of Psychology. 2, 160–165
+Taft, M., & Chung, K. (1999). Using radicals in teaching Chinese characters to second language learners.
+Psychologia, 42, 243–251.
+Taylor I. & Taylor M.M. (1990) Psycholinguistics: Learning and Using Language. Englewood Cliffs, NJ:
+Prentice-Hall.
+Tsai, C. H., Kuo, C. H., Horng, W. B., & Chen, C. W. (2012). Effects on learning logographic character
+formation in computer-assisted handwriting instruction. Language Learning & Technology, 16(1), 110–
+130. Retrieved from http://llt.msu.edu/issues/february2012/tsaietal.pdf
+Wang, M., Perfetti, C., & Liu, Y. (2003). Alphabetic readers quickly acquire orthographic structure in
+learning to read Chinese. Scientific Studies of Reading, 7, 183–208.
+Wen, C. Y. (2003). Computer-assisted Chinese-character primitives instructional program on word
+recognition for students with reading disabilities. Unpublished Master Thesis, National Chiayi University
+of Special Education, Chiayi.
+Yeh, S. L. (2000). Structure detection of Chinese characters: Visual search slope as an index of similarity
+between different-structured characters. Chinese Journal of Psychology, 42, 191–126.
+Yeh, S. L., Li, J. L., & Chen, K. M. (1999). Classification of the shapes of Chinese characters:
+Verification by different predesignated categories and varied sample sizes. Chinese Journal of
+Psychology, 41, 65–85.
+Zhao, G. & Jiang, X. (2002). What is the Most Effective Strategy for Learning Chinese Characters: A
+Survey Among CSL Beginners. Applied Linguistics, 2, 79–85.
+Zheng, Y. B. (2010). A Study on Furthering Internationalization of Chinese. Journal of Xihua University
+(Philosophy & Social Sciences), 29(6), 67–70.
+
+Language Learning & Technology
+
+107
+
+

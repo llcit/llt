@@ -1,0 +1,546 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2017/emerging.pdf 
+February 2017, Volume 21, Number 1 
+pp. 4–15 
+ 
+Copyright © 2017, ISSN 1094-3501 4 
+EMERGING TECHNOLOGIES 
+SCALING UP AND ZOOMING IN: 
+BIG DATA AND PERSONALIZATION IN LANGUAGE LEARNING 
+Robert Godwin-Jones, Virginia Commonwealth University 
+APA Citation: Godwin-Jones, R. (2017). Scaling up and zooming in: Big data and 
+personalization in language learning. Language Learning & Technology, 21(1), 4–15. 
+Retrieved from http://llt.msu.edu/issues/february2017/emerging.pdf 
+Copyright: © Robert Godwin-Jones 
+INTRODUCTION 
+From its earliest days, practitioners of computer-assisted language learning (CALL) have collected data 
+from computer-mediated learning environments. Indeed, that has been a central aspect of the field from 
+the beginning. Usage logs provided valuable insights into how systems were used and how effective they 
+were for language learning. That information could be analyzed to improve instructional design and 
+delivery. Maintaining learning histories and personal profiles of individual learners enabled a program to 
+adapt the delivery of learning materials to the record of student performance. Given a limited number of 
+users working within a single system, the data generated could be collected and analyzed easily, using 
+simple methods and tools such as spreadsheets and basic data models. The situation today is quite 
+different from that scenario. Learners are likely to be using multiple online tools and services, all of 
+which may be recording data. That includes general use software and services such as Facebook and 
+Google, as well as mobile devices. If they are university students, they are likely to be generating data 
+points through a learning management system (LMS) as well as from other university-level systems. The 
+vast amount of information collected today from our use of online tools and services provides a huge 
+storehouse of information that can be mined to provide both general usage trends and individualized 
+reports. This big data offers valuable teaching and learning insights. In this column, we will be looking at 
+what this may mean in language learning. That will include discussion of the emerging field of learning 
+analytics, the use of learner models, and the opportunities afforded by data tracking for personalized 
+learning. 
+LEARNING ANALYTICS 
+As Cope and Kalantzis (2016) point out, capturing and analyzing data in computer-mediated learning 
+environments is nothing new. What has changed in the last decade is the immense volume of data 
+generated and collected—some purposely, others incidentally. Some of that data is structured and 
+intended for data analysis, for example, if it comes from an LMS or from an intelligent language tutor. 
+Other data is unstructured, for example, if it comes from texts in blog posts or input from sensors on 
+mobile devices. All of that data is coming in a continuous stream, as digital devices have become 
+ubiquitous human companions. The flood of data offers new opportunities in a variety of areas, from 
+tracking consumer preferences and trends in business and commerce (business intelligence) to providing 
+early alerts about at-risk students (educational data mining). The volume and variety of data necessitates 
+the use of data management and analysis tools well beyond Excel. The R programming language is used 
+in many fields, including linguistics, for statistical analysis and modeling. It is open source and offers 
+add-on packages and plug-ins for functions such as text mining and work in natural language processing 
+and sociolinguistics. For especially large data sets, the Hadoop software library (from Apache) is widely 
+used, as it allows for distributed processing across clusters of computers. Given the importance of large-
+scale data analysis in many areas, there is a current boom in demand for data talent (Trifari, 2016). 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 5 
+In education, analytics is used to identify patterns among students using institutional software or digital 
+services in order to gain insight into learning and administrative practices. That information can be used 
+to both identify and seek to rectify problem areas in instructional design and delivery. On a system level, 
+it may reveal curricular bottlenecks and make predictions in areas such as student retention or graduation 
+rates. Generally in learning analytics, the emphasis has been on quantitative outcomes (such as quiz 
+scores or course grades), not on the learning process. For example, alerts to at-risk students are typically 
+administrative notifications, rather than tailored messages useful for improving academic performance; at 
+most, they may offer recommendations for obvious behavioral changes in areas such as attendance or 
+assignment completion. 
+In most universities in developed countries, much of the student learning data comes from an LMS. The 
+LMS database tracks and records student use of the system. How fine-grained that data is depends on the 
+particular platform but also on choices made by instructors on whether to initiate view tracking of 
+particular elements of the course. Some of that data may be available to the student, but it is mostly 
+designed for and used by instructors and administrators. Most LMSs have their own built-in data tracking 
+and data visualization tools. In other cases, a third-party tool may be used. At Purdue University, for 
+example, Course Signals (originally developed at Purdue) is used to collect data from the LMS 
+(Blackboard) and the administrative computing systems. All students are placed in a risk group 
+determined by a predictive academic success algorithm. Course Signals uses a stoplight system, with 
+groups categorized as red, yellow, or green corresponding to the level of risk. Students and instructors are 
+able to see a graphical representation of the current and historical state of a learner or a course through a 
+dashboard visualization. 
+IMPROVING THE USEFULNESS OF LEARNING ANALYTICS 
+Verbert, Duval, Klerkx, Govaerts, and José (2013) provide a meta-analysis of 15 different learning 
+analytics dashboards. They conclude that almost all the implementations are designed primarily for 
+instructors and administrators. The study offers suggestions for improving learning analytics’ usefulness 
+to students, including adding more detailed analyses of learning activities and providing additional 
+visualizations targeted specifically to students. The authors point out that there have been few studies 
+analyzing the real impact of learning analytics on improving teaching or learning. Link and Li (2015) give 
+examples of the Performance Dashboard used in Blackboard—in their case, for an English writing course. 
+The authors suggest a research agenda for the use of learning analytics aligned with principles of second 
+language acquisition. They lay out a recommended research agenda on learning analytics, which includes 
+analysis of the use of learning analytics in classroom environments; longitudinal studies; and, crucially, 
+empirical studies on what kinds of collected data are shown to be useful in improving language learning. 
+Learning analytics dashboards generally provide data on a single learning environment, most commonly 
+an LMS. As such, they give an incomplete picture of student learning, in that students may be using 
+additional online or physical resources which supplement the formal learning environment, whether the 
+course be online or face-to-face. In that sense, learning analytics, as currently used, may provide a 
+distorted view of learning behaviors. Furthermore, as Nic Giolla Mhichíl, van Engen, Ó Ciardúbháin, Ó 
+Cléircín, and Appel (2014) point out, there is the potential for students to forego use of learning resources 
+not reflected in their dashboard, thus inhibiting learner agency. There is the possibility that the learning 
+analytics dashboard will highlight activities that are incidental to actual student learning, such as the 
+frequency of log-ins to an LMS, providing to students a false sense of what matters in learning. 
+One of the difficulties that learning analysis dashboards have in more fully reflecting the extent of student 
+learning activities is the difficulty in obtaining and aggregating data from other sources, whether that be 
+other online learning services or social media platforms. Some resources may make available methods to 
+send or export data, such as public APIs (Application Program Interfaces), but that shared data may not 
+come in a format readily usable by the learning analytics tool. This problem of sharing and 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 6 
+interoperability involves both technical difficulties (what data structure to transmit) and ethical or privacy 
+issues. Consumers are understandably leery of their individual online data being tracked and shared, and 
+learners are likely to have similar concerns (see Drachsler & Greller, 2016). 
+On the technical side, there are several initiatives underway to provide a standard way to record and send 
+evidence and results of online actions and activities. There are official (ISO, W3C) standards for data 
+exchange, such as SDMX (Statistical Data and Metadata eXchange) encoding and the Data Cube 
+Vocabulary, which is a web standard for linking related data sets and content using RDF (Resource 
+Description Framework). Berners-Lee, the director of W3C, has promoted the framework of Linked Data, 
+the use of standard web technologies such as HTTP and RDF to enable webpages to share information 
+which is machine readable. Linked Open Data refers to freely available data sets, such as those from 
+DBpedia, a dataset containing data extracted from Wikipedia articles, or GeoNames, which provides 
+descriptions of geographical features worldwide. The experienceAPI (also known as TinCan or xAPI), 
+originally developed as a replacement for SCORM (Sharable Content Object Reference Model), provides 
+a way to describe online activities through a deceptively simple schema of subject-verb-action, familiar 
+from the concept of triplets in RDF and in other methods for describing data structures. It is being used 
+principally in business and commercial transactions. However, we are starting to see its use in educational 
+environments, including in learning analytics (Kitto et al., 2016). An emerging standard likely to be 
+supported widely in education is the Caliber framework from IMS Global, as it has been developed with 
+extensive participation by universities. It builds on the very successful LTI standard. Caliber can be 
+implemented in a variety of ways, but its basic functionality is launched by linking to the SensorAPI 
+JavaScript implementation in a webpage’s HTML and providing parameters for the events to be recorded.  
+OPEN LEARNER MODELS 
+The Caliber framework is likely to be used primarily institutionally, at least initially, to aggregate data 
+from sources beyond the LMS. Some of that aggregation is happening currently through the widespread 
+adoption of the LTI standard, which allows third-party tools and services to send data reports to an LMS 
+(or to other software). In that way, the LMS is able to build a kind of learner model—that is, a profile of 
+an individual learner which provides information on current and past learning experiences. In the typical 
+LMS, that learner model is likely to be limited to what is contained in the electronic gradebook in tabular 
+form, with grades from scored activities (e.g., quiz data, test scores, third-party tool data) and status 
+updates on assignment completion. Drilling down on the items may provide specifics about the score 
+(e.g., items answered correctly, number of attempts, etc.) as well as statistics on the student score 
+compared to the class as a whole. Some LMSs have more flexibility in extending the learner model to 
+include more categories of information. That is particularly the case for Moodle, with its widely used 
+plugin architecture. Tongchai (2016) provides an example of customizing Moodle to create a more 
+comprehensive learner model. 
+The concept of a learner model is familiar in CALL, as it relates to intelligent language tutors (ILTs) 
+which incorporate a sophisticated and fine-grained learner model to track student performance. This 
+learner model is quite different from that in an LMS, in that it assesses student activities as compared to 
+knowledge in a specific domain—in an ILT, a language or aspects of a language. An ILT will therefore 
+include a knowledge model that is used to analyze actions of the user, for example, parsing utterances in 
+order to provide feedback. Each action taken by the user is recorded and the learner model is 
+correspondingly updated. The system uses that data to determine the sequencing of learning materials 
+supplied to the user. ILTs such as E-Tutor provide a means for the user to access the learner model so as 
+to see the status of progress within the system (Heift, 2008). How much information is provided, and 
+how, varies with the system. 
+The learner model in an ILT normally reflects student performance only within that system. Like the 
+learner model in an LMS, the data remains in the system, often in a non-standard, proprietary format. The 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 7 
+learner model is open in that it is viewable to the user, but it is not visible outside the system or generally 
+exportable. In contrast, an independent learner model is not tied to any one particular system and is 
+intended to serve as an aggregator and repository of learning data from multiple sources. Such learner 
+models are different from those in an ILT in that they are “framed around the learning resources, not a 
+model of the knowledge or skills of the learner” (Bull & Kay, 2016, p. 308). An independent learner 
+model may be associated with a specific course or particular program, or may be generated by an 
+individual learner. Most likely, the use of an independent learner model will begin in an institutional 
+setting, but with the goal of having the learner continue its use beyond the institution. This is the case 
+with a system used in Europe, the Next-TELL project (Next generation Teaching, Education, and 
+Learning for Life). The principal goal of Next-TELL and similar systems is to provide useful 
+metacognitive information to the learner, to aid in reflection, planning, and self-monitoring (Bull & Kay, 
+2016). The system can receive, through its own API, data automatically sent, and can also include 
+manually entered information, as appropriate, from a teacher or from the student. Data from social media, 
+such as Facebook posts, can be included as well. The learner model can be displayed to the user in 
+multiple ways, including a tree map, concept map, or a tag cloud. A recent study (Bull & Wasson, 2016) 
+illustrates a variety of such visualizations in the service of language learning. The authors point to the 
+advantage of systems in which students are able to choose the kind of visualization they prefer. That 
+preference might depend on the context. A tree map display, for example, may work best for mobile 
+devices, as it manages display on a small screen well by displaying initially a broad overview, with 
+detailed information available with a click or touch. 
+Some independent learner models take a step further in empowering learners by making the learner model 
+not only accessible to the student, but negotiable as well. LEA’s Box (Learner Analysis toolbox), which 
+builds on the Next-TELL platform, allows users to make changes to their profiles not only by adding 
+additional data streams, but also by revising some of the evaluative statements. They may, for instance, 
+supply evidence of a higher level of knowledge in a particular area than is indicated in the learner model. 
+The updating capability allows for the potential revision of an individual learner model to reflect learning 
+from informal or alternative sources. For some systems, a machine intelligence is built in and allows 
+negotiations with the user. That may entail a level descriptor being challenged by the student, and in 
+dialogue with the system, having that claim be accepted or denied. In this way, there is evidence of a 
+more objectively established record of achievement than may be the case in self-evaluations. Open and 
+independent learner models offer a further benefit to learners: the ability to share their learning 
+experiences with their peers—something difficult to do within an LMS or in an ILT. This allows for 
+reflection and discussion of learning strategies and resources. In one project reported in Bull (2016), a 
+Facebook group was set up expressly to encourage discussion of learner models. Bull and Kay (2016) 
+provide a framework for evaluating open learner models, as well as a comparative summary of the most 
+widely-used systems. The authors also describe a means for integrating data from online games, 
+envisioning a situation in which game play is paused at suitable points to encourage noticing and 
+reflection on language use. 
+LEARNER MODELS AND LANGUAGE LEARNING 
+Open learner models have been used in language learning for some time. As discussed above, ILTs such 
+as E-Tutor incorporate a student model, accessed in that system via a Report Manager. In addition to E-
+Tutor’s Heift (Simon-Fraser University), another prominent researcher in the area of intelligent tutors is 
+Bull from the University of Birmingham. Her work goes back to the 1990s and Mr. Collins, an online 
+tutoring system for Portuguese (Bull, Pain, & Brna, 1995). That implementation uses a very restricted 
+domain, namely the placement of clitic pronouns in Portuguese. The learner model there is of interest in 
+that it supplements the record of past student performance by including language learning strategies and 
+students’ knowledge of other foreign languages. A principal goal of Mr. Collins is to raise the language 
+awareness of the student. Students are encouraged to frequently consult the learner model, which provides 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 8 
+analogies and indicators of possible transfers from other languages (especially from Spanish) among other 
+features. There is also some limited ability for the learner to negotiate with the system in cases where the 
+learner disagrees with the contents of the model. As in other open learner models, the inspection and 
+negotiation in Mr. Collins occurs through a menu selection, rather than through chatbots or other forms of 
+interaction. The creators of Mr. Collins describe it as a “learning companion system,” in that it seeks to 
+create a collaborative model (Bull et al., 1995, p. 65). 
+In Mr. Collins, student responses are often accompanied by students being asked to provide their degree 
+of confidence in the correctness of their answers. This information is used to contribute to the student 
+belief model in the system and in providing feedback and offering repair strategies. Mr. Collins is typical 
+of open learner models in that the emphasis is on the learning process and therefore on formative 
+assessment, with the end goal of encouraging learner autonomy. A simple implementation of this 
+approach is the OLMlets project (see this YouTube video) discussed in Bull and Kay (2013), which 
+proved to be effective in student knowledge in the area of metacognition. Another example of an 
+independent learner model designed to prompt metacognition is the NoticeOLM, specifically designed to 
+encourage students to notice language features (Bull & Kay, 2013). The system uses highlighting 
+techniques to draw attention to grammatical elements. The system was found to be effective with adult 
+second-language learners of English. Such systems typically use skill meters to compare their 
+performance and knowledge to the expert model as well as to other peers. A simple model is the OLM LA 
+(Open Language Model for Language Awareness) used for Chinese learners of advanced English (Xu & 
+Bull, 2010).  
+The encouragement to share findings in learner models, an important feature of the systems discussed 
+above, is also central to the SCROLL project (Sharing Student Learning Logs; Mouri & Ogata, 2015). 
+The project involves students of Japanese as a second language using smartphones for learning 
+vocabulary. Students create log entries, optionally accompanied by photos, upon encountering culturally 
+significant expressions going about their day-to-day lives in Japan. The log entries are automatically 
+tagged as to time and place. The system uses the open source data visualization widgets SIMILE to create 
+time-maps and other visualizations which allow users on Google Maps to see the location of the log 
+entries as well as those generated by other students at that location. This collaborative approach signals to 
+users the salience of particular expressions, given the density of log entries. The timestamps provide the 
+ability to connect use of the expression to particular times, such as days of the week or time of the day. 
+The linking of vocabulary learning to a particular time and place likely helps the mnemonic process, 
+providing also an opportunity for recall and reflection individually or in groups. 
+PERSONALIZED LEARNING THROUGH DATA 
+Creating personal profiles or learner models can enable filtering of content so as to direct learners to 
+resources likely to be most appropriate for their proficiency levels, learning goals, and content 
+preferences. This can be enabled in different ways, including in formal learning environments, as 
+discussed above. Another possibility is the use of recommendation systems, which draw on individual 
+profiles to offer suggested learning materials, in effect acting as personalized information agents. Given 
+the information overload of the Internet today, such systems are being widely deployed. Music, book, and 
+movie sellers such as Apple, Amazon, and Netflix have recommendation systems based on previous 
+consumer choices, the user’s ratings of purchased or viewed items, and ratings from other consumers. 
+Sunil and Saini (2013) provide a meta-analysis of 10 recommendation systems used in education. 
+A recommendation system for selecting appropriate reading materials for ESL students uses learner-
+created profiles, surveys of student interest, and results from proficiency testing to analyze content 
+preferences, assess vocabulary knowledge, and determine reading ability (Hsu, Hwang, & Chang, 2013). 
+Students are able to add their own annotations to reading materials and can see the annotations made by 
+other students to that reading. The trial group using the student-adaptive activities scored higher in 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 9 
+reading comprehension exams. It is likely that student motivation was enhanced though the 
+personalization process. Nikiforovs and Bledaite (2012) developed a recommendation system for 
+vocabulary development that relies on users supplying a list of texts read (from a selective list) and on an 
+assessment of users’ reading proficiency level. The system hosts a large number of texts which were 
+analyzed in terms of syntactical complexity and reading difficulty. Users are given sequential 
+recommendations which are designed to combine likely known vocabulary with a subset of new 
+expressions. For those working on their own, there are online tools and services available which analyze 
+texts to provide guidance as to the appropriateness for their needs and preferences. Text Analyzer is a 
+service which measures lexical density in several languages. Readability Scores uses several different 
+readability algorithms to assess reading difficulty. Such tools help users select from the vast array of texts 
+on the web today. On-the-fly translation and annotation tools and services such as Globefish Instant 
+Translator help make texts accessible to language learners. 
+An option for learners to track appropriate learning materials is to create a repository of linked resources. 
+This can be managed as simply as adding links to a social bookmarking service such as Diigo, in which 
+resources can be categorized and annotated as desired. Alternatively, resources can be aggregated in a 
+note-taking service such as Evernote, a folder-based system such as LiveBinders, a board pinning system 
+such as Pinterest, or a web curation tool such as ScoopIt. A more individualized approach is the creation 
+of a customizable web page. A page which aggregates online resources an individual finds useful for 
+learning is often referred to as a personal learning environment (PLE). PLEs became popular as widgets 
+proliferated, about a decade ago, (see Godwin-Jones, 2009). Widgets have largely been replaced by 
+mobile apps, however a PLE used as a means to maintain, organize, and share valued resources remains. 
+Case (2015) examines the concept of PLEs in the context of a total language learning environment, both 
+online and physical, while Pegrum (2014) and García-Peñalvo and Conde (2015) highlight the use of 
+PLEs in mobile learning environments. Laakkonen (2011) describes a PLE project in which the creation 
+of the PLE begins in the classroom setting under a teacher's guidance, before becoming an independent 
+resource designed for lifelong learning. It may be useful to have learners begin creating a PLE with the 
+help of a teacher, as there is some evidence that students find creation and use of PLEs initially confusing 
+(Case, 2015). It may also be, as Yu asserts (2015), that students accustomed to teacher-centered learning 
+environments need more help and encouragement in creating and working with a resource that is based on 
+the concept of independent learning. 
+Resources incorporated into a PLE can be added manually or automatically through subscription, 
+syndication, or other mechanisms which identify semantically tagged resources corresponding to the 
+user’s preferences. While the concept of the semantic web (semantically tagged materials based on 
+commonly accepted taxonomies) has not fulfilled its lofty goals (self-organized online data), aspects of 
+that vision have been implemented. Examples include the use of RDF to semantically tagged content, the 
+implementation of controlled vocabularies in projects such as Merlot and Ariadne, and the widespread 
+consumer acceptance of folksonomies used in social media such as Flickr (Devedzic, 2016). The idea of a 
+Personal API is in some ways a successor to the idea of the semantic web, namely using publicly 
+available APIs such as those from Google or Facebook to automatically populate a personal webpage 
+(Flanagan, 2015). The APIs provide access to the rich data collected through the Knowledge Graph, for 
+Google, and through the Open Graph Protocol, for Facebook. The ProgrammableWeb tracks APIs in 
+categories that include translation and language learning. Halimi, Seridi-Bouchelaghema, and Faron-
+Zucker (2014) describe an enhanced PLE that mines the social web for appropriate resources. The 
+SoLearn system discussed in the article uses the concept of a semantically tagged recommendation system 
+(based on the user’s tagging history) and the analysis of social media posts. It also includes peer learner 
+information, such as most active learners (in terms of posting frequency) and peers ranked as most 
+reliable (according to ratings). Given the major role social networks play in learning today, it makes little 
+sense to build a PLE that does not incorporate social media in some way. 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 10 
+Adding data from social media is possible in a variety of ways. The Tapor project hosts an annotated list 
+of social media analysis tools. A widget from Twitter creates an embedded timeline of tweets to a 
+webpage while a RSS and JavaScript app such as FeedtoJS incorporates blog posts. The Semantically 
+Interlinked Online Community initiative (SIOC) aims to enable integration of social media by providing 
+an ontology for representing rich data from social media in RDF. The standard has been submitted to the 
+W3C. An interesting developing W3C standard is WebRTC. This is an API that enables web browsers to 
+embed applications for communication such as voice calling, video chat, and file sharing. This could 
+make a PLE into a communication hub, moving beyond static content and a set of links. If a learner’s aim 
+is to create an online record of achievement, rather than a one-stop learning center, a more appropriate 
+vehicle then a PLE is an online portfolio. A recent report on the use of the electronic version of the 
+European Language Portfolio points to potential benefits (Mira-Giménez, 2017). Some of the same tools 
+discussed above in the context of PLEs could be used here as well. In addition to chronicling social media 
+activity, evidence of learning achievements could be included, such as a badges or MOOC certificates. 
+The popular video-based learning platform, Khan Academy, awards badges for mastery. We are also 
+beginning to see interest in the concept of digital badges in language learning. 
+CONCLUSION AND OUTLOOK 
+Big data and learning analytics hold immense potential for enhancing language learning in multiple ways. 
+Vast text collections in multiple languages processed through artificial intelligence and machine learning 
+have tremendously enhanced the effectiveness of machine translators such as Google Translate (Lewis-
+Kraus, 2016). The same is possible for the usefulness of smart language tutors through the growth of 
+learner corpora and improvements in natural language processing. The more data that become available 
+on user behavior and learning effectiveness, the better predictive models can be built into ILTs and other 
+online learning environments and the more helpful the hints and feedback can be (Heift, 2008). Cope and 
+Kalantzis (2016) assert that “big data can simultaneously support N = 1 and N = all” (p. 9). The idea that 
+the same data can give us both the big picture and detailed information is familiar from the use of Google 
+Maps. The data that helps researchers and instructors gain insights into group performance also enables 
+continuous re-calibration of learning materials to individual learners. 
+It used to be that the functionality of an intelligent language tutor was hampered by limited storage 
+capacity and slow processing. Today, cloud storage is increasingly inexpensive, while services from 
+Amazon, Microsoft, and others make distributed processing increasingly powerful and practical. Massive 
+data collection and analysis can help improve educational practices in a variety of areas. Mining data 
+collected from different LMS sites can provide evidence for the most effective site designs for different 
+disciplines (Fritz, 2016). This holds true for MOOCs (Massive Online Open Courses) as well, the 
+phenomenon which was largely responsible for the recent burst of interest in learning analytics. Recent 
+research in this area has included development of third-party methods and tools for assessing learning 
+performance in MOOCs, which aggregate data beyond what is normally available within the system and 
+enable different kinds of queries into that data (Cook, Kay, & Kummerfeld, 2015; Pardos & Kao, 2015). 
+Learning analytics holds the potential not only to improve instructional tools and approaches, but also to 
+benefit research methods and outcomes, informing both second language acquisition theory and CALL 
+practice. The Promacolt project demonstrates how learning analytics can be used to go beyond setting 
+initial parameters in language learning training, through adjusting delivery continuously in response to 
+user performance, as indicated by learning analytics (García, 2011). Cornillie, Van Den Noortgate, Van 
+den Branden and Desmet (this issue) show how revelatory it is to track learner data across environments, 
+incorporating both formal and informal settings, especially mobile-use settings. New tools for analyzing 
+text, such as those developed at UC-Irvine, provide new insights into areas such as collaborative writing 
+(Yim & Warschauer, this issue). 
+ 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 11 
+In all fields, the availability of large data sets can lead to evidence-based questioning of accepted theories 
+and practices: 
+This is a world where massive amounts of data and applied mathematics replace every other tool 
+that might be brought to bear. Out with every theory of human behavior, from linguistics to 
+sociology. Forget taxonomy, ontology, and psychology. Who knows why people do what they 
+do? The point is they do it, and we can track and measure it with unprecedented fidelity. With 
+enough data, the numbers speak for themselves. (Anderson, 2008, para. 7) 
+A particularly compelling potential research benefit is the sharing of data used in case studies and other 
+forms of data-based scholarship. This enables research replication, longitudinal analyses, and re-analysis 
+upon the emergence of new tools and approaches. A model in this regard is the DataShop from the 
+Pittsburgh Science of Learning Center, which makes data collected publicly available from online courses 
+and intelligent tutoring systems, including from online programs in ESL, Chinese, and French. The data 
+are available in a standard XML format that can be processed using DataShop’s analysis tools or 
+researcher-preferred tools. The Center offers a myriad set of possible research topics using the data, from 
+predicting student performance to testing models of metacognition. An easy way to share research data is 
+demonstrated in White (2015), where data for the study of German in online communities are shared 
+through Dropbox, a popular file hosting and sharing service. 
+Making analyzed learner data available to students allows individual progress tracking as well as 
+comparisons of individual performance to class norms. Providing continuous feedback on student 
+activities is likely to make students more aware of the learning process, possibly leading to more effective 
+learning strategies. This can blur the line between instruction and assessment, while emphasizing the 
+important role of formative assessment. For individual learners, snapshots from analytics dashboards can 
+be saved and collected in online portfolios—potentially useful in future educational endeavors or 
+professional pursuits. Given its growing importance for both students and learners, everyone in education 
+is likely to need to become more knowledgeable about data analysis: 
+To teach and learn in such environments requires new professional and pedagogical sensibilities. 
+Everyone becomes to some extent a data analyst—learners using analytics to become increasingly 
+self-aware of their own learning and teachers as they acquire a level of data literacy required to 
+interpret a student’s progress and calibrate their instruction (Cope & Kalantzis, 2016, p. 8). 
+It is likely that not everyone will be comfortable with the growing role of big data in education. Clearly, 
+there are legitimate concerns over privacy and a lack of transparency in the collection and use of learner 
+data. In spite of anonymization in reported research data, there may be parameters included that can lead 
+to possible identification of individuals. 
+There is also the danger of overreliance on statistics, reducing the complex process of learning to a 
+numbers game, thereby inviting positivistic and behavioristic responses. Language learning, in particular, 
+is not a linear process—a view learning analytics may encourage. In a study of French Online from 
+Carnegie-Mellon University (using DataShop), Youngs, Moss-Horwitz, and Snyder (2015) point out that 
+some aspects of an online course such as vocabulary learning “might not necessarily show a statistically 
+relevant improvement because each new lesson presents new vocabulary” (p. 349). The study 
+demonstrates how data mining can provide useful information on student behaviors in online courses 
+which affect learning. At the same time, the authors caution that observation of students should factor into 
+the analysis as well, supplying potentially important contextual information. In language learning, relying 
+exclusively on recorded data may distort the learning activities through a lack of consideration of the 
+environment. This points to the continued usefulness of techniques such as eye tracking, keystroke 
+recording, and other sensors (Link & Li, 2015). One of the recent improvements in open learner models is 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 12 
+the ability to incorporate multimodal data. A project described by Bull and Kay (2016) used Kinect 
+cameras and directional microphones to add voice recordings and videos of body language or gestures to 
+recorded data in order to provide a fuller and more accurate account of interactions. In this case, students 
+were working in small groups with touch-controlled surface computers. Similar projects are conceivable 
+with tablets or smartphones. The dynamics of peer collaboration, happening face-to-face or virtually, may 
+be a challenge in terms of data recording but could provide a representation of an important aspect of 
+learning today in all fields. 
+An interesting initiative that uses all available sensors (including on wearable devices) to provide as full a 
+picture as possible of an individual’s activities online is the Quantified Self. A study by Rivera-Pelayo, 
+Zacharias, Müller, and Braun (2012) outlines how Quantified Self approaches can support reflective 
+learning. Tools and services adapted for use in that community, as well as those associated with the 
+similar concept of personal informatics, could be usefully investigated for applications in language 
+learning. At the same time, it is important to keep in mind that not all individual learning actions are 
+trackable—face-to-face encounters, peer consultations, or reading, for example. Such actions come to 
+light, not through data collection but through activities such as learner journals or interviews. A more 
+complete picture of student learning may necessitate quantitative data being supplemented by qualitative 
+methods, an important consideration to keep in mind when using big data sets in the service of teaching 
+and learning. 
+ 
+REFERENCES 
+Anderson, C. (2008). The end of theory: The data deluge makes the scientific method obsolete. Retrieved 
+from https://www.wired.com/2008/06/pb-theory/ 
+Bull, S. (2016). Negotiated learner modelling to maintain today’s learner models. Research and Practice 
+in Technology Enhanced Learning, 11(10), 1–29. Retrieved from 
+http://telrp.springeropen.com/articles/10.1186/s41039-016-0035-3 
+Bull, S., Pain, H., & Brna, P. (1995). Mr. Collins: A collaboratively constructed, inspectable student 
+model for intelligent computer assisted language learning. Instructional Science, 23, 65–87. 
+Bull, S., & Kay, J. (2013). Open learner models as drivers for metacognitive processes. In R. Azevedo & 
+V. Aleven (Eds.), International handbook of metacognition and learning technologies (pp. 349–365), 
+New York, NY: Springer. 
+Bull, S., & Kay, J. (2016). SMILI☺: A framework for interfaces to learning data in open learner models, 
+learning analytics, and related fields. International Journal of Artificial Intelligence in Education, 26(1), 
+293–331. 
+Bull, S., & Wasson B. (2016). Competence visualisation: Making sense of data from 21st-century 
+technologies in language learning. ReCALL, 28(2), 147–165. 
+Case, M. (2015). Language students’ personal learning environments through an activity theory lens. In 
+E. Dixon & M. Thomas (Eds.), Researching language learner interactions online: From social media to 
+MOOCs (pp. 323–346). San Marcos, TX: CALICO. 
+Cook, R., Kay, J., Kummerfeld, R. (2015). MOOClm: User modelling for MOOCs. In F. Ricci, K. 
+Bontcheva, O. Conlan, & S. Lawless (Eds.), 23rd international conference on user modeling, adaptation, 
+and personalization (pp. 80–91). Dublin, Ireland: Springer. Retrieved from 
+http://www.cs.usyd.edu.au/~judy/Homec/Pubs/2015_umap_MOOClm.pdf 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 13 
+Cope, B., & Kalantzis, M. (2016). Big data comes to school: Implications for learning, assessment, and 
+research. AERA Open, 2(2), 1–19. Retrieved from 
+http://journals.sagepub.com/doi/pdf/10.1177/2332858416641907 
+Cornillie, F., Van Den Noortgate, W., Van den Branden, K., & Desmet, P. (2017). Examining focused L2 
+practice: From in vitro to in vivo. Language Learning & Technology, 21(1), 121–145. Retrieved from 
+http://llt.msu.edu/issues/february2017/cornillieetal.pdf 
+Devedzic, V. (2016). Not fade away? Commentary to paper education and the semantic web. 
+International Journal of Artificial Intelligence in Education, 26(1), 378–386. 
+Drachsler, H., & Greller, W. (2016). Privacy and learning analytics: It’s a DELICATE issue. Paper 
+presented at the 6th Learning Analytics and Knowledge Conference, Edinburgh, UK. Retrieved from 
+http://lak16.solaresearch.org/?p=1270 
+Flanagan, K. (2015). Domains, personal APIs, and portfolios. Retrieved from 
+http://kelly.flanagan.io/2015/domains-personal-apis-and-portfolios 
+Fritz, J. (2016). LMS course design as learning analytics variable. In J. Greer, M. Molinaro, X. Ochoa, & 
+T. McKay (Eds.), Proceedings of the 1st learning analytics for curriculum and program quality 
+improvement workshop (pp. 15–29). Retrieved from 
+http://ariadne.cti.espol.edu.ec/pcla2016/files/ProceedingsPCLA2016.pdf 
+García, M. (2011). Learning analytics for matching competences in language learning. Paper presented at 
+the ICT for Language Learning Conference, Florence, Italy. Retrieved from http://conference.pixel-
+online.net/ICT4LL2011/common/download/Paper_pdf/SLA34-316-FP-Garcia-ICT4LL2011.pdf 
+García-Peñalvo, F. J., & Conde, M. Á. (2015). The impact of a mobile personal learning environment in 
+different educational contexts. Universal Access in the Information Society, 14(3), 375–387. 
+Godwin-Jones, R. (2009). Personal learning environments. Language Learning & Technology, 13(2), 
+3–9. Retrieved from http://llt.msu.edu/vol13num2/emerging.pdf 
+Halimi, K., Seridi-Bouchelaghema, H., & Faron-Zucker, C. (2014). An enhanced personal learning 
+environment using social semantic web technologies. Interactive Learning Environments, 22(2), 
+165–187. 
+Heift, T. (2008). Modeling learner variability in CALL. Computer-assisted Language Learning, 21(4), 
+305–321. 
+Hsu, C.-k., Hwang, G.-J., & Chang, C.-K. (2013). A personalized recommendation-based mobile learning 
+approach to improving the reading performance of EFL students. Computers & Education, 63, 327–336. 
+Kitto, K., et al. (2016). The connected learning analytics toolkit. Paper presented at the 6th Learning 
+Analytics and Knowledge Conference, Edinburgh, UK. Retrieved from 
+http://www.users.on.net/~kirsty.kitto/papers/CLAdemo.pdf 
+Laakkonen, I. (2011). Personal learning environments in higher education language courses: an informal 
+and learner-centred approach. In S. Thouësny & L. Bradley (Eds.), Second language teaching and 
+learning with technology: Views of emergent researchers (pp. 9–28). Dublin, Ireland: Research-
+publishing.net. Retrieved from https://research-publishing.net/publication/chapters/978-1-908416-00-
+1/Laakkonen_4.pdf 
+Lewis-Kraus, G. (2016). The great A.I. awakening. New York Times. Retrieved from 
+http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 14 
+Link, S., & Li, Z. (2015). Understanding online interaction through learning analytics: Defining a theory-
+based research agenda. In E. Dixon & M. Thomas (Eds.), Researching language learner interactions 
+online: From social media to MOOCs (pp. 369–385). San Marcos, TX: CALICO. 
+Mira-Giménez, M.-J. (2017). Análisis del e-PEL (portfolio europeo de las lenguas electrónico): Opinión 
+de los alumnos sobre descriptores, aprender a aprender y autoevaluación. RIED. Revista Iberoamericana 
+de Educación a Distancia, 20(1), 207–222. Retrieved from 
+http://revistas.uned.es/index.php/ried/article/view/16519/14716 
+Mouri, K., & Ogata, H. (2015). Ubiquitous learning analytics in the real-world language learning. Smart 
+Learning Environments, 2(15), 1–18. Retrieved from http://link.springer.com/article/10.1186/s40561-
+015-0023-x 
+Nic Giolla Mhichíl, M., van Engen, J., Ó Ciardúbháin, C., Ó Cléircín, G., & Appel, C. (2014). Authentic 
+oral language production and interaction in CALL: An evolving conceptual framework for the use of 
+learning analytics within the SpeakApps project. In S. Jager, L. Bradley, E. J. Meima, & S. Thouësny 
+(Eds.), CALL design: Principles and practice; Proceedings of the 2014 EUROCALL Conference, 
+Groningen, The Netherlands (pp. 248–254). Dublin, Ireland: Research-publishing.net. 
+doi:10.14705/rpnet.2014.000226 Retrieved from http://files.eric.ed.gov/fulltext/ED565096.pdf 
+Nikiforovs, P., & Bledaite, L. (2012), Personalized sequential language vocabulary learning 
+recommender system. Retrieved from 
+https://pdfs.semanticscholar.org/d901/b5dcf47db028f1e56b60b931b72d8767cb6a.pdf 
+Pegrum, M. (2014). Mobile learning: Languages, literacies, and cultures. Basingstoke, UK: Palgrave 
+Macmillan. 
+Pardos, Z., & Kao, K. (2015). moocRP: An open-source analytics platform. In G. Kiczales, D. M. 
+Russell, & B. Woolf (Eds.) Proceedings of the second (2015) ACM Conference on Learning @ Scale (pp. 
+103–110). New York, NY: ACM. 
+Rivera-Pelayo, V., Zacharias, V., Müller, L., & Braun, S. (2012). Applying quantified self approaches to 
+support reflective learning. In S. Dawson & C. Hathornwaite (Eds.), LAK ‘12 Proceedings of the 2nd 
+international conference on learning analytics and knowledge (pp. 111–114). New York, NY: ACM. 
+Retrieved from https://pervasiveblog.files.wordpress.com/2014/06/lak2012_qs.pdf 
+Sunil, L, & Saini, D. (2013). Design of a recommender system for web based learning. Paper presented at 
+the World Congress on Engineering 2013, London, UK. 
+Tongchai, N. (2016). Impact of self-regulation and open learner model on learning achievement in 
+blended learning environment. International Journal of Information and Education Technology, 6(5), 
+343–347. 
+Trifari, E. (2016). We all want data talent—But are we closing the data skills gap? Retrieved from 
+http://venturebeat.com/2016/12/14/we-all-want-data-talent-but-are-we-closing-the-data-skills-gap/ 
+Verbert, K., Duval, E., Klerkx, J., Govaerts, S., & José, L. S. (2013). Learning analytics dashboard 
+applications. American Behavioral Scientist, 57(10), 1500–1509. 
+White, K. (2015). Orientations and access to German-speaking 303 communities in virtual environments. 
+In E. Dixon & M. Thomas (Eds.), Researching language learner interactions online: From social media 
+to MOOCs (pp. 303–322). San Marcos, TX: CALICO. 
+Xu, J., & Bull, S. (2010). Encouraging advanced second language speakers to recognise their language 
+difficulties: A personalised computer-based approach. Computer-assisted Language Learning, 23(2), 
+111–127. 
+Robert Godwin-Jones Scaling Up and Zooming In 
+ 
+Language Learning & Technology 15 
+Yim, S., & Warschauer, M. (2017). Web-based collaborative writing in L2 contexts: Methodological 
+insights from text mining. Language Learning & Technology, 21(1), 146–165. Retrieved from 
+http://llt.msu.edu/issues/february2017/yimwarschauer.pdf 
+Youngs, B., Moss-Horwitz , S., & Snyder, E. (2015). Educational data mining for elementary French on-
+line: A descriptive study. In E. Dixon & M. Thomas (Eds.), Researching language learner interactions 
+online: From social media to MOOCs (pp. 362–368). San Marcos, TX: CALICO. 
+Yu, Q. (2015). Learning analytics: The next frontier for computer assisted language learning in big data 
+age. SHS Web of Conferences, 17, 1–8. Retrieved from http://www.shs-
+conferences.org/articles/shsconf/pdf/2015/04/shsconf_icmetm2015_02013.pdf 

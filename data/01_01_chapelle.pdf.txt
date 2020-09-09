@@ -1,0 +1,632 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol1num1/chapelle/default.html 
+July 1997, Volume 1, Number 1 
+pp.19-43 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 1997, ISSN 1094-3501 21 
+CALL IN THE YEAR 2000: STILL IN SEARCH OF RESEARCH PARADIGMS? 
+ 
+ Carol A. Chapelle  
+ Iowa State University  
+ABSTRACT 
+Advancements in the design and use of computer-assisted language learning (CALL) activities 
+require that key questions about CALL be identified and effective research methods be used to 
+answer them. In this paper, I suggest looking to research on other types of second language (L2) 
+classroom learning activities for guidance in framing CALL research questions and in discovering 
+relevant research methods. I begin with examples from the CALL literature demonstrating the 
+diverse perspectives (e.g., cognitive psychology, constructivism, psycholinguistics) which have 
+been suggested as ways of approaching CALL research. I then summarize the research questions 
+and methods of L2 classroom research with emphasis on the "interactionist" approach and 
+discourse analysis. Using three examples --computer-mediated communication, a microworld, 
+and vocabulary in reading-- I will illustrate how similar discourse analysis methods can address 
+essential descriptive and evaluative questions about CALL activities. Finally, I will outline some 
+implications of this perspective for design and investigation of CALL activities. 
+A glance through the computer-assisted language learning (CALL) literature of the 1990s reveals the 
+profession's quest for principled means of designing and evaluating CALL. Like researchers in other 
+facets of applied linguistics, CALL researchers look to cross-disciplinary sources for perspectives and 
+research methods. A recent example of the breadth of this quest is an article entitled "A theoretical 
+foundation for the development of pedagogical tasks in computer mediated communication," in which the 
+author seeks to "address the pedagogical merits [for second language teaching] of this new medium of 
+communication in relation to current research in Anthropology, Cognitive Psychology, Communication 
+Theory, Linguistics, and Second Language Acquisition (SLA)" (Salaberry, 1996, p. 6). Similarly, in the 
+commentary on a recent collection of papers about intelligent tutoring systems for foreign language 
+learning, the authors draw their comments from perspectives in learning theory, psycholinguistics, 
+human-computer interaction, psychology (MacWhinney, 1995), "a computationally oriented theory of 
+language use" (Bailin, 1995), psycholinguistic theory (Garrett, 1995), theory of novice vs. expert learning, 
+constructivism, and individual differences theory (Oxford, 1995). 
+These diverse perspectives are directed at general questions of how CALL research can increase our 
+understanding of CALL activities. At the same time, there is a need to specify the particularly relevant 
+questions about CALL and to identify ways that they can be investigated through empirical research. In 
+this paper, I suggest that our understanding of CALL would benefit from addressing questions similar to 
+those posed about other L2 classroom learning and from applying the methods used to study L2 learning 
+in other types of classroom activities. I will begin with some examples from the CALL literature which 
+demonstrate the need to look to empirical research methods for investigating instructed SLA. I will then 
+turn to a brief explanation of the research questions and methods of L2 classroom research with emphasis 
+on discourse analysis methods for investigating learners use of L2 tasks. Illustrations are provided of how 
+analogous research questions can be posed for CALL activities and how similar discourse analysis 
+methods can help to investigate CALL use. Finally, I note examples of how classroom research 
+perspectives might inform CALL design. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 22 
+THE NEED FOR EMPIRAL RESEARCH METHODS FOR CALL 
+Because CALL practice draws on cross-disciplinary work, CALL researchers and developers find 
+themselves at the crossroads among disciplines that appear to offer insights for work in CALL. For 
+example, it is evident from the following report of an intelligent tutoring system (ITS) project that some 
+CALL developers see computational linguistics as a foundation for CALL: 
+A rational way to begin research and development into such an ITS would be to start from first 
+principles. The problem, then, lies in deciding which theories of language and pedagogy may 
+prove useful to us. We shall begin with a brief survey of NLP [natural language processing] 
+techniques/theories that form the foundation of our system (Wilks & Farwell, 1992, p. 263). 
+Another project description suggests that along with the computational linguist, the instructional designer 
+comes into play in CALL design: 
+One key to building robust dialog and animation exercises appears to be predicting and 
+controlling the likely variation in what students will say. This calls for negotiation between an 
+instructional designer, on the one hand, and a computational linguist on the other (Holland, 1995, 
+p. 231). 
+Holland goes on to say that the success of the predicting and controlling must be assessed "via user 
+testing," which means observation of the learners' interaction with the program, but it is not clear how 
+"user testing" would be informed by SLA research. 
+SLA does come into play in Holland's scheme insofar as it is represented by "communicative language 
+theory." When it comes to issues of language teaching and learning, 
+the instructional designers and language teacher are concerned with effectiveness of instruction, 
+usability of interface, authenticity of lesson content and what we might call 'pedagogical 
+correctness,' such as adhering to the tenets of communicative language theory, if that is the 
+guiding philosophy (Holland, 1995, p. 233). 
+However, the author's understanding of "communicative language theory" is not explained; nor are its 
+implications for investigating CALL's effectiveness. 
+A book published in 1995 on intelligent tutoring systems for foreign language displays the same fragile 
+foundation for the many otherwise ambitious and interesting projects reported. The editors describe the 
+problem as follows: 
+This book bears out Oxford's claim (Oxford, 1995) that few ICALL [intelligent computer-assisted 
+language learning] projects attend to theories of how people learn or how they might learn best. 
+Many systems are designed solely or partly by computational linguists whose focus is NLP, not 
+the psychology of the learner. How that psychology should be addressed--and whether a priori, 
+empirically, or through some interaction--remains the interesting issue (Holland, Kaplan, & 
+Sams, 1995, p. 314). 
+Even in pointing to the problem, the editors do not allude to a solution involving work in SLA. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 23 
+Why is there such a dissonance between even the most technically sophisticated work in CALL and SLA 
+research? One reason appears to be a lack of confidence in what SLA research can reasonably be 
+expected to offer. For example, several years ago the report of a large scale CALL research project was 
+introduced as follows: 
+There is no doubt that the evaluation of what has been called 'language teaching' necessitates a 
+theoretical framework, a theory of foreign language learning, which has to supply the criteria for 
+the evaluative process. As we all know, such a theory does not exist yet and probably neverwill. 
+In research on second language acquisition and foreign language learning, however, a number of 
+general principles have emerged which seem to be accepted by most L2 researchers (cf. 9, 13, 2 
+[from the same volume]). It seems legitimate to adduce these principles for assessing language 
+teaching materials and the role of the microcomputer as a focal point in classroom activities 
+(Legenhausen & Wolff, 1992, pp. 10-11). 
+These researchers did in fact develop methods for describing CALL use, arguing that such research could 
+either take the perspective of the learner as communicator or the learner as manipulator. When they 
+investigated the "learner as communicator" they adopted discourse analysis methods similar to those of 
+L2 classroom researchers. 
+Several years later, however, another author similarly argues in a review article that CALL research 
+suffers from our lack of knowledge about SLA: 
+The greatest obstacle to the assessment of CALL's efficacy is that (still) 'we know rather little 
+[about SLA], and a great deal of what we do know derives not only from psychologists, but also 
+from various sub-branches of linguistics (Bailin, 1988)' (Liddell, 1994, p.164)... In the final 
+analysis, therefore, achieving effective use of CALL to foster linguistic competence or, 
+ultimately, the development of an acceptable SLA theory, are [sic] dependent upon the ability of 
+researchers to understand how the mind processes information, specifically, a second language 
+(pp. 166-167). 
+Despite these implications that informative research on CALL must wait for a completely articulated 
+theory of language teaching or psycholinguistic processing model of a second language, it is clear that the 
+need exists for perspectives and research methods that can guide in the development and evaluation of 
+CALL activities today. 
+The editorial comments in a recent issue of CALL Journal are among the places where one can find a 
+statement of the urgent need for better research methods for CALL. 
+Validation and evaluation are extremely important aspects of any project and researchers should 
+remember that if their papers are going to carry any weight, their findings have to be 
+substantiated with the support of usage and validation. A number of submissions to this journal 
+have been brilliant in their conception but have had to be returned because...the project had been 
+poorly evaluated (Cameron, 1995, p. 294) 
+Indeed the needed methods of evaluation might be informed to some extent by computational linguistics, 
+instructional design, communicative language theory, a theory of teaching, or a psycholinguistic 
+processing theory. And yet, each of these areas falls short of providing the concrete principles needed to 
+investigate CALL for instructed SLA. The point MacWhinney made about borrowing CALL principles 
+from experimental psychology is equally apt for each field suggested above: "few of [its] principles speak 
+directly to foreign language instruction and computational aids for language learning" (1995, p. 318). 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 24 
+What is needed then is a perspective on CALL which provides appropriate empirical research methods for 
+investigating the critical questions about how CALL can be used to improve instructed SLA. 
+EMPIRICAL RESEARCH METHODS FOR INSTRUCTED SLA 
+Some empirical research methods for instructed SLA have evolved from the L2 classroom research of the 
+1980s which investigated classroom processes (Long, 1980) largely through documentation and analysis 
+of the language used by participants in the classroom (Allwright, 1988; Allwright & Bailey, 1991; 
+Chaudron, 1988; Day, 1986; Gass & Madden, 1985; Van Lier, 1988). Without denying the importance of 
+linguistic outcomes, L2 classroom researchers placed greater emphasis on the type and amount of target 
+language use that learners engaged in to provide evidence for the quality of classroom instruction. L2 
+classroom researchers found the most revealing way of documenting the processes occurring in an L2 
+classroom to be description of the language, or discourse, of the participants. As a result, discourse 
+analysis has become a mainstay as a means for teachers and researchers to investigate L2 classrooms to 
+the point that professional wisdom about teaching is often couched in discourse analytic terms, as the 
+following adages illustrate: Time spent on learner talk is better than time spent on teacher talk; learners 
+should have the opportunity to comprehend a variety of functions in the target language; learners should 
+engage in communicative exchanges in the target language. 
+Research describing L2 classroom language developed collaterally with theory hypothesizing the ideal 
+target language episodes for SLA. Beginning with Hatch's (1978) observation that language appears to be 
+learned through conversation, Krashen's (1982) hypothesis about the value of "comprehensible input," 
+and Long's (1985) research demonstrating the importance of interaction, researchers have attempted to 
+better understand the input and conversational interaction that learners are exposed to during L2 
+instruction. The goal is to identify conditions under which ideal input and interactions take place. The 
+theoretical foundations and evolution of this research, which is now known as the "interactionist" 
+approach to SLA, is documented in a number of sources, particularly by Pica (Pica, 1994; Pica, Kanagy, 
+& Falodun, 1993; Pica, Lincoln-Porter, Paninos, & Linnell, 1996). I will explain only briefly the research 
+methods and the assumptions they rest on in terms of their significance for the study of CALL, but it is 
+first necessary to justify the relevance of this line of research to the critical questions about CALL. 
+ 
+APPLYING RESEARCH ON INSTRUCTED SLA TO CALL 
+To consider research methods for evaluating CALL activities and informing their design, it is essential 
+first to identify the relevant research questions. Many questions can be posed such as those focusing on 
+evaluation of the interface, the quality of the program's language recognition procedures, the learners' 
+apparent (dis)satisfaction, or their opportunities to engage in cross-cultural exchanges. Each of these 
+factors may contribute to the degree of success of a CALL activity, but because the purpose of CALL 
+activities is L2 learning, the most critical questions to be addressed about CALL are the following: 
+o What kind of language does the learner engage in during a CALL activity? 
+o How good is the language experience in CALL for L2 learning? 
+The first question requires description of the language that learners hear/read and produce during the 
+CALL activity. It is critical because its answer provides the instructor a means of deciding the role that 
+the CALL activity should play relative to other potential assignments. For example, to decide whether or 
+not to assign a regular e-mail pal with whom students are to correspond during the course of a semester, 
+the instructor needs to have an idea of the language that the learners are likely to engage in during the 
+activity. Do learners tend to write a lot to each other, or just a few lines? Do they use the syntax, 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 25 
+vocabulary, and pragmatic functions that they need to practice to improve and expand their L2? Do they 
+produce language showing evidence of the planning time they are allowed for composing and correcting, 
+or does the language appear to be rapidly produced with little attention to its formal correctness? The 
+answers to these and other questions about the language resulting from an assigned CALL activity are 
+important for making decisions such as how much time should be spent on an activity. 
+The second question is evaluative. Evaluating the quality of learner language in an L2 task requires that 
+some assumptions be held concerning the types of language use expected to be beneficial for L2 
+development. For hypotheses about what to look for in learners' language, CALL researchers can turn to 
+the work of interactionist SLA researchers who operate under the assumption that the L2 is acquired 
+through learners' interaction in the target language because it provides opportunities for learners to: (a) 
+comprehend message meaning, which is believed to be necessary for learners to acquire the L2 forms that 
+encode the message; (b) produce modified output, which requires their development of specifics of 
+morphology and syntax; and (c) attend to L2 form, which helps to develop their linguistic systems 
+(Krashen, 1982; Larsen-Freeman & Long, 1991; Nobuyoshi & Ellis, 1993; Pica, Holliday, Lewis, & 
+Morgenthaler, 1989; Swain, 1985; Swain & Lapkin, 1995). Following from these assumptions about L2 
+acquisition, one can specify the observable features of learner language that should be ideal for 
+acquisition. Features include signals which focus attention on language, and which may elicit a repetition 
+or an expansion of previous language. These types of moves, which focus attention on language by 
+repeating, recasting, and expanding on prior language, are believed to be beneficial for SLA and therefore 
+identification of such sequences has been a means of investigating the quality of particular L2 tasks for 
+acquisition. Example 1 illustrates these types of linguistic exchanges that have been identified in SLA 
+research. 
+In short, the broad perspective of SLA classroom research holds the language of the classroom 
+participants as central for evaluating the quality of learning. The results of such research in L2 classrooms 
+and experimental settings have provided a clearer picture of the nature of language that occurs in 
+classroom activities, in addition to hypotheses about the relative value for SLA of particular linguistic 
+features. In the study of CALL, in contrast, only a few studies have attempted to document the nature of 
+the linguistic exchanges that learners participate in (Abraham & Liou, 1991; Beauvois, 1992; Bland, 
+Noblitt, Armington, & Gay, 1990; Chapelle, 1990; Chun, 1994; Goodfellow & Laurillard, 1994; Kelm, 
+1992; Kern, 1995; Mohan, 1992; Piper, 1986) and fewer have attempted systematic hypotheses about the 
+value of the language of a CALL activity (Chapelle, 1994). In order to apply L2 classroom research to the 
+study of CALL activities, it is useful to view CALL through the lense of the classroom researcher who 
+studies the discourse constructed through the linguistic and non-linguistic moves of participants. To 
+explain how CALL can be investigated from this perspective, I will describe three examples of CALL 
+activities, and then outline descriptive and evaluative approaches for investigating them. 
+A Few Examples of CALL Activities 
+Generally speaking, the pedagogical goal of CALL activities is for learners to improve their ability in the 
+target language by participating in linguistic interactions. It is useful to consider the types of interactions 
+as belonging to two classes depending on who the participants are. When participants are learners 
+working together through oral language or through written conversations taking place in computer-
+mediated communication, these conversations among the learners comprise the discourse intended for 
+language learning. A different type of interaction takes place when the computer acts as a participant 
+while one or more learners work interactively with a computer program. In other words, because of the 
+different participants associated with each, the language of activities based on computer-mediated 
+communication among learners would be expected to be different than the language of activities based on 
+learner-computer interaction. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 26 
+In addition to the participants, a second important dimension affecting the interaction is the type of goal 
+that learners work toward during a task. If the learner accomplishes the goal through constructing and 
+interpreting linguistic meanings, it is considered a "communicative" goal, whereas when the learner's sole 
+focus is directed to linguistic form, the goal is considered to be non-communicative (e.g., Ellis, 1995). A 
+communicative task may in fact interrupt the communication to focus on language en route to 
+accomplishing a communicative goal, but the learners do not lose sight of what they are attempting to 
+accomplish through the use of language. The participants and the goals would only be two of the activity 
+characteristics expected to influence the language (see Chapelle, 1995, for an outline of a broader 
+framework, and Chapelle, in press, for more detail). I have selected three examples of CALL activities all 
+of which I would analyze as having communicative task goals. The first is conducted with learners as 
+participants, while in the second and third, the computer and learner are the participants. 
+The first example is a CALL activity in a university-level, fourth-semester Brazilian Portuguese class 
+held in the U.S. (Kelm, 1992). Students attended class three hours a week. For one hour each Friday, class 
+was held in the microcomputer center of the university library. Before coming to the computer lab, 
+students were assigned to read a particular Brazilian short story which was to serve as the topic for the 
+computer-assisted classroom discussion. When the students arrived at the computer lab, they logged in 
+and received a message from the instructor including three or four questions which the instructor had 
+selected to probe their comprehension of the story or to open discussion of topics raised in the story. After 
+receiving the instructor's message, students were able to enter the electronic discussion by typing their 
+comments at their computers. When an individual student had completed a message and was satisfied 
+with it, he or she would send it to the rest of the class. Others would be doing the same thing, each at his 
+or her own pace. The result is a written conversation with contributions from all or many of the members 
+of the class, as shown in Example 2. For more on the development of computer-mediated communication, 
+see Bruce, Peyton, & Batson (1993), and for more on using this technology for L2 activities, see 
+Warschauer (1995a, 1995b). 
+In the next example, learners work individually playing the role of an inspector, "Kommissar," who must 
+interrogate suspects to discover which of them must have committed a crime (DeSmedt, 1995). Linguistic 
+interaction is accomplished by the learner and the computer each taking turns in a written "dialogue." The 
+learner, a student of German as a foreign language, composes and enters his or her questions in German at 
+the keyboard. Questions, such as the ones shown in Example 3 are about the past actions and knowledge 
+of the suspect. The computer program parses the learner's output and for each one returns a response 
+representing the suspect's answer. 
+In the final example, the pedagogical goal is learning American idioms, but the learner also focuses on 
+and works toward the communicative goal of story comprehension. 
+The story about an American executive who is transferred to South America has intentionally been 
+constructed to contain a lot of American English idioms. The interaction is accomplished through learners 
+non-linguistic moves (i.e., their mouse clicks for scrolling and for indicating requests for a definition). In 
+this case, achieving the goal of comprehension should be interrupted each time the learner reaches an 
+unfamiliar idiom and therefore clicks to get the definition. The exchange type would look as shown 
+in Example 4. 
+I will refer to these three examples as "the Portuguese story," "the German interrogation," and "the ESL 
+idioms," respectively, as I outline how each could be investigated through descriptive and evaluative 
+research. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 27 
+Descriptive Research on Instructed SLA Applied to CALL 
+Researchers' description of the language in L2 learning activities is centered around three aspects: the 
+input provided to the learner, the learner's output, and the interaction that is constructed through the turns 
+consisting of input and output. Each of these aspects can be described in five ways. 
+First, we can describe the pragmatic role of the target language in a given L2 learning task. Does the 
+input, for example, function to provide new information, or as a display of a teaching point? Does the 
+learner's output function as an expression of agreement or disagreement, for example, in order to meet the 
+task goal? In the ESL idiom activity, the functions that the target language input performs are to transmit 
+narrative information, make salient the linguistic items to be learned by the learner, and provide 
+restatement for the idioms and the text containing idioms. The learners' output in the German 
+interrogation is to request information, and in the Portuguese story it is to express opinions and ideas 
+about the instructor's question and the other students' ideas. The interaction of the ESL idiom activity 
+functions to provide meanings for the idioms; in the German interrogation, it constructs a dialog revealing 
+the story of the suspects; and in the Portuguese story, it maintains collaborative discussion through 
+nomination and development of a number of topics. 
+Second, the linguistic characteristics of the language can be described in terms of what aspects of the 
+target language grammatical systems appear in the input to the learner, the output from the learner, and 
+the interaction. The input of the German interrogation consists of short declarative sentences in past or 
+present tense using the lexicogrammatical forms expressing location, reason, knowledge, and actions. The 
+output from the learner in the German interrogation consists of short questions, primarily in the past 
+tense. The output in the Portuguese story task is more varied. It is oriented around, but not completely 
+constrained by, the language of the story in past tense. The orientation is not maintained as the learners 
+move into a light-hearted discussion of the shoes in the story and then to grammatical correctness of the 
+language they are working with. The linguistic characteristics of the CALL task interaction can be 
+described in terms of its coherence, cohesion, and structure of text. One might describe the interaction of 
+the Portuguese story task by tracing how the turns are structured to contribute to--or detract from--the 
+quality of the learners' understanding of the story. 
+The third feature to describe is the character of the non-linguistic forms and moves. Unlike face-to-face 
+activities, some CALL activities in which the computer acts as a participant are intended to rely on forms 
+of communication other than the target language (e.g., icons and mouse clicks) to accomplish the task 
+goal. CALL activities often include graphic input to the learner such as that found in the ESL idiom 
+activity, in which input includes a picture of Daniel's dog "Bernie," which functions as a definition of 
+both the dog that is the subject of the story and the term "Airedale." In the same activity, the form of the 
+non-linguistic output is the mouse click used to request definitions and to move the story forward. These 
+non-linguistic outputs work together with the linguistic input from the computer screen to accomplish the 
+interaction. Other CALL activities which rely on the language to move the interaction forward have a less 
+substantive use for non-linguistic characteristics. For example, in the German interrogation and 
+Portuguese story activities, signals of end-of-turn are accomplished through mouse clicks or by 
+pressing return to post or enter the learners' linguistic messages. 
+The fourth feature is the quantity of language. How much target language input does the learner receive? 
+How much target language output does the learner produce? How much interaction does the learner 
+engage in and how long are the learner's turns within the interaction? The German interrogation task is 
+comprised of rather short turns by both the computer and the learner. This length is constrained because 
+of the task goal of discovering whether or not the suspect is guilty in addition to the participants, one of 
+which is the computer. The Portuguese story activity has neither of these constraints, but the turns in this 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 28 
+activity are also rather short. In the ESL idiom activity, a lot of input is provided to the learner, but the 
+learner's output is minimal and all non-linguistic. 
+The fifth feature, the medium of language, refers to the manner in which the language is transmitted. In 
+all of the examples, the target language is transmitted in written mode. In this sense, the three examples 
+are not representative of the many types of CALL activities in which aural input is provided. 
+These five features help to identify what is relevant for describing the input, output, and interaction of 
+CALL activities. Such descriptive work on the nature of the language entailed in various CALL tasks is 
+an essential first step toward understanding the potential value of a CALL activity. As Loschky and Bley-
+Vroman (1993) point out with reference to grammar teaching, choice of an appropriate classroom task 
+requires knowledge of the extent to which the language that learners need to practice is likely to occur, 
+given the task goal, participants, and other task variables. The way of gaining this understanding is 
+through description of observed language and non-language moves in CALL tasks. A second use of this 
+descriptive work is to provide a means for assessing the degree of authenticity of CALL activities in 
+relation to the activities learners will encounter outside class in the target language. Although there is a 
+great need for this type of descriptive work by itself, description needs to be augmented by evaluative 
+research. 
+Evaluative Research on Instructed SLA Applied to CALL 
+On the basis of the SLA theory and research I summarized above, suggestions have been made 
+concerning the empirically observable criteria for evaluating the quality of the language that learners use 
+while working on tasks. These suggestions provide a basis for identifying the ideal qualities of L2 input, 
+output, and interaction. 
+The ideal qualities of input have been hypothesized in terms of their pragmatic role, linguistic 
+characteristics, and quantity. With respect to quantity, more input is probably better than less, but not just 
+any type of input is considered equally valuable. Good input, that is "comprehensible input" (Krashen, 
+1982), needs to play a role in helping the learner accomplish the task goal. The learner should 
+comprehend its semantic and pragmatic function to meet a task goal and, at the same time, the input 
+should provide new data for the learner's developing system. Examining the input alone, however, one 
+cannot know whether or not it should be considered sufficient in linguistic level or amount for a given 
+learner. Nevertheless, some input characteristics can be identified as potentially comprehension 
+enhancing--and these may help to focus description of language in L2 tasks. The researcher might, for 
+example, note whether or not the input has been modified through simplification, elaboration, added 
+redundancy, or sequencing to make it "comprehensible" (Chaudron, 1988; Larsen-Freeman & Long, 
+1991). In the ESL idiom activity, for example, the idioms are modified upon the stu dent's request through 
+definitional elaborations and restatements which simplify the input by increasing the lexical transparency. 
+A second key question is whether or not the input is marked to help learners notice particular linguistic 
+features (Schmidt & Frota, 1986; Doughty, 1991). Again, the ESL idiom activity provides an example, as 
+the idioms are marked as hot spots. 
+Ideal output, sometimes referred to as "comprehensible output" (Swain 1985), is believed to be valuable 
+when it plays a role in helping learners convey meaning while stretching their linguistic resources. Swain 
+& Lapkin (1995) explained comprehensible output as follows: 
+ 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 29 
+In producing the L2, a learner will on occasion become aware of (i.e., notice) a linguistic problem 
+(brought to his/her attention either by external feedback [e.g., clarification requests] or internal 
+feedback). Noticing a problem 'pushes' the learner to modify his/her output. In doing so, the 
+learner may sometimes be forced into a more syntactic processing mode than might occur in 
+comprehension ( p. 373). 
+The hypothesis is that the syntactic mode of processing helps learners to internalize new forms (Pica, 
+Holliday, Lewis, & Morgenthaler, 1989) and to improve in the accuracy of their grammatical knowledge 
+(Nobuyoshi & Ellis, 1993). Comprehensible output, which occurs in the language that learners produce to 
+achieve communicative task goals, is observed in a sequence of linguistic interaction consisting of the 
+learner's unsuccessful attempt at expression followed by his or her linguistic modification of the form 
+perceived as problematic. The trigger that causes the learner to notice the problem in the original output 
+may or may not appear in the text. If the learner's attention is drawn to the problematic form by another 
+participant in the task, the text may reflect the interlocutor's clarification request, as the texts in Example 
+1 illustrate. 
+Of course, for a CALL activity to offer the opportunity for comprehensible output, it must require the 
+learner to produce linguistic output. Activities such as ESL idioms in which all output from the learner 
+consists of mouse clicks provide no opportunity for comprehensible output. In the Portuguese story 
+activity, in contrast, learners do produce language to achieve a communicative task goal and therefore 
+opportunities for correction are possible, but in order to conclude that the Portuguese story activity 
+promoted such sequences, we would need to observe learners' output with corrections from their previous 
+output. Corrections might be prompted by other students' requests for clarification or corrective feedback 
+(Lightbown & Spada, 1990). Similarly, in the German interrogation activity, the potential exists for 
+modified output, but research showing learners' corrections of their previous output would be needed 
+before the activity could be recommended as a means for getting learners to produce comprehensible 
+output. 
+The value of interaction for L2 development has been discussed in terms of the linguistic form and 
+pragmatic role of the interactions. The linguistic form of a good interaction is hypothesized to occur when 
+the normal interactional structure has been modified because the learner has requested, for example, a 
+repetition, clarification, or restatement of the original input. The reason that the modified interaction is 
+expected to be good is that it can function to negotiate the meaning of the input (Long, 1985). Larsen-
+Freeman and Long (1991) summarize this view of interactional modifications: 
+Modification of the interactional structure of conversation or of written discourse during reading ... is a 
+[good] candidate for a necessary (not sufficient) condition for acquisition. The role it plays in negotiation 
+for meaning helps to make input comprehensible while still containing unknown linguistic elements, and, 
+hence, potential intake for acquisition (p. 144). 
+Ideally, then, we would want to observe interaction displaying learners' moves in which the normal 
+structure of interaction was disrupted to request modifications of the input they had received. In the ESL 
+idiom activity, mouse clicks on the idioms would constitute modification requests which interrupt the 
+normal interactional structure of a written text. A second type of interactional modification believed to 
+facilitate SLA is one that interrupts the normal interactional structure which is working toward a 
+communicative goal to focus on linguistic form, that is, overt correction of linguistic errors learners 
+produce while they are working toward communicative goals. Althought they are not illustrated in 
+Example 3, such interruptions are intended as a part of the design of activities such as the German 
+interrogation, in which the conversation is stopped to provide advice on grammatical errors while the 
+learner is working toward the communicative goal. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 30 
+Table 1 summarizes questions that may help researchers to focus investigations of the interactions from 
+L2 tasks on the basis of hypotheses from SLA theory. These questions offer a starting point for 
+addressing the relevant questions about CALL, but they have limitations. First, these hypotheses were 
+made on the basis of research results from classroom tasks in which oral face-to-face language was the 
+medium of communication. Second, the characteristics of observed interaction outlined above are those 
+which are hypothesized to be positive; they do not constitute direct evidence of learning. The way of 
+assessing the extent to which these processes impact eventual learning outcomes is to investigate task-
+based language in combination with learning outcomes. Nevertheless, it is useful to consider the 
+implications of this perspective for CALL. 
+IMPROVING CALL ACTIVITIES THROUGH L2 CLASSROOM RESEARCH 
+If one accepts the tenets of interactionist SLA research, some ideal approaches to CALL design and 
+evaluation are evident. Activities should be designed to create opportunities for comprehension of 
+linguistic input through modification of the normal structure of interaction. We currently see some 
+activities such as the ESL idiom example which require application of the principle of "interactional 
+modification." This principle is also applied to activities with audio and video input in which 
+modifications consist of simplified aural input (e.g., segmented input), textual transcription of the aural 
+language, or elaboration on meaning and usage of the language of the input. These interactional 
+modifications initiated by the learner on input from the computer should yield similar psycholinguistic 
+effects as those in oral face-to-face linguistic exchanges in which they were first investigated. However, it 
+is necessary to investigate the effectiveness of such interactions for acquisition of the specific linguistic 
+items for which interactional modifications are observed, as Hsu (1994) has done. 
+Activities are also needed which provide opportunities for production of comprehensible linguistic output. 
+Activities, such as the ESL idioms, in which learners' output consists solely of mouse clicks, contain no 
+such opportunities. Comprehensible output can occur when learners communicate with each other or 
+interact through language with a computer program. It is important to note, however, that not just any 
+linguistic production is considered beneficial "comprehensible output" from the interactionist perspective. 
+Work is needed to better understand the types of CALL activities that promote learners dual concern for 
+communicating linguistic meaning while attending to and correcting their linguistic form. Based on SLA 
+research investigating the effects of various task goals, one can predict that activities such as the 
+Portuguese story activity are unlikely to result in learners' production of comprehensible output because 
+the goal does not require the participants to converge intellectually or to produce a tangible outcome, and 
+student participants may be unwilling or unable to correct each other. Activities such as the German 
+interrogation, on the other hand, require production of language that is sufficiently meaningful and correct 
+that the computer program can interpret it. Learners run into difficulty when the output is not 
+comprehensible, and therefore they are prompted to attend to form and make corrections. Although the 
+Portuguese story and the German interrogation appear to contrast in the likelihood for fostering 
+comprehensible input on the basis of the activity participants, it is important to note that it is not the 
+participants alone that make the difference; the task goal also plays a role in affecting learners' output. 
+Both of these suggestions rest on the premise that activities are needed for directing learners attention to 
+form -- both the formal characteristics of the linguistic input and those of the output that the learners 
+produce. It is important to distinguish these suggestions from those underlying CALL activities in which 
+the focus is grammar alone. As Underwood (1984) pointed out many years ago, CALL in which the task 
+goal is completion of formal grammar exercises would not be considered within the purview of 
+communicative teaching practices. What was not very well understood years ago, however, is the 
+importance of learners' attention to form periodically while they are working toward a communicative 
+task goal. CALL activities can do this through, for example, displaying hot spots with links to supporting 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 31 
+materials, highlighting relevant forms (Doughty, 1991), and signaling learners when they have made 
+errors (Chanier, Pengelly, Twidale, & Self, 1992). The effectiveness of these features needs to be 
+investigated empirically. 
+STILL IN SEARCH OF RESEARCH PARADIGMS? 
+As we approach the year 2000, the technical realities for CALL have expanded far beyond prior 
+expectations. To attempt the best pedagogical applications for this technology, research on CALL use is 
+needed. The approaches outlined above are based on L2 classroom research in general and interactionist 
+research in particular, which direct us to investigate two critical questions about CALL: 
+o What kind of language does the learner engage in during a CALL activity? 
+o How good is the language experience in CALL for L2 learning? 
+L2 classroom research suggests the need for descriptive research documenting the nature of the 
+interaction that learners engage in within various CALL contexts. In other words, it is essential for CALL 
+research to observe learners' linguistic and non-linguistic interactions in order to understand the nature of 
+the task. Hypotheses made by interactionist researchers provide guidelines for focused description, 
+looking for particular aspects of the interaction that we expect to be positive for SLA. 
+In my view, these questions and methods are fundamental for choosing classroom activities, but they are, 
+of course, not the only questions that one might pose about CALL use nor the only informative approach 
+to research. For example, one might also investigate the extent to which learners have mastered a specific 
+linguistic point, the metacognitive strategies learners use while working on CALL, or the quality of the 
+cross-cultural experience they gain through CALL. Accordingly, other research methods, such as 
+experimental, correlational, introspective, or ethnographic methods, might also be used. However, if 
+progress is to be made in CALL, it seems necessary to shift from general approaches such as those of 
+psychology, computational linguistics, and educational technology to the specific questions and methods 
+of researchers who investigate instructed SLA. With SLA research as a basis for investigation of CALL, 
+the paradigm search of the next decade can be a quest for methods that complement our fundamental 
+understanding of the language experience learners engage in through CALL activities. 
+ABOUT THE AUTHOR 
+Carol Chapelle is a professor in the Department of English and Program in Linguistics at Iowa State 
+University where she teaches courses in second language acquisition, language testing, and computers in 
+applied linguistics. She has published extensively in the areas of computer-assisted language learning and 
+language assessment. 
+E-mail: carolc@iastate.edu 
+REFERENCES 
+Abraham, R., & Liou, H.C. (1991). Interaction generated by three computer programs: analysis of 
+functions of spoken language. In P. Dunkel (Ed.), Computer-as sisted language learning and testing: 
+Research issues and practice (pp. 85-109). New York: Newbury House. 
+Allwright, D. (1988). Observation in the language classroom. London: Longman. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 32 
+Allwright, D., & Bailey, K.M. (1991). Focus on the language classroom: An introduction to classroom 
+research for language teachers. Cambridge: Cambridge University Press. 
+Bailin, A. (1988). Artificial intelligence and computer-assisted language instruction. CALICO Journal, 3, 
+25-45. 
+Bailin, A. (1995). AI and language learning: Theory and evaluation. In V. M. Holland, J. D. Kaplan, & 
+M. R. Sams (Eds.), Intelligent language tutors: Theory shaping technology (pp. 327-343). Mahwah, NJ: 
+Lawrence Erlbaum Associates. 
+Beauvois, M. H. (1992). Computer-assisted classroom discussion in the foreign language classroom: 
+Conversation in slow motion. Foreign Language Annals, 25(5), 455-464. 
+Bland, S. K., Noblitt, J. S., Armington, S., & Gay, G. (1990). The naive lexical hypothesis: Evidence 
+from computer-assisted language learning. Modern Language Journal, 74, 440-450. 
+Bruce, B., Peyton, J. K., & Batson, T. (Eds.). (1993). Network-based classrooms: Promises and realities. 
+Cambridge: Cambridge University Press. 
+Cameron, K. (1995). Editorial. Computer Assisted Language Learning, 8(4), 293-294. 
+Chanier, T., Pengelly, M., Twidale, M., & Self, J. (1992). Conceptual modelling in error analysis in 
+computer-assisted language learning systems. In M. L. Swartz & M. Yazdani (Eds.), Intelligent tutoring 
+systems for foreign language learning (pp. 125-150). Berlin: Springer-Verlag. 
+Chapelle, C. A. (1990). The discourse of computer-assisted language learning: Toward a context for 
+descriptive research. TESOL Quarterly, 24, 199- 225. 
+Chapelle, C. A. (1995). A framework for the investigation of CALL as a context for SLA. CFLL Journal, 
+6(3), 2-8. 
+Chapelle, C. A. (1994). CALL activities: Are they all the same? System, 22(1), 33-45. 
+Chapelle, C. (in press). Computer applications in second language acquisition: Foundations for teaching, 
+testing, and research. Cambridge: Cambridge University Press. 
+Chaudron, C. (1988). Second language classrooms: Research on teaching and learning. Cambridge: 
+Cambridge University Press. 
+Chun, D. M. (1994). Using computer networking to facilitate the acquisition of interactive 
+competence. System, 22(1), 17-31. 
+Day, R. (Ed.). (1986). Talking to learn: Conversation in second language acquisition.. Rowley, MA: 
+Newbury House. 
+DeSmedt, W. (1995). Herr Kommissar: An ICALL conversation simulator for intermediate German. In V. 
+M. Holland, J. Kaplan, & M. Sams (Eds.), Intelligent language tutors: Theory shaping technology (pp. 
+153-174). Hillsdale, NJ: Lawrence Erlbaum. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 33 
+Doughty, C. (1991). Second language instruction does make a difference: Evidence from an empirical 
+study of SL relativization. Studies in Second Language Acquisition, 13, 431-469. 
+Ellis, R. (1995). Interpretation tasks for grammar teaching. TESOL Quarterly, 29, 87-105. 
+Garrett, N. (1995). ICALL and second language acquisition. In V. M. Holland, J. D. Kaplan, & M. R. 
+Sams (Eds.), Intelligent language tutors: Theory shaping technology (pp. 345-358). Mahwah, NJ: 
+Lawrence Erlbaum Associates. 
+Gass, S. M., & Madden, C. G. (Eds.). (1985). Input in second language acquisition. Rowley, MA: 
+Newbury House Publishers. 
+Goodfellow, R., & Laurillard, D. (1994). Modeling lexical processes in lexical CALL. CALICO Journal, 
+11(3), 19-46. 
+Hatch, E. (1978). Discourse analysis and second language acquisit ion. In E. Hatch (Ed.), Second 
+language acquisition: A book of readings. Rowley, MA: Newbury House. 
+Hirst, G. (1991). Does conversation analysis have a role in computational linguistics? Computational 
+Linguistics, 17(2), 212-227. 
+Holland, V. M. (1995). Lessons learned in designing intelligent CALL: Managing communication across 
+disciplines. Computer-Assisted Language Learning, 7(3), 227-256. 
+Holland, V. M., Kaplan, D., & Sams, M. R. (Eds.). (1995). Intelligent language tutors: Theory shaping 
+technology. Mahwah, NJ: Lawrence Erlbaum Associates. 
+Hsu, J. (1994). Computer assisted language learning (CALL): The effect of ESL students' use of 
+interactional modifications on listening comprehension. Unpublished doctoral dissertation, Department of 
+Curriculum and Instruction, College of Education, Iowa State University, Ames, IA. 
+Hsu, J., Chapelle, C., & Thompson, A. (1993). Exploratory environments: What are they and do students 
+explore? Journal of Educational Computing Research, 9(1), 1-15. 
+Kelm, O. R. (1992). The use of synchronous computer networks in second language instruction: A 
+preliminary report. Foreign Language Annals, 25(5), 441-454. 
+Krashen, S. (1982). Principles and practice in second language acquisition. Oxford: Pergamon. 
+Larsen-Freeman, D., & Long, M. (1991). An introduction to second language acquisition 
+research. London: Longman. 
+Legenhausen, L., & Wolff, D. (1992). STORYBOARD and communicative language learning: Results of 
+the Dusseldorf CALL project. In M. L. Swartz & M. Yazdani (Eds.), Intelligent tutoring systems for 
+foreign language learning (pp. 9-23). Berlin: Springer-Verlag. 
+Levinson, S. C. (1983). Pragmatics. Cambridge: Cambridge University Press. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 34 
+Liddell, P. (1994). Learners and second language acquisition: A union blessed by CALL? Computer-
+Assisted Language Learning, 7(2), 163-173. 
+Lightbown, P., & Spada, N. (1990). Focus-on-form and corrective fedback in communicative language 
+teaching. Studies in Second Language Acquisition, 25, 1-14. 
+Long, M. H. (1985). Input and second language acquisition theory. In S. M. Gass & C. G. Madden 
+(Eds.), Input in second language acquisition (pp. 377-393). Rowley, MA: Newbury House Publishers. 
+Loschky, L., & Bley-Vroman, R. (1993). Grammar and task-based methodology. In G. Crookes & S. 
+Gass (Eds.), Tasks and language learning: Integrating theory & practice (pp. 123-167). Clevedon, 
+England: Multilingual Matters, Ltd. 
+Luff, P., Gilbert, N., & Frohlich, D. (Eds.). (1990). Computers and conversation. London: Academic 
+Press. 
+MacWhinney, B. (1995). Evaluating foreign language tutoring systems. In V. M. Holland, J. D. Kaplan, 
+& M. R. Sams (Eds.), Intelligent language tutors: Theory shaping technology (pp. 317-326). Mahwah, 
+NJ: Lawrence Erlbaum Associates. 
+Mohan, B. (1992). Models of the role of the computer in second language development. In M. Pennington 
+& V. Stevens (Eds.), Computers in applied linguistics: An international perspective (pp. 110-126). 
+Clevedon, Avon: Multilingual Matters, Ltd. 
+Nobuyoshi, J., & Ellis, R. (1993). Focused communication tasks. English Language Teaching Journal, 
+47, 203-210. 
+Oxford, R. L. (1995). Linking theories of learning with intelligent computer-assisted language learning. In 
+V. M. Holland, J. D. Kaplan, & M. R. Sams (Eds.), Intelligent language tutors: Theory shaping 
+technology (pp. 359-369). Mahwah, NJ: Lawrence Erlbaum Associates. 
+Pica, T. (1994). Research on negotiation: What does it reveal about second-language learning conditions, 
+processes, and outcomes? Language Learning, 44(3), 493-527. 
+Pica, T., Holliday, L., Lewis, N., &Morgenthaler, L. (1989). Comprehensible outpu t as an outcome of 
+linguistic demands on the learner. Studies in Second Language Acquisition, 11, 63-90. 
+Pica , T., Kanagy, R., & Falodun, J. (1993). Choosing and using communication tasks for second 
+language instruction. In G. Crookes and S. Gass (Eds.), Tasks and language learning: Integrating theory 
+& practice. Clevedon, England: Multilingual Matters, Ltd. 
+Pica, T., Lincoln-Porter, F., Paninos, D., & Linnell, J. (1996). Language learners' interaction: How does it 
+address the input, output, and feedback needs of L2 learners? TESOL Quarterly, 30(1), 59-84. 
+Piper, A. (1986). Conversation and the computer: A study of the conversational spin-off generated among 
+learners of English as a second language working in groups. System, 14, 187-198. 
+Salaberry, M. R. (1996). The theoretical foundation for the development of pedagogical tasks in computer 
+mediated communication. CALICO Journal, 14(1), 5-34. 
+Carol A. Chapelle Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 35 
+Schmidt, R., & Frota, S. (1986). Developing basic conversational ability in a second language: A case 
+study of an adult learner of Portuguese. In R. Day (Ed.), Talking to learn: Conversation in second 
+language acquisition. Rowley, Mass.: Newbury House. 
+Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible 
+output in its development. In S. M. Gass & C. G. Madden (Eds.), Input in second language 
+acquisition (pp. 235-253). Rowley, MA: Newbury House Publishers. 
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step 
+towards second language learning. Applied Linguistics, 16, 371-391. 
+Underwood, J. (1984). Linguistics, computers, and the language teacher. Rowley, MA: Newbury House. 
+Van Lier, L. (1988). The classroom and the learner. London: Longman. 
+Warschauer, M. (Ed.). (1995a). Virtual connections: On-line activities & projects for networking 
+language learners. Honolulu, HI: Second Language Teaching & Curriculum Center, University of 
+Hawai'i. 
+Warschauer, M. (1995b). E-mail for English teaching. Alexandria, VA: TESOL Publications. 
+Wilks, Y., & Farwell, D. (1992). Building an intelligent second language tutoring system from whatever 
+bits you happen to have lying around. In M. L. Swartz & M. Yazdani (Eds.), Intelligent tutoring systems 
+for foreign language learning (pp. 263-273). Berlin: Springer-Verlag. 

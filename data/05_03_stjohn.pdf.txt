@@ -1,0 +1,803 @@
+Language Learning & Technology
+http://llt.msu.edu/vol5num3/stjohn/
+September 2001, Vol. 5, Num. 3
+pp. 185-203
+Copyright © 2001, ISSN 1094-3501 185
+A CASE FOR USING A PARALLEL CORPUS AND CONCORDANCER
+FOR BEGINNERS OF A FOREIGN LANGUAGE
+Elke St.John
+University of Sheffield, UK
+ABSTRACT
+This pilot study set out to determine whether a parallel corpus and a concordancer would
+be appropriate tools to supplement a teaching programme of German at the beginners'
+level in an unsupervised environment. In this instance, a beginner student of German was
+asked to find satisfactory answers to unknown vocabulary and formulate appropriate
+grammar rules for himself using the parallel corpus and concordancer as the only tools. It
+is shown that these tools can be of great benefit for beginners.
+AIMS AND OBJECTIVES
+I describe a pilot study involving a beginner student of German who undertook a supplementary
+unsupervised programme of learning German using a concordancer and a parallel corpus. I investigate
+how a beginner student of German fares using a concordancer, Multiconcord (see King & Wools, 1996;
+St.John & Chattle, 1998), and a parallel German/English corpus, INTERSECT (Salkie, 1995) consisting
+of the original German source texts and their English translations. The aim of this study was to determine
+how this student copes using the parallel corpus and what conclusions he comes to when comparing the
+two languages, and in particular, when investigating lexical items. As students at the beginner and
+intermediate levels are still very dependent on a dictionary, their lack of vocabulary in the new language
+can often cause problems for them in class. As a consequence, most of the questions set were related to
+investigating the meaning of words (see Student Tasks).
+Additionally, using corpora and a concordancer can be motivating and rewarding not only for the learner
+but also for the teacher. For the teacher, these tools can provide contextualised examples to confounding
+lexical questions. Moreover, the learner can develop an ability to "learn how to learn" (Johns, 1991a, p. 1)
+by being allowed to assume the role of an explorer. This study supports Barlow's (1995a, 1996a, p. 2)
+claim that one of the roles the language learner plays when using corpora is that of a language researcher
+and explains why "a suitable research environment" must be provided (Barlow, 1996b, p. 45; see also
+Johns, 1986, p. 151, 1991a, p. 2). This therefore assists the student in exploring the language in great
+detail and thereby gaining further insights into its grammar and vocabulary.
+The use of concordancing in language teaching is not new. However, this pilot study demonstrates for the
+first time the potential of concordancing in learning German at the beginner's level.
+CONCORDANCER AND CORPORA IN LANGUAGE ENVIRONMENTS
+Concordancing is a tool that has been used extensively by linguistic and literary researchers. A
+concordance is a list of the occurrences of either a particular word, or a part of a word or a combination of
+words in context and it is drawn from a text corpus, which is presented in context. A corpus is a large
+body of text often in electronic format. (see Baker 1995, p. 226; Francis, 1993, p. 138; Johansson, 1995,
+p. 19; Leech, 1991, p. 8 for more detailed definitions)
+Linguistic and applied linguistic researchers are not the only group who can benefit from the use of
+concordancing as a tool for language learning (i.e., as a means of exploring the meanings and uses of
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 186
+words in their authentic contexts; see Aston, 1997a; Tribble, 1997). A concordance program enables
+research into the lexical, syntactic, semantic, and stylistic patterns of a language.
+Concordancer and monolingual text corpora (comprising only one language) have already been employed
+by both the language teacher and learner in classroom exercises. Typical exercises using a monolingual
+English corpus have included vocabulary building and the exploration of the grammatical and discourse
+features of texts. For specific descriptions of classroom activities (mainly for EFL teaching, however)
+using a monolingual English corpus, see, for example, Aston (1997a, p. 51-64), Mindt (1997, p. 40-50),
+Minugh (1997, p. 67-82), Murphy (1996), Flowerdew (1993, 1996), Stevens (1991a, 1991b), Tribble
+(1990), and Johns (1986, 1991a, 1991b). In a well-known quote, Johns advocates the DDL (Data Driven
+Language) approach. The advantage of this approach is that, in a classroom situation, it enables the
+teacher to play a less active role whilst at the same time exposes the student to authentic texts like those
+found in a monolingual corpus:
+What distinguishes the DDL approach is the attempt to cut out the middleman as much as
+possible and give direct access to the data so that the learner can take part in building his
+or her own profiles of meanings and uses. The assumption that underlies this approach is
+that effective language learning is itself a form of linguistic research, and that the
+concordance printout offers a unique resource for the stimulation of inductive learning
+strategies -- in particular, the strategies of perceiving similarities and differences and of
+hypothesis formation and testing. (Johns, 1991b, p. 30)
+Experiments in data driven learning and corpus-based methods (e.g., Baker, Francis, & Tognini-Bonelli,
+1993; Barlow, 1995b, 1996a; Dickens & Salkie, 1996; Lewandowska-Tomaszcyk & Melia, 1997; Salkie,
+1995, 1996; Tognini-Bonelli, 1996; Wichmann, Fligelstone, McEnery, & Knowles, 1997) are beginning
+to bear fruit in a wide range of language environments although there is as yet only a limited amount of
+experience on which to draw regarding learning German using a parallel corpus.
+With regard to monolingual corpora, they have already been used to teach German.
+Dodd (1997) exploits a corpus of written German for advanced language learning. After browsing
+through a raw corpus, his students compare corpus evidence with reference works. Dodd concludes that a
+computer-supported investigation of language corpora provides a powerful and simple tool for language
+learning. Fernández-Villanueva (1996) used a German monolingual corpus of oral language to research
+the function of German particles. She describes it as a very positive experience because it allows students
+to investigate the function of the particles, which do not have a direct equivalent in their mothertongue.
+Wichmann (1995) used a monolingual English corpus for teaching German and sorting out problems of
+lexical choice. She proposes the use of both corpora and concordancer because dictionaries do not provide
+enough information of meaning in context (see Barlow, 1996b, p. 54). However, Wichmann's study does
+not explain what kind of exercises she set her students.
+Parallel corpora (sometimes also called translation corpora) have already been successfully used by
+linguistic researchers for their research into the nature of translation. Zanettin (1994) focuses on the use of
+concordancing software on bilingual English/Italian parallel subcorpora to design language activities
+aimed at developing translation skills. Like this pilot study, he emphasises that concordancing programs
+"can be run by students at any time in a self-access environment, provided that instructional sheets
+explaining the background for the activity are supplied" (p. 108). Salkie (1996) also employs a parallel
+corpus to investigate grammar problems but concentrates on epistemic modality in English and French.
+Dickens and Salkie (1996) compare French/English bilingual dictionaries with a parallel corpus and show
+in analogy to this study how many equivalents one single word can actually have. Barlow (1996a)
+discusses research based on the analysis of parallel texts (English/Spanish) with particular regard to the
+translation of reflexive pronouns. He also advocates some uses for parallel texts in the language
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 187
+classroom as it is carried out in this study. The unifying theme in his article is the notion that the use of
+corpora and a concordancer allows everyone, from the theoretical linguist to the student learning a second
+language, to become a researcher (p. 2). This notion is actually combined in the present study because the
+student observed is both a linguist (his major) and a language learner. In the analysis in Meaning of
+Particles (tasks 2-6), the student discovers that there are many English equivalents for a certain German
+particle. This reflects Barlow's (1996b, p. 53) observation that a basic search for concordances can make
+students aware that the French translation of head is not always tête. Barlow (1996b, p. 54) concludes that
+a parallel text provides an online contextualised dictionary, which language learners can exploit in a
+similar way to that demonstrated in the student's tasks 2-6 under Meaning of Particles.
+Danielsson and Ridings (1996) report on their tool for work in parallel corpora (Skandinavian
+languages/English) and their efforts to integrate it into an academic programme for training translators.
+However, parallel corpora have not only been used for research into translation and translator training
+(see Baker, 1993, 1995; Buyse, 1997; Piotrowska, 1997; Schmied, 1994; Ulrych, 1997), they can also
+prove very useful to non-advanced language learners, as this pilot study will endeavour to demonstrate.
+Finally, McEnery, Wilson, and Baker examine how corpora can meet the needs of grammar teaching at
+the pre-tertiary level in the UK. In general, they come to the conclusion that a corpus should be at least
+integrated into teaching. They further conclude that "corpus data present a means by which grammar
+teaching may be more effective -- and more importantly may be rated more positively by learners" (1997,
+p. 15).
+It can be seen from the literature that parallel corpora have already been successfully employed in a
+number of studies. However German/English parallel corpora have not yet formed part of a study. In this
+present study, the student had to research a set of questions on his own and what is novel in this study
+about classroom concordancing is that the student is at beginner's level working on his own and that a
+German/English parallel corpus as opposed to a monolingual corpus was used. A parallel corpus was
+used, not only for investigating patterns in the language he was learning, but also to compare it with his
+mother tongue and to draw conclusions from it.
+BACKGROUND
+Corpus Used in This Study
+The German-English INTERSECT corpus (Salkie, 1995) which was used for this study has about
+800,000 words and comprises the following files:
+Table 1. Composition of the INTERSECT Corpus (parts not used in the present study in italics)
+ file name  content  comment
+ Dbank  Annual bank reports  Hoechst, BASF, Siemens
+ newsapr  news reports  From the "German News" Web site
+ newsjan  news reports  From the "German News" Web site
+ Euro  EU texts  
+ UN  United Nations documents  
+ hertzgog  Transcripts of speeches by the
+President of Germany
+ Spoken (President Herzog)
+ Basiclaw  Constitution Texts  Germany, Switzerland, & Austria
+The student worked with six files only. The constitution texts which are also part of the INTERSECT
+Corpus were not used because of the complexity of German legal language structures.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 188
+The corpus includes a variety of text types including spoken language, and it is thus both appropriate and
+sufficient for this pilot study because tendencies rather than rules are discovered. Corpus size is obviously
+a matter of considerable discussion and is not the point of this particular paper but the subject of further
+research. However, the problem with large corpora for language learners, especially beginners and
+intermediate students, is that concordances of frequent words can easily become too long and
+meaningless. This can be very demotivating for the beginner student. Aston comments in this respect that
+"work with small specialised corpora can not only be a valuable activity in its own right, as a means of
+discovering the characteristics of a particular area of language use, but also an instrument to help and train
+learners to use larger ones appropriately" (1997b, p. 61). The use of a small corpus has both advantages
+and disadvantages: Since the amount of data searched is relatively small, any observations on frequency
+of occurrence may be ungeneralisable, while on the other hand it avoids a proliferation of examples,
+particularly of common words which would prove too daunting to learners. When using a small corpus,
+the obvious strategy to employ is to focus on common words. In comparing the corpus with dictionaries,
+this is a logical approach in any case: if the corpus gives some clues about which words occur fairly often,
+this is in itself useful information as will be shown in the analysis.
+Student
+As already mentioned, I decided to only use one student for this particular study for several reasons. The
+literature review already shows that beginner language students had not previously been involved in
+corpus-based studies. In my view, it would present too great a risk if several students were included in the
+very first experiment of this kind. As with other new technologies before it, such as the language
+laboratory, a step-by-step introduction is probably most effective. As Flowerdew puts it:
+There is a danger of the enthusiasm for concordancing being inflated to such an extent
+that concordancing is seen as a sort of language teaching panacea. (1996, p. 112)
+Therefore, carefully conducted evaluative studies will ensure that such an inflated view will not prevail. A
+study carried out on a small scale such as this, will be able to offer proper guidance to large-scale studies
+using concordance tools.
+Furthermore, in a beginners' class, where the students are generally less confident than in an immediate or
+advanced class, it is usually more difficult to encourage and motivate them to take part in a project. A
+project involving new technologies would present in my judgement an even heavier threat to the students.
+Just as Stevens (1995, p. 2) divides language teachers into three groups, namely those who have never
+heard of concordances, those who have not yet taken them seriously, and those who actively use them,
+students could be divided into the same groups with beginner students most likely falling into the first
+group. Therefore, caution needs to be exercised when starting a project involving relatively new
+technology. I therefore decided to introduce only one new variable at a time, starting in this study with a
+beginner with a background in linguistics. I then propose to introduce a second variable (a beginner with
+no linguistic background, e.g., a student majoring in science) in a future experiment.
+Out of all non-specialist language learners I teach, I considered a student with his main subject in
+linguistics to be most appropriate in this instance, rather than a student majoring, for example, in science.
+It is generally agreed that in a beginner class, one of the teacher's tasks is to maintain the students' interest
+in the language concerned. A project of this kind could prove counter-productive and possibly discourage
+non-linguists. The student observed in this study had just finished his first year at university studying
+linguistics with German as a subsidiary subject. At the beginning of the project, he had already completed
+one year of German at university (3 hours a week) and his level of German was approximately equivalent
+to basic GCSE level. However, it has to be stressed that this level is achieved within 1 year of intensive
+study at university in comparison to an average of 4 years at school. It is also important to mention that
+the student, unlike many other so-called "false beginners," had no knowledge of German before studying
+the language at university. The student was one of the best students in his year and fond of grammar.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 189
+However, there were still doubts about whether his level of German would be good enough to cope with
+some of the questions set. In particular, the language was thought to be too difficult as it was at a level to
+which only more advanced learners are exposed. Consultation with the student revealed that he actually
+regarded the project as a challenge.
+The parallel corpus and the parallel concordancer were the learner's only resource. In the process of
+answering his set of questions, he was able to teach himself how to use the concordancer without using a
+manual and went on to describe the program as very user-friendly.
+Student Tasks
+Since the reference works most often used by undergraduate students of foreign languages seem to be
+dictionaries, one of the student's first tasks consisted of word or phrase searching. In this instance, he had
+to enter the word/phrase he wanted to examine. The software would then browse through the corpus of
+texts and look for the wanted expression in the search language while the correspondence would be
+shown in the target language parallel to the search language. Unlike KWIC (Key Word In Context)
+concordancers, which show the search word centralised in a single line of text, the format for the parallel
+display is the sentence and paragraph, with the results of each search being given as parallel sentences or
+paragraphs. This is mainly because, although the context word is known in the search language, there is
+no way of knowing where in the target language paragraph the relevant correspondence word will appear
+or, indeed, if it appears at all. There is even the possibility that the required word or words may appear in
+a preceding or following sentence, rather than the equivalent single sentence of the search language. In
+this pilot study, the emphasis is on the behaviour of words in context in both German and English.
+The student had 17 tasks to choose from. If one question/search produced too many hits he went on to the
+next task, which again proves that too large a corpus would not be appropriate for a non-advanced learner
+(see Aston, 1997b, p. 61). From the hits of the other tasks, he also only selected sentences he could easily
+understand. Considering the learner's degree of proficiency, the level of the corpus as a whole was
+probably too demanding for him, but he correctly employed a strategy of finding his own level in the
+corpora by searching for shorter sentences. The examples in this paper show this.
+ANALYSIS
+Introduction
+The set of tasks consisted of common lexical and grammar problems usually encountered by beginner
+students and was therefore considered as appropriate for this study. The following results show how the
+student coped with the given resources and whether he managed to find appropriate answers without the
+input and guidance of the teacher.
+Task 1
+The very first question the student was recommended to choose was based on two phrases that are often
+introduced in the first lesson of a beginner class when students have to learn phrases of introduction such
+as Wie ist Ihr Name? (What's your name?) and Wie ist Ihre Telefonnummer? (What's your telephone
+number?). Both interrogatives in the two questions are translated into English as what and the student was
+asked whether it is a pattern that wie always translates as what and not how as described in dictionaries.
+After using just wie and was as the search words in the input field of the interface which produced too
+many hits, the student decided to enter ist in the context. He subsequently came up with the following
+data and comments:
+dbank.de 1a Wie ist diese Differenz zu bewerten?
+dbank.en 1b How is such a spread to be assessed?
+dbank.de 2a Wie ist die Option „runde Wechselkurse" zu bewerten?
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 190
+dbank.en 2b How is the option "round exchange rates" to be assessed?
+dbank.de3a Was ist die EWU?
+dbank.en3b What is EMU?
+dbank.de4a Was ist die Alternative zur EWU?
+dbank.en4b What is the alternative to EMU?
+In general was translates into English as "what." However, anyone with a basic
+knowledge of German knows that there are cases where wie equates to "what" in English.
+The examples in the question show this. The system did provide examples where wie
+translates as "how" and from this evidence a student of German would conclude that, in
+general, wie equals "how" in English except in certain cases.
+The above phrases were recommended to the student as the basis of his very first question because it
+required a simple search for a particular phrase with which the student was very familiar; and it also
+involved a simple examination of the meaning. It is also worth pointing out that the student felt
+sufficiently independent enough to go a step further when there were too many hits for was and wie and
+he then inserted an ist into the context field of the interface in order to reduce the number of hits. Even
+though it was the very first question, the student did not ask for the tutor's assistance but just tried to find
+a solution for himself, which is also very rewarding from a teacher's perspective.
+Meaning of Particles
+In the next set of tasks, the learner was asked to find out how certain German modal particles and
+conjunctions translate into English. In this case, all he had to search for was a particular particle and then
+examine the correspondence. Doherty (1982, p. 95) stated that the English language has no equivalents
+for these modal particles, so it was interesting to see what solutions the learner would actually provide.
+Task 2
+The first search term was wohl which produced 57 hits altogether (see Table 1 in Appendix A). The
+particle wohl gives the sentence a sense of uncertainty that is required in these kinds of texts (Helbig,
+1994, p. 238). What was striking was that 41 of the 57 hits occurred in the dbank file alone. One would
+probably expect to find most hits in the dbank file considering that in financial reports many forecasts are
+made for future years that are based on hypotheses. The student produced many concordances and also
+categorised them (see Appendix B). He commented as follows:
+"Wohl" produced an interesting batch of searches. The general trend was that "wohl"
+introduced doubt into the sentence/paragraph. These were broken down into: "Wohl erst";
+" wohl aber/aber wohl"; "wohl auch/wohl auch nicht"; "werden wohl"; "wohl nicht."
+When the English translations were read in conjunction with the German, it was noticed
+that most of the sentences tended to say: "probably"; "will probably"; "may well"; "is
+likely" etc.
+The general feeling when reading these sentences/paragraphs is one of doubt or caution
+and the word "wohl" appears with one of the aforementioned words.
+From a teacher's point of view, the student's investigations are more than satisfactory because he managed
+to deduce the right meaning and quite rightly discovered the uncertainty of wohl. His attention was not,
+however, drawn to the fact that the majority of the hits were in the dbank file. The comments show
+nevertheless in what detail the student observed the concordance output. It becomes apparent that he no
+longer writes about a translation as in the first search. He probably started to realise that there is not
+always a one-to-one equivalent available. This can be very rewarding for the teacher who might find it
+very frustrating that s/he is not always able to provide the student with one definite answer. The student's
+comments also show how reading in the foreign language is practised whilst searching through the target
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 191
+language to find patterns. It is moreover interesting to note how the student grouped the different
+meanings of wohl according to its collocation and meaning.
+Task 3
+The next search term was also which can be used either as a particle or an adverb depending on syntax
+and context. It gives a sentence a sense of conclusion and is also used as a connective particle between
+two successive sentences (Helbig, 1994, p. 86-87). Furthermore, also belongs to the category of false
+friends (Pascoe & Pascoe, 1985, p. 12). Beginner students very often translate it as also into English
+whilst auch is in fact the correct German word for also.
+The student's search produced 74 hits altogether, probably too many for a low-level student to work
+through (see Table 2 in Appendix A). The student decided to only work on the following output with the
+following explanations afterwards:
+dbank.de 5a Es kann also kaum einen Zweifel daran geben, daß die EWU kommt - wenn
+der politische Wille stark genug ist und genügend Länder die
+Aufnahmeprüfung bestehen.
+dbank.en 5b There can, therefore, be little doubt that EMU will come - if the political will
+is strong enough and a sufficient number of countries pass the convergence
+examination.
+dbank.de 6a Da sich also der Umstellungskurs an Devisenmarktkursen orientieren wird, ist
+durch die Festlegung der Umrechnungskurse weder ein Gewinn noch ein
+Verlust zu erwarten.
+dbank.en 6b Since, therefore, the conversion rate will be geared to forex market rates,
+fixing the conversion rates should produce neither a profit nor a loss.
+The examples, "also" revealed a pattern and the English translation was "therefore." The position in the
+sentence in German corresponded with the position in English in almost all cases. It would appear from
+the searches that, when "also" translates as "therefore," the relative position of the word in both languages
+is the same or very near.
+Another pattern appeared where "also" translated as "thus." This was deduced because there appeared to
+be no other function for the word in the sentence. Unlike the translation "therefore," the relative position
+in each language varied. However, the translation could be worked out by reading the German and then
+the English. When the two were then compared, a deduction was made. The examples below demonstrate
+this.
+herzgog.de 7a Auch in Zukunft muß das Motto also heißen: Freiheit ist das höchste Gut.
+herzgog.en 7b Thus, in the future as well, our motto must be: Freedom is our most precious
+asset.
+herzgog.de 8a Wir stehen also nicht ohne Orientierung da.
+herzgog.en 8b Thus we do not stand here devoid of orientation.
+The learner discovered its correct function as a modifier in at least four examples. Although the question
+did not ask for a pattern in terms of word order, the learner mainly concentrated on this aspect.  This
+might be due to the fact that the student had a linguistic background and natural interest in exploring more
+but this also shows very interesting aspects of using concordances with students, namely the experience
+they gain of how the languages operate. It also demonstrates that he was examining and comparing the
+languages and developing some insight into both languages simultaneously. This example also shows that
+the English translations can prove to be very useful to the learner.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 192
+Task 4
+The next search word was eben, which only produced 15 hits with 11 hits alone in the herzgog file (see
+Table 3 in Appendix A).
+Eben is used as an adjective, adverb, or particle; in the latter case its meaning being very difficult to
+determine (Helbig, 1994, p. 124). This fact was also discovered by the student and the particle use is not
+found much in written language. That is why most hits occurred in the herzgog file, that is, the
+transcription of President Herzog's speech. König remarks in this respect that some scalar particles like
+eben "have a wider use in English than their German 'counterparts,' in other words, some particles in
+English will have several translational equivalents in German" (1982, p. 79). Thus the exact opposite can
+apply when working from English to German. It is interesting to examine the student's findings:
+herzgog.de 9a Und nach allem, was ich eben über das europäische Erbe gesagt habe, wäre
+eine undemokratische Lösung auch eine uneuropäische Lösung.
+herzgog.en 9b And after all that I have just said about the European inheritance, an
+undemocratic solution would also be an "un–European" solution.
+herzgog.de 10a man wechselte eben zu anderen.
+herzgog.en 10b one simply changed to others.
+"Eben" appeared only 15 times in the corpora. In the searches below, "eben" seems to
+equate to "just" in English. When not translated exactly as "just," "just" seems to be
+implied as in example 10 where "eben" equates to "simply": "simply" could easily be
+replaced with "just" and carry the same meaning.
+Looking through the other examples from the corpora, there were many interpretations,
+which could have been made for the translation of "eben."
+These data and his comments suggest that the student is becoming aware that a word may not even be
+lexicalised at all in one language. This is a very important learning process and linguistic insight into
+languages for a student to grasp when starting to study a foreign language. The fact that he was not taught
+this but that he could find it out for himself is one of the most valuable aspects of concordancing and from
+the teacher's point of view very satisfactory. It is not easy for the teacher to tell students that there is just
+no translation available. It is more rewarding for both sides if the students can find out this fact himself.
+Task 5
+The next search term was the particle doch, which produced 170 hits altogether (see Table 4 in Appendix
+A): The particle doch has seven different uses as a modal particle (Helbig, 1994, p. 111-119). Its main use
+is adversative in contradictions (Helbig, p. 119). The student carefully chose to work on the following
+output:
+newsjan.de 11a Schmuggelplutonium stammt angeblich doch aus Moskau.
+newsjan.en 11b Smuggled plutonium indeed from Moscow
+newsjan.de 12a Nichts fuer sensible Gemueter - aber leider doch passiert
+newsjan.en 12b Not for the faint-hearted - but it did happen
+dbank.de 13a Zwar ist es seiner Meinung nach zu früh, um einen Erfolg oder ein
+mögliches Scheitern der EWU vorauszusagen, doch sieht er die Strukturen,
+auf denen die EWU aufbaut, als durchaus vernünftig an.
+dbank.en 13b Although it is too early to tell, in his opinion, whether or not EMU will
+succeed, its design does make sense.
+dbank.de 14a Dies hätte zweifellos negative Auswirkungen auf Spaniens
+Haushaltsposition, doch wären diese sehr viel geringer als im Falle Italiens.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 193
+dbank.en 14b While a collapse of EMU would undoubtedly have a negative impact on
+Spain's budget position, the effect would be considerably smaller than in the
+case of Italy.
+He described the output as follows:
+What seemed to be evident was that the word "doch" had a modifying effect on the
+sentence.  In the sentences, "doch" seems to refer to words like "indeed' and "did."
+In other examples, "doch" has many uses: One of which is to add a positive nature to a
+sentence. In trying to find a trend for its use in German, there was also evidence that it
+had a positive modifying effect on a sentence. However, this was not the only use for the
+word. It soon became clear that "doch" is used in a variety of subtle ways to shape a
+phrase or sentence. Some good examples of the versatility of "doch" can be seen when it
+is used at the beginning of a sentence. In some of these examples, "doch" translates into
+"but" in English.
+The above example again shows that not only detailed reading in the target language is practised when
+using corpora but also that text analysis is employed merely by going through the data and trying to find
+patterns when analysing the sentences carefully.
+Task 6
+Strictly speaking, this was not a task set but a search, which was initiated by the learner himself. It shows
+that the learner adopted a very interesting behaviour pattern, which might be ascribed to the fact that he
+has a linguistic background. After searching several German particles, the student spotted however
+several times and started becoming curious about the German correspondence. As a result, he carried out
+a search of however to investigate what translation the system would come up with:
+The purpose of this exercise was to test the corpora when the search words found by the
+system varied.  Here, the English word "however" was entered and the search found
+different German translations.
+When this happened, it was decided to try and cross-reference the German word in each
+case. The corpora produced many other examples for each word but the idea here was to
+test whether the same reference could be found in the corresponding German search.
+In this way the student can find what he/she wants to know by using a search in either
+language. This is useful if the student is weak in either language and needs to find a
+particular answer.
+dbank.en 15a Formal participation in the exchange rate mechanism is, however, a binding
+condition of the Treaty.
+dbank.de 15b Die formale Teilnahme am Wechselkursverbund ist jedoch im Vertrag
+zwingend vorgeschrieben.
+dbank.en 16a However, a lasting improvement will probably only occur when Switzerland's
+economic outlook brightens.
+dbank.de 16b Allerdings sollte eine nachhaltige Stärkung wohl erst einsetzen, wenn auch
+die konjunkturellen Perspektiven der Schweiz sich verbessern.
+dbank.de 17a Die formale Teilnahme am Wechselkursverbund ist jedoch im Vertrag
+zwingend vorgeschrieben.
+dbank.en 17b Formal participation in the exchange rate mechanism is, however, a binding
+condition of the Treaty.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 194
+The student came to a constructive conclusion and the fact that he carried out a cross-reference shows his
+interest in research and exploring. Here it would be most interesting to see whether a more typical
+language learner, that is, one without a linguistic background would behave in the same way. It also
+demonstrates the fact that concordances allow students to generate and collate the language data needed
+to invent their own rules of grammar and to develop the most appropriate ways of learning for
+themselves. This example clearly shows that the learner assumed control of his learning process. Once the
+student had seen how to use the program, he could, to a certain extent, set his own agenda for its use, as
+illustrated above with however and the cross-reference research.
+Grammatical and Lexical Tasks
+Task 7
+Another trouble spot for English learners of German is the distinction of aber and sondern both
+translating as "but" into English. For this reason, the student was asked to find a possible semantic and/or
+syntactical distinction between the two. The concordance below helped him to grasp the difference almost
+by himself.
+There were 576 hits of aber whereas sondern only showed 178 entries the latter having a specific use (it
+only occurs after a preceding negative clause), which can also explain the fewer entries (see Tables 5 and
+6 in Appendix A). Aber is also used as a co-ordinating conjunction and has two different uses as a modal
+particle (Helbig, 1994, p. 80-81). This can be another reason why on the whole there are more hits for
+aber. However, the frequency of a particle obviously also depends on the nature of the text. The subject
+came up with the following data and conclusion:
+dbank.de 18a Schuldenstand: Rückläufig, aber immer noch hoch
+dbank.en 18b Public sector debt: falling, but still high
+dbank.de 19a Aber kann man da sicher sein?
+dbank.en 19b But can we be sure here?
+"Aber" translates into English as "but" when the sentence uses "but" as a straight-forward
+conjunction linking two main clauses of the sentence. The examples show the use of
+"aber" and the search produced many more examples. English also uses the word "but"
+when the German uses the word "sondern." "Sondern" is used in a different way to "aber"
+although it still translates as "but." "Sondern" is used when the sentence has a negative
+preceding the word.
+euro.de 20a Deshalb strebten die Gründerväter der Europäischen Gemeinschaften nach einer
+gemeinsamen Energiepolitik: nicht etwa als Selbstzweck, sondern als Motor
+für die politische Integration.
+euro.en 20b Appreciating its importance, the founding fathers of the European Community
+desired an energy policy not only for itself but also as a motor for political
+integration.
+euro.de 21a Der Europäische Rat gibt seiner ernsten Besorgnis Ausdruck über die
+anhaltende Gewalt im Gebiet der Großen Seen, von der nicht nur Ost-Zaire,
+sondern auch Burundi betroffen ist.
+euro.en 21b The European Council expresses grave concern about the continuing violence in
+the Great Lakes Region, not only in Eastern Zaire but also in Burundi.
+As with "aber," there were many examples in the files which could also have been shown here. The
+system did throw up what looks like an exception. However, this could be correct in the context of this
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 195
+particular sentence and without the time to explore more of the files, it will have to remain an exception in
+this project:
+dbank.de 22a Um die — nicht kurzfristig, möglicherweise aber auf längere Sicht —
+bestehenden Risiken von Sanktionen im Rahmen des Stabilitätspakts zu
+minimieren…
+dbank.en 22b In order to minimize the risks of sanctions in the framework of the stability
+pact — not so much on a short-term horizon but possibly over the longer
+term…
+The student observed quite rightly that aber and not sondern occurred after nicht. In a classroom
+situation, students typically react negatively to the introduction of an exception to a rule but, by taking
+over control of his own learning, the student even analyses the exception he found. Also from the
+teacher's point of view, it is a better outcome to let students search for exceptions rather than merely
+presenting it to them. The reaction of the students will be more positive and learners should in turn be
+motivated if they can find such things for themselves, though it could be argued that, for this particular
+question, a monolingual context would be sufficient. The student, however, bearing in mind his level,
+always found it helpful to have the translation available. He also mentioned in his feedback that he
+learned new words by reading both the German and the English translation.
+With regard to distinctions made in a target language and non-existent in the learner's language, Barlow
+comments concerning a distinction in Spanish, which is non-existent in English:
+By studying the context of instances of English for that correspond to Spanish por,
+compared with those that correspond to para, it is possible to form hypotheses about
+which of the meanings of for match up with por and which with para. (1996b, p. 54)
+As can be seen above, the strategy Barlow describes is exactly practised by the learner who managed to
+work out the distinction for himself.
+Task 8
+The student had to find out a meaning for denn, a word many beginner students tend to equate with then,
+especially when it occurs at the beginning of a sentence. Denn occurred 75 times in all files together (see
+Table 7 in Appendix A).
+It has seven different uses as a modal particle and is also used as causal conjunction and adverb (Helbig
+1994, p. 105-110). The learner's comments regarding his data were that denn at the beginning of the
+sentence translates as for. However, he also discovered that it also occurs within commas with the words
+es sei. He concluded quite rightly that it then always translates as unless (see Appendix C).
+In the searches here "denn" at the beginning of the sentence translates as "for," however
+"denn" occurs within commas with the words: "es sei." This translates on all occasions as
+"unless."
+It is very interesting that the student discovered that denn collocates with es sei, that is,. es sei denn. This
+demonstrates that concordancing makes hidden structures visible, and enhances the imagination.
+Task 9
+The last question the student chose was more challenging and complex in my judgement. He was asked to
+find possible meanings for man. With the word man, German has a very useful all-purpose impersonal
+pronoun that the 242 hits in all files reflect. The student produced the following data (see Table 8 in
+Appendix A):
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 196
+herzgog.de 23a Aus der eigenen Geschichte lernt man immer noch am besten.
+herzgog.en 23b One's own history teaches one the best lesson.
+herzgog.de 24a Man sah weg, als jüdischen Ärzten und Rechtsanwälten die Zulassung
+entzogen wurde;
+herzgog.en 24b One looked away when Jewish doctors and lawyers lost their licences;
+newsjan.de 25a Ausserdem koenne man den Menschen nicht anlasten, dass sie keine Arbeit
+faenden.
+newsjan.en 25b She added that no one could be held liable for not being able to find a job.
+The subject wrote afterwards:
+"Man" generally translated into English as the pronoun "one." It appeared in different
+places in the sentence including the beginning. The examples demonstrate this very
+clearly. The examples also show that "man" does not always have an apparent translation
+but when the sentence is read as a whole, it would appear that "man" is being used to
+refer to the general idea, i.e. "it" or the situation in general. Furthermore "man" tends to
+refer to "people," "nobody," "we" (the people). There were many examples in the corpora
+like these when "man" was used to refer to someone or something.
+His comments show once more how concerned he was about word order. They further indicate that he
+again looked for a translation but in the end accepted that there is not always a translation for one
+particular word.
+This analysis provides an illustration of how the common content of parallel corpora can be exploited to
+gain linguistic insights into the structure and function of languages. However, it must also be stressed
+again that only one student used the corpora and concordancer on a self-access basis. Multiconcord was
+installed on a computer in the Self-Access-Centre where the student could use it as and when he wanted
+during open hours. Given that there was no tutor observation during the project period, even of the data
+that the learner ultimately produced, it is remarkable to see that a beginner student of German can actually
+discover and learn on his own. In answering my initial question, all his answers can be regarded as fully
+satisfactory and appropriate with regard to the language learning process. In most questions, the student's
+conclusions were the only correct answer. However, considering that the student might have shown a
+natural interest in exploring the data in more detail, taking into account that his main subject of study was
+linguistics, any generalisations drawn from this study need confirmation. The next step would be to
+include students from other subjects like engineering or science and to see whether they come up with the
+same and or similar conclusions before expanding the experiment to a whole beginners' class.
+Student Observation and Feedback
+The student was interviewed after the pilot study; there was no student/teacher interaction during the
+project time. The learner found the concordancer very user-friendly and he did not use any tools other
+than the corpora and the concordancer. He later said that he ignored sentences that were too difficult due
+to a long and complicated word order, that is, he selected the sentences he wanted to use for the data,
+which in itself is a very important "help yourself" learning strategy. Indeed, the data used consisted of
+sentences only without any complex structures.
+This obviously means that the student's analysis is incomplete because, in order to reach reliable
+conclusions, all data should be considered and analysed. However, it was certainly a step forward in the
+learning process of a beginner student as it enabled him to draw certain conclusions about the language
+based on short and simple sentences. It was interesting, to see that the student used the corpus in two
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 197
+ways: to answer the set questions and to look up things that were not directly related to the questions, for
+example his search for however.
+He spent on average 2 hours on each question but he noticed that he became more efficient after each
+question. His explanation for this was that he became more confident in the course of time, that he knew
+what to do, and also that he became more used to the system. He also knew what to look for because he
+became more selective by choosing shorter sentences. The learner followed the following procedure:
+After selecting a question, he first tested how many hits it produced. If there were enough hits but not too
+many to cope with, the concordanced evidence of this point was assembled in both languages. He then
+tried to find prominent features and classified them into up to four categories. The student then saved the
+sentences and/or printed them out. He tried to discover a pattern in the language and, by generalising
+found the rules, which governed those patterns (see Johns, 1991a, p. 4). The student's work became more
+exploratory and thus motivating and highly experimental. In addressing the theme of this study, that is,
+whether corpora and concordancer are appropriate tools at beginners' level, it can be said that the student
+not only found the meaning of the search words (i.e., learned new vocabulary), but he also had the
+satisfactory feeling of having achieved something.
+CONCLUSION
+In this paper, I have shown the use of parallel corpora and concordance software, in particular its
+usefulness in the very early stages of language acquisition for both teacher and learner alike. Learners
+often pose questions and answers that teachers cannot predict. A corpus and concordance can supplement
+the teaching. As Johns put it, "we simply provide the evidence needed to answer the learner's questions,
+and rely on the learner's intelligence to find answers" (1991a, p. 2).
+In view of the degree of proficiency in German this student had, it was the correct decision to concentrate
+mainly on lexical questions. These were indeed neither easy nor straightforward. This pilot study proves
+that, when the translation is available, even beginner students can make use of concordancing. German
+was in most cases (except in the search for however) the search language and English was used to help
+understand the German.
+In this pilot study, the selected student might be regarded as a rather untypical learner and therefore
+further research must involve more typical language learners to find out whether low level language
+students can generally cope with corpus work. Nevertheless, when carrying out a study on a bigger scale,
+the two groups of typical and untypical learners have to be clearly distinguished. It was important
+however to first carry out a pilot study of this kind with one student to avoid any possible failures, which
+could have lead to a demotivation of the students. This experiment must be seen as a pilot study to design
+more carefully prepared, objective, large scale experiments. For that reason, I would like to address the
+following issues:
+Firstly, the data and subsequently the answers obtained here are relevant and appropriate for this
+particular pilot study. The data represents language that has been used in authentic and naturally occurring
+communicative situations.
+Secondly, the conclusions cannot be generalised because of the nature of the student and also because of
+the fact that the student did not consider all data. The choice of student has also effected the outcome and
+a study on a bigger scale will provide an answer.
+Finally, this study supports Zanettin's (1994, p. 108) claim that the interactive concordancer is a potential
+learning resource, which can be used freely and on their own initiative by all students from beginner to
+advanced in a self-access centre. The role of the teacher/language adviser is to suggest points at which the
+interactive concordancer may help to solve learning difficulties or, with instructional sheets, to explain the
+background for the activity and to give operational directions.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 198
+The use of parallel corpus and concordancing in the early stages of a German learning programme can
+add to grammar teaching and certainly make the work with new vocabulary more interesting and
+rewarding. As already stated, preferably, the study should be repeated on a larger number of students and
+on other types of students before conclusions are drawn as to whether a non-advanced learner of German
+can actually benefit from using the concordancer and a parallel corpus. I, however, strongly believe that
+corpora and concordancing are of great potential value in the very early stages of a language learning
+programme and I am positive that further studies will reinforce my claim.
+APPENDIX A
+Table 1
+WORD FILE HITS
+WOHL all 57
+dbank 41
+Table 2
+WORD FILE HITS
+ALSO All 74
+Table 3
+WORD FILE HITS
+EBEN All 15
+Herzgog 11
+Table 4
+WORD FILE HITS
+DOCH All 170
+Table 5
+WORD FILE HITS
+ABER All 576
+Table 6
+WORD FILE HITS
+SONDERN all 178
+Table 7
+WORD FILE HITS
+DENN all 75
+Table 8
+WORD FILE HITS
+MAN all 242
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 199
+APPENDIX B
+Wohl erst
+dbank.de 1a Der Großteil des privaten Bankgeschäfts wird aber wohl erst umgestellt, wenn auch die
+Euro-Banknoten und Münzen eingeführt werden.
+dbank.en 1b The bulk of retail banking business will, however, probably not make the switch until
+euro notes and coins are introduced.
+Wohl aber/ aber wohl
+dbank.de 2a Daran wird die EWU aber wohl nicht scheitern.
+dbank.en 2b But EMU is unlikely to fail because of this.
+dbank.de 3a 1996 nicht signifikant, wohl aber in Relation zum IEP.
+dbank.en 3b this does not apply to the IEP.
+Wohl auch
+dbank.de 4a Beide Staaten werden wohl auch hohe D-Mark-Anteile in der Reservehaltung aufweisen.
+Dies wird vor allem für Österreich vermutet.
+dbank.en 4b Both countries, particularly Austria, probably hold a large proportion of their reserves in
+DEM.
+Wohl auch nicht
+dbank.de 5a Die Stärke eines Finanzplatzes hängt allerdings nicht nur von der Marktgröße ab, also von
+der Höhe der Staatsverschuldung eines Landes, sie sollte es wohl auch nicht.
+dbank.en 5b However, a financial centre's strength and attractiveness does not (and should not!) solely
+depend on the amount of government paper available, i.e. on the size of the public debt.
+Werden wohl
+dbank.de 6a Der Anteil an den offiziellen Devisenreserven der Welt wird wohl über das Niveau der
+jetzigen Währungen des Wechselkursmechanismus, das bei etwa achtzehn Prozent liegt,
+hinaus anwachsen.
+dbank.en 6b Its share in world foreign exchange reserves may well rise to a level above the combined
+18 per cent of the major ERM currencies today.
+Wohl nicht
+dbank.de 7a Zweifel an der Erfüllung des Maastrichter Zinskriteriums bestehen wohl nicht mehr; die
+weit weniger als in den EWS-Kernländern vorangeschrittene Zinskonvergenz könnte
+vielmehr in absehbarer Zukunft eine treibende Kraft der irischen
+Kapitalmarktbewegungen bleiben.
+dbank.en 7b Doubts about Ireland meeting the Maastricht interest rate criterion appear to have
+vanished: interest rate convergence, which has not progressed in Ireland nearly as far as
+in the EMS core countries, could well remain a driving force in the Irish capital market
+in the foreseeable future.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 200
+APPENDIX C
+herzgog.de 8a Denn die Zukunft gestaltete sich anders, als es die meisten am 8. Mai 1945 erwarteten,
+auch anders, als es dem soeben zitierten Dichterwort eigentlich entsprochen hätte.
+herzgog.en 8b For the future turned out differently from most people's expectations on 8 May 1945
+and from the image conveyed by the prayer I have just quoted.
+un.de 9a Denn es mag für unseren Planeten, der nunmehr aus anderen Gründen nach wie vor in
+Gefahr schwebt, nicht noch eine dritte Chance geben.
+un.en 9b For there may not be a third opportunity for our planet which, now for different reasons,
+remains endangered.
+dbank.de 10a ob das Verhältnis des geplanten oder tatsächlichen öffentlichen Defizits zum
+Bruttoinlandsprodukt einen bestimmten Referenzwert überschreitet, es sei denn, daß
+entweder das Verhältnis erheblich zurückgegangen ist.
+dbank.en 10b whether the ratio of the planned or actual government deficit to gross domestic product
+exceeds a specified reference value, unless either the ratio has declined substantially.
+dbank.de 11a Die schwedische Regierung dürfte 1997 mit einem „sanften Nein" gegen die EWU
+stimmen, es sei denn, es gelingt ihr, die schwedischen Wähler umzustimmen.
+dbank.en 11b The Swedish government is likely to opt for a "soft no" to EMU in 1997, unless it is
+able to reverse public opposition to the single currency.
+ABOUT THE AUTHOR
+Elke St.John is German Co-ordinator at Modern Languages Teaching Centre at the University of
+Sheffield in the United Kingdom. Her research interests include corpus-based translation studies and
+corpus-based learning and legal translation.
+E-mail: E.StJohn@sheffield.ac.uk
+REFERENCES
+Aston, G. (1997a). Enriching the learning environment: Corpora in ELT. In A. Wichmann, S. Fligelstone,
+T. McEnery, & G. Knowles (Eds.), Teaching and language corpora (pp. 51-64). New York: Longman.
+Aston, G. (1997b). Small and large corpora in language learning. In B. Lewandowska-Tomaszcyk & P. J.
+Melia (Eds.), Practical applications in language corpora (pp. 51-62). Lodz, Poland: University Press.
+Baker, M. (1993). Corpus linguistics and translation studies -- Implications and applications. In M. Baker,
+G. Francis, & E. Tognini-Bonelli (Eds.), Text and technology (pp. 233-250). Philadelphia: John
+Benjamins.
+Baker, M. (1995.) Corpora in translation studies: An overview and some suggestions for future research.
+Target 7(2), 223-243.
+Baker, M., Francis, G., & Tognini-Bonelli, E. (Eds.). (1993). Text and technology. Philadelphia: John
+Benjamins.
+Barlow, M. (1995a). A guide to ParaConc. Houston, TX: Athelstan.
+Barlow, M. (1995b). A concordancer for parallel texts. Computers and Texts, 10, 14-16.
+Barlow, M. (1996a). Corpora for theory and practice. International Journal of Corpus Linguistics, 1(1),
+1-37.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 201
+Barlow, M. (1996b). Parallel texts in language teaching. In S. Botley, J. Glass, T. McEnery, & A. Wilson
+(Eds.), Proceedings of teaching and language corpora 1996 (pp. 45-56). Lancaster, UK: UCREL
+Technical Papers Volume 9.
+Buyse, K. (1997). The study of multi- and unilingual corpora as a tool for the development of translation
+studies: A case study. Unpublished doctoral dissertation, Katholieke Universiteit Leuven, Belgium.
+Danielsson, P., & Ridings, D. (1996). Corpus and terminology: Software for the translation program at
+Göteborgs Universitet or getting students to do the work. In S. Botley, J. Glass, T. McEnery, & A. Wilson
+(Eds.), Proceedings of teaching and language corpora 1996 (Technical Papers Volume 9; pp. 57-67).
+Lancaster, UK: UCREL.
+Dickens, A., & Salkie, R. (1996). Comparing bilingual dictionaries with a parallel corpus. In M.
+Gellerstam, J. Järborg, S. G. Malgren, K. Norén, L. Rogström, & C. Röjder Papmehl (Eds.), EUROLEX
+'96 proceedings I –II (pp. 551-559). Göteborg, Sweden: Göteborg University Department of Swedish.
+Doherty, M. (1982). Epistemische Ausdrucksmittel im Deutschen und Englischen [Epistemic means of
+expressions in German and English]. Fremdsprachen, 26, 92-97.
+Dodd, B. (1997). Exploiting a corpus of written German for advanced language learning. In A.
+Wichmann, S. Fligelstone, T. McEnery, & G. Knowles (Eds.), Teaching and language corpora (pp. 131-
+145). New York: Longman.
+Fernández-Villanueva, M. (1996). Research into the functions of German modal particles in a corpus. In
+S. Botley, J. Glass, T. McEnery, & A. Wilson (Eds.) Proceedings of teaching and language corpora 1996
+(Technical Papers Volume 9; pp. 83-93). Lancaster, UK: UCREL
+Flowerdew, J. (1993). Concordancing as a tool in course design. System, 21(2), 231-244.
+Flowerdew, J. (1996). Concordancing in language learning. In M. Pennington (Ed.), The power of call
+(pp. 97-113). Houston, TX: Athelstan.
+Francis, G. (1993). A corpus driven approach to grammar -- principles, methods and examples In M.
+Baker, G. Francis, & E. Tognini-Bonelli (Eds.), Text and Technology (pp. 137-156).
+Amsterdam/Philadelphia: Benjamins
+Helbig, G. (1994). Lexikon deutscher Partikeln [Encyclopedia of German particles]. München, Germany:
+Langenscheidt.
+Johansson, S. (1995). Mens Sana in corpore sano: On the role of corpora in linguistic research. The
+European English Messenger, 4(2), 19-25.
+Johns, T. (1986). Micro-concord: A language learner's research tool. System, 4(2), 151-162.
+Johns, T. (1991a). Should you be persuaded: Two examples of data driven. ELR Journal 4, 1-16,
+University of Birmingham.
+Johns, T. (1991b). From printout to handout: Grammar and vocabulary learning in the context of data-
+driven learning. ELR Journal 4, 27-45.
+King, P., & Woolls, D. (1996). Creating and using a multilingual parallel concordancer. Translation and
+Meaning, 4, 459-466.
+König, E. (1982). Scalar particles in German and their English equivalents. In W. F. W. Lohnes & E. A.
+Hopkins (Eds.), The contrastive grammar of English and German (pp. 76-101). Ann Arbor, MI: Karoma
+Publishers.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 202
+Leech, G. (1991). The state of the art in corpus linguistics. In K. Aijmer & B. Altenberg (Eds.), English
+corpus linguistics: Studies in hon Lewandowska-Tomaszcyk, B., & Melia, P. J. (Eds.). (1997). Practical
+applications in language corpora. Lodz, Poland: University Press.
+McEnery, T., Wilson, A., & Baker, P. (1997). Teaching grammar again after twenty years: Corpus-based
+help for teaching grammar. ReCALL, 9(2), 8-16.
+Mindt, D. (1997). Corpora and the teaching of English in Germany. In A. Wichmann, S. Fligelstone, T.
+McEnery, & G. Knowles (Eds.), Teaching and language corpora (pp. 40-50). New York: Longman.
+Minugh, D. (1997). All the language that's fit to print: Using British and American newspaper CD-ROMs
+as corpora. In A. Wichmann, S. Fligelstone, T. McEnery, & G. Knowles (Eds.), Teaching and language
+corpora (pp. 67-82). New York: Longman.
+Murphy, B. (1996). Computer, corpora and vocabulary study. Language Learning Journal, 14, 53-57.
+Pascoe, G., & Pascoe, H. (1985). Sprachfallen im Englischen. Wörterbuch der falschen Freunde
+[Difficulties in English. Dictionary of false friends.]. München, Germany: Hueber.
+Piotrowska, M. (1997). Criteria for selecting parallel texts in teaching a translation course. In B.
+Lewandowska-Tomaszczyk & P. J. Melia (Eds.), Practical applications in language corpora (pp. 411-
+420). Lodz, Poland: Lodz University Press.
+Salkie, R. (1995, May). INTERSECT: A parallel corpus project at Brighton University. Computers &
+Texts 9, 4-5.
+Salkie, R. (1996) Modality in English and French: A corpus-based approach. Language Sciences, 18(1-2),
+381-392.
+Schmied, J. (1994). Translation and cognitive structures. Hermes, Journal of Linguistics, 13, 169-181.
+Stevens, V. (1991a). Classroom concordancing: Vocabulary materials derived from relevant, authentic
+text. English for Specific Purposes Journal 10, 35-46.
+Stevens, V. (1991b). Concordance-based vocabulary exercises: A viable alternative to gap-filling. ELR
+Journal, 4, 47-61.
+Stevens, V. (1995). Concordancing with language learners: Why?When?What? CAELL Journal 6(2), 2-
+10.
+St.John, E,. & Chattle, M. (1998.) Multiconcord: The Lingua Multilingual Parallel Concordancer for
+Windows. ReCALL Newsletter, 13, 7-9.
+Tognini-Bonelli, E. (1996). Towards translation equivalence from a corpus linguistics Perspective.
+International Journal of Lexicography, 9(3), 197-217
+Tribble, C. (1990). Concordancing in an EAP writing program. CAELL Journal, 1(2), 10-15.
+Tribble, C. (1997.) Improvising corpora for ELT: Quick-and-dirty ways of developing corpora for
+language teaching. In B. Lewandowska-Tomaszczyk & P. J. Melia (Eds.), Practical applications in
+language corpora (pp. 106-117). Lodz, Poland: Lodz University Press.
+Ulrych, M. (1997). The impact of multilingual parallel concordancing on translation. In B. Lewandowska-
+Tomaszczyk & P. J. Melia (Eds.), Practical applications in language corpora (pp. 421-435). Lodz,
+Poland: Lodz University Press.
+Elke St.John A Case for Using a Parallel Corpus…
+Language Learning & Technology 203
+Wichmann, A. (1995). Using concordances for the teaching of modern languages in higher education.
+Language Learning Journal, 11, 61-63.
+A. Wichmann, S. Fligelstone, T. McEnery, & G. Knowles (Eds.). (1997). Teaching and language
+corpora. New York: Longman.
+Zanettin, F. (1994). Parallel words: Designing a bilingual database for translation activities. In A. Wilson
+& T. McEnery, (Eds.), Corpora in language education and research: A selection of papers from Talc94
+(Technical Papers, Volume 4; pp. 99-111). Lancaster, UK: UCREL.

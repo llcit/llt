@@ -1,0 +1,871 @@
+Language Learning & Technology
+http://llt.msu.edu/vol7num3/strambi/
+September 2003, Volume 7, Number 3
+pp. 81-102
+Copyright © 2003, ISSN 1094-3501 81
+FLEXIBILITY AND INTERACTION AT A DISTANCE:
+A MIXED-MODE ENVIRONMENT FOR LANGUAGE LEARNING
+Antonella Strambi and Eric Bouvet
+Flinders University, Australia
+ABSTRACT
+This article reports on the process of design and development of two language courses for
+university students at beginning levels of competence. Following a preliminary experience in a
+low-tech environment for distance language learning and teaching, and a thorough review of the
+available literature, we identified two major challenges that would need to be addressed in our
+design:
+(1) a necessity to build sufficient flexibility into the materials to cater to a variety of
+learners' styles, interests and skill levels, therefore sustaining learners' motivation;
+and
+(2) a need to design materials that would present the necessary requisites of authenticity
+and interactivity identified in the examined literature, in spite of the reduced
+opportunities for face-to-face communication.
+In response to these considerations, we designed and developed learning materials and tasks to be
+distributed on CD-ROM, complemented by a WebCT component for added interactivity and task
+authenticity. Although only part of the original design was implemented, and further research is
+needed to assess the impact of our environment on learning outcomes, the results of preliminary
+evaluations are encouraging.
+BACKGROUND TO THE PROJECT
+This article reports on the process of design and development of two distance courses, in Italian and
+French, for beginning learners. The language courses were part of a new Graduate Diploma in Language
+Teaching (GradDipLT), offered by the Department of Languages at Flinders University (Australia). The
+process was initiated in 2000, by a request from the South Australian Department of Education, which
+identified a demand for language teachers in schools, particularly in remote areas of the State. It was
+decided that the course would be offered by distance to cater to students unable to attend our regular
+language classes on campus. The South Australian Department of Education offered scholarships for
+registered teachers to be trained in languages. Therefore, our primary target was identified as full-time,
+non-language teachers, looking at career diversification. As a consequence, we expected the majority of
+our students to be mature-age women, with numerous work, family, and social commitments.
+In 2001, when the GradDipLT was first offered, a low-technology version of the course was
+implemented. The instructional materials initially used were merely an adaptation of those prescribed in
+our regular classes on campus. The use of print-based materials was complemented by audiotapes
+provided with the selected textbooks,1 e-mail correspondence, and weekly telephone appointments
+between students and their instructors.
+A few weeks into the first semester, however, it was clear that distance learners had different study
+patterns from our campus-based students and that a highly flexible environment was required in order to
+accommodate a variety of learner needs and skill levels. First of all, their full-time employment and   
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 82
+family commitments made it difficult for these learners to follow the regular work progression set in our
+13-week semester schedule, as most students worked in spurts contingent upon their professional
+calendar. Secondly, although the course was designed for absolute beginners, great variety was observed
+in students' levels of proficiency in the target language, as well as in terms of learners' general academic
+skills and learning styles and preferences. Some students had had some exposure to the target language in
+their school years or due to their family backgrounds. Some had learned a second language before, which
+had provided them with strategies that could be applied to their current learning situation, while other
+learners had no prior language learning experience. As a consequence, it was particularly difficult to set a
+course pace that would satisfy all learners' needs.
+From the point of view of the instructors involved in the delivery of the course, this was a very formative,
+but at the same time challenging and demanding pedagogical experience. Instructors reported having to
+reassess their teaching practices, partly re-inventing themselves as pedagogues, as they became aware that
+teaching a language at a distance required a completely different instructional stand from classroom-based
+instruction. The direct contact established with the students allowed us to gain an understanding of the
+pedagogy of distance language learning and teaching, and ensured that learners were not overcome by
+feelings of frustration, isolation, and anxiety. However, it was evident that the teaching approach
+employed could not be described as ideal. A number of problems were identified, in addition to the lack
+of cohesion among the student cohort previously discussed. In particular,
+• A great deal of effort was expended to establish positive interpersonal relationships between
+students and instructors, and to ensure that the initial levels of learner motivation were sustained.
+In order to achieve these goals, the instructors often went out of their way to offer support and
+encouragement, as well as timely feedback. The fact that instruction was mainly conducted
+through individual telephone appointments, made the instructors' task particularly demanding and
+time-consuming.
+• Some of the instructors were especially concerned with the emotional involvement that such close
+contact with their students required. In a classroom situation, learners are often assigned pair or
+small-group work during which they exchange personal information with other students. During
+our telephone appointments, the instructors acted as interactants in the conversational exchanges,
+therefore establishing much closer relationships with their students. Some of the instructors felt
+that the boundary between their professional and private lives had weakened, since they often had
+to disrupt their family routines in order to schedule telephone appointments outside of business
+hours, and they were expected to share a great deal of personal information with their students.
+• On the other hand, it was recognised that constant pressure was put on each individual student to
+perform during telephone lessons. In a classroom situation, learners can take turns in answering
+the instructors' questions, or even avoid participation altogether; these options were obviously
+denied to our students.
+• Since no visual support was available during telephone lessons, some instructors found it difficult
+to give explanations without being able to use a whiteboard or an overhead projector and often
+had to revert to English to ensure students' comprehension.
+• The costs involved with the delivery of the GradDipLT in terms of human resources, printing and
+copying, postage and telephone, were extremely high. Since the Department of Languages did not
+receive financial support from the University to establish a new maintenance fund for flexible
+delivery, these expenses put considerable pressure onto an already tight budget.
+• Finally, although the students appeared satisfied overall with their experience in the GradDipLT,
+one shortcoming was identified. In spite of the efforts made by their instructors, some learners
+noted that their exposure to the target language had remained limited, compared to students
+attending regular classes on campus -- who received 5 contact hours per week -- and felt that their
+opportunities to learn had been somewhat reduced.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 83
+This preliminary step into distance language education confirmed the need for an instructional
+environment that could accommodate our students' busy lifestyles as well as cater for a variety of learner
+needs and skill levels, while avoiding excessive strain on the human and financial resources of our
+Department. In order to gain further insight into the process of language learning and teaching at a
+distance, and to provide a solid theoretical grounding for our design project, we conducted a thorough
+review of the available literature. In the next paragraphs, we shall provide an overview of the learning
+theories and models that have informed the design of an environment for distance language learning that
+integrates a set of learning materials on CD-ROM with a Web-CT component, for enhanced flexibility
+and interactivity. Firstly, we shall address problematic issues connected with learning languages at a
+distance. We shall then explore the potential contribution of Internet and Computing Technology (ICT) to
+the process of Second Language Acquisition (SLA).
+THEORETICAL CONSIDERATIONS
+An overall social-constructivist approach was selected as a starting point for the present study, as this
+allows for an integration of affective, cognitive and interactionist perspectives into a coherent picture
+(Williams & Burden, 1997). In particular, a view of learning as the result of interactions between learners,
+teachers, and other sources of the target language within socio-educational contexts  is derived from
+social-interactionist perspectives. A view of the learner as "an active meaning-maker and problem-solver"
+(Williams & Burden, p. 43) is derived from cognitive approaches. Finally, the emphasis placed on
+emotional aspects of learning, and on the necessity of developing the learner's potential as a "whole
+person," is borrowed from humanistic approaches (e.g., Stevick, 1990). The strong focus placed on
+learners' affective and cognitive resources necessarily draws attention towards individual differences in
+terms of knowledge, skills, personality, cultural values, and lifestyles.
+Motivational Aspects of Learning Languages at a Distance
+Within the SLA process, learners' motivation is assigned a prominent role. In fact, provided that learners
+possess the knowledge and skills necessary to learn a new language and that they are exposed to sources
+of the target language, they must also make the conscious choice to participate actively in the learning
+process. In order for learning to occur, learners must be willing to (a) engage in interaction with the
+learning environment; (b) experiment with the target language, accepting the risk of making mistakes; (c)
+reflect over their learning; and (d) analyse their errors and plan future action (Oxford, 1999; Rubin, 1975).
+In other words, they must be motivated to learn.
+In recent years, several proposals have been advanced for a multidimensional model of second language
+motivation that integrates affective, cognitive and social factors. The majority of these proposals have
+been purely theoretical (e.g., Dörnyei & Ottò, 1999; Oxford & Shearin, 1996; Williams & Burden, 1997).
+However, some of these models have been at least partially validated by results obtained in empirical
+studies (e.g., Gardner, Tremblay, & Masgoret, 1997; Schmidt, Boraie, & Kassabgy, 1996). In spite of the
+differences in scope and formulation, there seems to be reasonable agreement among researchers in
+viewing motivation as the result of complex interactions between numerous variables at play. In
+particular, learners' evaluations of the opportunities offered by their learning environment and
+consequently their willingness to take an active part in the learning process, will be influenced by
+considerations relative to value attributed to learning outcomes, relevance of tasks to one's goals and
+interests, optimal level of challenge posed by learning tasks, and expectations of success, among others.
+More than the actual features of the learning environment, however, it is the "psychological meaning"
+(Deci & Ryan, 1985, p. 87) attached to these features by individual learners -- in other words learners'
+perceptions and interpretations of their interactions with the learning environment -- that will exert the
+greatest influence.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 84
+Learners' positive attitudes can be triggered by building flexibility into learning environments, in order to
+accommodate a variety of learning styles, interests, and skill levels (Hoven, 1999; Salaberry, 1996;
+Schmidt, Boraie, & Kassabgy, 1996). This is especially relevant to situations of distance language
+learning, as they present a number of specific challenges:
+• As previously observed, many distance students, and particularly those attending teacher
+education courses at graduate level, need to balance family, work, and social commitments (e.g.,
+Harrell, 1999). Since the effort required to master a second language is considerable, while the
+outcome "in terms of proficiency, enjoyment, social interaction, or language utility on the job"
+(Oxford & Shearin, 1994, p. 20; see also Horwitz, 1988) is often modest, it is particularly difficult
+for these students to maintain a high level of motivation.
+• Furthermore, because distance learners must solve most problems independently and often
+operate in a low-structured environment with scarce monitoring and feedback from their
+instructors, they tend to spend more time working on the materials than is required (Goodfellow,
+Manning, & Lamy, 1999; Hara & Kling, 1999). It has also been noted that many of these students
+return to tertiary education after a relatively long period and may lack academic or linguistic
+skills that would make the learning process more efficient (Kötter, Shield, & Stevens, 1999).
+• Adding to the previous point, distance learning materials often do not provide sufficiently clear
+instructions on how to carry out tasks, or detailed indications on evaluation criteria. As a result,
+distance learners may develop feelings of frustration and anxiety. In a study conducted by Hara
+and Kling (1999), for example, it was observed that task instructions tended to be unclear due to
+the fact that the materials had originally been developed for face-to-face instruction, and therefore
+presupposed that further explanations could easily be provided if required. Moreover, learners
+noted that, due to the lack of face-to-face interaction with their instructor, they were often unable
+to interpret her messages correctly and were unsure as to whether they had been able to meet her
+expectations.
+• As a result of the limited opportunities for interaction with the instructor or other learners,
+distance students may feel disconnected and isolated (Egbert & Thomas, 2001; Harrell, 1999;
+Rovai, 2002).
+• Finally, when computers are used extensively, students and instructors will have to deal with
+inevitable technical glitches, which, coupled with slow internet connections, may cause severe
+frustration and seriously impair learning (Hara & Kling, 1999; see also Egbert & Thomas, 2001;
+Hauck & Haezewindt, 1999)
+Because of these difficulties, it is relatively likely that distance learners will develop negative perceptions
+of their learning environment and experience a decrease in motivation, unless a great deal of support and
+guidance is provided. Furthermore, as previously noted, it is imperative that distance courses provide
+flexibility to cater to a variety of skill levels, learning styles, and interests, as well as to allow students to
+integrate their study commitments into their busy lives as smoothly as possible.
+The Role of Interaction in Second Language Acquisition
+In the literature on Second Language Acquisition (SLA), learners' active involvement in interaction with
+native speakers or other learners of the target language has been identified as a fundamental aspect of the
+learning process as it provides opportunities for students to engage in negotiation of meaning, and
+therefore to receive negative evidence. Negative evidence represents "direct or indirect information about
+what is ungrammatical" (Long, 1996, p. 413) in the language produced by learners. Upon receiving
+indications that their message has not been successfully conveyed, learners are encouraged to focus on the
+linguistic means used to encode meaning, and to adjust the form of their utterance, in order to increase
+output comprehensibility (e.g., Gass, Mackey & Pica, 1998; Mackey & Philp, 1998; Pica, 1994). The
+negative evidence received during conversational exchanges therefore represents a valuable source of
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 85
+feedback on the validity of learners' hypotheses that make up their interlanguage, that is, the transitional
+mental representation of the target linguistic system (Selinker, 1972).
+As a result of the above considerations, scholars seem united in maintaining that language learning
+environments should provide occasions for learners to be engaged in interaction and negotiation of
+meaning (Doughty & Pica, 1986; Willis, 1996). Specially designed tasks can provide even more
+opportunities for language development than spontaneous conversation, in that they force learners to deal
+with difficulties in comprehension and production in order to achieve their communicative goals (Long,
+1996). As a result, negotiation of meaning will be more likely to occur. However, tasks should also
+present requisites of authenticity, that is, they should resemble as closely as possible "actual tasks which a
+person may undertake when communicating through the target language" (Breen, 1987, p. 162). Task
+authenticity promotes meaningful interaction, which encourages the production of comprehensible output
+and provides purpose and personal involvement (Nunan, 1993).
+As observed in the previous section, in addition to providing linguistic input and feedback, learners'
+interaction with their instructors and other learners represents a fundamental factor from an affective point
+of view. The establishment of positive teacher-learner relationships, and a generally positive classroom
+atmosphere, plays a fundamental role in fostering learners' positive perceptions of the learning
+environment. This in turn is expected to lower students' anxiety and foster motivation (Burden &
+Williams, 1998; Noels, Clément, & Pelletier, 1999; Young, 1990). It is essential, therefore, that learners
+come to perceive the learning environment as a place where assistance can be obtained whenever needed,
+and where everyone's opinions are respected and valued as contributions to the group's culture. This is
+especially true of distance learning environments, where face-to-face contact is limited or non-existent.
+Meeting the Challenges of Distance Language Learning and Teaching with ICT
+In the previous sections we have identified two major challenges associated with distance language
+learning: (a) sustaining learners' positive attitudes and motivation despite the many difficulties they face
+and (b) maintaining high levels of interaction in the learning environment despite the limited personal
+contact. In the next paragraphs we look at the possibilities offered by ICT in meeting these challenges, by
+allowing flexibility in the learning environment and by enhancing opportunities for interaction and task
+authenticity.
+Flexibility
+One of the most often cited benefits associated with ICT is its ability to increase flexibility and learner
+control over time, pace and modalities of material access (e.g., Curtis, Duchastel, & Radic, 1999; Egbert
+& Jessup, 1996; Oxford, Rivera-Castillo, Feyten, & Nutta., 1998; Pusack & Otto, 1997). Because of this,
+ICT seems particularly apt to ensure correspondence of instruction to individual learners' styles and
+needs, therefore promoting positive attitudes and sustaining motivation (Duchastel, 1997; Garrett, 1987,
+1988; Harben, 1999; Pennington, 1996; Reeves & Reeves, 1997).
+In fact, apart from different skill levels and interests, ICT can also cater for a multiplicity of learners'
+preferences in terms of perceptual mode, due to its multimedia nature (Soo, 1999; Underwood, 1988). A
+great advantage attributed to multimedia materials over traditional presentation media is their ability to
+integrate a variety of input sources in a coherent and cohesive way:
+The strength of multimedia software is in the synergy derived from presenting content using a
+variety of modalities that can reinforce each other and that are linked together in meaningful ways
+to provide an in-depth learning experience. (Pusack & Otto, 1997, p. 2)
+Indeed, the above observations should be extended to include what is normally referred to as hypermedia,
+which integrates the concept of hypertext with that of multimedia, as is the case with most instructional
+materials delivered via ICT.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 86
+Hypertexts allow task designers to store additional information, such as dictionaries or other reference
+materials, that learners can access if and when needed, to enhance their comprehension. The fact that such
+materials are available through a simple mouse click, but remain hidden until they are requested, ensures
+a high degree of correspondence between the amount of assistance provided and the reader's skill level.
+Furthermore, large amounts of information can be made available without becoming distracting or
+intimidating for the learner (Davis & Lyman-Hager, 1997; Ellis, 1995; Greaves & Yang, 1999).
+According to some scholars (e.g., Richmond, 1999; Stevens, 1992), not only can online reference
+materials be more time efficient than their written counterparts, but their use entails a more effective use
+of cognitive resources. For example, the definition of an unknown word, requested during a task, would
+appear on the screen next to the context in which that particular word is used, freeing up cognitive
+resources that could otherwise be employed to retain information gathered from other sources (see also
+Ellis, 1995).
+Other cognitive advantages have been associated with intrinsic features of hypertexts. Jonassen and
+colleagues (Jonassen, Dyer, Peters, Robinson, Harvey, King, & Loughner, 1997; Jonassen, Duffy, &
+Lowyck, 1993), for example, have suggested that the exploratory, non-linear nature of hypertexts and
+their ability to represent multiple perspectives, coupled with the opportunities for engagement in
+collaborative, problem-solving tasks they provide, would promote learners' cognitive flexibility (see also
+Gruba & Lynch, 1997; Spiro, Feltovich, Jacobson, & Coulson., 1995). Other researchers have noted that
+hypertexts facilitate a deeper approach to learning materials, in that they require learners to select,
+interpret, and reorganise chunks of information into a coherent and cohesive mental image, which
+involves reconstruction, rather than reproduction of knowledge (Gordon, 1996; see also Lanzotti, 1997).
+Finally, the associative structure of hypertexts has been likened to the organisation of knowledge within
+the human mind (Ebersole, 1997; Oliver, Herrington, & Omari, 1996). Because of such similarity,
+retention and retrieval of information acquired through hypertexts would be facilitated.
+The hypermedia nature of ICT, therefore, ensures that individualised sequences of access to a range of
+materials can be easily built while maintaining coherence and cohesiveness in the presentation and,
+indeed, providing cognitive advantages over traditional media. From this point of view, ICT can represent
+an important step towards the establishment of environments that allow high levels of flexibility and
+learner control. Increasing learner control, however, presupposes a reasonable degree of autonomy in
+students, who must possess the necessary knowledge and skills to make informed choices (see Blin, 1999;
+Goodfellow, 1999, for further discussion). As has been previously noted, adult distance learners often
+have lost or never acquired these skills, and may not be able to implement strategies (either metacognitive
+or linguistic) to manage their learning effectively. The role of the instructor in providing scaffolding and
+coaching, therefore, remains fundamental to sustain and enhance learners' ability to engage in
+autonomous learning, particularly in technology-rich environments. This is where the communication
+tools offered by ICT become invaluable assets.
+Interaction and Task Authenticity
+The ability of ICT to promote interaction has been studied extensively in relation to Computer Mediated
+Communication (e.g., Herring, 1996). It has been suggested that not only would communication via the
+computer provide the same opportunities for negotiation of meaning observed in face-to-face interaction,
+but its written nature would make interaction and negotiation even more effective (Lamy & Goodfellow,
+1999; Warschauer, 1998).
+In particular, learners participating in Computer Mediated Communication (CMC) seem able to produce
+more complex and accurate instances of language than they do in oral conversation (e.g., González-
+Bueno, 1998). The observed advantages would derive from the fact that, during CMC, learners have more
+time for reflection and opportunities to access reference materials, which translates into better
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 87
+opportunities for comprehension, as well as an enhanced ability to engage in planning and monitoring of
+one's output.
+Furthermore, CMC seems to provide a non-threatening environment for learners' experimentation with
+the target language (e.g., Pennington, 1996). In electronic discussion, learners can decide when to
+contribute, and can prepare their text without pressure or fear of being interrupted. The risk of making
+mistakes in front of other students and the consequent allocation of cognitive resources to the monitoring
+of one's linguistic accuracy and pronunciation also seem to be overcome in CMC. The result would be
+more equality in students' participation, better learner disposition towards engaging in activities involving
+risk-taking, and positive perceptions of the learning environment.
+Finally, it has been observed that CMC enhances task authenticity, especially when it involves exchanges
+with native speakers or other learners in different contexts (e.g., Ortega, 1997; Paiva, 1999). In the case of
+distance language learners, asynchronous communication via the computer can represent a fundamental
+tool for the establishment of a community of learners. Students can easily exchange personal information,
+request and offer support to other learners, or contact the instructor when needed, without major
+disruption to their busy personal and professional schedules. Answers to learners' questions can be posted
+to a bulletin board and made available for future reference, therefore constituting a knowledge base of
+prior learning experiences.
+While CMC represents an expanding field of inquiry and is increasingly used to foster learner-learner
+interaction during communicative tasks, computers have been traditionally used for grammar-based
+activities, for a number of reasons. From a utilitarian point of view, the relative simplicity of the data-
+handling programs required for marking grammar drills allows for easy scripting and implementation.
+From a pedagogical perspective, grammar-based activities remain an important part of linguistic training
+for beginning students. Firstly, most researchers agree that a balance should be established between
+meaning and form as foci of the language syllabus (e.g., Dubin & Olshtain, 1986; Long & Crookes,
+1993), not only to promote both fluency and accuracy, but also to cater to differences in learning styles
+and preferences. Secondly, grammar-based activities allow learners to build or reinforce background
+knowledge. At introductory levels, in fact, reproduction rather than construction of knowledge is often
+seen as a necessary first step towards more creative uses of the language (e.g., Garrett, 1998).
+It has been noted that such use of ICT is rather unimaginative and does not represent the best way to
+exploit the full potential of technology for language learning (Mohan, 1992; Richmond, 1999). On the
+other hand, according to Chapelle (1997), learners' interaction with computer-based materials could
+indeed be viewed as providing similar opportunities for negotiation of meaning to those observed in
+human interaction (see also Underwood, 1988). For example, learners' access to the transcript in a
+listening comprehension activity could be viewed as an example of interactional modification, and the
+recourse to additional reference materials in order to increase comprehension could be interpreted as an
+instance of negotiation of meaning and scaffolding (Holliday, 1999; Hoven, 1999).
+The possibility of providing automatic, immediate feedback as a source of negative evidence has also
+been identified as one of the main advantages of ICT. Unfortunately, the flexibility afforded by most
+marking scripts is often extremely limited (Salaberry, 1996). As Garrett (1987) has noted, a simple
+indication of correctness can be of little benefit in cases in which learners are unable to identify the source
+of their mistakes. On the other hand, an indication that a mistake has been made allows learners to
+identify a problematic aspect of their interlanguage, at which stage assistance can be sought from the
+instructor or other sources (Bradin, 1999). After all, as Stevens (1992) has observed, while computers can
+respond to students' prompts, "they cannot do so with empathy" (p. 31). As a consequence, human
+interaction, though computer-mediated, remains a necessity.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 88
+TRANSLATING THEORY INTO PRACTICE: DESIGN AND DEVELOPMENT
+In light of the theoretical and contextual considerations made so far, we established that our distance
+language learning environment should satisfy the following design criteria:
+1) Flexibility, combined with assistance and scaffolding to support a variety of learners' needs, interests
+and skill levels, and to facilitate ultimate learning -- This can be achieved by designing an
+environment that provides opportunities for
+• Learner control over the instructional path(s) to follow. Although learners should not be
+constrained by a pre-determined sequence of access, support can be provided by indicating a
+suggested pathway. Information and tools that facilitate planning and monitoring of the students'
+learning process are essential to provide guidance and scaffolding.
+• Learner control over a variety of (a) media sources, to cater to different perceptual styles; and (b)
+materials and tasks to cater to different interests and cognitive styles of learning.
+• Learner interaction with hypermedia materials offering (a) different degrees of assistance through
+online help and reference materials that remain concealed unless requested and (b) flexibility in
+the provision of feedback.
+• Extensive use of hypertext features that facilitate association and memorisation.
+2) Interaction and task authenticity -- ample opportunities for exposure to and interaction with a variety
+of input sources. This can be achieved by designing an environment that provides opportunities for
+• Involvement in tasks that require learners' interaction and negotiation with an authentic audience
+and authentic materials in order to facilitate negotiation of meaning and the production of
+comprehensible output, in spite of the limited contact with the instructor.
+• Learner-computer interaction, including some grammar-based practice as well as listening-
+comprehension activities, to maximise opportunities for exposure to the target language in a non-
+threatening environment and to ensure acquisition of background knowledge. In order to
+compensate for the limited interaction with the instructor, and to prevent frustration and
+confusion, clear instructions on how to carry out these tasks must be provided.
+In the next paragraphs, we shall illustrate the process that led us to the actualisation of the theoretical
+principles we identified as our point of departure. In particular, we shall firstly discuss the original
+concept of our distance language learning environment, which culminated in the design of a blueprint for
+the integrated CD-ROM and WebCT components of the course. Subsequently, we shall address the
+process of development and piloting of our materials.
+An Integrated Environment for Distance Language Learning: Initial Concept
+After our first teaching experience in the low-tech version of the GradDipLT, we were dissatisfied with
+the existing course packages (see note 1 for details), for a number of reasons. Firstly, their teaching and
+learning approach placed too much emphasis on grammar, while oral comprehension and communication
+aspects were insufficiently developed. Secondly, the textbooks were designed mainly for young students
+attending tertiary institutions in the United States. Consequently, a considerable proportion of the topics
+treated was considered unsuitable for mature-age students living in an Australian context. Thirdly, these
+materials presupposed face-to-face contact, with the result that many of the learning activities require pair
+or small group work and teacher direction. As previously observed, if instructional materials are not
+designed for distance education they run the risk of lacking the necessary clarity and exhaustiveness in the
+provision of relevant information. Finally, we believed that a purposely-designed ICT-based course would
+be especially effective due to the benefits associated with hypermedia discussed in the previous section.
+As a consequence of the above observations, we decided to develop a template for a learning environment
+that could be easily adapted to satisfy the needs of different cohorts of students and a variety of teaching
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 89
+approaches, and that would also satisfy the requirements of interactivity and flexibility previously
+discussed.
+In order to provide ample opportunities for learners' exposure to the target language and interaction with a
+variety of input sources and media types, we expected to include a considerable amount of listening
+comprehension activities in our courseware. Furthermore, to compensate for the lack of face-to-face
+interaction, we planned to shoot several video segments showing conversations among native speakers of
+the target language, recorded on the University grounds as well as in the countries in which the target
+languages are spoken. Other audiovisual material was to be recorded from TV and radio stations in the
+target language and digitised.
+Therefore, it was decided that the bulk of our materials would be made available to the students on CD-
+ROM, which would facilitate the distribution of such media-rich content, and would allow us to overcome
+access problems related to bandwidth, particularly in remote areas of South Australia. CD-ROM
+technology, however, does not allow for much learner-learner or leaner-instructor interactivity. For this
+reason, we established that a WebCT component would also be developed, in order to ensure that timely
+information would be easily available, and to provide access to communication tools. The result of our
+conceptualisation process is visually represented in Figure 1.
+Figure 1. Course template -- concept map
+As shown in our diagram, a substantial proportion of our design concerned the content and organisation
+of the CD-ROM. In addition to learning activities, it was decided that the CD-ROM would contain a
+section detailing information on the course aims, approach, syllabus, and assessment, which ensured
+students' awareness of their instructors' expectations. A help section was to be provided that would
+contain extensive instructions on the use of the CD-ROM and installation of the two plug-ins required for
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 90
+audio and video access, as well as a site map. The CD-ROM would also provide links to linguistic tools
+such as language-specific versions of Web browsers, to maximise exposure to the target language, spell-
+checkers, and flash cards. Grammar and culture notes, links to online dictionaries, and relevant Web sites
+in the target language, on the other hand, were grouped under a "Reference" heading. In order to facilitate
+the development of learners' metacognitive strategies, particularly their ability to plan and monitor their
+learning, we also decided to include a "Learning Tools" section, containing learning tips and also a link to
+a WebCT-based calendar, which would enable learners to keep track of their progress in relation to the
+course aims and objectives.
+As mentioned above, from the CD-ROM, students could access relevant sections of the WebCT
+component. In addition to the instructors' and students' personal webpages, it was decided that the course
+Web site would contain a list of e-mail addresses to facilitate communication within the group, students'
+shared links and course notes, and a chat facility; and a bulletin board, which students could use to request
+assistance.
+The Development Stage
+The template of the CD-ROM interface was developed in HTML and Javascript language for cross-
+platform compatibility and also to allow for easy distribution over the Internet in the future. Envol, the
+French version of the CD-ROM, was the first to be developed and piloted (see the section "Taking Off"
+for more information on the piloting phase). In our brief to the graphic designer and Web developer who
+assisted us in the development of the template, we followed indications for effective multimedia design
+identified in the literature on instructional technology (e.g., Boling & Soo, 1999; Ebersole, 1997; Hémard,
+1999). In particular, a white background was chosen to ensure readability, colour and images were used
+consistently to provide orientation, and fixed spaces were created for video viewing and note reading, so
+that learners would be able to complete learning activities without the need to scroll up and down the
+pages to access instructions, audiovisual input, reference materials, and task questions (see Figures 2, 3,
+and 4, below for screenshots).
+The bottom bar contains buttons that link to the five main areas within the CD-ROM, while the pull-down
+menu below the video screen provides easy access to the learning activities, organised into thematic units
+of work. Since these facilities are an integral part of the interface, users have unlimited access to all the
+sections of the CD-ROM at any point during their interaction with the materials. In other words, it is
+possible to navigate the CD-ROM in any preferred sequence of access. A "home" button on the top bar
+allows users to return to the welcome screen at any time, therefore ensuring that learners never lose their
+way in the navigation.
+As previously observed, a design that allows freedom of navigation may not represent the best choice for
+learners who do not possess the necessary metacognitive knowledge and skills to be completely
+autonomous. In order to limit cognitive overload, and to offer scaffolding for more inexperienced
+learners, we included a suggested sequence of access to the materials and tasks offered, by including
+navigation buttons in each activity page. The buttons (visible in Figure 3) allow learners to progress to the
+next available activity without returning to the table of contents, hence making the navigation similar to
+the familiar, linear pattern of access experienced when turning the pages in a book.
+Assistance and scaffolding in planning, monitoring and evaluating one's learning process were offered in
+the form of
+• A list of aims and objectives, linked to the relevant grammar, communication and culture notes
+and included in the "Topic information" section of the CD-ROM. Information about aims and
+objectives of individual activities was also provided in the table of content of each unit of work,
+together with a short description of what the activities involved (see Figure 2 for an example).
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 91
+Figure 2. Table of content for unit 1 of the Italian CD-ROM
+• Detailed information about assessment requirements and procedures for submission of student
+work, also included under the "Topic information" heading.
+• An interactive topic calendar regularly updated by instructors to include all relevant dates and
+deadlines, available from the WebCT course Web site (links to the calendar were provided in the
+"Topic information" and "Learning Tools" sections).
+• A whole section of the CD-ROM reserved for suggestions on how to enhance one's learning by
+employing a variety of learning strategies. Links to learning strategies that were especially
+relevant to the tasks and materials offered in each unit of work were featured prominently in the
+table of contents. At the beginning of the course, for example, learners were encouraged to find
+out more about themselves and their preferred learning styles and strategies, by completing
+surveys available online from external Web sites.
+• Finally, at the end of each unit of work, learners were encouraged to evaluate their learning by
+reviewing the stated aims and objectives, and by taking self-assessment tests available from the
+WebCT Web site (see Figure 4).
+As noted in the previous section, the CD-ROM contained a variety of learning activities, many of which
+involved access to audiovisual materials, in order to compensate for the lack of face-to-face interaction
+with sources of the target language that is a characteristic of distance learning, and also to exploit the
+advantages offered by hypermedia. Video clips and audio segments for listening comprehension activities
+were recorded for the Envol CD-ROM on the basis of scripts created by instructors at Flinders University.
+In the case of the Italian CD-ROM, interviews with native speakers were videorecorded without a
+predetermined script in order to ensure input authenticity. TV and radio broadcasting, as well as film
+excerpts, were also used to increase learners' opportunities for exposure to a variety of authentic input
+sources.
+Learning activities were created using a wide range of approaches, to ensure correspondence with
+individual learners' interests, learning styles, and skill levels. For example, some exercises required
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 92
+minimal language production, such as those involving listening to a dialogue and recognising some of the
+expressions used by the interlocutors by selecting them from an available list or answering true-or-false
+questions (see Figure 3).
+Figure 3. Listening comprehension activity from the Envol CD-ROM
+Other activities placed greater emphasis on written production by asking learners to reorder given
+sentences to reconstruct written dialogues, complete texts by filling in gaps, type words corresponding to
+the definitions given in crossword puzzles exercises, or write short answers to comprehension questions.
+Tasks requiring learners to exchange personal information, mainly through the WebCT bulletin board,
+were also made available in order to enhance opportunities for learner-learner interaction and task
+authenticity. In the Italian version of the course, at the end of each unit of work, a written assignment
+required learners to use the knowledge and skills gained through more structured activities included in the
+CD-ROM in order to get to know their fellow students and instructors. The themes introduced in the units
+concerned personal habits, characteristics, and feelings, hence providing scope for authentic
+communicative exchanges. At the end of the first unit, for example, students were required to introduce
+themselves to other learners taking the course by posting a message in the WebCT bulletin board, as
+shown in Figure 4.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 93
+Figure 4. Italian language task at the end of unit 1
+Other tasks of this type involved describing one's family, usual activities on a working day, hobbies,
+favourite food and recipes, home, best friend, and so forth. Special topics were created in the course
+bulletin board for this purpose (see Figure 5).
+Figure 5. Discussion topics in the Italian course bulletin board
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 94
+It was decided that instructors would participate in the interaction by posting messages about themselves
+to model the tasks, as well as to establish personal links with the students. A chat facility was also
+provided in order to encourage learners to "meet" on line and interact more freely, not only to establish
+closer relationships but also to practise conversation topics in preparation for oral tests (to be taken during
+telephone appointments with the instructor or in person on campus, whenever possible).
+In addition to the tools discussed above, other measures were taken to foster learner collaboration and
+consequently the development of a sense of community. In particular, learners could develop personal
+Web pages, post learning tips and notes that they felt were especially helpful, and build a collection of
+useful links. Furthermore, a space was reserved for help requests in the course bulletin board. The
+WebCT frontpage for the Italian course is reproduced in Figure 6.
+Figure 6. The WebCT front page for the Italian course
+In developing our materials, we made a conscious effort to exploit those hypertext features previously
+identified as especially advantageous for language learning. In particular, all activities included in the
+CD-ROM provided immediate access to supporting materials, which could be requested by the users
+during their engagement in tasks. It was expected that this would enhance input comprehension and
+facilitate the production of comprehensible output. As shown in Figure 3, for example, when completing
+listening comprehension exercises, learners could request to view the relevant transcript, grammar or
+culture notes, or a glossary. The requested information would appear in the lower right-hand frame of the
+interface to ease cognitive load and facilitate association and memorisation, as previously discussed.
+In the first few units of work, English was used extensively to ensure comprehension and limit the risk of
+learners' frustration, given the fact that many of our students have little or no competence in the target
+language when they enrol in the course. Starting from units 3 to 4, the target language was gradually
+introduced as the main language of instruction. However, by clicking a button, learners had the possibility
+to access an English translation of the task instructions.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 95
+Finally, all materials and tools included in the CD-ROM and in the WebCT sites were extensively cross-
+linked to facilitate associative processes, and especially to provide learners with opportunities to request
+and obtain assistance and scaffolding at any point during their learning experience.
+The design and development process was an exciting, but at the same time extremely challenging and
+time consuming task, given our little experience in developing ICT materials and the limited resources
+available to a small Language Department such as ours (see Concluding Remarks for further discussion).
+The most important test, however, was still to come: It was time to obtain some preliminary data on the
+effectiveness of our design. In the next section, we report on the process of piloting the French version of
+the CD-ROM.
+TAKING OFF: PILOTING THE FRENCH CD-ROM
+The Envol CD-ROM was first piloted in 2002. The implementation of the WebCT component included in
+our initial design, however, was temporarily put on hold for several reasons. Firstly, most instructors had
+limited familiarity with ICT and did not possess the necessary skills to provide assistance in case of
+(likely) technical problems encountered by the students. Secondly, time and resource constraints imposed
+limitations on the rate of our progress within the development process. As a result of these considerations,
+it was decided to focus on the CD-ROM, while WebCT would be used mainly to provide information
+about the course. A course bulletin board was included in the course Web site, and students were
+encouraged to post messages; however, the use of this tool was not assessed, and was therefore
+considered optional. Consequently, although learners were able to correspond with each other on
+everyday topics after a few weeks of instruction, actual usage of the bulletin board was extremely limited.
+Opportunities for oral interaction continued to be offered principally through telephone appointments
+between the students and their instructors.
+In semester 1, 2002, when the Envol CD-ROM was piloted, the language course was divided into six
+thematic units of work to be covered in 13 weeks. Five of these units (that is, units 2 to 6) were subject to
+formal assessment in the form of take-home assignments and tests. The CD-ROM was sent to students
+prior to the start of the semester with a cover letter outlining the objectives of the topic. Students were
+advised to preview the content of the CD-ROM before contacting the instructor during the week
+preceding the start of the semester.
+On first contact, the instructor gave a guided tour of the CD-ROM, pointing out its essential features in
+terms of navigation and content. Individual appointments, either face-to-face for students able to attend
+the University campus, or by telephone, were scheduled once weekly and lasted for about 45 minutes.
+These appointments were to take place preferably towards the end of the week to allow students to
+complete the assigned weekly work prior to the consultation session. During these sessions, the work was
+discussed and additional grammatical explanations were given, in English if needed. Model-dialogues
+included in the CD-ROM were practised and students were expected to engage in free conversation with
+their instructor in the target language. Assignments were given at regular intervals and were made
+available on WebCT for two-week periods (one week before and one week after the suggested assignment
+due date), allowing students to be one week ahead or one week behind schedule if needed. The oral
+production part of the assessment was done face-to-face on campus, or by telephone if students were
+unable to travel to the University.
+At the end of the first semester informal evaluations of the Envol experience were conducted. Given the
+fact that only four students had used the materials, we opted for semi-directed interviews to collect
+qualitative data, rather than administer a questionnaire, which, due to the small number of respondents,
+would be of little significance.
+Authenticity, relevance, and usefulness were some of the features closely associated with the Envol CD-
+ROM, as shown by the following students' comments:
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 96
+[The CD-ROM] was always there to refer back to.
+The video and sound made [the CD-ROM] complete.
+The grammar was well organised and more thorough than in other commercial [interactive]
+courses [...] tried before.
+The [content of the CD-ROM] was realistic and could be easily related to.
+The navigation was easy and logical.
+The links were useful.
+A few negative comments were also made, mostly concerning the unavoidable technical glitches
+occurring during the use of the CD-ROM. For example, some video-clips were not running, and some of
+the activities providing automatic feedback lacked consistency or contained errors. However, the students
+were extremely satisfied with the CD-ROM. In fact, they expressed strong preference for the organisation
+of the first semester of the course, compared to the second part, in which only commercially available
+materials were used. In fact, even though the new edition of the textbook package contained a CD-ROM
+and online resources (see note 1 for details), the students believed that it lacked the cohesiveness and
+coherence provided by the Envol CD-ROM. They also observed that the Envol CD-ROM was a
+comprehensive point of reference and contained learning activities that were more suitable to the context
+of adult distance language learning, which made the learning process more efficient and effective, and
+ultimately more enjoyable.
+While the results of these evaluations are extremely encouraging, it must be recognised that our learners'
+positive attitudes in relation to their experience in the GradDipLT are still largely dependent on the
+instructors' efforts to establish positive relationships with their students and to provide a high degree of
+flexibility and support. As discussed in the Background section of this article, such high levels of
+instructor-learner interaction are not economically sustainable. Therefore, it is necessary to identify
+alternative ways of promoting quality interaction to compensate for the anticipated reduction in contact
+time.
+Furthermore, we believe that learners' interaction with other learners is necessary to maximise input
+exposure and output production, as well as to create a community of learners and, consequently, a support
+network. In comparison to students attending our regular classes on campus, who receive 5 hours of
+language instruction every week, distance students working in isolation have reduced opportunities for
+participating actively in, or even observing, conversational exchanges.
+It is expected that the introduction of the WebCT component of our design will allow us to foster learner-
+learner interaction and task authenticity, and to reduce direct contact time between students and their
+instructors. We are also exploring options relative to the use of audio-conferencing tools to build virtual
+classrooms, in order to provide oral, as well as written input and interaction. Building a virtual classroom
+may, however, limit the degree of flexibility provided if students are required to "meet" online at the same
+time and, more importantly, to maintain the pace imposed by the instructor. Indeed, we found that one of
+the challenges posed by distance learning and teaching is trying to strike a balance between flexibility,
+especially with regard to assessment deadlines and course content, and a need for structure and close
+monitoring of the learning process by the instructor. On the one hand, both instructors and learners
+recognise that it is important to establish work deadlines. On the other hand, in order to offer real
+flexibility, we need to allow learners to study at their own pace and to select the learning materials and
+practices that best correspond to their interests and skill levels.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 97
+CONCLUDING REMARKS
+Our involvement in the conceptualisation and the development of the French and Italian language courses
+has presented an important pedagogical challenge. Having gone through the design and piloting stages of
+the project, we have come to realize how largely unaware we were initially of the many principles and
+issues pertaining to the development of an instructional environment for distance language education.
+While the results obtained in our preliminary evaluations are encouraging, a number of questions remain
+open. Firstly, the small number of students involved in the piloting phase, coupled with the fact that no
+formal evaluations were conducted, do not allow us to draw conclusions as to the impact of the
+instructional materials we designed on learners' attitudes and motivation. Further studies need to be
+conducted on a larger scale, employing rigorous methods of data collection and analysis.
+Furthermore, the full implementation of our original design, which includes both the CD-ROM and the
+WebCT component, will introduce modifications that can be expected to influence learners' attitudes
+towards the course. In particular, as the new environment will be more reliant on ICT, and opportunities
+for direct contact with the instructors will be somewhat reduced, it will be necessary to monitor the
+students' reaction to these important changes.
+Although affective variables, such as students' attitudes, are central to the process of SLA and especially
+to distance language learning, it is imperative that the ability of our learning environment to promote
+language development be also investigated. Therefore, further studies will have to be conducted that focus
+on our students' learning processes and outcomes and that evaluate our materials' effectiveness in
+facilitating SLA.
+It is also extremely important that the results of formal and informal evaluations are integrated into the
+process of material development. As Egbert and Thomas (2001) have noted, in order to provide the
+necessary flexibility to accommodate the changing needs of our learners, the process of instructional
+design must be "inherently iterative and evaluative in nature" (p. 404). However, this may present a
+problem for teams working within relatively small language departments, where the time and resources
+available for material design tend to be extremely limited.
+In the case of this project, for example, language lecturers were assigned the task of designing the course
+as an addition to their regular workload. Consequently, and due to their limited experience in the
+development of ICT materials, it was necessary to rely quite heavily on assistance from the University's
+IT support staff, who had little awareness of the pedagogical issues involved in language instruction. As a
+result, the development process was extremely time consuming, as well as frustrating at times, especially
+when the original design had to be modified to compensate for technical limitations. The risk of
+developing technology-driven, rather than pedagogically sound materials, was a constant reality. In order
+to avoid potentially serious pitfalls, it is imperative that administrators be made aware of the complex
+issues involved in the design of distance language learning environments, and that appropriate resources
+and support be made available.
+Despite the limitations of our project, our experience has been a positive one. Not only have we gained an
+understanding of the dynamics involved in distance education, but we have also had to reassess radically
+our teaching practices to suit a new teaching and learning context. We now look forward to the full
+implementation of our design and to being able to evaluate our effort in relation to the learning outcomes
+of our students. We hope that other language instructors operating in contexts similar to ours will benefit
+from our experience, and that this article can contribute to enhancing their awareness of the pedagogical
+and technical issues that need to be taken into account when designing ICT-enhanced environments for
+distance language learning.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 98
+NOTE
+1. The Deux Mondes (Terrell, Rogers, Barnes, & Spielmann, 1997) course package was selected for the
+French course, while the Prego! (Lazzarino, Aski, Dini, & Peccianti, 1997) package was the prescribed
+text for the Italian course. At the time, the packages included a textbook, a workbook and audiotapes.
+Current editions are distributed with a CD-ROM containing audiovisual materials and language activities
+providing automatic feedback.
+ACKNOWLEDGMENTS
+The authors are grateful to the anonymous reviewers for their insightful comments and suggestions on an
+early version of this article. Thanks also to Elizabeth Close and Francesca Bouvet for their assistance and
+support.
+ABOUT THE AUTHORS
+Dr. Antonella Strambi is a lecturer in Italian language and culture at the Flinders University of South
+Australia. Her principal research area is second language acquisition and teaching methodology,
+especially in relation to Internet and computing technology.
+E-mail: Antonella.strambi@flinders.edu.au
+Dr. Eric Bouvet is a lecturer in French language and culture at the Flinders University of South Australia.
+His main research interests are in the area of second language teaching and learning, with a particular
+focus on reading in a foreign language.
+E-mail: Eric.bouvet@flinders.edu.au
+REFERENCES
+Blin, F. (1999). CALL and the development of learner autonomy. In R. Debski & M. Levy (Eds.),
+WorldCALL: Global perspectives on computer-assisted language learning (pp. 133-147). Lisse, The
+Netherlands: Swets & Zeitlinger.
+Boling, E., & Soo, K. (1999). CALL issues: Designing CALL software. In J. Egbert, & Hanson-Smith, E.
+(Eds.), CALL environments: Research, practice and critical issues (pp. 442-56). Alexandria, VA:
+TESOL.
+Bradin, C. (1999). Call issues: Instructional aspects of software evaluation. In J. Egbert & E. Hanson-
+Smith (Eds.), CALL environments: Research, practice and critical issues (pp. 159-175). Alexandria, VA:
+TESOL.
+Breen, M. P. (1987). Contemporary paradigms in syllabus design, Part II. Language Teaching, 20(3),
+157-174.
+Burden, R., & Williams, M. (1998). Language learners' perceptions of supportive classroom
+environments. Language Learning Journal, 17, 29-31.
+Chapelle, C. A. (1997). CALL in the Year 2000: Still in search of research paradigms? Language
+Learning & Technology, 1(1), 19-43. Retrieved May 1, 2003, from http://llt.msu.edu/vol1num1/chapelle/
+Curtis, S. A., Duchastel, J., & Radic, N. (1999). Proposal for an online language course. ReCALL, 11(2),
+38-45.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 99
+Davis, J. N., & Lyman-Hager, M. A. (1997). Computers and L2 reading: Student performance, student
+attitudes. Foreign Language Annals, 30(1), 58-71.
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behaviour. New
+York: Plenum.
+Dörnyei, Z., & Ottò, I. (1999). Motivation in action: A process model of L2 motivation. Working Papers
+in Linguistics, 4, 43-69. Lingu@net - CILT Research Forum. Available at
+http://www.cilt.org.uk/research/resfor3/dornyei.htm
+Doughty, C., & Pica, T. (1986). "Information gap" tasks: Do they facilitate second language acquisition?
+TESOL Quarterly, 20(2), 305-325.
+Dubin, F., & Olshtain, E. (1986). Course design: Developing programs and materials for language
+learning. Cambridge, England: Cambridge University Press.
+Duchastel, P. (1997). A motivational framework for Web-based instruction. In B. H. Khan (Ed.), Web-
+based instruction (pp. 179-184). Englewood Cliffs, NJ: Educational Ttechnology Publications.
+Ebersole, S. (1997). Cognitive issues in the design and development of interactive hypermedia:
+Implications for authoring WWW sites. Interpersonal Computing and Technology, 5(1-2), 19-36.
+Egbert, J. L., & Jessup, L. M. (1996). Analytic and systemic analyses of computer-supported language
+learning environments. TESL-EJ, 2(2), 1-24.
+Egbert, J., & Thomas, M. (2001). The new frontier: A case study in applying instructional design for
+distance teacher education. Journal of Technology and Teacher Education, 9(3), 391-405.
+Ellis, N. C. (1995). The psychology of foreign language vocabulary acquisition: Implications for CALL.
+Computer Assisted Language Learning, 8(2-3), 103-128.
+Gardner, R. C., Tremblay, P. F., & Masgoret, A. (1997). Towards a full model of second language
+learning: An empirical investigation. The Modern Language Journal, 81(3), 344-362.
+Garrett, N. (1987). Computers in foreign language education: Teaching, learning, and language-
+acquisition research. ADFL Bulletin, 19(2), 6-12.
+Garrett, N. (1988). A psycholinguist perspective on grammar and CALL. In W. F. Smith (Ed.), Modern
+media in foreign language education: Theory and implementation (pp. 169-196). Lincolnwood, IL:
+National Textbook Company.
+Gass, S. M., Mackey, A., & Pica, T. (1998). The role of input and interaction in second language
+acquisition. Introduction to special issue. The Modern Language Journal, 82(3), 299-307.
+González-Bueno, M. (1998). The effects of electronic mail on Spanish L2 discourse. Language Learning
+& Technology, 1(2), 50-65. Retrieved May 1, 2003, from http://llt.msu.edu/vol1num2/article3/
+Goodfellow, R. (1999). Evaluating performance, approach and outcome. In K. Cameron (Ed.), Computer
+assisted language learning (CALL): Media, design and applications (pp. 109-140). Lisse, The
+Netherlands: Swets & Zeitlinger.
+Goodfellow, R., Manning, P., & Lamy, M. (1999). Building an online open and distance language
+learning environment. In M. Levy & R. Debsky (Eds.), WorldCALL: Global perspectives on computer-
+assisted language learning (pp. 267-285). Lisse, The Netherlands: Swets & Zeitlinger.
+Gordon, J. (1996). Tracks for learning: Metacognition and learning technologies. Australian Journal of
+Educational Technology, 12(1), 46-55.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 100
+Greaves, C., & Yang, H. (1999). A vocabulary-based language learning strategy for the internet. In R.
+Debski & M. Levy (Eds.), Worldcall: Global perspectives on computer-assisted language learning (pp.
+67-84). Lisse, The Netherlands: Swets & Zeitlinger.
+Gruba, P., & Lynch, B. (1997). Constructivist approaches to communication skills instruction. Paper
+presented at the ASCILITE Conference, Curtin University, Perth, Western Australia.
+Hara, N., & Kling, R. (1999). Students' frustrations with a Web-based distance education course. First
+Monday, 4(12). Retrieved May 1, 2003, from http://firstmonday.org/issues/issue4_12/hara/index.html
+Harben, P. (1999). An exercise in applying pedagogical principles to multimedia CALL materials design.
+ReCALL, 11(3), 25-33.
+Harrell, W. J. (1999). Language learning at a distance via computer. International Journal of
+Instructional Media, 26(3), 267-281.
+Hauck, M., & Haezewindt, B. (1999). Adding a new perspective to distance (language) learning and
+teaching -- the tutor's perspective. ReCALL, 11(2), 46-54.
+Herring, S. (Ed.). (1996). Computer mediated communication: Linguistic, social and cross-cultural
+perspectives. Amsterdam: John Benjamins.
+Hémard, D. (1999). A methodology for designing student-centred hypermedia CALL. In R. Debski & M.
+Levy (Eds.), WorldCALL: Global perspectives on computer-assisted language learning (pp. 215-228).
+Lisse, The Netherlands: Swets & Zeitlinger.
+Holliday, L. (1999). Theory and research: Input, interaction, and CALL. In J. Egbert & E. Hanson-Smith
+(Eds.), CALL environments: Research, practice and critical issues (pp. 181-188). Alexandria, VA:
+TESOL.
+Horwitz, E. K. (1988). The beliefs about language learning of beginning university foreign language
+students. The Modern Language Journal, 72(3), 283-294.
+Hoven, D. (1999). CALL-Ing the learner into focus: Towards a learner-centred model. In R. Debski & M.
+Levy (Eds.), WorldCALL: Global perspectives on computer-assisted language learning (pp. 149-167).
+Lisse, The Netherlands: Swets & Zeitlinger.
+Jonassen, D. H., Duffy, T., & Lowyck, J., (Eds.) (1993). Designing environments for constructive
+learning. Series F: Computer and systems sciences. Heidelberg, Germany: Springer-Verlag.
+Jonassen, D. H., Dyer, D., Peters, K., Robinson, T., Harvey, D., King, M., & Loughner, P. (1997).
+Cognitive flexibility hypertexts on the web: Engaging learners in meaning making. In B. H. Khan (Ed.),
+Web based instruction (pp. 119-133). Englewood Cliffs, NJ: Educational Technology Publishing.
+Kötter, M., Shield, L., & Stevens, A. (1999). Real-time audio and e-mail for fluency: Promoting distance
+language learners' aural and oral skills via the Internet. ReCALL, 11(2), 55-60.
+Lamy, M.-N., &Goodfellow, R. (1999). "Reflective conversation" in the virtual language classroom.
+Language Learning & Technology, 2(2), 43-61. Retrieved May 1, 2003, from http://llt.msu.edu/
+vol2num2/article2/
+Lanzotti, P. (1997). Davanti ai testi tridimensionali. Italiano e Oltre, 12, 138-143.
+Lazzarino, G., Aski, J., Dini, A., & Peccianti, M. C. (1997). Prego! An invitation to Italian (4th ed.).
+Boston: McGraw Hill.
+Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. Ritchie
+& T. Bahtia (Eds.), Handbook of second language acquisition (pp. 413-468). San Diego, CA: Academic
+Press.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 101
+Long, M. H., & Crookes, G. (1993). Units of analysis in syllabus design: The case for task. In G.
+Crookes, S. Gass (Eds.), Tasks in a pedagogical context: Integrating theory and practice (pp. 9-54).
+Clevedon, England: Multilingual Matters.
+Mackey, A., & Philp, J. (1998). Conversational interaction and second language development: Recasts,
+responses, and red herrings? The Modern Language Journal, 82(3), 338-356.
+Mohan, B. (1992). Models of the role of the computer in second language development. In M. Pennington
+& V. Stevens (Eds.), Computers in applied linguistics. An international perspective (pp. 110-126).
+Clevedon, England: Multilingual Matters.
+Noels, K. A., Clément, R., & Pelletier, L. (1999). Perceptions of teachers' communicative style and
+students' intrinsic and extrinsic motivation. The Modern Language Journal, 83(1), 23-34.
+Nunan, D. (1993). Task-based syllabus design: Selecting, grading and sequencing tasks. In S. Gass &
+Crookes, G. (Eds.), Tasks in a pedagogical context: Integrating theory and practice (pp. 55-68).
+Clevedon, England: Multilingual Matters, Ltd.
+Oliver, R., Herrington, J., & Omari, A. (1996, July). Creating effective instructional materials for the
+World Wide Web. Paper presented at the AusWeb'96 Conference, Gold Coast, Australia.
+Ortega, L. (1997). Processes and outcomes in networked classroom interaction: Defining the research
+agenda for L2 computer-assisted classroom discussion. Language Learning & Technology, 1(1), 82-93.
+Retrieved May 1, 2003, from http://llt.msu.edu/vol1num1/ortega/
+Oxford, R. L., & Shearin, J. (1994) Language learning motivation: Expanding the theoretical framework.
+The Modern Language Journal, 78(1), 12-28.
+Oxford, R. L. (1999). Anxiety and the language learner: New insights. In J. Arnold (Ed.), Affect in
+language learning (pp. 58-67). Cambridge, England: Cambridge University Press.
+Oxford, R. L., Rivera-Castillo, Y., Feyten, C., & Nutta, J. (1998). Computers and more: Creative uses of
+technology for learning a second or foreign language. Paper presented at the conference Educational
+Technology in Language Learning, Theoretical Considerations and Practical Applications, Lyon, France.
+Oxford, R. L., & Shearin, J. (1996). Language learning motivation in a new key. In R. L. Oxford (Ed.),
+Language learning motivation: Pathways to the new century (Technical Report #11; pp. 121-144).
+Honolulu: University of Hawai‘i, Second Language Teaching & Curriculum Center.
+Paiva, V. (1999). CALL and online journals. In R. Debski & M. Levy (Eds.), WorldCALL: Global
+perspectives on computer-assisted language learning (pp. 249-265). Lisse, The Netherlands: Swets &
+Zeitlinger.
+Pennington, M. C. (1996). The power of the computer in language education. In M. C. Pennington (Ed.),
+The power of CALL (pp. 1-14). Houston, TX: Athelstan.
+Pica, T. (1994). Research on negotiation: What does it reveal about second language learning, conditions,
+processes, and outcomes? Language Learning, 44(3), 493-527.
+Pusack, J. P., & Otto, S. K. (1997). Taking control of multimedia. In M. D. Bush & R. M. Terry (Eds.),
+Technology-enhanced language learning (pp. 1-47). Lincolnwood, IL: National Textbook Company.
+Reeves, T. C., & Reeves, P. M. (1997). The effective dimension of interactive learning on the WWW. In
+B. H. Khan (Ed.), Web based instruction (pp. 59-66). Englewood Cliffs, NJ: Educational Technology.
+Richmond, I. M. (1999). Is your CALL connected? Dedicated software vs. integrated CALL. In K.
+Cameron (Ed.), Computer-assisted language learning (CALL): Media, design and applications (pp. 295-
+314). Lisse, The Netherlands: Swets & Zeitlinger.
+Antonella Strambi and Eric Bouvet Flexibility and Interaction at a Distance...
+Language Learning & Technology 102
+Rovai, A. (2002). Building a sense of community at a distance. International Review of Research in Open
+and Distance Learning, 3(1). 1-16. Available at http://www.irrodl.org/content/v3.1/rovai.html
+Rubin, J. (1975). What the "good language learner" can teach us. TESOL Quarterly, 9(1), 41-51.
+Salaberry, M. R. (1996). The theoretical foundation for the development of pedagogical tasks in computer
+mediated communication. CALICO Journal, 14(1), 5-34.
+Schmidt, R., Boraie, D., & Kassabgy, O. (1996). Foreign language motivation: Internal structure and
+external connections. In R. L. Oxford (Ed.), Language learning motivation: Pathways to the new century
+(Technical Report #11, pp. 9-70). Honolulu: University of Hawai‘i, Second Language Teaching &
+Curriculum Center.
+Selinker, L. (1972). Interlanguage. International Review of Applied Linguistics (IRAL), 10(3), 209-231.
+Soo, K.-S. (1999). Theory and research: Learning styles, motivation, and the call classroom. In J. Egbert
+& E. Hanson-Smith (Eds.), Call environments: Research, practice and critical issues (pp. 289-301).
+Alexandria, VA: TESOL.
+Spiro, R. J., Feltovich, P. J., Jacobson, M. I., & Coulson, R. L. (1995). Cognitive flexibility,
+constructivism, and hypertext: Random access instruction for advanced knowledge acquisition in ill-
+structured domains. Retreived May 15, 1998 from http://www.ilt.columbia.edu/ilt/papers/Spiro.html.
+Stevens, V. (1992). Humanism and CALL: A coming of age. In M. C. Pennington & V. Stevens (Eds.),
+Computers in applied linguistics: An international perspective (pp. 11-38). Clevedon, England:
+Multilingual Matters.
+Stevick, E. W. (1990). Humanism in language teaching: A critical perspective. Oxford, England: Oxford
+University Press.
+Terrell, T. D., Rogers, M. B., Barnes, B. J., & Spielmann, G. (1997). Deux Mondes (3rd ed.). Boston:
+McGraw Hill.
+Underwood, J. (1988). Language learning and "hypermedia." ADFL Bulletin, 19(3), 13-17.
+Warschauer, M. (1998). Interaction, negotiation, and computer-mediated learning. Paper presented at the
+Educational Technology in Language Learning: Theoretical Considerations and Practical Applications,
+Lyon, France.
+Williams, M., & Burden, R. L. (1997). Psychology for language teachers: A social constructivist
+approach. Cambridge, England: Cambridge University Press.
+Willis, J. (1996). A framework for task-based learning. Harlow, England: Longman.
+Young, D. J. (1990). An investigation of students' perspectives on anxiety and speaking. Foreign
+Language Annals, 23(6), 539-553.

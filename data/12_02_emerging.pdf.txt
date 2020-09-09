@@ -1,0 +1,266 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol12num2/emerging/ 
+June 2008, Volume 12, Number 2 
+pp. 7-13 
+ 
+Copyright © 2008, ISSN 1094-3501 7
+EMERGING TECHNOLOGIES 
+WEB-WRITING 2.0: ENABLING, DOCUMENTING, AND ASSESSING 
+WRITING ONLINE 
+Robert Godwin-Jones 
+Virginia Commonwealth University 
+Trends in the use of the Internet in recent years, collectively coined Web 2.0, have precipitated changes in 
+modes and uses of writing online. Blogs and social networking sites provide new opportunities and 
+incentives for personal writing. This reading-to-write culture requires use and development of language 
+skills. The challenge for language teachers is to extend students' Internet world beyond their first 
+language, to leverage participation in the read-write Web as a learning opportunity for language self-
+development, and to find means to link informal and recreational writing with formal and academic 
+writing. 
+There are increased possibilities for moving in these directions with new tools and services that have 
+arisen to facilitate online composition/editing and to assess writing. Browser-based text editors make it 
+easier than ever to participate in online sites. Language tools and services offer automatic assessment of 
+writing, enabling the development of reviewing skills, so essential to improving writing. Finally, 
+electronic portfolios provide a mechanism for bringing together samples of learners' written work, thereby 
+encouraging more global self-assessment of students' language skills. 
+ENABLING WRITING ONLINE 
+One of the major developments of Web 2.0 is the increase in availability of tools and services that are 
+accessed directly through a Web browser rather than residing on the user desktop. Recently, for example, 
+Adobe released an alternative to its high-end graphics editor, Photoshop, called Photoshop Express, 
+which enables online editing of pictures and graphics, following in the footsteps of services such as 
+Picnik and picture-editing tools provided by networking sites like Flickr or Facebook. This same trend is 
+evident in the large number of online editors to emerge recently on the Web. Most are free services, 
+which are used within a Web browser, and which include OnText, widgEditor, XStandard, and Textile. 
+The editors vary in their features, but most offer basic editing and formatting and not the full feature set of 
+a word processor such as Microsoft Office. Since the editors are browser-based, they are agnostic as to 
+operating system and will typically run in any of the major browsers. The online editors normally save 
+documents being edited to a server, sometimes doing so automatically at certain intervals so that work is 
+not lost. Some offer particular features such as Writeboard's ability to let users subscribe to a document 
+with RSS, so as to be notified of editing changes. The Zoho Writer offers automatic versioning, document 
+templates, and direct blog posting from within the editor. In fact, most of the editors are specifically 
+designed for creating posts to blogs or social networking sites. 
+The fact that the new online editing tools feature WYSIWYG editing ("what you see is what you get") is 
+a result of new features that anticipate HTML 5, the upcoming revision of the core Web formatting 
+language. The two tags that enable word processing-like manipulation of text within a browser are 
+contenteditable and designMode, now supported on mainstream browsers as well as on some mobile 
+devices. Previously text-entry fields in HTML forms could accept plain text only. Unfortunately, not all 
+browsers handle these new functions in the same way, which has made it difficult for developers to create 
+rich text editing plug-ins that work universally. This is also true with support of the onpaste function, 
+which allows rich text to be copied and pasted into a text editing window with all of its formatting intact. 
+This is particularly a problem when copying from Microsoft Word due to proprietary markup tags. A 
+feature that users expect to find in text editors, reliable undo, is inconsistently implemented in the online 
+rich text editors, again because of differences in support among browsers. 
+Robert Godwin-Jones Enabling, Documenting, and Assessing Writing Online 
+ 
+Another new feature of HTML 5 beginning to be supported is a simple local database linked to the 
+browser that allows documents to be saved locally, as is traditional in a desktop word processor. 
+Previously, the only ways to save data locally was through the use of HTML "cookies", which have major 
+limitations in number and size, or as Local Shared Objects, available only to the Flash Player. The local 
+database currently used in the Firefox and Safari browsers is SQLite, a small but robust database that is 
+embedded in programs rather than running as a separate process. It is also used in Skype, the popular 
+Internet phone service. 
+Google has implemented its own version of an embedded database called Google Gears. Recently, 
+Google added support for Google Gears to Google Docs, probably the most widely used tool for online 
+text editing. Installing Google Gears allows text to be saved to either the Google server or on the local 
+computer. Editing changes made while the user is off-line are synced to the online versions when the user 
+is re-connected to the Internet. Like similar Web services, Google Docs makes it easy to share documents 
+and to collaborate on projects. In edition to the text editor, Google also has introduced an online 
+spreadsheet and presentation tools. Google Docs currently supports 48 languages, with 8 Indic languages 
+having been added recently. The interface allows the user to change to right-to-left text display if needed. 
+Another free editor with explicit support for multiple languages is FCKeditor, which was designed 
+originally for use in scripting languages, but now supports general text editing. Microsoft has launched its 
+own Web version of its office suite called Office Live Workspace, which offers some different features 
+from Google Docs, particularly the option of integration into the desktop Office suite. Microsoft Office 
+integration is also a feature of Zoho Writer. Also of interest to language professionals is MLEditor, a tool 
+specifically designed for multilingual use. It features Unicode-related conversions as well as conversion 
+between Traditional and Simplified Chinese. A similar tool is MtScript, a multilingual text editor that 
+enables use of different writing systems within the same text. 
+DOCUMENTING WRITING ONLINE 
+Google offers online storage of documents up to a maximum of 5,000 documents or presentations. This is 
+a service now available from a variety of companies, some of which, such as box.net and omnidrive, 
+specialize in providing (free) document storage. This allows both for access from multiple locations, as 
+well as for easier sharing of documents. Some offer specially formatted access from mobile devices, such 
+as Mobile Google Docs. Of course, much of the writing done on the Web today is saved centrally through 
+having been posted in sites such as MySpace or Facebook or as entries to blogs or wikis. In institutional 
+settings, there is encouragement, sometimes an obligation, to collect student writing in a more structured 
+environment, such as an electronic portfolio or e-portfolio. 
+Portfolios have long been a standard way for professionals such as artists or architects to collect and 
+showcase their work. Aspiring teachers in the US now routinely are expected to assemble a teacher 
+portfolio. Increasingly, students are creating them for academic, professional and personal use. In order to 
+make portfolios sharable, the trend has been away from hard copy versions and towards e-portfolios. As 
+privacy concerns may be an issue, e-portfolio systems normally provide some kind of access control, 
+which may be global or fine-tuned to specific groups or parts of the portfolio. One of the advantages of 
+maintaining a portfolio of writings online is the ease with which one may share the content. Having an 
+electronic portfolio also makes it a simple process to incorporate other kinds of work such as multimedia 
+files or presentations. 
+There are many different options for creation of an e-portfolio, as Helen Barrett has demonstrated in 
+recent years by duplicating her own portfolio using a variety of (mostly) free online tools and services 
+including wikis (WikiSpaces), blogs (WordPress), hosting sites (GeoCities), content management systems 
+(Plone) and even a bookmarking service (del.icio.us). She has offered documentation for the process of 
+creating an e-portfolio using Google Docs and other tools from Google. University students may decide–
+Language Learning & Technology 8
+Robert Godwin-Jones Enabling, Documenting, and Assessing Writing Online 
+ 
+or be required to–create a portfolio from within the learning management system (Blackboard, Angel, 
+desire2learn, etc.) in use at their institution. Creating an e-portfolio in such a closed system, however, 
+limits its use and may defeat the goal of establishing a mechanism for life-long documentation of learning 
+and achievement. Efforts have been underway for some time to create standards for e-portfolios that 
+would allow migration from one system to another. The IMS Global Consortium has introduced the IMS 
+ePortfolio Specification, which allows for a variety of different kinds of portfolios (assessment, 
+presentation, learning, personal development), which can be combined, exported, and imported into 
+compatible systems. So far, however, little support has been forthcoming from commercial vendors. The 
+Europortfolio project, headed by the European Institute for E-Learning (EIfEL), is an attempt to 
+coordinate portfolio standards among European countries. 
+There are several open source projects which promise greater interoperability including the Open Source 
+Portfolio, part of the Sakai Project, and Mahara, a project out of New Zealand which features 
+sophisticated access control and optional integration with Moodle. Moodle users also have access to 
+Moofolio, specifically designed for that open source learning management system. 
+There are next generation electronic learning environments that are built around Web 2.0 services. The 
+Elgg and Digication systems, for example, are designed to encourage the integration of e-portfolios with 
+services such as blogs. One of the more extensive projects along these lines is ePet portfolio, which 
+originated at Newcastle University and is now a collaborative, EU-funded project. ePet has been designed 
+for maximum flexibility in its use, allowing both stand-alone access and integration into a managed 
+learning environment, and includes a project for developing portfolio interoperability. 
+Portfolios have obvious benefits for language learning as a means to include writing samples and other 
+documentation of language ability. Probably the highest profile language portfolio project is the European 
+Language Portfolio (ELP), which has been in existence since 2000 and has a large number of local 
+implementations. The vast majority of the validated ELP systems are not electronic. An exception is the 
+implementation in the Netherlands. The Dutch ELP follows the ELP division into linguistic biography, 
+language passport, and a dossier of written work. However, it also incorporates an interesting additional 
+component called, learning activities, which allows learners to practice their language skills. This is one 
+more advantage of an electronic portfolio, the ability to link to both open-ended environments such as 
+blogs or to targeted resources for enhancing skills. 
+In addition to the Dutch ELP, there have been a number of other projects to create electronic versions or 
+enhancements of the ELP. The Leipziger Lernportfolio begins with the ELP and adds more 
+professionally-oriented options. The eDossier project from Spain is integrated into a Web 2.0-inspired 
+learning environment and incorporates its own online text editor. Global Language Portfolios, from Pat 
+Cummins of Virginia Commonwealth University, combines both the language assessment standards of 
+the European Common Framework of Reference for Languages and the proficiency standards of ACTFL 
+(American Association of Teachers of Foreign Languages). 
+Ideally, e-portfolios can serve to bridge the gap between formal instruction and informal learning. Of 
+course, this is only feasible if the portfolios are designed primarily to allow users to determine how best to 
+present and document themselves and their work and secondarily as a means to fulfil a requirement or as 
+part of a formal assessment process. Having a portfolio system with the flexibility to easily divide private 
+from public spheres, to link or not as desired to outside sources, and to include standardized criteria only 
+when needed, is more likely to become a vehicle for life-long learning and its documentation, rather than 
+simply an academic exercise. Potentially, well-designed and expandable e-portfolios offer to the Myspace 
+generation a more inviting environment than the rigid confines of the traditional learning management 
+system. 
+ 
+Language Learning & Technology 9
+Robert Godwin-Jones Enabling, Documenting, and Assessing Writing Online 
+ 
+ASSESSING WRITING ONLINE 
+The use of portfolios in language learning should contribute to learners taking more responsibility for 
+documenting and assessing their language abilities. Only in rare cases, such as the Dutch ELP, do 
+portfolio environments supply help or advice in improving language skills. There have been, of course, 
+means for users to receive feedback on the quality of their writing for some time. A variety of proofing 
+tools are available, both for spelling and grammar. These tools are widely used, but vary in their 
+usefulness. This is particularly the case with grammar checkers, which tend to be designed for native 
+speakers, and which often generate too many false positives to be useful. The development team for the 
+Microsoft Office grammar checkers has an interesting discussion of the challenge in creating effective 
+grammar checkers and the individual language idiosyncrasies which make it difficult to write generic 
+grammar analysis code. 
+In addition to Microsoft tools, there are a variety of online services such as spellchecker.net or 
+spellcheckplus which check both spelling and grammar (English only). One of the more interesting 
+projects of this kind is LanguageTool, which is available in 12 languages. User text is first analyzed 
+sentence by sentence, with each word assigned a part-of-speech tag and each sentence split into semantic 
+chunks. Rules for that language are then applied to provide feedback to the writer. The basic rules are 
+written in XML and the format is basic enough for non-programmers to be able to add additional rules. 
+LanguageTool can be used as a stand-alone program or integrated into the open source OpenOffice 
+software. AbiWord is a similar open source, multilingual text processor with proofing capabilities. It 
+offers support for a wide variety of languages, including 19 different versions of Spanish. 
+In terms of assessing writing, there are now a variety of products that go further than checking grammar; 
+they actually supply formal assessment and a score. These are usually known as Automated Essay 
+Scoring (AES) programs. The best-known choices in the U.S. are Criterion e-rater from the Educational 
+Testing Service and My Access! from Vantage Learning. These programs are built, as are the grammar 
+checkers, on advances in natural language processing as well as artificial intelligence. They are used 
+primarily in high-stakes, high-volume contexts such as standardized testing. Some offer evaluation of 
+practice writing submitted online. Most of the advanced work in this area has been done in English, so 
+such tools may be of particular interest to ESL or EFL teachers, but the kind of writing evaluated by AES 
+programs is not what is emphasized most often in language learning. They look for a set structure (like a 
+formal essay) and tend to encourage formulaic rather than purposeful writing. 
+What tends to be of most use to learners is indirect feedback, which points to problems in written work 
+but leaves it to the writer to find the solution. This requires the learner to reflect on the application of 
+language rules to one's own actual writing. Many language teachers use codes (such as John Lalande's 
+ECCO - error correction code) to mark student writing. There are several programs that allow instructors 
+to enter such codes electronically. Markin, for example, is a Windows program that allows for code 
+marking in 7 languages. Annotations are returned to students in RTL or HTML formats and can be 
+emailed. Markin includes a statistical feature, which allows for collocation and computation of 
+annotations. Programs like Markin have the advantage over mainstream grammar checkers in that they 
+are designed specifically with language learners in mind. 
+While Markin is a commercial product, a free Web service called BonPatron is available for French 
+writers and was recently reviewed in Calico Journal. Users type or paste text into the text entry box and 
+then click Check the text (the interface is in English or French). BonPatron then checks and returns the 
+text in the same window, flagging but not correcting probable problems. It uses text formatting and colors 
+to indicate the nature of the problem and its severity. Passing the mouse over an item brings up an 
+explanation and a sample of correct usage of the form in question. BonPatron provides the option of 
+displaying a list of marked problems and the category to which they belong. Because BonPatron flags but 
+does not correct errors, it requires the writer to reflect on the problem and to generate a solution. This 
+Language Learning & Technology 10
+Robert Godwin-Jones Enabling, Documenting, and Assessing Writing Online 
+ 
+more active engagement in learning is in keeping with current language learning practices. A tool like 
+BonPatron could be particularly helpful for inexperienced teachers or in situations in which faster 
+feedback is desirable. 
+While products or services like BonPatron improve on the traditional spell and grammar checkers, they 
+still target only one side of assessing writing, focusing on specific errors in grammar or vocabulary usage. 
+They don't address more general issues of global composition and structure or more communicatively 
+oriented criteria such as appropriateness of register for the target audience or cultural/sociolinguistic 
+context. It clearly is a much simpler task to find errors in aspects of writing less prone to subjective 
+judgments and for which there are clear-cut right and wrong responses. Artificial intelligence is not yet at 
+the point where more intangible and creative aspects of writing can be effectively machine-evaluated. 
+For situations in which an automated analysis of student writing is desirable, an interesting alternative can 
+be to supply learners with samples of annotated student texts. These texts can be annotated in advance and 
+supplied to the learners so they can judge their own compositions in light of the corrections and 
+comments given by instructors for the sample texts. This was done in an Australian project entitled 
+Bridges to China. The study showed that users reacted well to this kind of peer-to-peer interaction. The 
+program was used in a distance-learning environment, and it does seem to lend itself well to learners 
+working independently. Ideally, of courses, one would want to make available to students a range of 
+opportunities and options for improving their writing, including annotated samples, peer review, and 
+automated or indirect feedback. Social networking sites have become important in the lives of many 
+young people, and this argues for finding means to help students become more articulated and effective 
+writers in whatever language they choose. 
+ 
+RESOURCE LIST 
+Text Editors and Proofing Tools 
+• Google Docs Online writing and editing 
+• Multilingual Word Processors and Text Editors List for Windows users 
+• Edit Pad Online text editor 
+• XStandard Plug-in WYSIWYG editor 
+• Textile Web Text Generator 
+• widgEditor WYSIWYG editor 
+• FCKEditor Popular rich text editor 
+• MLEditor Multilingual editor 
+• MTScript Multilingual editor 
+• AbiWord Open source word processing 
+• Spellchecker.net Online spelling, grammar, and thesaurus checking (English) 
+• Markin Tool for marking error codes 
+• BonPatron Online grammar checker for French 
+• Design and evaluation of grammar checkers in multiple languages Lessons from Microsoft 
+• CrossCheck Grammar checker for Swedish 
+• LanguageTool Open Source language checker 
+• Language Tools Open source projects 
+• Office Live Workspace Microsoft service 
+Language Learning & Technology 11
+Robert Godwin-Jones Enabling, Documenting, and Assessing Writing Online 
+ 
+Language Learning & Technology 12
+• Analysis of Office Live Workspace Comparison with Google Docs 
+• Google Docs mobile An entry page formatted for mobile devices 
+Electronic Portfolios 
+• Electronic Portfolios Collection of e-portfolios in different formats 
+• Open Source Portfolio Part of the Sakai project 
+• Mahara Open source e-portfolio project 
+• European Language Portfolio   
+• Validated ELP systems Officially sanctioned implementations of ELP 
+• Global Language Portfolios Project from Virginia Commonwealth University 
+• ePet European e-portfolio project 
+Standards 
+• HTML 5 From W3C 
+• Cient-side database storage Part of proposed HTML 5 
+• ContentEditable Demo Demo of HTML 5 feature 
+• Local Browser database Example using WebKit/Safari 
+• SQLite Lightweight database engine 
+• IMS ePortfolio Proposed standard for electronic portfolios 
+• Europortfolio Project to coordinate use of portfolios 
+ 

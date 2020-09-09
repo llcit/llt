@@ -1,0 +1,603 @@
+Language Learning & Technology
+http://llt.msu.edu/vol8num2/chen/
+May 2004, Volume 8, Number 2
+pp. 33-49
+Copyright © 2004, ISSN 1094-3501 33
+HOW A WEB-BASED COURSE FACILITATES
+ACQUISITION OF ENGLISH FOR ACADEMIC PURPOSES
+Jin Chen, Safia Belkada, and Toshio Okamoto
+The University of Electro-Communications, Tokyo
+ABSTRACT
+This paper describes an experimental study aimed at investigating the learning effectiveness of a
+Web-based course called Academic English (EAP) for Japanese learners of English. The main
+focus of the study was to examine the form, function, and impact of interaction in the course.
+Twenty university-level EFL students participated in this experiment. They were randomly
+assigned to two treatment groups: a controlled group with inter-personal task treatment and an
+experiment group with intra-personal task treatment. Regarding effectiveness of the interactivity
+dimension in language acquisition, there was one independent variable, type of treatments, and
+two dependent variables, achievement and attitude measurements. The achievement variable was
+used to address the extent of learning due to the two treatment conditions. The attitude variable
+was used to address the degree of motivation towards a Web-based communication platform as
+well as the enforced interaction functions. Statistical analyses revealed no significant effect of
+treatment on either comprehension or general L2 development, but significant differences were
+found with respect to language interaction for task completion under different task treatments.
+Therefore, it was concluded that this Web-based course was well designed to maximize the
+students' language learning experience as well as to improve their language abilities in English.
+Further research is needed to examine the notion of self-repair in students' production in the target
+language.
+INTRODUCTION
+The advent of information communication technology has improved the quality of many scientific
+disciplines, including language education (Chapelle, 2001; Farretti, 2001; Gonzalez-Lloret, 2003; Tsou,
+Wang, & Li, 2002). Language learning through technology has become a fact of life with important
+implications for second language acquisition (SLA; Chapelle, 2001). New theories and applications of
+language learning and teaching are exploring the benefits of information communication technology to
+facilitate SLA (Chapelle, 1998; Chen, Inoue, & Okamoto, 2001; Chen, Cristea, & Okamoto, 2003;
+Gonzalez-Lloret, 2003; Okamoto, Kayama, Inoue, & Cristea, 2002). In these activities, instructional
+design based on the communicative language teaching paradigm has shifted language teaching and
+learning practices in computer-assisted language learning (CALL) environments (Box, 2003; Chapelle,
+2001).
+Educational research findings suggest that the success of any educational process should be based on
+sound pedagogical principles and interactions (Box, 2003; Chapelle, 1998; Day & Shapson, 2001; Ellis,
+1999; Gonzalez-Lloret, 2003). During communication, students draw on their abilities to anticipate new
+information, notice insufficient knowledge, and relate the new information to pre-existing information.
+Therefore, communicative language use is a successful and powerful approach to language learning
+(Batstone, 2002; Gonzalez-Lloret, 2003; Izumi, 2002; Pica, 1991; Schollaert, 1998; Skehan, 1998).
+The concept of communicative task (i.e., a meaning-focus activity), based predominately on the notion of
+communicative language use, creates situations that encourage the production of comprehensible output
+(e.g., a modified speech, written text) from the students. In support of communicative tasks, Nunan
+(2000) posits that tasks promoting linguistic/conversational adjustments promote comprehensible input   
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 34
+(i.e., elaborated learning routines). Similarly, Long (1996) found that learners are most likely to notice
+linguistic form during interaction. According to Hegelheimer and Chapelle (2000), the most useful
+interactions are those which help learners comprehend the semantics and syntax of input and improve the
+comprehensibility of their own linguistic output. As stated by Gonzalez-Lloret (2003), interaction
+facilitates comprehension better than learning conditions without interactions. Moreover, the discourse
+produced through a task is given its identifiable shape and structure by the communicative purpose of the
+task (Newton & Kennedy, 1996).
+There are a number of experimental studies within the communicative language teaching paradigm that
+have shown positive evidence of such interactions in CALL environments. For instance, using a task-
+based course in a CALL environment, Gonzalez-Lloret (2003) showed that second language (L2)
+interactions between students resulted in considerable high-quality output, although not as rich as the
+interaction between native speakers and non-native speakers. However, her task-based CALL is more
+similar to traditional face-to-face interactions: The computer served not as a medium of communication,
+but as a presenter of materials meant to engage students in conversation.
+Tsou et al. (2002) developed an individualized teaching tool for vocabulary learning that employs concept
+map-mediated interactions based on the idea of linking students' prior knowledge with their new
+knowledge. The learning tool is designed to help the learner acquire abstract vocabulary. However, this
+learning tool cannot dynamically adapt the learning path (i.e., the sequence of the course) based on the
+student-user's learning needs and task results. Therefore, it is easy to stray from the optimal learning path.
+It was not clear from the authors' findings whether this communication pattern could help learners to
+transfer their knowledge of the language into their academic lives.
+In keeping with these findings, we proposed a communication-oriented framework, a combination of the
+task-based approach common to communicative language teaching. This framework was adopted to
+formulate a comprehensive instructional design that provides guidelines for instructional developers to
+structure learning materials so as to accommodate sufficient situational exposures to language learning in
+non-English speaking areas.
+The main assumption underlying this research is that L2 interaction is necessary for language construction
+and reconstruction. Each form of instructional interaction is assumed to play a role in the entire
+educational process. Negotiation of meaning is also assumed to happen either in inter-personal or intra-
+personal activities. The distinction between required and optional information exchange is operationalized
+as a distinction between inter-personal (e.g., two-way information gap) and intra-personal tasks (e.g., one-
+way note-taking). This distinction will be the key factor determining the optionality of interaction in our
+experimental study.
+As an illustration of our approach, we developed a Web-based course called Academic English aimed at
+upgrading students' language ability in English for academic purposes (EAP). The prototype of Academic
+English was designed to support distance learning as well as to supplement traditional classroom-based
+activities. Various kinds of learning materials and information are stored as digital multimedia in the form
+of pictures, videos, and sound tracks. Accessing the course from remote sites, students can select their
+preferred video clips, participate in question/answer sessions, and receive feedback after each interaction.
+In addition, opportunities for student-student and student-teacher interaction are also available via
+communication tools (e.g., a chat tool). The Web-based course was built with the purpose of maximizing
+their language-learning experience.
+The main focus of our experimental study was to examine the effectiveness of different forms of
+interactivity on language acquisition in the Web-based listening environment. In particular, we aimed to
+examine how the form of interaction was defined by specific course modes (i.e., student-content
+interaction) in which students' background knowledge of the subject is involved in the
+communication/interaction processes. The following research questions guided our study:
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 35
+1. What mode of interaction (i.e., negotiation of meaning in inter-personal versus intra-personal
+activities) facilitates comprehension better and could lead to more effective language acquisition?
+2. Does negotiation of meaning facilitate greater comprehension and production?
+The remaining parts of this paper are structured as follows: (a) description of the Web-based Academic
+English course; (b) experimental study of the Web-based course; and (c) results, discussion, and
+suggestions for future research.
+DESCRIPTION OF THE WEB-BASED ACADEMIC ENGLISH COURSE
+The Web-based environment was designed to provide students with an outline of the course content (i.e.,
+Artificial Intelligence, in the case of our pilot version), direct access to additional learning resources, and
+system functionality. This environment included two types of user interfaces: a student interface and a
+teacher interface. The student interface is divided into a frameset (i.e., five frames), as shown in Figure 1.
+Figure 1. Main screen of the learning environment
+The functions of the framesets are as follows:
+1. The upper left frame displays a video-on-demand (VOD) presentation.
+2. The lower left frame displays the learning path (i.e., the structure of the lesson, which allows
+students to control the sequence and pacing of learning).
+3. The upper right frame displays the question/ answer function and instructions for each task.
+4. The middle right frame displays feedback from the teachers or other students.
+5. The bottom right frame displays other tutorial functions including video script and learning
+history of a student.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 36
+In the following section, we will explain how learning content is specified and structured to support
+interactivity.
+Instructional Strategies
+Two instructional strategies (i.e., course strategies and dialogue strategies) were defined for the course as
+a whole. Course strategy represents a method based on the theory of learning styles (i.e., student
+preferences in learning) and is used to determine an appropriate dialogue strategy for a given instructional
+goal (e.g., listening comprehension). For instance, a student with a sequential learning style prefers to
+learning step by step. For such a student, a step-by-step course strategy would be selected to optimize the
+learning process. A dialogue strategy, which is based on a specific teaching objective (e.g., defining a
+concept), is used to determine the basic video input and the corresponding response modes to be used so
+as to best situate the learning task. A single teaching objective may be achieved via one or several
+dialogue strategies. The dialogue strategies in Academic English are categorized into three dimensions:
+D1. Conscious induction,
+D2. Sub-conscious induction from structured language input materials,
+D3. Sub-conscious induction from unstructured language input materials.
+Figure 2. The interface of Learning Path with lesson content
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 37
+Course Structure
+The bottom frame in Figure 2 shows an example of lesson content. In Academic English, the overall
+course was structured into lesson layers and dialogue layers, where one or more dialogue components
+constitute a lesson layer. The topics and the concepts which comprise the learning content (i.e., Artificial
+Intelligence) are defined as the name/value of lesson and dialogue.
+Around the topic-concept relationship, the input material in each lesson is generated for a particular
+instructional goal (i.e., the selection of the concepts for a specific dialogue are to be included as part of
+the topic of the overarching lesson). We defined two selection methods, Strategy A and Strategy B, to
+generate the lesson contents. In Strategy A, the lesson is dynamically selected according to the student's
+current knowledge level and a particular course strategy. For Strategy B, the students have the freedom to
+select their learning tasks based on their own learning goals. An illustration of Strategy B is given in
+Figure 3.
+Figure 3. The interfaces of two different Learning Paths after opening the Lcontrol dialogue box
+Course Content
+The course content in each dialogue is specified following different dialogue strategies. In order to
+optimize the learning process for individual students, a number of teaching techniques were utilized for
+each instructional goal within the defined strategies. The content of each dialogue for a specific
+instructional goal is organized into different knowledge modules (i.e., input resources and response
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 38
+modes) by systematically following a simple-to-complex structure. Tables 1 and 2 show the organization
+of defining features for input resources and task types, respectively.
+The input material used for each task is delivered in the form of short video clips. Each video clip is
+associated with a predefined task (e.g., a question/answer teaching technique is used for each interaction
+task). In Figure 1, an example of a video clip is displayed in the top left frame and the instructions,
+questions, and answer boxes for the corresponding task are displayed in the top right frame.
+Table 1. Defining Features of the Input Resources
+Text feature Slot-name Slot-value
+Information familiarity D 1Complexity
+Information complexity D 2
+Number of propositions D 3
+Syntactic difficulty D 2
+Explicitness of language functions D 2
+Difficulty
+Subject-specific vocabulary D 3, D 1
+Table 2. The Defining Features of a Task
+Task types Descriptions Features
+Dictation Relating structure to language functions Noticing of form
+Note-taking Relating language to specific meanings Intra-personal negotiation
+Information gap Relating language to academic activities Inter-personal negotiation
+Learning Flows in the Course
+Registered students receive the video presentation and associated predefined tasks when they click on the
+dialogue name in the learning path frame. The lesson contents are displayed through a Web browser.
+The student is required to study the lesson in the sequence generated by the course software. However,
+the software does allow students to manipulate this sequence in two ways: by selecting a learning goal
+and by choosing certain features of the learning path. The learning goal function (see Figure 4) allows
+students to skip the current dialogue or return to the previous one based on their learning goals. The
+learning path control function (see Figure 3), called Lcontrol and labeled LPC, allows students to re-
+define their lesson contents according to two operation functions: focus or study. The focus function
+allows students to study the tasks they learnt before. The study function allows students to redefine the
+lessons based on their learning needs.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 39
+Figure 4. The interface of the main window with a pop-up dialogue box
+Before performing a task, students read and accept the embedded instruction by clicking the "Chcck"
+button (see Figure 1). They can also replay the video content until the task is accomplished. Furthermore,
+after students input and submit their answers for each task, feedback information is displayed by either a
+human teacher (in information-gap tasks) or the system (in dictation and note-taking tasks; see Figure 5,
+middle right frame).
+Afterwards, the students can review the current video script and re-visit the course via the recorded
+learning history. A sample of the information contained in a learning history is displayed in Figure 5.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 40
+Figure 5. The interface of the learning enviornment with feedback and learning history information
+Figure 6. The interface of the learner chat tool Figure 7. The teacher interface with chat
+performance evaluation tools
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 41
+Besides the student-content interaction in the learning process, student-student and student-teacher
+interaction is also possible during task completion. Whenever needed, the environment provides an
+opportunity for the student to interact with the other students or his teacher in real time. Figures 6 and 7
+show student-teacher interaction data. Figure 6 shows a student chat tool that is activated when a
+registered student selects his/her starting dialogue in the learning path frame. Figure 8 shows the teacher
+interface, which also includes a chat tool.
+Teacher Interface
+The human teacher's interface allows teachers to talk with on-line students, access the students' answers,
+and provide feedback on the students' performance either synchronously or asynchronously. As Figure 7
+shows, this interface consists of three parts:
+1. several text boxes for teachers to input their assessment of student performance (the upper part of
+the interface);
+2. the chat tool, displaying messages from on-line students (the middle part of the interface); and
+3. a display of the student's current performance data (at the bottom of the interface).
+EXPERIMENTAL STUDY OF THE WEB-BASED COURSE
+Twenty university students (non-native English speakers, majoring in Computer Science) from Southwest
+Normal University in China participated in this experiment via the Internet. The participants were
+randomly divided into two groups and assigned to different treatment conditions (see Table 3). The first
+group was assigned to the intra-personal treatment (i.e., where language is used for a functional purpose)
+comprised of a note-taking task and a dictation task (abbreviated as N + D). The other group was assigned
+to inter-personal treatment (i.e., where language is used for a communication purpose) comprised of an
+information-gap task (abbreviated as IG).
+Table 3. The Two Treatment Groups
+Exchange Information
+Treatment Required Optional
+N + D O + N + D
+IG R + IG
+The N+D task was set up under an optional information exchange condition (annotated as O + N + D),
+while the IG task was structured to require information exchange (annotated as R + IG).
+Furthermore, two environmental conditions were defined: in one condition students were able to
+manipulate their learning path while performing the task (abbreviated as the LP condition); in the other
+condition students were not allowed to manipulate the learning path while performing the task
+(abbreviated as the NLP condition).
+Materials
+The prototype course consisted of 20 dialogues. Each dialogue contained three videos from simple to
+complex (specified to support the same instructional goal, though by different dialogue strategies)1 and a
+set of questions in different task types as described in the Course Structure section, above. The structured
+or unstructured input video clips are based on the topic "Search.." The task types are defined as dictation,
+note-taking, and information-gap. The lesson contents were selected based on the participants' current
+knowledge level and course strategies. The selection of level of the video for each dialogue was left to the
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 42
+students themselves. The default level was based on the participants' progress. However, if the
+participants were not satisfied with the default level, they were able to select their own preferred level
+(see video levels in Figure 2).
+The instructional treatment provided in this study focused on the target forms of subject-specific
+vocabulary and language functions (e.g., defining, categorizing). The participants were instructed to try to
+acquire the target forms by listening to the video clips.
+Instrumentation
+The independent variable was defined as type of treatment. The dependent variables were achievement
+and attitude. The achievement variable was used to address the extent of learning associated with the two
+treatments, N + G and IG, respectively. The attitude variable was employed to address the degree of
+motivation reported for the Web-based communication platform as well as the different tutorial functions.
+The tracked data (i.e., the participants' written responses to each question) were used to measure the
+participants' levels of achievement. The first session was used to acquaint the participants with the
+training process and was therefore not scored. Three of the remaining 19 dialogues were randomly
+selected to be scored and were used to measure the participants' achievement in L2 learning in the Web-
+based CALL environment.
+Finn's (1977) type and token analysis was employed to score participant responses. Hunt's (1977) T-unit2
+word count was also used to measure their syntactic complexity. Types are the number of different words
+used in the participants' responses. The tokens are the total number of words written. The number of types
+reflects a direct measure of the breadth of subject-specific vocabulary items acquired. The token analysis
+was conducted on T-units. The assumption is that the length of the T-unit increases as learners mature or
+develop intellectually (Hunt, 1977).
+Two seperate questionnaires were used to measure participant attitudes and prior knowledge. A pre-
+treatement questionnaire was used to examine the participants' background knowledge. Responses were
+totaled to yield individual scores for prior knowledge about the topic of artificial intelligence. The data
+extracted from this survey were used as a reference for interpreting achievement scores.
+A post-treatment questionnaire consisted of five-statements which participants were to rate on a 5-point
+Likert scale according to their level of agreement. Values on the scale were strongly disagree, disagree,
+undecided, agree, and strongly agree. To facilitate scoring, these values were converted to numbers, from
+one to five, respectively. The participants' attitudes toward the Web-based course (i.e. their language-
+learning experiences) were measured using the following five statements:
+1. Communication over the Web was as effective as in face-to-face situations.
+2. Each of the automatically generated video and questions were suitable for my current individual
+understanding.
+3. I liked being able to manipulate my learning path (to create an individualized lesson).
+4. The chat tool was an effective way to get information from other participants.
+5. Getting feedback from a human teacher was helpful.
+Finally, qualitative data regarding attitudes toward the two treatments and opinions on individual
+improvements in listening comprehension ability were collected using an open-ended questionnaire (five
+open questions), which was provided to the participants at the end of the experiment.
+Procedure
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 43
+The study consisted of six one-hour sessions and took place over a 2-week period. The participants were
+required to access the course at the same time each session. The first three 1-hour sessions were placed in
+the NLP condition; the second three 1-hour sessions were with the LP condition. The experiment
+procedure was set up as follows:
+1. Pre-treatment Questionnaire: Before the lab-test session, a questionnaire was administered. Participants
+were asked to complete a questionnaire to assess their background knowledge.
+2. Experimental Session: Participants in this study were asked to access the course three times a week, for
+at least 1 hour per lesson. Each time, the participants were allowed to select their preferred video clips.
+While listening, they participated in question and answer sessions and received feedback from remote
+sites after each interaction. Afterwards, they could choose either to exchange comments with the teacher
+and/or other students in the same group, to continue the lesson, or to end the session. The basic options
+participants could choose in manipulating task complexity (which were triggered according to the
+participant's progress) are shown in Table 4.
+Table 4. The Basic Options
+Option 1 amount of attention to meaning required for task completion
+Option 2 amount of explicit explanation given prior to practice
+Option 3 amount of attention to form practice required for task completion
+Option 4 degree of complexity of content knowledge
+Option 5 degree of difficulty of target language
+Option 6 modes of L2 interaction
+3. Post-Treatment Questionnaire: The participants were asked to fill out a 5-statement questionnaire after
+each course. It was expected that the participants' attitudes would gradually change as they got more
+familiar with the Web-based course.
+At the end of the experiment, they filled out an open-ended questionnaire (e.g., Did you experience any
+communication problems? If yes, what were they? If no, please elaborate on the advantages of the
+course.). The data from the post-treatment questionnaire were used to measure the participants' attitudes
+towards our Web-based course.
+Results
+Data collected from the three dialogues via the student-users' profiles were transcribed and coded to
+examine the L2 interactions. The discourse was then analyzed following the type and token method
+described in the Instrumentation section above. For the different dependent variables (i.e., achievement
+and attitude), the values of the means and standard deviations (SD) were calculated for the 10 participants
+in each group. For the independent variable (i.e., treatment condition), the Mann-Whitney's method was
+used to compute the rank sums and two-tailed probability (p) values. In the following, the main
+experimental results were presented in terms of achievement and attitude.
+Achievement Measures
+Table 5 shows the means of types, standard deviations (SD), rank sums, and two-tailed p values. In
+relation to the task completion, there is no significant difference between the two treatments (p value for
+the three dialogues is not significant in R + IG). By comparing the proportion of different words used by
+participants in both groups, the task was well constructed to elicit language from both participants. This
+revealed that the number of target language forms elicited through negotiation of meaning in the (N + G)
+treatment is as much as that in the (IG) treatment.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 44
+Table 5. Mean Scores of Types in Each Dialogue
+Types Mann-Whitney
+Treatment n Mean DS RankSums p
+O + N + D group 10 31.15 10.59 102Dialogue 4
+R + IG group 10 36.26 7.76 118 .43
+O + N + D group 10 40.25 12.59 97
+Dialogue 8
+R + IG group 10 36.26 7.76 119 .43
+O + N + D group 10 23.25 11.19 106
+Dialogue 12
+R + IG group 10 27.76 8.06 114 .79
+Table 6 reports T-unit token values (i.e., length of sentences/utterances) for each dialogue (each task
+contained four questions). Analysis of the data revealed, as indicated in Table 6, that the T-unit token
+values in R + IG were statistically significant. The p value for each dialogue is 0.080, 0.060, and 0.030,
+respectively. This result confirms Newton's (1996) findings that language interaction elicited via optional
+information exchange is not as much as that via required information exchange. The difference may result
+partly from the different purpose of each task, and partly from the different level of the participants'
+language ability. This result also supports Gonzalez-Lloret's (2003) findings that the purpose of the task
+has a significant effect on the elicitation of negotiation of meaning in task completion.
+Table 6. Mean Scores of T-Unit Lengths from Data in Each Dialogue
+T-Unit Lengths Mann-Whitney
+Treatment n Mean DS RankSums p
+O + N + D group 10 4.30 .71 89Dialogue 4
+R + IG group 10 8.70 .50 131 .080*
+O + N + D group 10 5.05 1.2 85
+Dialogue 8
+R + IG group 10 9.69 .88 135 .060*
+O + N + D group 10 6.1 1.05 80
+Dialogue 12
+R + IG group 10 10.31 .72 140 .030*
+*p<0.1
+Table 7 reports the type totals produced in the three dialogues. The mean difference for the type totals
+between the two groups is only 64 words. This indicated that the O + N + D group (mean = 448.90)
+performed nearly as well as the R + IG group (mean = 512.30) on the tasks.
+Table 7. Mean Scores of Total Types in Data from All Dialogues
+Types Mann-Whitney
+Treatment n Mean SD Rank Sums p
+O + N + D group 10 448.90 12.34 104
+R + IG group 10 512.30 8.26 116 .58
+In terms of the correctness of responses to each question in a task, there is no significant difference found
+between treatments (see Table 8). Therefore, it can be concluded that there is no difference in
+comprehension of meaning and vocabulary acquisition between groups. Although the information gap
+seemed to have a greater impact on the number of attempts at language use, the two groups behaved
+similarly in their overall success at reconstruction of their target language.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 45
+Table 8. Mean Scores of the Correct Responses to Questions on Each Dialogue
+Types Mann-Whitney
+Treatment n Mean SD Rank Sums p
+O + N + D group 10 4.6 8.1
+R + IG group 10 4.9 6.4 .56 .084*
+The results of the experimental study also revealed a variety of comprehension indicators involved in the
+interaction process for intra-personal task completion (see Table 9). In the intra-personal task, the
+participants used the chat tool for target form request and comprehension check during the negotiation of
+meaning process. The use of the chat tool indicated that a breakdown had occurred in student-content
+interaction during task completion. As can be seen in Table 10, unknown content knowledge accounted
+for most of the triggers of the chat tool, followed by target form (i.e., subject-specific vocabulary and
+language function forms). These results revealed that the task types in this study were well structured to
+promote both comprehension and L2 acquisition.
+Table 9. Chat Tool Triggers During Intra-Personal Task
+Indicator Total Number
+Language function 16
+Vocabulary 12
+Language difficulty
+Syntax 5
+Text complexity Domain knowledge 20
+Task complexity 3
+Attitude Measures
+Responses on the attitude measures were converted to numeric scores and ranged from 1 (negative
+attitudes) to 5 (positive attitudes), with 3 indicating neutrality. All attitude scores in both groups were
+above 3, indicating generally positive attitudes. Composite scores were calculated for attitudes toward
+language learning experiences, participant's autonomy, and instructional strategies in the Web-based
+environment and are reported in Tables 11, 12, and 13, respectively. The mean difference in attitude
+values toward language learning experiences was significantly higher for both groups under the LP
+condition: mean = 4.7, SD = .61, t (10) = -2.23, p = . 001. Moreover, positive attitudes were also found
+towards participant's autonomy over the Web-based environment, as shown in Table 10: mean = 4.7, SD
+= .51), t(10) = -1.34, p = .003.
+Table 10. Comparison of Means on Attitude toward Teaching Strategies
+Treatment n Mean SD t p
+O + N + D group 10 3.90 .33
+R + IG group 10 4.8 .89 .12 .23
+Table 11. Comparison of Means on Attitude toward Learning Autonomy
+Treatment n Mean SD t p
+O + N + D group 10 4.5 .67
+R + IG group 10 4.7 .51 -1.34 .23
+Table 12. Comparison of Means on Attitude toward Language Learning Experiences
+Treatment n Mean SD t p
+O + N + D group 10 3.5 .71
+R + IG group 10 4.7 .614 -2.23 .001*
+*p<0.1
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 46
+Opinion Questionnaire
+The open-ended questionnaire solicited interpretive comments on the effectiveness of the Web-based
+course concerning the instructional treatments, learning, and communication. Responses revealed a range
+of opinions.
+Communication Problems. Almost all of the participants under the NLP condition indicated that there
+were problems with the form of communication/interaction in this environment. The complaints were
+generally of two types: conflict with traditional way of communication and conflict with freedom in their
+learning paths. Two subjects specifically stated that they did not feel comfortable using the limited form
+of communication/interaction and that the lack of sufficient guidance impeded their ability to work
+effectively. Specific comments regarding interactivity problems from both groups included, "to chat with
+peer students is a good idea, but sometimes I couldn't find a student who could provide me the correct
+knowledg" and "I don't like communication over the Web, because I cannot see the facial expression of
+my communication partner." These comments revealed a conflict with traditional ways of
+communication. The findings supported Chapelle's (2001) hypothesis that the multi-modal features of
+electronic text as well as its interactive nature require significantly more than the ability to read and write
+in a functional way. Thus, we can say that in the information age, language learners are entering a world
+where their communication abilities should include electronic literacy, that is, communication registers
+associated with electronic communication (Warschauer, 2000).
+Communication Effectiveness and Advantages. Regarding communication effectiveness, comments
+from both groups under the LP condition were similar. The comments supported the results of the attitude
+questionnaire. The overwhelming majority of subjects stated that such an environment provides an
+effective setting for SLA. One of the benefits is that the fear of making mistakes in face-to-face situation
+can be avoided. The advantages to the interactivity of this environment most often cited by both groups
+under the LP condition were (a) having someone available to provide help when needed; (b) having
+greater control of one's own learning path; (c) besides the dialogue with the tutor, it is possible to find a
+peer student to talk when needed; (d) the questions in the Q&A&F educational communication forum
+give both hints and purposes while listening.
+Effectiveness of Instructional Treatments. The differences between the two groups were most apparent
+in opinions. They supported the results of the achievement measure (see Table 6). However, two
+participants in the O + N + D group expressed negative feelings toward the instructional strategies. They
+were not pleased with the strategy and cited the lack of peer students to talk with as the primary
+disadvantage. Positive comments were given from the R + IG group under the LP condition, such as, "it is
+a quite nice learning environment, I always felt confident in performing the task," "it is good that I can
+control what to learn, i.e., my lesson path and the level of video, I don't need to wait for the slower
+classmates," "I found it useful to replay the video as many times as I wanted," "I found my vocabularies
+enlarged after two weeks," and "I can get clarifications and confirmations when I needed them."
+The finding confirms the place of individualization as one of the basic features in language education.
+The bipolarity of opinions in the individualized treatment may account for the significantly more positive
+attitudes toward the Web-based course by both groups under the LP condition.
+Under the NLP condition, the number of positive and negative responses was equally split. Negative
+opinions centered on not having enough chances to interact within the learning environment and not
+having enough opportunities to access the learning path. Those who positively commented on this
+treatment cited greater concentration when alone and the benefits of individualized learner control of the
+video. Typical comments included, "I like the time spent apart is good in that I can think on my own for a
+period of time then get with my online classmates or teachers to get confirmation when I felt uncertain or
+to discuss what I obtained and what my problem is."
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 47
+Attitudes Towards Human Teacher's Interference. The number of positive and negative responses on
+human teacher's interference varied. Some participants stated that they didn't care whether the human
+teacher was available or not, because there were enough alternate tutorial functions, such as the learning
+path function, learning history information, and the chat tool for talking with online students. On the other
+hand, positive opinions on the interaction with a human teacher mainly stated that the teacher can give
+them positive reinforcement on their language knowledge and that this type of support can greatly reduce
+the fossilization of errors. All participants expressed positive feelings towards the simultaneous feedback.
+DISCUSSION AND CONCLUSIONS
+Regarding research question one (What mode of interaction [i.e., negotiation of meaning in inter-personal
+versus intra-personal activities] facilitates comprehension better and could lead to more effective
+language acquisition?), we can say that the modes of interaction (negotiation via inter-personal or intra-
+personal tasks) were equally effective in promoting listening comprehension and L2 development. From
+the achievement measures, we deduced that the task was constructed well enough to elicit language
+meaning and form from both groups by comparing the proportion of types (T-unit token) and correct
+response values. Negotiations via intra-personal tasks do offer a considerable amount of quality data,
+although it was not as rich as the negotiations via inter-personal tasks. From the attitude measures, we
+found that the students' attitudes were positive towards the initiate/response/feedback interaction form.
+These results confirm the benefit of negotiated interactions in the production of comprehensible output as
+shown in earlier SLA research. The main conclusion is that self-initiated clarification attempts and self-
+negotiated comprehensible output involved in the learner-content interaction should be encouraged as one
+of the preferred instructional strategies in a CALL environment.
+In relation to research question two (Does negotiation of meaning facilitate greater comprehension and
+production?), there is no data revealing that negotiation of meaning facilitates comprehension and
+production, although the negotiation of meaning does occur with the purpose of task completion or
+information exchange.
+Despite the acknowledged importance of interaction in the language acquisition process, more research is
+necessary to examine whether there is a difference in the extent of self-repair between inter-personal and
+intra-personal tasks. Another challenge, in relation to interaction via production in a Web-based
+environment, is to examine whether there is a difference between the dictation, note-taking and
+information gap tasks in terms of ability to draw the student's attention to linguistic form.
+Our research is motivated by the increased need for student cooperation both with the system and within
+the system, where language acquisition can be assisted by various meaningful modes of L2 interaction in
+a Web-based language learning environment. The task types that were widely used in traditional
+classrooms to generate L2 interactions were effectively transferred to the Web-based CALL environment.
+This paper represents a contribution to our understanding of Web-based course interactions and
+implementation for language acquisition in general and EAP learning in particular. To illustrate the theory
+and design of our system, we have presented and commented upon some actual screenshots from
+communicative task application during language acquisition via listening comprehension training.
+In conclusion, while these technological innovations foster changes in SLA, facilitate computer-based
+learning activities, and encourage student autonomy, they are ultimately tools in the hands of course
+authors who must use them creatively to maximize the students' language learning experience and to
+enhance their language acquisition for communicative purposes. Although learning language through
+communication has been proven to be successful in face-to-face language learning situations for
+facilitating the restructuring of the student's linguistic knowledge, it has not yet been successfully
+transferred to the new educational environment, the Web. In this paper we demonstrate how such a
+transfer is possible. Such developments will form part of the research agenda for the 21st century.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 48
+NOTES
+1. The three videos in one Dialogue were labeled as three levels according to their text features (i.e.,
+information complexity and language difficulty).
+2. T-unit was defined by Hunt (1977) as the single main clause plus whatever other subordinate clauses or
+non-clauses are attached to, or embedded within, the one main clause.
+ABOUT THE AUTHORS
+Jin Chen is a PhD candidate in the Department of Information System Science of the Graduate School of
+Information Systems at the University of Electro-Communications, Tokyo. Her research interests include
+AI, CALL, instructional design, applied linguistics, knowledge representation and computing, ITS, and
+Web-based educational environments. She is a member of ICCE. She was a paper reviewer for
+ICALT2004.
+E-mail: chenj@ai.is.uec.ac.jp
+Safia Belkada graduated from the Graduate School of Information Systems at the University of Electro-
+Communications, Tokyo, and worked at Motorola Japan, Ltd., Tokyo. Her research interests include AI,
+neural networks, adaptive systems, UM, knowledge computing, concept mapping, ITS, and Web-based
+educational environments. She has authored or co-authored several research papers and course booklets.
+E-mail: safia@ai.is.uec.ac.jp
+Toshio Okamoto obtained a PhD (Engineering) from Tokyo Institute of Technology in 1988. Presently,
+he is a Professor in the graduate school of Information Systems, the University of Electro-
+Communications. He is engaged in research on AI models for ITSs, computer supported collaborative
+learning systems, collaborative memory and knowledge management, curriculum development/evaluation
+of IT-education, and IT-education in the Internet environment.
+E-mail: okamoto@ai.is.uec.ac.jp
+REFERENCES
+Batstone, R. (2002). Contexts of engagement: A discourse perspective on "intake" and "pushed output."
+System, 30(1), 1-14.
+Box, S. (2003). CALL - past, present and future. System, 31, 13-48.
+Chapelle, C. A. (1998). Multimedia CALL: Lessons to be learned from research on instructed SLA.
+Language Learning & Technology, 2(1), 22-34. Retrieved October 13, 2003, from http://llt.msu.edu/
+vol2num1/article1/
+Chapelle, C. (2001). Computer applications in second language acquisition: Foundations for teaching
+testing and research. London: Cambridge University Press.
+Chen, J., Inoue, I., & Okamoto, T. (2001). The development of a hypermedia language learning
+environment on the Web for teaching academic English. In C-H. Lee, S. Lajoie, R. Mizoguchi, Y. D.
+Yoo, & B. du Boulay (Eds.), Proceedings of  ICCE/SchoolNet 2001 Conference (November 12-15).
+Seoul, Korea: Incheon National University of Education.
+Chen, J., Cristea, A., & Okamoto, T. (2003). Communicative task modelling and its practice in academic
+English language learning in a Web-based language learning environment. IET '03 Proceedings, France,
+1748-1955.
+Jin Chen, Safia Belkada, & Toshio Okamoto How a Web-Based Course Facilitate Acquisition of English…
+Language Learning & Technology 49
+Day, E., & Shapson, S. (2001). Integrating formal and functional approaches to language teaching in
+French immersion: An experimental study. Language Learning, 51(1), 47-80.
+Ellis, R. (1999). Theoretical perspectives on interaction and language learning. In R. Ellis (Ed.), Learning
+a second language through interaction (pp. 3-31). Amsterdam: John Benjamins.
+Farretti, R. R.(2001). Language acquisition in integrated language learning environment. The Prometheus
+Journal, 1(4), 1-10.
+Finn, P. J. (1977). Computer-aided description of mature word choices in writing. In C. R. Cooper & L.
+Odell (Eds.), Evaluating writing (pp. 69-90). Buffalo, NY: State University of New York.
+Gonzalez-Lloret, M. (2003). Design task-based CALL to promote interaction. Language Learning &
+Technology, 7(1), 86-104. Retrieved October 13, 2003, from http://llt.msu.edu/vol7num1/gonzalez/
+Hegelheimer,V., & Chapelle, C. (2000). Methodological issues in research on learner-computer
+interactions in CALL. Language Learning & Technology, 4(1), 41-59. Retrieved March 4, 2002, from
+http://llt.msu.edu/vol4num1/hegchap/
+Hunt, K. W. (1977). Early blooming and late blooming syntactical structures. In C. R. Cooper & L. Odell
+(Eds.), Evaluating writing (pp. 69-90). Buffalo, NY: State University of New York.
+Izumi, S. (2002). Output, input enhancement, and the noticing hypothesis. Studies in Second Language
+Acquistion, 24(4), 541-577.
+Long, M. H. (1996). The role of linguistic environment in second language acquisition. In W. C. Ritchie
+& T. K. Bhatia (Eds.), Handbook of research on language acquisition: Vol. 2. Second language
+acquisition (pp. 413-468). New York: Academic Press.
+Newton, J., & Kennedy, G. (1996). Effects of communication tasks on the grammatical relations marked
+by second language learners. System, 24(4), 309-322.
+Nunan, D. (2000). Modified interaction and the negotiation of meaning. Retrieved October 13, 2003,
+from http://www.floras.gr/user/MODIFIED%20INTERACTION.htm
+Okamoto, T., Kayama, M., Inoue, H., & Cristea, A. I. (2002). The integrated e-learning system-RAPSODY
+based on distance ecology model and its practice. International Journal of Educational Technology &
+Society, 5(4), 124-136. Retrieved October 13, 2003, from http://ifets.ieee.org/periodical/vol_4_2002/
+okamoto.html
+Pica, T. (1991). Classroom interaction, negotiation, and comprehension: Redefining the relationship.
+System, 19(4), 437-452.
+Schollaert, R. (1998). The theoretical background to communicative language teaching. Retrieved
+October 13, 2003, from http://www.curdev.hull.ac.uk/ecc/assets/images/TH_BCK.PDF
+Skehan, P. (1998). A cognitive approach to language learning. Oxford, England: Oxford University
+Press.
+Tsou, W. L., Wang, W. H., & Li, H. Y. (2002). How computers facilitate English foreign language
+learners acquire English abstract words. Computers & Education, 39(4), (415-428).
+Warschauer, M. (2000). Computer-mediated collaborative learning: Theory and practice. Modern
+Language Journal, 81(4), 470-481.

@@ -1,0 +1,959 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/june2013/macdonaldetal.pdf 
+June 2013, Volume 17, Number 2 
+pp. 36–56 
+ 
+Copyright © 2013, ISSN 1094-3501 36 
+COMPUTER LEARNER CORPORA:  
+ANALYSING INTERLANGUAGE ERRORS  
+IN SYNCHRONOUS AND ASYNCHRONOUS COMMUNICATION 
+Penny MacDonald, Universitat Politècnica de València 
+Amparo García-Carbonell, Universitat Politècnica de València 
+José Miguel Carot-Sierra, Universitat Politècnica de València 
+This study focuses on the computer-aided analysis of interlanguage errors made by the 
+participants in the telematic simulation IDEELS (Intercultural Dynamics in European 
+Education through on-Line Simulation). The synchronous and asynchronous 
+communication analysed was part of the MiLC Corpus, a multilingual learner corpus of 
+texts written by language learners from different language backgrounds. The main 
+research questions centred on the differences in the amount and types of errors found in 
+both the synchronous and asynchronous modes of communication, and whether different 
+L1 groups committed certain errors more than their counterparts from other mother tongue 
+backgrounds. As we hypothesised, more errors were found in the synchronous mode of 
+communication than in the asynchronous; however, when examining the exact types of 
+errors, some categories were more frequent in the synchronous mode (the formal and 
+grammatical errors, among others), while in the asynchronous, errors of style and lexis 
+occurred more frequently. A analysis of the data revealed that the frequency of error types 
+varied with each different L1 group participating in the simulation, this same analysis also 
+showed that highly relevant associations could be established the participants’ L1 and 
+specific error types.  
+Keywords: Learner Corpora, Error Analysis, Correspondence Analysis, Technology-
+Mediated Communication, Writing in English as a Foreign Language 
+APA Citation: MacDonald, P., García-Carbonell, A., & Carot-Sierra, J. (2013). Computer 
+learner corpora: Analysing interlanguage errors in synchronous and asynchronous 
+communication. Language Learning & Technology, 17(2), 36–56. Retrieved from 
+http://llt.msu.edu/issues/june2013/macdonaldetal.pdf 
+Received: January 3, 2012; Accepted: July 25, 2012; Published: June 1, 2013 
+Copyright: © Penny MacDonald, Amparo García-Carbonell, José Miguel Carot-Sierra 
+INTRODUCTION 
+Computer learner corpora are electronic collections of authentic foreign or second language data which 
+have been gathered according to strict design criteria. The development of computer learner corpora 
+(CLC) in the 1980s marked a new direction in the field of corpus linguistics and its relation to foreign 
+language learning research and pedagogy. One of the first CLC projects was the Danish Project in 
+Foreign Language Pedagogy (Færch, Haastrup, Phillipson, 1984). Then, in the early 1990s, Sylviane 
+Granger at the Université Catholique de Louvain in Belgium (Granger, 1993, 1998) founded and 
+coordinated the creation of the International Corpus of Learner English, a corpus based on a large 
+collection of essays written by French-speaking undergraduates of English Language and Literature. 
+Granger’s original project was later expanded to include texts produced by language learners from a 
+variety of different mother tongue (L1) backgrounds, including Bulgarian, Chinese, Czech, Dutch, 
+Finnish, French, German, Hebrew, Italian, Japanese, Polish, Russian, Spanish, and Swedish. Since then, 
+the development of new learner corpora has increased greatly as can be observed on the Learner Corpora 
+around the World web page of the Centre for Corpus Linguistics at Louvain, which includes over 100 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 37 
+learner corpora projects centred on spoken and written learner language involving different mother tongue 
+and target language groups, varying from timed argumentative essays, to language for specific purposes 
+texts, or from chat to oral exam interviews, and spontaneous speech. 
+Learner corpora have been used in the literature to provide evidence concerning what language learners 
+have acquired and not acquired (Granger, 1999), sometimes comparing their output with native speakers 
+(Granger, Meunier, & Tyson, 1994; Virtanen, 1998; Lorenz, 1998), and other times comparing it with 
+other mother tongue groups (de Haan, 2000). Granger (2002) identified two linguistically-based 
+methodological lenses through which corpora are studied: contrastive interlanguage analysis and 
+computer-aided error analysis. The first method deals with studies that compare the output of either two 
+or more non-native speaker groups or two or more native speaker and non-native speaker groups. In the 
+second case, researchers use computer programmes to analyse language output in order to detect the 
+difficulties that learners have. This, in turn, contributes to discoveries about the processes involved in 
+learning, to the identification of instances of crosslinguistic influence, to the development of new 
+materials, and so forth. 
+The present research encompasses both of these methods in a study which carries out a computer-aided 
+error analysis of the language produced by university students writing on computers in five different 
+European countries. Data were gathered in a series of telematic simulations, and the analysis involved 
+comparing the language errors produced in synchronous and asynchronous communication exchanges. 
+Errors in Foreign Language Learning Contexts 
+In educational environments, and in particular in the field of foreign language teaching/learning, errors 
+formed the basis of the teaching methodologies in the three decades from 1950 to 1980, focusing mainly 
+on the product of the language learning and the avoidance of any structures that were deviant in form 
+from the standard target language. One predominant use of errors was in contrastive analysis (Fries, 1945; 
+Lado, 1957), the aim of which was to identify interlingual differences by predicting and describing 
+patterns that were likely to cause difficulty. These errors could then be eliminated through drilling in 
+order to bring about change in the linguistic behaviour of the learner. Later, error analysis, a method that 
+attempted to explain the essentially creative nature of the language acquisition process (Schachter & 
+Celce-Murcia, 1977, p. 442) emerged as an alternative methodology to the previous behaviourist habit-
+formation theory. This method provided researchers with a way of studying learner language, that is to 
+say, by not concentrating exclusively on what Ellis (1994, p. 48) describes as “fully-formed languages” 
+(L1 and L2). Thus, error analysis became integrated into the field of applied linguistics, above all, thanks 
+to the seminal work of Corder (1967) who understood that errors not only provided teachers and 
+researchers with information concerning how much the learners had learnt and how they were learning, 
+but also how the learners themselves—through making errors—could discover the rules of the target 
+language. 
+However, error analysis has been criticised for lacking methodological rigour (Ellis, 1994) and for 
+concentrating too much on what was wrong or deviant in the learners’ interlanguage, while ignoring their 
+achievements (Enkvist, 1973; Hammarberg, 1974). Moreover, the phenomenon of avoidance (Schachter, 
+1974), or how learner language develops over time (Ellis, 1994, p. 69) were important aspects that were 
+never addressed. In spite of these important drawbacks, Ellis maintains that error analysis “has made a 
+substantial contribution to second language acquisition research” (1994, p. 70). 
+Computer Learner Corpora and Error Analysis 
+There were two main developments in the 1980s and 1990s that linked the field of corpus linguistics to 
+foreign language teaching research and pedagogy. Johns (1986) introduced data-driven learning into 
+language classrooms, using concordances extracted from both general reference corpora and smaller 
+specialised corpora, for pedagogically-oriented tasks. Also, computer learner corpora were developed 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 38 
+(Færch et al., 1984; Granger, 1993, 1998) with the aim of making use of “advances in applied linguistics 
+and computer technology to investigate the interlanguage of advanced learners from various mother 
+tongue backgrounds” (Granger & Meunier, 1994, p. 102). In line with the present study, we concentrate 
+on the second case, (i.e., computer learner corpora), and their applications in the field of language 
+teaching and learning. 
+The most cited computer learner corpus in the literature is the International Corpus of Learner English 
+(ICLE), (Granger, 1993, 1998). It is based on a large collection of essays (over 2 million words) written 
+by students of English from a variety of different L1 backgrounds. In our research work, we make 
+particular reference to the error-tagged data obtained from the French L1 (Dagneaux, Denness, & 
+Granger, 1998; Granger 1999) and the Spanish L1 components of the ICLE corpus (Neff et al., 2007), as 
+these studies are particularly comparable to ours since the same error tagging method was used. 
+Computer learner corpora like the ICLE Corpus provide an important source of data for SLA research, 
+which can potentially address some of the shortcomings of error analysis mentioned above. The fact that 
+learner data can now be collected in corpora with strict design criteria, taking into account different 
+variables (ESL or EFL environment, competence levels, task type, years of study, age, etc.) permits the 
+comparison of different groups of learners (Granger & Meunier, 1994). Large amounts of interlanguage 
+data can be studied using software tools designed for counting frequencies of particular forms, or 
+providing syntactic and semantic information, which can increase the degree of empirical validity of 
+many SLA studies (Granger, 1998). 
+Earlier studies in the field of error analysis centred on the creation of taxonomies for identifying and 
+classifying errors (Dusková, 1969; Burt & Kiparsky, 1974; Corder, 1981; Chun, Day, Chenoweth, & 
+Luppescu, 1982; Dulay, Burt, & Krashen 1982; Green & Hecht 1985; Lennon, 1991), the investigation of 
+error gravity (Hughes & Lascaratou, 1982; Davies, 1985; McCretton & Rider,1993; Rifkin & Roberts, 
+1995) and the possible causes of IL errors (Richards, 1974; Taylor, 1986; Odlin, 1989; Gass & Selinker, 
+1992; Ringbom, 1992). More recently, studies in error analysis are using computer tools to investigate 
+learner language especially in the case of the different research groups who contributed to the ICLE 
+corpus. Dagneaux et al. (1998) describe the work carried out with the Université Catholique de Louvain’s 
+tagging method on French learners writing in English. They compared error-tagged essays of intermediate 
+and advanced learners separated by a two-year gap at university and found—as expected—that errors 
+were substantially lower with the advanced group, although the progress rate differed, depending on the 
+error category, within the advanced level group. Using the same method, Granger (1999) investigated the 
+use of tenses by advanced learners and found that tenses should be taught at the discourse level and not at 
+the sentence level, as they play an important role in the cohesion of written output. She also suggested 
+introducing a contrastive approach to the teaching of tenses, as errors can result from major differences 
+between the mother tongue and the way tenses are formed in English. In the error-tagged data in the 
+SPICLE corpus, the Spanish component of ICLE, (Neff et al., 2007), the main focus is on grammar and 
+lexical errors. As regards the grammar category, these authors discuss the errors which are most frequent 
+in the corpus: articles, verb tenses, and above all auxiliary verbs (which includes the modal auxiliaries) 
+and suggest possible causes of some of the errors. Regarding lexis, it was found that a high percentage of 
+these errors were in the adjective and adverb category, and many of the deviant forms could be attributed 
+to interference from the mother tongue, Spanish. 
+Also with a central pedagogical focus, there have recently been a number of studies which analyse errors 
+in order to create specific profiles of learner competence. In the case of the English Profile Project 
+(Hawkins & Buttery, 2009) the aim is to develop Reference Level Descriptions for English linked to the 
+Common European Framework of Reference for Languages (CEFR) levels, which were developed to 
+assess language proficiency as regards the functions that learners can carry out in the process of learning a 
+foreign language. However, it has been noted that these levels are “underspecified with respect to key 
+properties that examiners look for when they assign candidates to a particular proficiency level and score 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 39 
+in a particular L2” (Milanovic, 2009, cited in Hawkins & Buttery, 2010, p. 2). Thus, the English Profile 
+Project proposes to establish a series of criteria (Hawkins & Filipović, 2012) for the CEFR proficiency 
+levels as applied to English and assess the impact of different first languages on these features. In order to 
+do this, researchers have focused on both positive and negative linguistic properties. Using the Cambridge 
+Learner Corpus, negative properties (i.e., errors) have been annotated manually, using a taxonomy of 
+codes with over 70 error types involving the lexical, syntactic, and morphosyntactic properties of English. 
+Along similar lines, using error-tagged learner corpora, the researchers in the European project SLATE 
+(Second Language Acquisition and Testing in Europe) have described the linguistic features of learner 
+performance at each of the six CEFR levels for different target languages with a view to improving the 
+CEFR descriptors for grammatical accuracy, vocabulary control, vocabulary range, orthographic control 
+(spelling and punctuation), and cohesion and coherence (Granger and Thewissen, 2005a; Thewissen, 
+Bestgen, & Granger, 2006). 
+Lastly, another study which focuses on interlanguage analysis is the TREACLE project (Teaching 
+Resource Extraction from an Annotated Corpus of Learner English) (O’Donnell et al., 2009) based in 
+Spain. This project is developing a methodology for producing grammatical profiles of Spanish university 
+students’ written English language. The corpus-based methodology uses an automated syntactical analysis 
+to determine what learners already know, in addition to a computer-aided error analysis using the 
+Universidad Autónoma de Madrid Corpus Tool (O’Donnell, 2008) to find out what learners are not 
+getting right. Together, this details the degree to which learners at each proficiency level have mastered 
+the various grammatical features they need to know for their university degree courses. 
+Definition and Classification of Errors 
+There are many different ways of classifying language errors. Dulay, Burt, & Krashen (1982) 
+distinguished two main categories: 
+• Linguistic categories (morphology, syntax, etc.) 
+• Surface structure taxonomies (omission, addition, etc.) 
+Corder (1981) records errors of omission, addition, selection, and ordering on one level, and distinguishes 
+between errors made on the grammar, lexico-semantic, and graphology/phonology levels. Most studies in the 
+literature have analysed interlanguage errors combining the analysis of both linguistic and surface structure 
+taxonomies, either from a grammatical viewpoint, including aspects concerning morphology, syntax, lexis, 
+spelling, and punctuation (Biber, Conrad, & Reppen, 1998; Dagneaux et al., 1998; Dusková, 1969; Granger 
+& Meunier, 1994; Green & Hecht, 1985; Lennon, 1991; Olsen, 1999), or as regards pragmatics, style and 
+discoursal aspects (Chun et al., 1982; Neff et al., 2007, among others), or with regard to factual information 
+(Chun et al, 1982). In our research, we define the concept of error as a form or structure in the learner’s 
+production that is identifiable as being deviant, to a greater or lesser extent, in comparison to a native 
+speaker of the target language attempting to say the same in an identical linguistic and communicative 
+context (Lennon, 1991). The tagging system we used was based on the linguistic categories of the errors, 
+but also described the errors with reference to their violation of norms as regards surface structure. 
+Telematic Simulations 
+In the last two decades, the advances made in communication technologies and their integration into 
+teaching-learning environments have resulted in enormous changes in the educational system, not only 
+with respect to the accessibility of information, but also in how teaching and learning take place and in 
+the use and delivery of educational resources. Based on Greenblat's conceptual interpretation (Greenblat 
+1988), a simulation is an operational model of central features, or elements, of a real or proposed system, 
+process, or environment. A telematic simulation is a model that brings together multiple disciplines and 
+professional and academic environments in geographically distant locations via the internet (García-
+Carbonell & Watts, 1996).  
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 40 
+In Europe, Project IDEELS (Intercultural Dynamics in European Education), a large-scale distributed 
+telematic simulation, has proved in several research studies to be of invaluable pedagogical and 
+humanistic interest (Ekker, 2000; Sutherland, Ekker, & Eidsmo, 2006). It has shown to be of use in 
+studies concerning cultural awareness (Ekker & Sutherland, 2009; Sutherland & Ekker, 2010) and 
+language learning (Andreu-Andrés & García-Casas, 2011; Watts, García-Carbonell, & Rising 2011; 
+García-Carbonell, Watts, & Andreu-Andrés, 2012; Angelini, 2012), including the development of the four 
+skills and communicative, pragmatic and interactional competence (García-Carbonell, 1998; MacDonald 
+& Perry, 2009; García-Carbonell & Watts, 2012). Similarly, other positive outcomes have been reported 
+with respect to a wide range of other skills (García-Carbonell, Rising, Montero, & Watts, 2001) involving 
+collaborative teamwork, decision-making, and problem-solving, among others. 
+Research Questions  
+Following Granger (1998, p. 12), a contrastive interlanguage analysis was carried out into the language 
+errors in the written production of learners with different L1s from five European universities as they 
+participate in the IDEELS telematic simulation. The present study sets out to respond to the following 
+research questions:  
+1. Are there more errors in the synchronous or asynchronous mode of communication? 
+2. Is there a difference in the type of error to be found in each mode of communication due to the 
+conditions under which each is produced? 
+3. Which types of errors are more frequent in the different L1 groups? 
+4. Do the different groups make errors that can be associated with their particular L1, in other 
+words, does the L1 seem to influence the type of error predominant in any one group? 
+MATERIALS AND METHOD 
+The Learner Corpus 
+The MiLC corpus (Andreu-Andrés et al., 2010) is a multilingual learner corpus involving the written 
+output (formal and informal letters, summaries, essays, reports, translations, computer-mediated 
+communication) of students learning English, French, and Spanish as a foreign language, and also 
+Catalan, as a first, second, or foreign language. The computer-mediated communication is made up of 
+forum discussions and IDEELS simulations involving synchronous exchanges (on-line conferences held 
+under real-time conditions), and asynchronous exchanges (e-mail type communication). We error coded 
+the online teleconferences and email communication that the participants in the IDEELS simulation 
+produced. 
+In the synchronous communication, there were 42,059 words (2,906 turns), and in the asynchronous 
+communication there were 42,625 words (250 turns). From these figures it can be seen that there is a 
+substantial difference in the length of turns between these communicative modes. The synchronous 
+postings tended to be short, containing anything from a minimum electronic utterance (Sotillo, 2000) such 
+as an exclamation mark to a longer message containing, say, a team’s Opening Statement, whilst the 
+asynchronous messages were, on the whole, much longer with both the language and format showing 
+characteristics of a more formal and syntactically complex genre of writing.  
+Error Tagging System 
+The programme used in our research work was the Université Catolique de Louvain’s Error Editor 
+(Hutchinson, 1996) together with the coding guide, the Error Tagging Manual Version 1 (Dagneaux, 
+Denness, Granger, & Meunier, 1996). (See Appendix for the complete list of all the tags and the 
+categories of error they represent). The Error Editor does not carry out an automatic analysis of learner 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 41 
+language, but helps simplify the analyst’s classification and tagging of the data.  
+• The first category considers formal errors, involving spelling, derivation, and inflection (F*). 
+• The second category is devoted to grammatical errors (G*). 
+• The third category deals with lexico-grammar (X*) errors. It includes those where the 
+morphosyntactic properties of a word have been violated. 
+• The fourth category groups errors concerning the semantic properties of single words and 
+lexical phrases (L*). 
+• Three additional categories include: (a) Register (R), (b) Style (S*), (c) Word Redundant (WR), 
+Word Missing (WM), and Word Order (WO). 
+• We added two categories of our own, one related to punctuation (FPM—punctuation missing, 
+and FPW—punctuation wrong) and the other related to the incidence of code-switching (CS). 
+Although code-switching is widely accepted as being a useful communication strategy for 
+language learners, participants in the simulation were asked to communicate in English at all 
+times, and thus any examples of code-switching are considered errors.  
+Using the Université Catolique de Louvain’s Error Editor, the tag is inserted before the incorrect form or 
+forms, and the suggested correct version is written between dollar signs after the error as in the following 
+examples: 
+• We think that these two years should be part (FS) iof $of$ secondary education. 
+• Could you clarify the exact age for starting tertiary (LS) school $education$? 
+• We are making the Educational System for Eutropolis and not for (GA) 0 $the$ 
+Eutropian Federation 
+In the above examples, the code FS indicates a spelling error, although this was most likely a 
+typographical error; the code LS indicates a lexical choice error; and the code GA indicates an article 
+error. In this last instance, the article was missing and this is shown by writing a zero. 
+To ensure uniformity in the application of the tagging system, an intrarater study was carried out by the 
+researcher who coded the corpus. Following this, an intercoder reliability study was carried out by the 
+researcher and a colleague (both native speaker teachers of English) involving the analysis of 10 percent 
+of the corpus. The potential variations in coding due to the effects of rater characteristics were minimized 
+as both raters had similar backgrounds in education (university degreed), and professional experience 
+(more than twenty years of teaching English as a foreign language). 
+Participants 
+The participants involved in this research were 126 students at five tertiary education institutions in 
+Europe: (a) University of Bremen, Germany; (b) Nord-Trondelag College, Norway; (c) Universidad 
+Politécnica de Valencia, Spain; (d) University of Riga, Latvia; and (e) University of Nice, France. Their 
+English proficiency level ranged from intermediate to advanced. All students were required to have a 
+minimum level of B1 according to the CEFR levels in order to enrol in the simulations. 
+Following the simulation rationale, the participants took on specific roles, negotiated, and made an 
+attempt to deal with the problems that a fictitious federation, Eutropia, faced. The students acted as high-
+level negotiators, activists, consultants, and journalists; discussions during the simulations were 
+conducted on two levels: deliberations within a team and bilateral and multilateral negotiations between 
+or among teams using both synchronous and asynchronous communication. In both cases, the participants  
+were to produce and achieve agreement on collaboratively-written documents that address the problems 
+set forth in the scenario. 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 42 
+RESULTS AND DISCUSSION 
+Our first research question, concerning the comparison of the amount of errors in both types of 
+communication, is answered in Table 1, which shows that there were more errors per total words 
+produced in the synchronous than the asynchronous mode of communication. 
+Table 1. Comparison of Errors in Synchronous and Asynchronous Modes 
+Mode of communication Total words Total errors % of total  
+Synchronous 42,059 2,360 5.6% 
+Asynchronous 42,625 1,890 4.4% 
+Totals 84,684 4,250 5.0% 
+Note. The total errors may consist of one or several words; the percent, then should be viewed as an estimate. 
+There are several possible reasons for this difference, notably that there were certain constraints placed on 
+the participants when on-line (the speed of the interaction, the fast scrolling down of the other postings, 
+the need to be able to both read and understand the incoming messages, then plan and compose the reply 
+in the shortest interval of time). In this situation, participants probably paid more attention to getting 
+meaning across and less to the formal aspects of their postings. 
+In terms of our second research question, focusing on the frequency of the types of errors made in both 
+modes of communication, Table 2 shows there were indeed certain categories of error which were more 
+frequent in the synchronous postings. These were formal (F*) and grammatical (G*) errors. although the 
+opposite also occurred: errors of lexis L* and style S* were quantitatively greater in the asynchronous 
+mode than in the synchronous mode.  
+Table 2. General Category Errors in Synchronous and Asynchronous Modes 
+ Synchronous Asynchronous 
+Code Error category Raw % of total Raw % of total 
+F* Formal: spelling/ morphology 700 29.7 447 23.7 
+G* Grammar 658 27.9 492 26.0 
+X* Lexico-grammar 95 4.0 91 4.8 
+L* Lexis 423 17.9 464 24.6 
+W*  Word order/ missing/ extra 250 10.6 187 9.9 
+R  Register 0 0.0 3 0.1 
+S*  Style 197 8.3 188 9.9 
+CS  Code-switching 37 1.6 18 1.0 
+Total errors 2360 100.0 1890 100.0 
+The first main category of error that we analysed (F*, formal) deals with the formal aspects of the output. 
+There were 6% more form-related errors in the synchronous mode (29.7% of the total errors in contrast 
+with 23.7% in the asynchronous mode). Using a two-proportion z test—a significance test used to 
+determine whether or not two proportions (in this case, percent of errors) are significantly different from 
+each other—the two percentages were found to be significantly different, with z = 4.38,  p = .01. This 
+result contrasts with other studies using the same error tagging method. In both the French L1 and 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 43 
+Spanish L1 component of ICLE, formal errors represented only 9% and 10% respectively of total errors. 
+It must be noted, however, that the French L1 component of ICLE did not include the category of 
+punctuation error in their taxonomy, and the Spanish L1 component of ICLE used a separate tag (Q) for 
+their punctuation errors. Within this Formal (F*) category, FM errors are related to errors of derivation 
+and inflection, whereas the code FS tags errors in spelling. As regards the latter, errors related to formal 
+aspects of the written exchanges such as spelling and typos were fewer in the asynchronous mode than in 
+the on-line communication, as was to be expected. It might be added that in two previous studies carried 
+out by Hughes & Lascaratou (1982) and Polio (1997) involving non-teacher judges of error gravity, this 
+type of error was considered one of the most serious. The significant difference in the percentage of errors 
+in this category may have partly resulted from what has now become a conventionalised norm which is 
+characteristic of on-line communication in general, especially in the case of chat and discussion groups 
+and which tolerates, among other features, non-capitalisation for sentence beginnings and proper names 
+since one or two fewer keystrokes means both a faster reply and subsequent speedier transmission of the 
+message (Ferrara, Brunner, & Whittemore, 1991). However, all the participants in this simulation were 
+asked to maintain certain standards, and were reminded to pay attention to questions of formality in their 
+postings both on- and off-line. It should be stressed, however, that the formal errors of this type did not 
+generally cause communication breakdowns as, for instance, the unclear style category (SU) did; still, a 
+slovenly presentation did not create a good team image, and frequent misspellings in messages made 
+understanding the message more laborious. As a high number of the spelling errors are of a typographical 
+nature (MacDonald, 2012), they cannot therefore be directly attributed to a lack of language competence, 
+but as we stated before, may be due to the time pressure exerted on the participants in the on-line 
+communication. Nevertheless, the asynchronous results are also high in this category, implying that more 
+attention needs to be paid to this type of error.  
+In terms of the two error types related to punctuation in our corpus (FPM = punctuation marks omitted; 
+FPW = incorrect use of particular punctuation marks), two-proportion z tests revealed that both errors 
+were found significantly more frequently in the asynchronous communication (FPM, z = -2.62, p = .01; 
+FPW, z = -2.29, p = .02). The latter case involved either the incorrect placement of commas due to 
+confusion with non-defining relative clauses (the first example below) or in most cases, the insertion of a 
+punctuation mark when one is not required (the second example below): 
+I don't have the feeling (FPW), $0$ that I know the countries very well.  
+I think (FPW), $0$ everybody knows (FPW), $0$what our goals are  
+In general, the type of punctuation used in the asynchronous mode coincided with its standard use in 
+written communication in general. On the contrary, in the synchronous mode it was found that 
+punctuation was used partly as a substitution for the lack of non-verbal cues, to express certain emotions 
+such as anger, surprise, doubt, or to mitigate criticism, and to express solidarity, irony, amusement or 
+sadness (MacDonald & Perry, 2009): 
+I don’t think so! 
+OOOOOOOOOOOH DON'T SHOUT YOU ARE NOT ALONE AND CAN YOU TALK 
+NICELY PLEASE :) 
+Within the grammar (G*) category, errors concerning articles (omission, addition, and misuse) were more 
+frequent in the asynchronous mode, accounting for just over 10% of the total errors.  
+We think that getting a patent is the best solution but is it possible to get (GA) $a$ patent for (FS) 
+intelectual $intellectual$ properties of minor importance? 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 44 
+However, a closer look at the distribution of grammatical (G*) errors in Figure 1 shows that article errors 
+account for 28% (n = 188) of the errors in the grammar category alone in the synchronous mode, and 40% 
+(n = 192, two-proportion z test z = -3.73, p < .001) of the errors in the grammar category in the 
+asynchronous mode. The former is comparable to the results reported in Dagneaux et al. (1998) and 
+Chuang & Nesi (2006) and O’Donnell (2012), which showed varying percentages averaging 27% 
+determiner errors within the grammar category. More recent research into learner language has also 
+shown that articles pose particular problems for learners at different levels (Master, 2002; García Mayo, 
+2008), implying that more attention should be given to this grammatical feature in EFL textbooks.  
+Figure 1. Sub-categories of grammar errors (G*) in synchronous and asynchronous mode. GA = article; 
+GNC = noun case; GNN = noun number; GP = pronoun; GADJO = adjective; GADJN = adjective 
+number; GADJCS = comparative/superlative adjective; GADVO = adverb order; GVN = verb number; 
+GVM = verb morphology; GVNF = non-finite/finite verb forms; GVV = verb voice; GVT = verb tense; 
+GVAUX = auxiliary verbs; GWC = word class. 
+Within the same category related to grammar errors (Figure 1 above), it can be seen that there are more 
+errors related to the use of verbs (GVN, GVM, GVNF, GVV, GVT, and GVAUX) in the synchronous 
+than in the asynchronous mode. Errors in verb usage total 32% of the grammar errors in the synchronous 
+mode (n = 211), but only 20% of the grammar errors in the asynchronous mode (n = 103), which is a 
+significant difference according to a two-proportion z test: z = 4.10, p < .001. On the whole, of the verbal 
+forms that were classified as errors, the highest percentage of the total were due to the incorrect use of the 
+tenses (35% of the verb errors in the synchronous mode, n = 74, vs. 46% of the verb errors in the 
+asynchronous mode, n = 48). Within the tense errors, the most frequent is the use of the present tense 
+when another verbal form should have been used. In the synchronous mode there were more than twice as 
+many of this type of error than in the asynchronous. This may be due to the fact that the time available for 
+the cognitive processing involved in the selection of linguistic elements was restrained because of the 
+medium used and less effort was made to search for the correct form. Others such as Dagneaux et al. 
+(1998), with their French L1 learners of English, and Chuang and Nesi (2006), with their Chinese L1 
+group, also have found that this was the most frequent error within this category. In terms of verb errors 
+regarding auxiliary and modal verbs, errors were more numerous in the synchronous mode (22% of verb 
+errors in the synchronous mode, n = 47, vs. 16% in the asynchronous mode, n = 17). The difference 
+between the number of errors of this type in the synchronous compared to the asynchronous modality 
+were not significant, as calculated by a two-proportion z test (z = 1.12, p = .23). With reference to verb 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 45 
+forms, in FL classrooms these grammatical concepts often are practised in decontextualised isolation, 
+without taking into account other features of tenses, such as their important function as cohesive elements 
+in the discourse, and speakers’ and writers’ views with regard to aspect. McCarthy (1991, p. 62) notes 
+that these functional elements vary considerably from one language to another, and are “traditional 
+stumbling-blocks for learners.” 
+The two-proportion z-test for the lexical error category (L*), revealed that percents of errors were 
+significantly greater in the asynchronous mode (25% of total errors compared with 18% in the 
+synchronous mode) (z = -5.28, p < .001). This could be explained by examining the context in which both 
+modes of communication are written. The synchronous communications in this experiment were written 
+on a computer or in a multimedia classroom at the participants’ college or university, while the 
+asynchronous communications could have been written and sent from any computer, either at the 
+university or college, or even from home. It is thought that with less pressure on the students to produce 
+language as fast as possible in real time, there is a higher probability that they produce more complex 
+language with a greater lexical density than when writing in the synchronous mode. The types of 
+messages sent in the asynchronous mode will additionally be more formal since they deal mainly with the 
+groups’ policy statements and their stance in relation to the different points on the simulation agenda. The 
+number of errors in the asynchronous mode (where conditions are similar to those described in the ICLE 
+studies) is the same as the ICLE data (25%), but lower than the SPICLE data, which had an error 
+frequency of this type of 30% (Neff et al., 2007). 
+In the category of W* errors, concerning word redundancy, word order or word omission, there were 
+slightly—though non-significantly—more in the synchronous mode (synchronous = 11%; asynchronous 
+= 10%, z = .74, p = .45). 
+The analysis identifying errors of style (S) shows slight differences between each mode of 
+communication. Firstly, errors relating to style—those which made the discourse appear to be clumsy and 
+non-nativelike—were more frequent in the asynchronous mode, though non-significantly as revealed by a 
+two-proportion z test (10% asynchronous vs. 8% synchronous, z = -1.80, p = .07). We relate this finding 
+to the length of the asynchronous messages once again, and their relative complexity compared with the 
+synchronous postings. However, cases identified as unclear style (SU), involving what we have termed 
+communication breakdowns, (i.e., the researcher could not understand what the participant meant to say), 
+were slightly more frequent in the synchronous mode (4.19% synchronous vs. 3.7% asynchronous, z = .81 
+p < .04). We feel this has also occurred as a result of the medium and the fact that on occasions the 
+interlocutor may not really have had time to plan, write and send a coherent message with the time 
+constraints operating in the online teleconference. 
+The last category involved code-switching (CS), which was non-significantly higher in the synchronous 
+mode (2% synchronous vs. 1% asynchronous, z = 1.76, p = .07) as calculated by the two-proportion z test. 
+We also analysed the incidence of error types of each L1 group participating in the simulation in order to 
+answer our third research question, concerning which categories of errors were more frequently found 
+within each L1 group and how performance varied when comparing synchronous and asynchronous 
+communication.  
+In Table 3 below, it can be seen that each L1 group has a tendency to make more errors of one particular 
+category than others. The Spanish L1 group produces a high rate of grammar errors in both the 
+synchronous and asynchronous modes in comparison to the other errors they make. Within this same 
+group, however, formal errors were frequent in the synchronous mode, but this number was reduced by 
+more than half in the asynchronous messages. The Norwegian L1 group show a high incidence of formal 
+errors in both modes. In the next section, we show the results of the specific analysis carried out on the 
+raw frequency data, which established the incidence of the different categories of errors for each L1 group 
+in relation to the others, and the errors which could be identified as being salient within specific L1 groups. 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 46 
+Table 3. General Error Categories: Percentages Per L1 Group 
+ Spanish German Latvian Norwegian French 
+ SYNC ASYNC SYNC ASYNC SYNC ASYNC SYNC ASYNC ASYNC* 
+Formal  22.0 10.8 31.1 26.5 28.0 16.8 42.1 38.3 37.7 
+Grammar  29.0 31.8 27.9 23.8 28.7 39.2 24.1 26.1 5.7 
+Lexico-
+ti l  
+3.5 6.7 4.2 4.5 6.0 2.8 2.9 2.6 5.7 
+Lexical  22.7 31.8 17.2 23.1 14.0 23.4 12.1 17.4 18.9 
+Word missing/ 
+redundant/ wrong  
+12.1 10.4 10.2 10.2 12.0 7.5 8.4 6.1 11.3 
+Register  0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.7 
+Style  9.1 8.4 7.9 10.5 10.0 10.3 7.7 9.6 9.4 
+Code switching  1.5 0.0 1.4 1.2 1.3 0.0 2.6 0.0 5.7 
+Note. All figures are percents. *The French group did not have enough synchronous data to warrant study. 
+Correspondence Analysis 
+To ascertain whether there were certain errors that could be associated with particular L1s, a 
+correspondence analysis was carried out to investigate the relationship between the different variables and 
+their effect on the type and frequency of errors in the corpus. Correspondence analysis is an exploratory,  
+descriptive technique which is designed to analyze simple two-way and multi-way tables containing some 
+measure of correspondence between the rows and columns. The method visually represents the 
+associations between the different categorical variables, and its primary goal is to transform the table of 
+numerical information into a graphical display—a correspondence map—in which each row and each 
+column is depicted as a point (Greenacre, 1984). The calculations were carried out using SPSS 11.5.  
+The advantage of correspondence analysis in this particular study is that the method is relational and 
+allows the visualization of a full structure or system of relations. Instead of dealing with one variable and 
+its effect on the variable to be explained, correspondence analysis represents the full array of variables 
+and their interrelations (Harcourt, 2003). The correspondence between the variables and the relative 
+frequencies can be shown on a two- or three-dimensional map, and relationships can be established 
+through the proximity or distance of certain variables, in our case, participants’ L1, in relation to the 
+different error types. 
+The results of the correspondence analysis (Figure 2 below) show the relative incidence of error types 
+according to the L1 of the participants. It was found that the L1 of the group did appear to influence the 
+type of error made, as certain categories were more highly associated with particular L1 groups. In the 
+following section, we discuss each L1 separately with details of the errors that are recurrent and specific 
+to each one of them.  
+Participants in the Spanish L1 group (red square 1 in Figure 2) have a tendency to make more formal 
+errors (FS) in the synchronous mode than the asynchronous. The grammatical category errors are varied, 
+with two types that are more associated with this group than any other: the use of false friends (LSF), 
+pronoun errors (GP), and auxiliary and modal verb errors (GVAUX). The article (GA) poses particular 
+problems for the Spanish speaking participants in the synchronous mode. The most frequent type of 
+article errors among this L1 group was the definite article used when none was required, which research 
+has related to L1 interference (e.g., García Mayo, 2008).  
+Another problem concerning the Spanish L1 group is the formation of comparative and superlative 
+adjectives and adjective order (GADJCS). In the lexico-grammatical category (XVCO), this L1 group 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 47 
+shows particular problems with the use of verbs with complementation and dependent prepositions 
+(XVPR). As regards the lexical errors, the corpus gives evidence that both single lexical (LS) and lexical 
+phrase (LP) errors are especially problematic in both the synchronous and asynchronous communication 
+for this group of learners. Neff et al. (2007) found a high incidence of lexical errors in the error-tagged 
+SPICLE corpus, and concluded that lexis is “probably grossly under-taught” (2007, p. 208) to Spanish 
+learners of English. Similarly, a high number of lexical errors are due to incorrect use of prepositions; in 
+some cases, this was attributed to L1 interference (Neff et al., 2007; MacDonald, 2012) since many 
+prepositions may have two forms in English and only one in the learners L1 as in the case of in and on.  
+As we are going to coordinate the technology in Eutropolis we send to you our main ideas 
+(LS) in $on$ this topic:  
+Sometimes, the translation of the Spanish de may have two different forms in English— of and from—
+depending on the context. 
+we propose to protect the network (LS)of $from$(GA)the $0$ external virus attacks and 
+data loss. 
+Of the connectives, the graphs in Figure 2 show that errors concerning subordinating conjunctions (LCS) 
+were more salient in the synchronous postings, which was opposite to our prediction that there would be a 
+greater presence of connector errors in the asynchronous mode. Indeed, connectors were found to be 
+underused on the whole. We may tentatively conclude from this result that more attention needs to be 
+paid to this aspect of written discourse, as these elements undoubtedly serve an important function in the 
+flow of any text. Indeed, since Canale (1983) first used the term discourse competence, the acquisition 
+and use of the connectives has been regarded as one of the constituent abilities that contribute to a 
+learner’s overall competence in the target language (Bachman & Palmer, 1996). In recent research work 
+carried out by Chiang (2003), it was found that discourse features (including connectors) in a given test 
+on writing skills were regarded by raters as more indicative of the overall quality of the output than other 
+aspects such as syntax and morphology.  
+ 
+ 
+Figure 2. Distribution of errors in the synchronous (left) and asynchronous (right) modes. The numbers 
+next to the red squares refer to the L1 groups; the circles group together the errors associated with the L1 
+group. Spanish = purple (1); German = green (2); Latvian = blue (3); Norwegian = orange (4); French = 
+yellow (5). 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 48 
+Apart from connectives, errors concerning word order (WO) were also notable in the Spanish L1 group in 
+both modes. As Swan and Smith (1987) note, Spanish has a much freer word order than English; the 
+errors that arise are mainly due to the position of adverbials, the order of elements in complementation, 
+subject-verb order in longer sentences and in interrogative forms, among others. In the synchronous 
+messages, errors concerning style (S) are frequent, although in the asynchronous mode the salient error in 
+this category deals with incomplete sentences (SI). Finally, this group used code-switching (CS) in the 
+synchronous mode, but did not do so in the asynchronous messages. 
+The German L1 group (red square 2 in Figure 2) commit a large number of formal errors (FS and FM) in 
+their messages in both the synchronous and asynchronous modes, especially in the category relating to 
+derivation and inflection. They also typically use the wrong punctuation (FPW) in their output. As regards 
+the grammar category, there is an overwhelming misuse of the elements of the verb phrase, especially as 
+regards subject-verb concordance (GVN), tense (GVT) and voice (GVV), which all appear associated 
+with the synchronous mode of communication. Word class errors (GWC) are also a frequent category 
+within this L1 group in both the synchronous and asynchronous messages. The erroneous 
+complementation of nouns (XNCO) is salient in the asynchronous mode, whilst the synchronous mode 
+produces more deviant forms involving verb complementation (XVCO). There is a high frequency of 
+single lexical errors associated with this group in both modes, and with lexical phrases in the 
+asynchronous messages. Exclusive to this group is the erroneous use of the complex logical connectors 
+(LCLC) in the synchronous mode. This group also stands out as having a particularly high incidence of 
+errors involving missing words (WM) and words that are redundant (WR) in the on-line conferences and 
+the asynchronous messages. Although in general style errors were more common in the asynchronous 
+mode, the more serious category concerning the breakdown of meaning (SU) was prominent for this 
+group in both modes. Lastly code-switching (CS) was also used by this L1 group in both modes, although 
+the messages were mostly sent as “whispers” to their own L1 group.  
+The Latvian L1 group (red square 3 in Figure 2) had a relatively infrequent participation in this 
+simulation. Nevertheless, Figure 2 shows that the errors that are most associated with this L1 are highly 
+linked to this specific group in particular. Interestingly, different error categories are present in each mode 
+of communication. Firstly, there are no formal errors associated in particular with this L1 group. On the 
+other hand, the article (GA) and genitive (GNC) within the grammatical category, posed particular 
+problems in the asynchronous mode. Dependent prepositions with verbs (XVPR) and adjectives 
+(XADJPR), and adjective complementation (XADJCO) were errors that were salient with this L1 group 
+in the synchronous postings. Concerning the lexical errors, we noted special difficulty with single logical 
+connectors (LCLS) and coordinating conjunctions (LCC) in the synchronous mode. Missing words (WM) 
+were frequent in both modes, while errors of style (S) were particularly notable in the asynchronous mode.  
+The Norwegian L1 group (red square 4 in Figure 2) showed notably more errors than other groups as 
+regards spelling (FS) in both the synchronous and asynchronous messages. Olsen (1999) similarly found, 
+with her Norwegian L1 learners of English, that 40% of total errors in her study were due to 
+orthographical mistakes, including spelling and typos. She attributes many of these errors to 
+crosslinguistic influence, although others are probably due to the students’ over-generalizing the spelling 
+rules of English. Punctuation errors (FPM and FPW), however, were more frequent in the asynchronous 
+messages. The grammar category of errors (G*) predominated in the synchronous mode, with those 
+related to noun number (GNN) showing a higher incidence in this L1 group. Lack of subject-verb 
+concordance (GVN) was also observed, although this was in the asynchronous mode only. The class of 
+errors involving nouns and their dependent prepositions (XNPR) was also highly associated with this L1. 
+Single lexical errors (LS) were found in both modes as was the use of redundant words (WR). Once more, 
+the category indicating that the meaning of a message has not been understood and which is categorised 
+as unclear style (SU), has an important presence among the errors of this L1 group.  
+The data obtained for the French L1 group in the on-line teleconferences was not representative, and as a 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 49 
+result, was not included in the analysis of the synchronous part of the corpus. However the asynchronous 
+mode showed that there were several errors particularly associated with this group (red square 5 in Figure 
+2). Salient in this group were formal errors, dealing with spelling (FS) and derivation and inflection (FM), 
+although these errors were obviously not exclusive to this L1 group. There were, however, no errors in the 
+grammatical or lexico-grammatical categories linked in particular to these learners. Lexical single errors 
+(LS) were found, but the most important group of errors associated with this group were identified as 
+relating to the non-transmission of meaning or unclear style (SU) as it has been classified with the current 
+tagging method. This L1 group also used code-switching (CS) in their asynchronous messages. 
+CONCLUSIONS 
+As regards the answers to the research questions formulated in this article’s introduction, a preliminary 
+general conclusion can be claimed. As we hypothesised, we found more errors in the synchronous mode 
+of communication than in the asynchronous mode. As synchronous communication involves a different 
+way of processing and producing language, this study shows that learners who are writing online focus on 
+fluency and communication of meaning rather than accuracy. Concerning the macro-phases involved in 
+writing, Hayes and Flower (1980) identified three: planning, writing and revising. In the simulation we 
+describe in our research work, each mode of communication—and each stage involved—shows different 
+amounts of the three different phases just mentioned. Sometimes there is more planning of the writing 
+occurring, which is typical of all the asynchronous messages, whilst at other times there is very little 
+planning or revising of the output, which is apparent in the synchronous or online communication during 
+the teleconferences. 
+When examining the exact types of errors in these two modes of communication, there are significantly 
+more formal errors (FS) in the synchronous mode than in the asynchronous mode and more errors in the 
+use of lexis in the asynchronous mode. In terms of the formal spelling errors (FS), we understand that the 
+speed of the online interactions makes the participants less concerned of this aspect of their written 
+output. Though spelling does not hinder communication in most cases, it is an important part of writing 
+competence whether dealing with mother tongue or foreign/second language production.  
+Concerning this finding, we conclude that writers of online interactive communication do not revise their 
+written output very much. Perhaps they find the finished product visually acceptable, not bothering—or 
+not having time in many cases—to read over what they have written or conduct a spell check. This was 
+also observed by Harris (1985) and Daiute (1986). However, we stress the fact that with a word processor, 
+revision is an essential and necessary task, and one which can be performed at any point in the writing 
+process; however, revision for many students simply involves “last-minute tinkering” as Hyland (1991, 
+p. 26) describes. 
+In terms of the significantly higher number of lexical errors in the asynchronous communication, this is 
+likely due to the nature of the messages themselves. Many of these messages were longer, more complex 
+postings, with a higher information content including detailed policy statements, or reasoned arguments 
+concerning the group’s position in relation to the different points on the simulation agenda. In addition, 
+the delayed nature of this mode encourages students to be able to spend more time planning their 
+messages, allowing them to take “language risks” as Sotillo (2000) terms it, and to exploit a wider variety 
+of lexical choices. This, in turn, may lead to more errors being produced in this category.  
+A further analysis of the raw data shows that the frequency of error types varied within each different L1 
+group participating in the simulation; when a correspondence analysis was carried out, highly relevant 
+associations could be made concerning the relation between participants’ L1 and specific error types. 
+After examining the results, it can be concluded that the L1 of the learners does in fact influence the type 
+of error made. Not only are some errors clearly L1-specific, but Figure 2 shows how several of the L1 
+groups have a tendency to make similar errors, shown where the error codes are all grouped together in 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 50 
+the middle of the graph. In the synchronous mode, this is especially noticeable with the German, 
+Norwegian, and Spanish L1 groups. To a lesser extent, this also occurs in the asynchronous communication, 
+but this time with the German, Norwegian, and French L1 groups. On the other hand, the Latvian L1 
+group in both modes tends to make errors that are particular to that group alone, a result which might be 
+partially explained by taking into account that this is the only Baltic language among the different L1s. 
+Although we are dealing with a small sample in terms of learner corpus research, the present study offers 
+some interesting results which inevitably lead to asking further questions for future research. Is it the case 
+that the similarities and differences in the different L1s of the participants influence the errors made, and 
+to what extent are they due to negative interference from the mother tongue? Also, in which particular 
+areas of the written production is there a greater tendency to make errors and in which linguistic contexts 
+do the errors occur, and how serious are these? Moreover, how can this analysis contribute to the 
+development of specific materials which can concentrate on remedial exercises for these specific errors, 
+such as in the case of the numerous formal errors within the Norwegian L1 group, or the use of false 
+friends and article errors with the Spanish L1 group?  
+Error-tagged learner corpora can be characterised as describing language learners’ developmental 
+processes, including the identification of both overuse and underuse of certain target language forms and 
+structures. They can also highlight predominant errors and provide evidence for arguments about whether 
+an error category may be either L1 specific, developmental, or intralingual and universal. Although the 
+pedagogical applications of the research in the field have not yet been fully exploited to date, a learner 
+corpus can offer information to practising teachers on language in use. This can lead to improvements in 
+syllabus design and materials development. Learners can benefit from the opportunity to become 
+conscious of their errors through the analysis of their own output and that of their peers, heightening in 
+this way their awareness of the differences that exist between their L1 and the target language. 
+ 
+APPENDIX. Error tags and their meanings (Dagneaux et al., 1996) 
+FM Form—Morphology  LCLS Lexis—Connectors—Logical—
+Single 
+FS Form—Spelling  LCS Lexis—Conjunctions—Subordinating 
+FPW Form—Punctuation Wrong (code 
+added by authors of present study) 
+ LP Lexical Phrase 
+FPM Form—Punctuation Missing (code 
+added by authors of present study) 
+ LS Lexical Single 
+GA Grammar—Articles  LSF Lexical Single—False friends 
+GADJCS Grammar—Adjectives—
+Comparative / Superlative 
+ R Register  
+GADJN Grammar—Adjectives—Number  S Style 
+GADJO Grammar—Adjectives—Order  SI Style—Incomplete  
+GADVO Grammar—Adverbs—Order  SU Style—Unclear 
+GNC Grammar—Nouns—Case  WM Word Missing 
+GNN Grammar—Nouns—Number  WO Word Order 
+GP Grammar—Pronouns  WR Word Redundant  
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 51 
+GVAUX Grammar—Verbs—Auxiliaries  XADJCO Lexico-Grammar—Adjectives—
+Complementation 
+GVM Grammar—Verbs—Morphology  XADJPR Lexico-Grammar—Adjectives—
+Dependent Preposition 
+GVN Grammar—Verbs—Number  XCONJCO Lexico-Grammar—Conjunction—
+Complementation 
+GVNF Grammar—Verbs—Non-Finite / 
+Finite 
+ XNCO Lexico-Grammar—Noun—
+Complementation 
+GVT Grammar—Verbs—Tense   XNPR Lexico-Grammar—Noun—
+Dependent Preposition 
+GVV Grammar—Verbs—Voice  XNUC Lexico-Grammar—Noun—
+Countable/Uncountable  
+GWC Grammar—Word Class  XPRCO Lexico-Grammar—Preposition—
+Complementation 
+LCC Lexis—Conjunctions—
+Coordinating 
+ XVCO Lexico-Grammar—Verb—
+Complementation 
+LCLC Lexis—Connectors—Logical—
+Complex  
+ XVPR Lexico-Grammar—Verb—
+Dependent Preposition 
+ACKNOWLEDGEMENTS 
+The authors wish to thank the anonymous reviewers for their thorough reading of the original manuscript 
+and for their many useful comments and suggestions. Special thanks also to Gerriet Janssen, LLT 
+Managing Editor, for his insightful suggestions and meticulous attention to detail in earlier drafts of this 
+work. 
+Penny MacDonald would like to acknowledge the research grant awarded by the Research and 
+Development Support Programme (PAID-00-10) of the Universidad Politécnica de Valencia in 2010. 
+ 
+ABOUT THE AUTHORS 
+Penny MacDonald is Associate Professor at the Universitat Politècnica de València, Spain and has been a 
+member of the Department of Applied Linguistics since 1997. She has been teaching English as a Foreign 
+Language and English for Academic and Professional Purposes for 25 years.  
+Amparo García-Carbonell is a faculty member of the Department of Applied Linguistics at the Universitat 
+Politècnica de València, Spain. She has been using telematic simulation since 1993 when she became 
+involved in the large-scale simulation Project IDEALS (IDEELS' parent project). She is former president 
+of ISAGA (International Simulation and Gaming Association) and author of numerous publications 
+related to the use of simulation and gaming in the field of communication and language learning.  
+Jose Miguel Carot-Sierra is Associate Professor in the Department of Applied Statistics and Operational 
+Research and Quality at the Universitat Politècnica de València. He has published widely in journals, 
+books and international conferences. His main research interests centre on multivariate analysis, 
+experimental design, statistical methods for the quality, design and analysis of teacher evaluation 
+questionnaires and management in higher education. 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 52 
+REFERENCES 
+Andreu-Andres, M.A., Astor Guardiola, A., Boquera Matarredona, M.; MacDonald, P., Montero Fleta, 
+B., & Pérez Sabater, C. (2010). Analysing EFL learner output in the MiLC Project: ‘An error *it’s, but 
+which tag?’. In M.C. Campoy, B. Belles-Fortuno, & M.L. Gea-Valor (Eds.), Corpus-based approaches to 
+English language teaching (pp. 167–180). London, UK: Continuum. 
+Andreu-Andres, M.A., & García-Casas, M. (2011). Perceptions of gaming as experiential learning by 
+Engineering students. International Journal of Engineering Education, 27(4), 795–804. 
+Angelini, M.L. (2012). La simulación y juego en el desarrollo de las destrezas de producción en lengua 
+inglesa. Unpublished doctoral dissertation. Departamento de Lingüística Aplicada. Universitat Politècnica 
+de València, Valencia, Spain.  
+Bachman, L., & Palmer, A. (1996). Language testing in practice. Oxford, UK: Oxford University Press. 
+Biber, B., Conrad, S., & Reppen, R. (1998). Corpus linguistics: Investigating language, structure, and 
+use. Cambridge, UK: Cambridge University Press. 
+Burt, M., & Kiparsky, C. (1974) Global and local mistakes. In J. Schumann & N. Stenson (Eds.), New 
+frontiers in Second Language Learning. Rowley, MA: Newbury House. 
+Canale, M. (1983). From communicative competence to communicative language pedagogy. In J.C. 
+Richards & R.W. Schmidt (Eds.), Language and Communication. (pp. 2–27). London, UK: Longman. 
+Chiang, S. (2003). The importance of cohesive conditions to perceptions of writing quality at the early 
+stages of foreign language learning. System, 31, 471–484. 
+Chuang, F.-Y., & Nesi, H. (2006). An analysis of formal errors in a corpus of L2 English produced by 
+Chinese students. Corpora, 1, 251–271. 
+Chun, A.E., Day, R.R., Chenoweth, N.A., & Luppescu, S. (1982). Errors, interaction, and correction: A 
+study of native-nonnative conversations. TESOL Quarterly 16(4), 537–547. 
+Corder, S.P. (1967). The significance of learner’s errors. International Review of Applied Linguistics 5, 
+161–170. (Reprinted in J.C. Richards (Ed.), (1974a) Error Analysis: Perspectives on Second Language 
+Acquisition. (pp. 19–31), London, UK: Longman. 
+Corder, S.P. (1981). Error analysis and interlanguage. Oxford, UK: Oxford University Press. 
+Dagneaux, E., Denness, S., Granger, S., & Meunier, F. (1996). Error tagging manual version 1.1. 
+Louvain-la-Neuve, Belgium: Université Catholique de Louvain. 
+Dagneaux, E., Denness, S., & Granger, S. (1998). Computer-aided error analysis. System, 26, 163–174. 
+Daiute, C. (1986). Physical and cognitive factors in revising: insights from studies with computers. 
+Research in the Teaching of English, 20, 14–159. 
+Davies, E.E. (1985). Communication as a criterion for error evaluation. International Review of Applied 
+Linguistics, 23(1), 65–69. 
+De Haan, P. (2000). Tagging non-native English with the TOSCA-ICLE tagger. In C. Mair (Ed.) 
+Proceedings of the 20th ICAME Conference, Freiburg 1999. (pp. 69–79). Amsterdam, Netherlands: 
+Rodopi.  
+Dulay, H.C., Burt, M.K., & Krashen, S. (1982). Language two. Rowley, MA: Newbury House. 
+Dusková, L. (1969). On Sources of Errors in Foreign Language Learning. International Review of Applied 
+Linguistics, 7 (1), 11–36. 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 53 
+Ekker, K. (2000). Changes in Attitude towards Simulation-based Distributed Learning. In B. Wasson et 
+al. Project DoCTA: Design and use of Collaborative Telelearning Artefacts. Publication of the Research 
+network for ITU - Information Technology in Education, 5, 112–120. 
+Ekker, K., & Sutherland, J. (2009). Simulation game as a learning experience: An analysis of learning 
+style. In Cognition and Exploratory Learning in Digital Age (CELDA 2009). Rome, Italy: IADIS Press.  
+Ellis, R. (1985a). Understanding Second Language Acquisition. Oxford, UK: Oxford University Press. 
+Ellis, R. (1994). The Study of Second Language Acquisition. Oxford, UK: Oxford University Press. 
+Enkvist, N.E. (1973). Should we count errors or measure success? In J. Svartik (Ed.), Errata: Papers in 
+Error Analysis (pp.16–24). Lund, Sweden: CWK Gleerup.  
+Færch, C., Haastrup, K., & Phillipson, R. (1984). Learner language and language learning. Clevedon, 
+Avon, UK: Multilingual Matters.   
+Ferrara, K., Brunner, H., & Whittemore, G. (1991). Interactive written discourse as an emergent register. 
+Written Communication, 8 (1), 8–34. 
+Fries, C.C. (1945). Teaching and learning English as a foreign language. Michigan, MI: University of 
+Michigan Press.  
+García-Carbonell, A. (1998). Simulación telemática en el aprendizaje del inglés técnico. Unpublished 
+doctoral dissertation. Universitat de València, Valencia, Spain. 
+García-Carbonell, A., Rising, B., Montero, B., & Watts, F. (2001). Simulation/gaming and the acquisition 
+of communicative language in another language. Simulation and Gaming, 32 (4), 481–491. 
+García-Carbonell, A., & Watts, F. (1996). Telematic simulation and language learning. In A.García-
+Carbonell, & F. Watts (Eds.), Simulation Now! Simulación ¡Ya! (pp. 585–595).Valencia, Spain: Diputació 
+de València. 
+García-Carbonell, A., & Watts, F. (2009). Simulation and Gaming Methodology in Language 
+Acquisition. In V. Guillén-Nieto, C. Marimón-Llorca, C. Vargas-Sierra (Eds.), Intercultural business 
+communication and simulation and gaming methodology (pp. 285–316). Bern, Switzerland: Peter Lang. 
+García-Carbonell, A., & Watts, F. (2010). The effectiveness of telematic simulation in languages for 
+specific purposes. In T. Bungarten (Ed.), Linguistic and didactic aspects of language in business 
+communication. Hamburg, Germany: Universität Hamburg.  
+García-Carbonell, A., & Watts, F. (2012). Investigación empírica del aprendizaje con simulación 
+telemática. Revista Iberoamericana de Educación, 59(3), 1–11. 
+García-Carbonell, A., Watts, F., & Andreu-Andrés, M.A. (2012). Simulación telemática como 
+experiencia de aprendizaje de la lengua inglesa. Revista de Docencia Universitaria, 10(3), 301–323. 
+García Mayo, M. P. (2008). The acquisition of four non-generic uses of the by EFL learners. System, 
+36(4), 550–565. 
+Gass, S.M., & Selinker, L. (Eds.). (1992). Language transfer in language learning. Amsterdam, 
+Netherlands: John Benjamins. 
+Granger, S. (1993). International Corpus of Learner English. In J. Arts, P. de Haan, & N. Oostdijk (Eds.), 
+English language corpora: Design, analysis and exploitation (pp. 57–71), Amsterdam, Netherlands: 
+Rodopi. 
+Granger, S. (Ed.). (1998). Learner English on computer. London, UK: Longman.  
+ 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 54 
+Granger, S. (1999). Use of tenses by advanced EFL learners: evidence from an error-tagged computer 
+corpus. In H. Hasselgard, & S. Oksefjell (Eds.). Out of corpora . Studies in honour of Stig Johansson (pp. 
+191–202). Amsterdam, Netherlands: Rodopi. 
+Granger, S. (2002). A bird’s eye view of learner corpus research. In S. Granger, J. Hung, & S. Petch-
+Tyson (Eds.), Computer learner corpora, second language acquisition and foreign language teaching. 
+(pp. 3–37). Amsterdam, Netherlands: John Benjamins. 
+Granger, S., Hung, J., & Petch-Tyson, S. (2002). Computer learner corpora, second language acquisition 
+and foreign language teaching. Amsterdam, Netherlands: John Benjamins. 
+Granger, S., & Meunier, F. (1994). Towards a grammar checker for learners of English. In U. Fries, & G. 
+Tottie (Eds.), Creating and Using English Language Corpora (pp. 79–91). Amsterdam, Netherlands: 
+Rodopi. 
+Granger, S., Meunier, F., & Tyson, S. (1994). New insights into the learner lexicon: a preliminary report 
+from the International Corpus of Learner English. In D. Flowerdew & K.K. Tong (Eds.) Entering Text 
+(pp. 102–113). Hong Kong: Hong Kong University of Science and Technology. 
+Granger, S., & Thewissen, J. (2005a). Towards a reconciliation of a “Can Do” and “Can’t Do” 
+approach to language assessment. Paper presented at the Second Annual Conference of EALTA 
+(European Association of Language Testing and Assessment), Voss, Norway. 
+Green, P.S., & Hecht, K. (1985). Native and non-native evaluation of learners’ errors in written discourse. 
+System, 13(2), 77–97. 
+Greenacre, M. J. (1984). Theory and application of correspondence analysis. New York, NY: Academic 
+Press.  
+Greenblat, C. (1988). Designing games and simulations. An illustrated handbook. Newbury Park, CA: 
+Sage Publications. 
+Hammarberg, B. (1974). The insufficiency of error analysis. International Review of Applied Linguistics 
+12(2), 185–192. 
+Harcourt, B.E. (2003). Measured interpretation: Introducing the method of correspondence analysis to 
+legal studies. University of Illinois Law Review, Peoria, IL, 979–1018.  
+Harris, J. (1985). Student writers and word processing: a preliminary evaluation. Computer Composition 
+and Communication, 36, 323–330. 
+Hawkins, J. A., & Buttery, P. (2009). Using learner language from corpora to profile levels of 
+proficiency: insights from the English Profile Programme. Proceedings of the 3rd ALTE Conference, 
+Cambridge, UK: Cambridge University Press. 
+Hawkins, J.A., & Buttery, P. (2010). Criterial features in learner corpora: Theory and Illustrations. 
+English Profile Journal, 1(1), e5 doi:10.1017/S2041536210000103 
+Hawkins, J.A., & Filipović, L. (2012). Criterial features in L2 English: specifying the reference levels of 
+the Common European Framework. Cambridge, UK: Cambridge University Press. 
+Hayes, J.R., & Flower, L.S. (1980). Identifying the organization of writing processes. In L. Gregg, & E.R. 
+Steinberg (Eds.), Cognitive Processes in Writing (pp.3–30). Hillsdale, NJ: Lawrence Erlbaum. 
+Hughes, A., & Lascaratou, C. (1982). Competing criteria for error gravity. ELT Journal 36(3), 175–182. 
+Hutchinson, J. (1996). UCL Error Editor. Centre for English Corpus Linguistics, Université Catholique 
+de Louvain, Louvain-la-Neuve, Belgium. 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 55 
+Hyland, K. (1991). CALL and the EAP classroom. In M. Smith (Ed.), Proceedings of the 4th. Annual 
+Education Conference. Pyrmont, Australia: ELICOS. 
+Johns, T. (1986). Microconcord: A language-learner’s research tool. System, 14(2), 151–162. 
+Lado, R. (1957). Linguistics across cultures. Ann Arbor, MI: University of Michigan Press. 
+Lennon, P. (1991). Error: some problems of definition, identification, and distinction. Applied Linguistics 
+12(2), 180–196. 
+Lorenz, G. (1998). Overstatement in advanced learners’ writing: stylistic aspects of adjective 
+intensification. In S. Granger (Ed.) Learner English on computer. (pp. 53–67). London, UK: Longman 
+MacDonald, P. (2005). An Analysis of Interlanguage Errors in Synchronous/Asynchronous Intercultural 
+Communication Exchanges. Unpublished doctoral dissertation. Universitat de València, Valencia, Spain. 
+MacDonald, P. (2012). “Got a runny *noes – I’m constipated again!”: Incidence of typos and L1 transfer 
+in Spanish students’ writing in synchronous and asynchronous communication exchanges. In I. Elorza, O. 
+Carbonell, I. Cortés, R. Albarrán, B. García Riaza, & M. Pérez-Veneros (Eds.), Empiricism and 
+Analytical Tools for 21st Century Applied Linguistics. Selected papers from the XXIX International 
+Conference of the Spanish Association of Applied Linguistics (pp. 615–635). Salamanca, Spain: Ediciones 
+Universidad de Salamanca. 
+MacDonald, P., & Murcia, S. (2011). Error coding in the TREACLE Project. In M.L. Carrió Pastor, & 
+M.A. Candel Mora, (Eds.), Las tecnologías de la información y las comunicaciones: Presente y futuro en 
+el análisis de córpora. Proceedings of III International Corpus Linguistics Congres. Universitat 
+Politécnica de Valencia, Valencia, Spain: UPV Servei de Publicacions. 
+MacDonald, P., & Perry, D. (2009). How engineering undergraduates can develop communication skills 
+in English: an analysis of the structural and interactional aspects of teleconferences in the IDEELS 
+Telematics Simulation Project. In R. Roy (Ed.), Engineering Education: Perspectives, Issues and 
+Concerns (pp. 366–380). Delhi, India: Shipra Publications. 
+Master, P. (2002). Information structure and English article pedagogy. System, 30, 331–348. 
+McCarthy, M. (1991). Discourse Analysis for Language Teachers. Cambridge, UK: Cambridge 
+University Press. 
+McCretton, E., & Rider, N. (1993). Error gravity and error hierarchies. International Review of Applied 
+Linguistics 31(3), 177–188  
+Milanovic, M. (2009). Cambridge ESOL and the CEFR. University of Cambridge ESOL Examinations 
+Research Notes 37, 2–5. 
+Nakamura, J. (1993). Quantitative comparison of modals in the Brown and the LOB corpora. ICAME 
+Journal, 17, 29–48. 
+Neff, J.A., Ballesteros, F., Dafouz, E., Martínez, F., Rica, J.P., Díez, M., & Prieto, R. (2007). A 
+contrastive functional analysis of errors in Spanish EFL university writers’ argumentative texts: corpus-
+based study. In E. Fitzpatrick (Ed.), Language and computers, corpus linguistics beyond the word: 
+Corpus Research from phrase to discourse (203–225). Amsterdam, Netherlands: Rodopi. 
+Odlin, T. (1989). Language Transfer. Cambridge, UK: Cambridge University Press. 
+O'Donnell M. (2008). Demonstration of the UAM CorpusTool for text and image annotation. 
+Proceedings of the ACL-08:HLT Demo Session (13–16), Columbus, OH, Association for Computational 
+Linguistics. 
+ 
+Penny MacDonald, Amparo García-Carbonell, and José Miguel Carot-Sierra  Analysing Interlanguage Errors 
+ 
+Language Learning & Technology 56 
+O’Donnell, M., Murcia, S., García, R., Molina, C., Rollinson, P., MacDonald, P., Stuart, K., & Boquera, 
+M. (2009, July). Exploring the proficiency of English learners: the TREACLE project. Paper presented at 
+5th Corpus Linguistics Conference, Liverpool, UK. 
+O’Donnell, M. (2012). Using learner corpora to redesign university-level ESL grammar education. 
+Revista Española de Lingüística Aplicada (RESLA), Vol. Extra 1, 145–160. 
+Olsen, S. (1999). Errors and compensatory strategies: a study of grammar and vocabulary in texts written 
+by Norwegian learners of English. System, 27, 191–205. 
+Polio, C. G. (1997). Measures of linguistic accuracy in second language writing research. Language 
+Learning, 47(1), 101–143. 
+Richards , J.C. (1974). Error Analysis: perspectives of second language acquisition. London, UK: 
+Longman. 
+Rifkin, B., & Roberts, F.D. (1995). Error gravity: a critical review of research design. Language Learning 
+45(3), 511–537. 
+Ringbom, H. (1992). On L1 transfer in L2 comprehension and L2 production. Language Learning 42(2), 
+85–112. 
+Schachter, J. (1974). An error in error analysis. Language Learning 24(2), 205–214. 
+Schachter, J., & Celce-Murcia, M. (1977). Some reservations concerning Error Analysis. TESOL 
+Quarterly 11(4), 441–51. 
+Sotillo, S. M. (2000). Discourse functions and syntactic complexity in synchronous and asynchronous 
+communication. Language Learning and Technology 4(1), 82–119.  
+Sutherland, J. (2002). Project IDEELS: Value-added multilateral curriculum development. Retrieved from 
+http://www.ideels.uni-bremen.de 
+Sutherland, J., & Ekker, K. (2010). Simulation – Games as a learning experience: an analysis of learning 
+style and attitude. In D. Ifenthaler, J.M. Spector, Kinshuk, P. Isaias, & D.G. Sampson (Eds.), Multiple 
+perspectives on problem solving and learning in the digital age. New York, NY: Springer. 
+Sutherland, J., Ekker, K., & Eidsmo, A. (2006). Telematic Simulation in the Post-September 11 World. In 
+T. Reeves & S. Yamashita (Eds.), Proceedings of World Conference on E-Learning in Corporate, 
+Government, Healthcare, and Higher Education 2006 (pp. 2650–2657). Chesapeake, VA: AACE.  
+Swan, M., & Smith, B. (Eds.). (1987). Learner English: A teacher’s guide to interference and other 
+problems. Cambridge, UK: Cambridge University Press. 
+Taylor, G. (1986). Errors and explanations. Applied Linguistics 7(2), 144–165. 
+Thewissen J., Bestgen, Y., & Granger, S. (2006, May). Using error-tagged learner corpora to create 
+English-specific CEF descriptors. Paper presented at Third Annual Conference of EALTA, Krakow, 
+Poland.  
+Virtanen, T. (1998). Direct questions in argumentative student writing. In S. Granger (Ed.) Learner 
+English on computer. (pp. 94–107). London, UK: Longman. 
+Watts, F., García-Carbonell, A., & Rising, B. (2011). Student perceptions of collaborative work in 
+telematic simulation. Journal of Simulation/Gaming for Learning and Development, V1, (1). Retrieved 
+from http://www.thaisim.org/sgld/ 

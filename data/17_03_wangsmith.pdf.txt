@@ -1,0 +1,767 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2013/wangsmith.pdf 
+October 2013, Volume 17, Number 3 
+pp. 117-134 
+ 
+Copyright © 2013, ISSN 1094-3501  117 
+READING AND GRAMMAR LEARNING THROUGH MOBILE PHONES 
+Shudong Wang, Shimane University 
+Simon Smith, Shimane University 
+This paper describes an ongoing language-learning project, three years into its 
+development. We examine both the feasibility and the limitations of developing English 
+reading and grammar skills through the interface of mobile phones. Throughout the 
+project, reading and grammar materials were regularly sent to students’ mobile phones. 
+Students read or took part in any aspect of the materials that appealed to them. Information 
+gathered from participants and server logs indicate that reading and learning grammar 
+using mobile devices is regarded as a positive language experience. However, the data also 
+indicate that the success of any mobile learning project could be limited unless certain 
+criteria are applied. This includes (a) providing engaging learning materials that are 
+neither too long nor overly-demanding; (b) a proper degree of teacher monitoring; (c) 
+student involvement; (d) the need for incentives; (e) a respect for privacy; and (f) a safe 
+and secure mobile-learning technical environment. 
+Keywords: Mobile Phone, Language Learning, Reading, Grammar, Efficacy, Security 
+and Privacy Concerns 
+APA Citation: Wang, S., & Smith, S. Reading and grammar learning through mobile 
+phones. Language Learning & Technology, 17(3), 117–134. Retrieved from 
+http://llt.msu.edu/issues/october2013/wangsmith.pdf 
+Received: June 30, 2012; Accepted: July 3, 2013; Published: October 1, 2013 
+Copyright: © Shudong Wang and Simon Smith 
+INTRODUCTION 
+Mobile Phones in Education 
+Japan has one of the world’s most advanced cellular networks, and most of the student population there 
+possesses a mobile phone. In part due to the ubiquity of Wi-Fi  and WiMAX, smart phone users have 
+become the norm rather than the exception. There are three main reasons for this trend. First, smart 
+phones connecting to Wi-Fi or WiMAX have the same connectivity as computers. Even in the current 3G 
+and 4G environment, the data processing capability of phones gives users far greater flexibility than ever 
+before. The change is not just limited to the wireless environment; mobile phone hardware has seen 
+exponential progress as well. Another reason for widespread smart phone use is that the screen size of 
+some smart phones has increased to five inches or larger and the resolution has improved to around 
+1980*1080 pixels. Finally, the processing power of mobile phone CPUs also continues to evolve, and the 
+memory cards on smart phones can store dozens of gigabytes of data, comparable with many PCs. It is 
+clear that the gap in the operational functionalities between mobile phone and PC technology has 
+narrowed, providing educators greater freedom for extending learning outside of traditional learning 
+environments. 
+While some limitations for mobile phone use in education existed in the past (Wang & Higgins, 2006), 
+these have begun to dissipate due to advances in information technology. For instance, the problem of 
+small bandwidth has been remedied by the technologies of Wi-Fi, 3.5G, and 4G networks. Similarly, 
+problems associated with manual text input are being resolved through the use of speech recognition 
+technology, touch screens, and styluses. Since the emergence of smart phones in 2007, more and more 
+functions specific to PCs and other hand-held devices have been integrated within mobile phone devices. 
+In Japan, most mobile phones are now equipped with photo and video cameras, Quick Response (QR) 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  118 
+code readers, voice recorders, MP3/MP4 players and 1seg technology, which allows for mobile reception 
+of terrestrial television, Global Positioning System (GPS), Internet access, email, Short Messaging 
+Service (SMS) and Multimedia Messaging Service (MMS). Applications such as YouTube, Facebook, 
+Skype, Twitter, Flash-embed or Java-enabled multimedia resources are all accessible on mobile phones. 
+In sum: today’s digital environment has blurred the differential between mobile phones and PCs. 
+As the price of smart phones continues to fall, they have ceased to be a tool of an elite minority. 
+According to the MyNavi Co. Ltd. survey (2012), 59.3% of Japanese students currently possess smart 
+phones. Whilst we cannot presuppose that such numbers will translate to a high number of mobile 
+language learners, predictions for high future correlations do seem likely. For example, Cheon, Lee, 
+Crooks, and Song (2012) indicate that college students in America are beginning to accept m-learning. 
+Similarly, in Japan, a majority of Japanese students surveyed by Thornton and Houser (2005) preferred to 
+receive learning materials on mobile phones rather than PCs. 
+Current pedagogical theory also shows a parallel enthusiasm for mobile learning. Situated Learning 
+Theory (SLT) (Collins, Brown, & Newman, 1989; Warschauer, 1997) maintains that genuine learning is 
+unintentional and situated within authentic activity, context, and culture. Discussing the effectiveness of 
+Mobile Assisted Language Learning (MALL), Burston (2011) asserts that behaviorist, teacher-centered 
+theories can complement and aid student-centered vocabulary and grammar mobile phone applications. 
+Though it may be too early to judge the effectiveness of mobile phone learning, collaborative, learner-
+centered pedagogical approaches have undoubtedly informed and inspired developments in mobile 
+learning programs. 
+Language Learning via Mobile Phones 
+Mobile phones are becoming more widely used in learning vocabulary, as is shown in a number of studies 
+(Chen & Chung, 2008; Kennedy & Levy, 2008; Lu, 2008; Pincas, 2004; Stockwell, 2008; Stockwell, 
+2010; Thornton & Houser, 2005; Yamaguchi, 2005). In one study, Lu (2008) had students learn two sets 
+of English vocabulary words either through mobile phones or by a paper-based format. Students who 
+learned via SMS were found to understand more words than students presented with the paper-based 
+tasks. Kennedy and Levy’s (2008) research investigated the acceptability of a pushed mode of mobile 
+phone operation; these authors sent short messages containing known words and new words mixed 
+together. They found that the students appreciated the experience of reviewing learnt information and that 
+the students found the message content often useful or enjoyable. Butgereit and Botha (2009) described a 
+system that allows language teachers to create spelling lists or vocabulary lists in English and Afrikaans. 
+The system then generates a fun mobile phone application using multiple texts-to-speech engines to 
+encourage African pupils to practice spelling the words. Cavus and Ibrahim (2009) developed a system to 
+send technical English language words together with the meanings in the form of SMSs. 
+Studies have also shown that MALL’s utility is not just limited to vocabulary learning; mobile phones can 
+also be applied to other learning situations. Comas-Quinn and Mardomingo (2009) carried out a mobile 
+learning project to engage learners in the creation of an online resource that focuses on a foreign culture. 
+In their project, students used their mobile phones, digital cameras, and MP3 recorders to select and 
+record samples of their encounters with foreign cultures; students then sent or uploaded these encounters 
+to a cultural blog to be shared with other group members. Chang and Hsu (2011) developed a system to 
+integrate an instant translation mode, an instant translation annotation mode, and an instant multi-user 
+shared translation annotation function to support a synchronously intensive reading course in the normal 
+classroom. The project was designed for personal digital assistants (PDAs), not really for mobile phones. 
+Demouy and Kukulska-Hulme (2010) also reported on a project that allowed students to use iPods and 
+MP3 players, as well as mobile phones, to practice listening and speaking. They found that whilst the use 
+of iPods and MP3 players was readily adopted by project participants, the process of doing activities on 
+mobile phones was deemed less satisfying. 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  119 
+Despite the challenge of integrating phones into a learning environment, it has been shown that as users 
+become more adept at using digital interfaces, their learning styles and how they perceive the learning 
+material are both likely to change (Stockwell, 2010). Delivering smaller modular chunks—such as mini-
+essays and grammar quizzes—may be more suitable for better mobile phone learning experiences. 
+Indeed, academics (Rutherford, 1987; Krashen, 1989) have long suggested that acquisition is enhanced 
+when learnt in comprehensible, manageable pieces. With this in mind—and in order to address an 
+absence of data on the development of reading and grammar skills via mobile phones—we initiated a trial 
+in 2009, providing students with English reading and grammar learning materials in small modular chunks. 
+Purpose of the Study 
+Compared with mobile phone vocabulary learning and trial practices with listening and speaking, there is 
+significantly less research on the advantages of mobile phone programs for reading and grammar practice. 
+Waycott and Kukulska-Hulme (2003) reported that students found it difficult to read course materials on 
+a PDA (a mobile device that is not popular with university students in Japan) and that it was generally 
+considered to be inferior to reading in a paper-based format. Lan, Sung, and Chang (2007) explored the 
+potential of mobile technology for reading, but their experiment was limited to tablet PCs and their 
+participant pool only included elementary school students. The research of Huang and Lin (2011) shows 
+that in terms of reading, receiving materials on paper is preferable to receiving resources via mobile 
+phones or email regardless of the length of the texts. Whilst this is an important finding, the study only 
+involved 10 students; furthermore, the study based its findings on the reading of just six texts. 
+In addition to the shortage of research into mobile reading and grammar learning, another important factor 
+which inspired this project is the popularity of mobile phone novels in Japanese. Kawaharazuka and 
+Takeuchi (2010) and Farrar (2009) reported that by 2007, five of the best-selling print novels in Japan 
+were written and read on mobile phones. The prevalence for reading novels on phones was interpreted as 
+a positive indication that students would look favorably on this current project if some of the protocols of 
+writing novels were also adopted for the project. This included frequent use of the line return and the use 
+of short sentences with few modifiers. 
+With these factors in mind we wanted to provide students with a learning opportunity that would help 
+improve their English and allow us to have a better understanding of reading and grammar learning on 
+mobile phones while also giving us the opportunity to assess the degree to which students are motivated 
+to learn outside the classroom on their mobile phones. For these reasons we started a project called 
+“Ubiquitous English” in 2009. To fully immerse students in a rich learning environment, short English 
+essays and grammar quizzes were sent to students via their mobile phones two or three times a week. 
+Students were then required to complete the activities on their mobile phones in their own time. During 
+the course of our three-year project, several questions came up repeatedly and became a motivating force 
+for the study. These questions include: 
+1. Are students prepared to read a foreign language and engage with grammar quizzes on their 
+mobile phones? When students read on mobile phones, what kinds of topics motivate and 
+what kinds of topics fail to captivate their interest? 
+2. When given the choice between accessing material on mobiles or PCs, which device will 
+students instinctively use? 
+3. What general perception do students have towards reading and grammar on mobile phones? 
+4. What concerns do students have about learning languages using their mobile phones? 
+By addressing these questions, this paper aims to redress the gap in current research into mobile learning 
+for reading and grammar practice as well as inform future research of important observations regarding 
+this specific student population. 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  120 
+METHOD 
+The Development of Mobile Reading and Grammar Materials 
+The initial reading materials used within this project were developed by university teachers from the 
+Center for Foreign Language Education, Shimane University, Japan. In order to enhance and extend the 
+program, 10 advanced-level students were temporarily employed to write essays that were to be read by 
+our students. These materials were uploaded by the students and later edited by university teachers. The 
+task of writing short essays, however, was predominantly assigned to the native English-speaking 
+teachers. At the outset of the project, it was agreed that each composition would be no more than 140 
+words in length, so that each essay could be read in two or three minutes on a small screen (Borau, 
+Ullrich, Feng, & Shen, 2009; Grosseck & Holotesch, 2008). 
+In order to appeal to a majority of first-year students, whose average knowledge of English is at a pre-
+intermediate level, all the materials were written in simple and easy-to-understand English. Any words 
+that we thought might cause a problem were annotated with Japanese translations. Vocabulary notes were 
+placed at the beginning of the essay to make readers aware of new vocabulary items before they read the 
+essay. Students could opt to click on the URL attached to the plain text essay and read the Japanese 
+translation, although reading the translation before the essay was not encouraged. 
+There were a number of reasons we chose to use in-house materials in this project. Firstly, creating 
+original reading and grammar materials avoids the ethical and legal issues related to copyright. Japanese 
+copyright law (Chapter 2, Section 1) stipulates that a web page and all other related documents are 
+copyright protected. Teachers may reproduce materials from web pages and use them in the classroom 
+only if they do not “unreasonably prejudice” the copyright owner (Japan Copyright Office, 2011). In 
+essence, this implies that teachers must be careful to ensure that the only place they use the materials is in 
+the classroom (Heffernan & Wang, 2008). 
+Furthermore, having learning materials created for learners by a teacher who is familiar with the students’ 
+learning needs is more likely to resonate positively with the students, enhance their classroom learning, 
+and hopefully, increase their motivation towards language learning. Also, from a teaching perspective, 
+creating in-house materials enables teachers to offer material which learners themselves see as relevant 
+and applicable to other situation (Ngeow, 1998). This is also reflected in earlier research on motivation. In 
+one such study, Oxford and Shearin (1994) analysed 12 motivational theories and identified six factors 
+that affect motivation in language learning. One of the factors highlighted was “environmental support,” 
+which is defined as the “extent of teacher and peer support, and the integration of cultural and outside-of-
+class support into learning experience.” 
+In order to appeal to our young participants, the topics chosen for the mobile learning project were as 
+topical and broad-based as possible. To capture student interest, the topics chosen were not overly taxing 
+and included jokes and riddles. Although listening skills had never been the focus of this project, we were 
+aware that reading accompanied by pictures and audio is always more effective than a text-only format 
+(Fiorea, Cuevasa, & Oserb, 2003; Glenberg & Langston, 1992; Koskinen et al., 2000). Accordingly, since 
+August 2011, all materials in our project have included both audio and visual content to support the 
+readings. Students could then listen to or watch each reading (see essay example in Figure 1, left, and the 
+MP4 formatted animation in Figure 1, right). 
+Alongside the reading text, which was usually a short story, a joke or an anecdote, two types of grammar 
+materials were provided: grammar knowledge and grammar quizzes. In a previous e-learning program, 
+we had discovered that most students at our university are typically weak at using nouns, the subjunctive 
+mood, participles, and negative forms. To address these areas, the grammar interpretations sent to 
+students focused on these items. Each grammar item interpretation was attached with a grammar quiz 
+URL. From a project objective, the grammar knowledge delivery was a form of explicit teaching (i.e., 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  121 
+ 
+ 
+Figure 1. Mini essay (left) and an MP4 formatted animation for this mini essay (right). 
+pushing student learning) whereas the grammar quiz was seen as a test of their understanding (i.e., pulling 
+student learning). Sometimes trivia associated with English grammar were added to the grammar 
+activities in order to increase students’ motivation. Because most of the readers were first-year students at 
+the pre-intermediate level, part of the grammar section was written in Japanese (see Figure 2). 
+  
+Figure 2. Grammar explanation sent via email (left) and grammar quiz (right). 
+Participant-Student Subscribers 
+Because the learning materials were mainly delivered via email, our first priority was to obtain students’ 
+email addresses. As personal information is strictly protected by Japanese law (The Cabinet Office of 
+Japanese Government, 2005), students were under no obligation to provide teachers with their email 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  122 
+addresses (El-Khatib, Korba & Yee, 2003; Kimura, Komatsu, Shimagawa, Shirahase, & Sekine, 2005). 
+Thus, after distributing handouts to every first-year student, we explained the goal of our project and the 
+purpose of requesting their email addresses. Students were asked to register their email addresses of their 
+own volition and were told that their email address would be used only for this project. They were also 
+told they could opt out at any time. 
+Upon beginning the project, we were aware that many students might be reluctant to share their personal 
+information with an e-learning system (Boston, 2009; Wang & Heffernan, 2010), so we consented to the 
+use of nicknames when students registered their email addresses. In total, as of June 2012, 372 email 
+addresses had been registered with the project. Unfortunately, not all of the registrants became permanent 
+participants, reducing the number of active participants to 208. There were four predominant reasons for 
+the loss of so many subscribers: (a) some students found the program unsuitable for their learning style 
+and chose to terminate their subscription; (b) Japanese students frequently change their mobile phone 
+email addresses in order to avoid spam emails, and some forgot to update this information with the 
+project; (c) many students’ mobile phones are pre-set by telecommunication companies to prevent 
+receiving emails from PCs; and (d) the emails from the project server were automatically filtered to the 
+spam folder. 
+The Delivery Mode of Mobile Learning Material 
+Once created, the reading and grammar materials were uploaded to the server. These were sent to students 
+through the server’s email system as an email in plain text with the URLs attached. The email system was 
+set to send out 20 emails per minute in plain text to lower the possibility that the learning materials be 
+blocked as spam or be treated as suspicious. For every reading text, a simple comprehension exercise was 
+designed to check student understanding. Grammar quizzes were then sent via URLs attached to each 
+grammar point review (see Figure 3). When students opened their email, the reading materials could be 
+read as messages, so students did not need to go beyond the link provided. A comment/quiz system was 
+used for the purpose of student-teacher interaction. All of these systems were designed or customized for 
+mobile phones, but were also compatible with any PC. URL links contained Japanese translation notes, 
+material rank interfaces, and grammar quizzes. Figure 4 indicates the information flow throughout the 
+project. 
+ 
+Figure 3. Quiz interaction with score and explanation. 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  123 
+ 
+Figure 4. Technical work flow of mobile learning material delivery. 
+Registration for the project was always open-ended, but students who joined the project at later dates 
+could not access earlier readings. For these students, a blog system was built to store archived material for 
+the students to browse. We archived all materials that were sent out via emails in web format by using the 
+open-source content management system, WordPress. The web site (http://www.shimadai-
+elearning.saloon.jp/keitai-eigo/) was customized for use on mobile phones. Between June 2010 and June 
+2013, the archived mobile phone blog site logged 68,166 page views. 
+Data Collection 
+The data from the project feedback were collected using the following methods: online surveys, server log 
+analysis, and interviews. Three consecutive web surveys written in Japanese were conducted among the 
+subscribers in 2010, 2011, and 2012. The data presented in this paper is from the latest survey conducted 
+in April 2012. The survey’s URL was sent by email to students and was accompanied by the survey’s 
+rationale and questions. Students were informed that their identity would remain anonymous, and 
+furthermore, that they were under no obligation to complete the questionnaire. As the questionnaire was 
+delivered to their mobile phones, we limited it to eight short questions. Seven were multiple-choice 
+questions, and the last one was an open-ended question asking their general opinion about the project (see 
+Appendix). The survey was available online for two weeks from April 2nd to April 16th. The survey 
+questions were grouped into three categories: Questions 1, 5, 6, and 7 investigated which materials 
+students like to read on mobile phones. Question 2 asked about the type of digital learning device that was 
+used to receive materials. Questions 3 and 4 surveyed students’ overall perceptions of the project. Half of 
+the questions from the survey asked for the students’ assessment of the learning materials. This is because 
+according to Day and Bamfors’ Expectancy and Value Model (1998), good material development is one 
+key factor in motivating students to read in foreign languages. It is only when the materials engage the 
+students, (i.e., easy to read, short, with interesting content) that they feel motivated to continue learning 
+(Takase, 2003). 
+Fifty-six project participants answered the questionnaire (n = 56) which represents a response rate of 
+approximately 27%. Whilst the somewhat low response rate does not automatically indicate that the 
+survey was inaccurate or unrepresentative (Taylor, Drummond, & Strang, 1997; Holbrook, Krosnick, & 
+Alison, 2007), data from other project records—a server data analysis and interviews—were used to 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  124 
+support the results from the questionnaire. 
+Technically, the system could not detect whether the learning materials sent in plain text via email were 
+read or not. However, the number of clicks on the automatically generated URLs attached to the emails 
+was recorded by the server. The system recorded who took the quiz and when the quiz was taken, as well 
+as any score details. For the archived materials stored on the blog site, the system could also track IP 
+addresses, as well as store the information on the type of material that was accessed. 
+Two types of participants were selected to be interviewed. The first type consisted of users who registered 
+from the onset of the program until the close of the study; the second type included students who joined 
+the program but withdrew after only a short period of participation. In total, four students—two males and 
+two females who were all randomly chosen from those who registered with their real names—were 
+interviewed after class on separate days. During the interview each user was asked why he or she chose to 
+continue with or leave the project. 
+RESULTS 
+Research Question 1: The Appropriacy of the Reading and Grammar Materials 
+The first question asked respondents about their attitude towards the learning materials developed by their 
+peers, referring to the learning materials developed by 10 students recruited from within the university. 
+Out of 56 respondents, 36 (64%) said they enjoyed the essays as well as some of the grammar quizzes 
+written by students. The remaining 20 (36%) indicated their indifference by selecting the neutral option. 
+This is a clear indication that the majority of students welcome reading and learning materials developed 
+by their peers. 
+In terms of student-created materials, we also analyzed feedback from our server logs. This was possible 
+because for each message sent, subscribers were invited to leave comments. Whenever the learning 
+materials were sent out, we included the author’s name so that readers could identify the author of the 
+material. On average, the learning materials developed by native English-speaking teachers received three 
+comments each. Interestingly, this number increased on average to five when the materials were written 
+by students (and corrected by teachers). When quizzes were created by students, the average number of 
+students taking part in quizzes also increased from 20 to 25. Whilst the data is not statistically significant 
+(t = 2.33, p < .05), comments from users were very positive as demonstrated below: 
+This is a good try. Actually I didn’t realize the essay was written by my schoolmate until I saw the 
+author’s name.  
+It feels intimate to read essays written by ourselves, about ourselves and for ourselves. Can I also 
+contribute my essays? 
+These comments show that mobile reading and grammar materials created by students probably increases 
+motivation to read. Furthermore, despite not being “authentic” (i.e., published, native-English authored) 
+texts, they were by no means regarded as inferior by students. Rather, the appeal or approval probably 
+came from the fact that the writing comes from the students, themselves. For future developments in 
+mobile learning materials, extensive involvement of students in mobile learning material development is 
+worth considering. 
+Questions 5 and 6 were designed to examine which materials were rated the highest. English essays 
+(41%), trivia (34%), and grammar quizzes (27%) were ranked as the most read/accessed materials. Seven 
+percent of students surveyed ranked “all materials” as the most read, and the same percentage of students 
+said that “none” were their most read. The results imply that rather than taking grammar quizzes, students 
+prefer to read essays and trivia surrounding language. The fact that essays are preferred to grammar 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  125 
+quizzes should remind us that materials read or interacted with on mobile phones should not be too 
+demanding. 
+In terms of the different essay genres, these have been ranked below in decreasing order of preference: 
+English jokes and riddles (45%), cultural differences (30%), life/living/entertainment (27%), and topics 
+related to the environment (12.5%) and proverbs (12.5%). Unpopular topics included English learning 
+methodology (5%), science and technology (4%), society (4%), and politics (4%). Our findings from the 
+ranking of essay topics demonstrate that learning through interesting materials, (i.e., English jokes and 
+riddles), or something more esoteric, (i.e., cultural differences, or campus life) can best attract students’ 
+attention and provide stimulation for any project. Question 7 asked students to rate the suitability of the 
+learning materials used in the project according to their own English level/needs. Sixty-three percent 
+thought that the level of writing was suitable; whilst 37% indicated that they thought the materials were 
+difficult. From this we can state that materials developed by teachers and peers are well suited for and 
+viewed favorably by students. 
+In addition to the above information, we also looked at the access logs of our web materials using a 
+WordPress plugin called Visitor Map. This took a snapshot of the daily traffic between June 1 and June 
+10, 2012. The number of times each essay was accessed is presented below. 
+Table 1. Web Access to the Mobile Reading and Grammar Materials. 
+ Topics  Accesses  Percentage 
+Essays Cultural differences 76 21% 
+Environment 22 6% 
+Life/living/entertainment  41 11% 
+English proverbs/ 
+idioms/sayings/quotations  
+46 13% 
+English learning techniques 16 4% 
+Science and technology 5 1% 
+Society 17 5% 
+English jokes/riddles 62 17% 
+Politics 2 1% 
+Grammar knowledge 
+and quizzes 
+ 9 2% 
+Trivia of English (in 
+Japanese) 
+ 69 19% 
+Total  365 100% 
+Note. The above accesses were all from Japanese IP addresses including the entries from Google search engine. 
+As can be seen in Table 1, essays concerning cultural differences (21% of all accesses) and English 
+jokes/riddles remained the most popular topics among readers. Web access data confirmed students’ 
+preferences for the materials identified by the survey. 
+Research Question 2: The Position of Mobile Learning Devices 
+Question 2 asked which device each student used for receiving the learning materials. Forty-one (73%) 
+respondents reported that they used a mobile phone. Only 14 (25%) said they used their PC’s email 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  126 
+addresses for the project. Only one student reported using an iPad to receive the materials. The data is 
+consistent with the email registration when recruiting subscribers for the project. Of the 372 subscribers, 
+279 (75%) students registered with their mobile phone, although they were told that PC email addresses 
+were acceptable. This further illustrates the willingness and confidence that first-year students have 
+towards using mobile phones for language learning. These results support the research findings of 
+Thornton and Houser (2005). Furthermore, our results echo recently published figures that show a high 
+use of mobile phones: indeed, 95.6 % of senior high school students in Japan possess mobile phones, of 
+which 95.1% have Internet connection; of senior high school students, 75.6% use the Internet more than 
+two hours every day (The Cabinet Office of Japanese Government, 2011). The same survey results show 
+that first-year university students, typically 18 or 19 years old, have been using mobile phones for some 
+years and have become adept at using them on many levels. This could explain why such a large proportion 
+of our respondents (73%) reported that they used a mobile phone to access the learning materials. 
+Research Question 3: Overall Perception of Mobile Phones for Reading and Grammar 
+Questions 3 and 4 investigated the overall perception of the project by the students. Question 3 asked: 
+How often do you read the learning materials? Forty students (71%) replied that they had read almost all 
+of the materials, 11 (20%) said that they had read everything, and five (9%) indicated that although 
+registered with the project, they had never read any of the content. Question 4 asked if the project was 
+helpful in improving their English reading and grammar ability. Forty (71%) reported positively, saying 
+that they thought the project, in general, was helpful in developing their reading and grammar ability. 
+According to our questionnaire, the project was well-received by the students. As the project was not 
+associated with any mandatory English course, students were free to opt out or disregard any of the 
+learning materials. In spite of this, 20% indicated that they had read all the materials. Furthermore, 71% 
+of participants felt that their reading and grammar abilities had improved by taking part in the project. 
+Ideally, the progress of subscribers’ reading and grammar abilities should be assessed on a yearly basis. 
+However, as stated earlier, the purpose of this project was to provide a relaxed reading and grammar 
+practice environment for students. We also wanted to explore the impact of delivering informal reading 
+and grammar exercises to mobile phones. As participation was voluntary, and students were not tied to 
+any physical classrooms, any form of assessment would be a significant challenge. Assessing mobile 
+learning outcomes may be difficult if learners cannot be brought together into a controlled testing 
+environment (Wang & Higgins, 2006). 
+Finally, Question 8 was an open-ended question inviting general comments about the project, to which 26 
+respondents gave comments. Most students (71%) perceived reading short essays on mobile phones as a 
+helpful tool towards improving their reading ability. The comments listed below represent the overall 
+perception of the program: 
+I like the short essays and I thought that every essay was interesting. 
+Although I don’t always have time to read the essays, I think it is a good chance for us to be 
+exposed to English. 
+I am too busy to read all of the essays; however I do believe that this is a good way to come into 
+contact with authentic English 
+I like reading on mobile phones. Unlike reading on a PC, I can read any time, anywhere. 
+The words in the essays are sometimes challenging but at the same time the essays are easy to 
+understand. It is a good project! 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  127 
+These comments capture the students’ opinion that reading on mobile phones increases their exposure to 
+English. Participants indicated that they liked the mode of reading content delivered by phone. 
+Interestingly, many also commented that they would prefer receiving the material in an ad hoc fashion as 
+opposed to receiving them on specific days each week. One implication of this is that students do not 
+want to make a commitment to study; therefore, receiving the material in a less predictable manner may 
+provide a less formal quality to the program. Similarly many students commented favorably on the short 
+and easy-to-understand format of the reading material. As feedback indicated that students were inclined 
+towards topics on cultural differences, as well as jokes and proverbs, native-speaker teachers integrated 
+grammar and vocabulary components into those topics. 
+Despite the popularity of the reading content, this did not extend to the grammar quizzes, which received 
+less participation than some of the reading materials. On average, each grammar quiz had only 23 
+volunteer participants—roughly equating to 11% of the total number of active subscribers. In an interview 
+with a student who was active for the whole project, we asked why he felt students were less favorable 
+towards online quizzes. He answered: 
+We are tired with so many classes and do not want to use our brains to think about quizzes after 
+class. Taking quizzes is not like reading interesting essays; it is not enjoyable at all. In addition, 
+our teachers are probably monitoring our performance. It would be embarrassing if I did poorly in 
+the quiz. Therefore, unless it is made into a compulsory assignment, I don’t want to do the 
+grammar quizzes. 
+This remark implies that unless there is an element of compulsion to the program, students are reluctant to 
+do anything overly demanding unless it is linked to their overall grade—even if it is delivered via mobile 
+phones. The lesson here is that optional learning materials designed for mobile phones should not be too 
+challenging: this may reflect the fact that students may also not have the time or the energy nor the tools 
+to engage in study outside of class that is seen as too time-consuming. 
+DISCUSSION 
+Reading on Mobile Phones: Motivation Counts 
+Research suggests that on average, 76.6% of Japanese university students spend more than 30 minutes a 
+day reading or sending messages on their mobile phones; and 79.5% spend more than 30 minutes 
+browsing the Internet on their mobile phones (MyNavi Co. Ltd., 2012). If students were to engage in 
+reading activities on their phone for just a small portion of this time, it could be inferred that measurable 
+improvements in their reading ability could be attained. Given the high usage of mobile phones within the 
+student population, it was assumed that this would translate favorably with regards to our program. 
+However, we severely underestimated one very important factor: motivation. Whilst a significant amount 
+of time is spent browsing or socializing on phones, that time is not likely to be easily relinquished to a 
+less rewarding activity (phone or otherwise). Similarly, if learning of any variety is to be extended onto 
+mobile phones, it must engage students on a level that can compete with free games and social media—a 
+formidable challenge. 
+As we have noted, given the strong association between phones and gaming, motivating students to use 
+their phone for learning is an ambitious task. This is compounded by the fact that reading in another 
+language is one of the hardest skills to acquire, as it requires higher-level comprehension processes. 
+Therefore, the hard work needed to gain even modest improvement is perhaps the reason why many 
+learners find reading one of the most challenging tasks among the four skills (Ngeow, 1998). Huang 
+(2006) recognizes that with L2 reading “learner motivation may be a concern” (p. 3), but one which 
+should not impede the learning process. Huang also pointed out that one of the important factors to 
+motivate reading in an L2 is that teachers are available to answer questions. This offers possibilities for 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  128 
+future innovations in mobile learning such as the integration of Mobile Instant Messaging. 
+In the case of a class activity, reading a text under a teacher’s supervision is obligatory and students are 
+required to answer any questions posed by the teacher. However, for this project, registration was 
+voluntary, as was the reading of essays or taking quizzes. Unlike formalized class study, there were no 
+tests or formal evaluations of the subscribers. Students who entered this project did so of their own 
+volition and with their own agenda. This appears to have lowered the participation. Only those students 
+who already possessed high motivation or directed their study towards a goal-related purpose such as a 
+job or study abroad program remained very active in the project. A future challenge for this project would 
+be how to attract new membership but, most importantly, how to maintain student motivation. 
+Many registered students left the project due to a lack of motivation connected to either material or 
+extraneous factors. The activity of reading project material may in some way compete with or take away 
+socializing or gaming time from students. Thus, firstly, an important aspect of any mobile reading project 
+must be to devise ways to enhance the motivation for reading English content. Secondly, some form of 
+incentive may need to be offered in order to compete with the already high demands of social networks 
+and games on the mobile phone. We interviewed a student who participated in the project for all of 2010 
+but quit in 2011. Our question was: Why did you choose to join the program in the beginning and what 
+caused you to quit? He replied: 
+In the beginning I thought it was compulsory to read the essays. I also thought that some questions 
+in the mid-term or final exams might be included in the learning materials that the project sent. 
+However, I discovered that this was not the case. In fact the learning materials sent to my mobile 
+had nothing to do with the academic credits. The essays are indeed interesting and informative, but 
+just doing homework from regular English classes is enough. I don’t have extra energy and time to 
+read on my mobile phone. I also heard that many of my classmates did not join the project and they 
+were not affected at all, so I decided to quit too. 
+This view may represent a majority of other students who may not want to read and practice English on 
+their mobile phones. No matter how good the reading material is, these students will not be motivated by 
+mobile reading unless: 
+1. Learning outcomes are linked with a specific course goal and/or that the students’ performance 
+is eventually evaluated or recognized through course credit. 
+2. Learning progress and performance are formally monitored. Students need to have assurances 
+that they are in a social arena with their teachers or peers. 
+3. There is some recalibration of the material during the project to reflect the comments and 
+feedback of students. This can be maintained through close monitoring of the server logs and 
+comments from the students. 
+Reading and Grammar Learning on Mobile Phones: Technical Advantages and Security Concerns 
+There are many technological advantages to using mobile phones for reading and grammar learning. 
+Materials sent via email can be stored in the receiver’s inbox folder and can be retrieved and accessed at 
+any time. Because students always carry their mobile phones, they can review the reading materials as 
+many times as they want. With 3G and 4G technology development and Wi-Fi enabled for smart phones, 
+the cost of connecting to the Internet is within the means of most students. The concept of mobile phone 
+learning, although not yet prevalent, is likely to become accepted by more and more learners. 
+However, the disadvantages of mobile phone learning are still significant. As stated above, students are 
+not used to reading learning materials on small screens. Taking quizzes or answering reading questions 
+requires them to scroll up and down; interaction on mobile phones is not as easy as on PCs; and most 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  129 
+importantly, students view mobile phones as their private domain which should remain disconnected from 
+formal study. The distinction is clear: many students accept the concept that learning should be done in 
+class or on a PC, whereas mobile phones are for their personal affairs. Changing this perception may 
+require a shift in thinking as well as teaching. Indeed, given the high ownership rate of mobile phones, it 
+is surprising that university students rarely use the mobile phone as an educational tool. In 2012, on our 
+registration page, we asked the following question: “Have you ever used mobile-phone for learning?” 
+Sixty-two students (59%) who replied said they have never used their phone for learning. 
+Another factor obtained from the feedback is a concern about security. Japanese students are wary of 
+clicking on any URLs that they are unfamiliar with. They fear that clicking on an unknown URL could 
+result in spam email in the future or lead them to an untrustworthy website. In the interview with an active 
+student, we asked her concerns about receiving the learning materials on mobile. She reported: 
+Clicking an unfamiliar URL sometimes directs one to a bad site. Not only does it cause spam 
+emails, but also there is a high risk of being connected to potentially improper sites. So most of us 
+are very wary about clicking on any suspicious looking links. 
+Indeed, in Japan, Internet fraud cases are becoming a major problem, as there have been cases whereby 
+people have unknowingly clicked on a suspicious web link at work or in the public domain, with 
+embarrassing consequences. In computer literacy courses high school and university students are 
+repeatedly told not to click on any URLs that they are unsure of as computer viruses and personal 
+information leaks may follow. For such reasons, concerns about security are regarded as a significant 
+reason for low participation on grammar quizzes.  
+The discussion above answers Research Question 4: Students do have privacy and security concerns when 
+they learn via mobile phones. 
+CONCLUSION 
+Although quantitative assessments were not carried out on a yearly basis, objective data were collected 
+throughout the project in various ways: through registration records, quiz results, comments and the 
+learning history stored on the server. The data combined with the results of interviews lead to the 
+following conclusions: in general, mobile phone-assisted learning is perceived positively by students as 
+an effective method for improving reading and grammar ability. But for learning to take place, the 
+material must engage the learner, without being too demanding. For young university students, reading 
+topics that focus on cultural differences and student life are the most relevant, as are jokes, and 
+entertaining stories—which are regular favorites. Items such as grammar quizzes need to be kept to a 
+minimum to avoid the perception of being seen as study. Security is always a big concern for mobile 
+learners. Before launching a mobile learning project, Internet security should be carefully considered. 
+This means that a secure learning platform, a secure mode for delivering learning materials, and a secure 
+way to monitor students’ progress should be in place. Our study also instructs us of the necessity to 
+empower the students in some form of material development, as students themselves are best placed for 
+knowing their own learning preferences. Additionally, mobile learning content is destined to be short and 
+segmented. 
+Our findings also highlight the importance of respecting a student’s right to privacy. For a project to have 
+any significant impact on learning outcomes, it must be highly responsive to any feedback—positive or 
+negative. Finally, in order to compete with the ubiquity of games and social media, it may be necessary to 
+offer students some form of inducement or incentive. We fully believe however, that having incentives is 
+not the panacea, as learning should always bring its own reward. However, linking mobile learning to a 
+formal course evaluation may be a crucial step to improving the efficacy of mobile learning. 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  130 
+We hope that this study will help focus the attention of other mobile learning practitioners to embrace a 
+mobile phone learning culture. By working as partners with students, educational institutions can build an 
+effective reading and grammar mobile program that places students at the forefront of learning. 
+RESEARCH LIMATIONS AND FUTURE WORK 
+Whilst our conclusions are based on subjective interpretation (surveys and interviews) and objective data 
+(server logs and grammar quiz results), we are aware that this research has some limitations. Firstly, the 
+project consists predominantly of first-year undergraduates, which may not fully reflect the learning style 
+and mobile learning preferences of all undergraduates. Secondly, the measurement of reading and 
+grammar learning efficacy could have undergone more rigorous experimental assessment. Instead, we 
+based our results on students’ perceptions and server logs, which may not be as reliable indicators of 
+improvement as actual tests. Thirdly, due to copyright concerns, this project used in-house materials as 
+opposed to authentic or abridged authentic texts. To reflect the different preferences of students, it might 
+be better to use a mix of authentic and in-house material. 
+In answer to these limitations we plan to extend our project to include senior students and integrate the 
+use of authentic learning materials. From 2013, all students’ learning outcomes will be evaluated through 
+regular tests which will be incorporated into our data for further analysis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  131 
+APPENDIX. Survey on Reading and Grammar Study on Mobile Phones (n = 56) 
+ 
+ 
+ 
+ Options Responses  %   Options Responses % 
+1. Between November 2011 and March 2012, 
+30 topics were developed by students.  What 
+did you think of these materials?  
+ 2. On what type of device did you usually receive 
+the learning materials for the project?   
+ Good  36 64.3%   Ordinary model of 
+mobile phone 
+25 44.6% 
+ Neutral  20 35.7%   Smart phone 16 28.6% 
+ Poor 0 0   PC 14 25.0% 
+ Other 0 0   Other 1 1.8% 
+3. How often did you read the learning 
+materials? 
+ 4. Overall, do you think that this project was 
+helpful in improving your reading and grammar 
+ability? 
+ All the time 11 19.6%   Very helpful 5 8.9% 
+ Sometimes 40 71.4%   Somewhat helpful 35 62.5% 
+ Never 5 8.9%   Neutral 14 25.0% 
+      Not very helpful 1 1.8% 
+      Not helpful at all 1 1.8% 
+5. Which type of learning materials did you 
+prefer? 
+ 6. From the essays you read, what were your 
+favorite topics? 
+ Essays 23 41.1%   Environment 7 12.5% 
+ Grammar quizzes 15 26.8%   Life/living/ 
+entertainment 
+15 26.8% 
+ Trivia of English 
+language 
+19 33.9%   Cultural differences 17 30.4% 
+ All types 7.1% 4   English proverbs/ 
+idioms/ sayings/ 
+quotations 
+7 12.5% 
+ None 7.1% 4   English learning 
+methodology 
+3 5.4% 
+      Science and technology 2 3.6% 
+      Society 2 3.6% 
+      Politics 2 3.6% 
+      English jokes/riddles 25 1.8% 
+7. Were the learning materials difficult?  8. Any comments about the project are welcome. 
+ Very difficult 2 3.6%   
+ Somewhat difficult 19 33.9%  
+     
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  132 
+REFERENCES 
+Borau, K., Ullrich, C., Feng, J., & Shen, R. (2009). Microblogging for language learning: Using Twitter 
+to train communicative and cultural competence. Lecture Notes in Computer Science, 5686, 78–87. 
+Boston, J. (2009). Social presence, self-presentation, and privacy in tele-collaboration: What information 
+are students willing to share? Journal of the Research Center for Educational Technology, 5(3), 29–44. 
+Retrieved from http://rcetj.org/index.php/rcetj/article/view/64/128 
+Burston, J. (2011). Exploiting the pedagogical potential of MALL. In Proceedings of Mobile Learning as 
+the future of education. San Sebastián, Spain. Retrieved from  
+http://www.moblang.mobi/conference/files/PedagogicalAspectsOfMobileLearning_MobLang_JackBursto
+n.pdf 
+Butgereit, L., & Botha, A. (2009). The noisy way to practice spelling vocabulary using a cell phone. In P. 
+Cunningham and M. Cunningham (Eds.), IST-Africa 2009 Conference Proceedings, (pp.1–7). Kampala, 
+Uganda: International Information Management Corporation. 
+Cavus, N., & Ibrahim, D. (2009). m-Learning: An experiment in using SMS to support learning new 
+English language words. British Journal of Educational Technology, 40(1), 78–91. 
+Chang, C-K., & Hsu, C-K. (2011). A mobile-assisted synchronously collaborative translation–annotation 
+system for English as a foreign language (EFL) reading comprehension. The Journal of Computer 
+Assisted Language Learning, 24(2), 155–180. 
+Chen, C-M., & Chung, C-J. (2008). Personalized mobile English vocabulary learning system based on 
+item response theory and learning memory cycle. Computers and Education, 51, 624–645. 
+Cheon J., Lee S., Crooks S., & Song, J. (2012). An investigation of mobile learning readiness in higher 
+education based on the theory of planned behavior. Computers and Education, 59(3), 1054–1064. 
+Comas-Quinn, A., & Mardomingo, R. (2009). Mobile blogs in language learning: Making the most of 
+informal and situated learning opportunities. ReCALL, 21(1), 96–112. 
+Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of 
+reading, writing, and mathematics. In I,. B. Resnick (Ed.), Knowing, learning, and instruction (pp. 453–
+494). Mahwah, NJ: Erlbaum. 
+Day, R., & Bamford, J. (1998). Extensive reading in the second language classroom. Cambridge, UK: 
+Cambridge University Press. 
+Demouy, V., & Kukulska-Hulme, A. (2010). On the spot: Using mobile devices for listening and 
+speaking practice on a French language programme. The Journal of Open Distance and e-Learning, 
+25(3), 217–232. 
+El-Khatib, K., Korba, L., & Yee, G. (2003). Privacy and security in e-learning. Journal of Distance 
+Education, 1(4), 1–16. 
+Farrar, L. (2009, February 26). Cell phone stories writing new chapter in print publishing. CNN. 
+Retrieved from http://edition.cnn.com/2009/TECH/02/25/japan.mobilenovels/index.html 
+Fiorea, S., Cuevasa, H., & Oserb, R. (2003). A picture is worth a thousand connections: The facilitative 
+effects of diagrams on mental model development and task performance. Computers in Human Behavior, 
+19(2), 185–199. 
+Glenberg, M., & Langston, W. (1992). Comprehension of illustrated text: Pictures help to build mental 
+models. Journal of Memory and Language. 31(2), 129–151. 
+ 
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  133 
+Grosseck, G., & Holotesch, C. (2008). Can we use Twitter for educational activities? Paper presented at 
+the Fourth International Scientific Conference eLearning and Software for Education, Bucharest, 
+Romania. 
+Heffernan, N., & Wang, S. (2008). Copyright and multimedia classroom material: A study from Japan. 
+The Journal of Computer Assisted Language Learning, 21(2), 167–180. 
+Holbrook, A., Krosnick, J., & Alison, P. (2008). The causes and consequences of response rates in surveys 
+by the news Media and government contractor survey research firms. In J. M. Lepkowski, N. C. Tucker, J. 
+M. Brick, E. D. de Leeuw, L. Japec, P. J. Lavrakas, …, & M. W. Link (Eds.) Advances in telephone survey 
+methodology, pp. 499–528. New York, NY: Wiley. 
+Huang, L., & Lin, C. (2011). EFL learners’ reading on mobile phones.  The JALT CALL Journal 7(1), 61–
+78. 
+Huang, S. (2006). Reading English for academic purposes: What situational factors may motivate learners 
+to read? System, 34, 371–383. 
+Japan Copyright Office (2011). Copyright systems in Japan. Retrieved from 
+http://www.cric.or.jp/cric_e/csj/csj.html 
+Kawaharazuka, M., & Takeuchi, K. (2010). Considering the cell-phone novel (Keitai Shousetsu). 
+Ochanomizu University Web Library - Institutional Repository. Retrieved from 
+http://teapot.lib.ocha.ac.jp/ocha/bitstream/10083/49269/1/35_131-138.pdf 
+Kennedy, C., & Levy, M. (2008). L’italiano al telefonino: Using SMS to support beginners’ language 
+learning. ReCALL, 20(3), 315–330. 
+Kimura, T., Komatsu, Y., Shimagawa, S., Shirahase, F., & Sekine, M. (2005). Nerawareru! Kojinyohou p 
+higaikyousai no houritsu to jitsu [Personal data, privacy and their violation: Law support and cases]. 
+Tokyo, Japan: Civil Law Research Association. 
+Koskinen, P., Blum, I., Bisson, S., Phillips, S., Creamer, T., & Baker, K. (2000). Book access, shared 
+reading, and audio models: The effects of supporting the literacy learning of linguistically  diverse 
+students in school and at home. Journal of Educational Psychology, 92(1), 23–36. 
+Krashen, S. (1989). We acquire vocabulary and spelling by reading: Additional evidence for the input 
+hypothesis. Modern Language Journal, 73, 440–464. 
+Lan, Y., Sung, Y., & Chang, K. (2007). A mobile-device supported peer-assisted learning system for 
+collaborative early EFL reading. Language Learning & Technology, 11(3), 130–151. Retrieved from: 
+http://llt.msu.edu/vol11num3/pdf/lansungchang.pdf 
+Lu, M. (2008). Effectiveness of vocabulary learning via mobile phone. Journal of Computer Assisted 
+Learning, 24(6), 515–525. 
+MyNavi Co. Ltd. (2012). Lifestyle survey on 2013 university graduates. Retrieved from 
+http://saponet.mynavi.jp/mynavienq/data/mynavienq_20120124.pdf 
+Ngeow, K. (1998). Motivation and transfer in language learning. ERIC Digest. Retrieved from 
+http://www.ericdigests.org/1999-4/motivation.htm 
+Oxford, R., & Shearin, J. (1994). Language learning motivation: Expanding the theoretical framework. 
+The Modern Language Journal, 78(1), 12–28. 
+Pincas, A. (2004). Using mobile support for use of Greek during the Olympic Games 2004. In 
+Proceedings of M-Learn Conference 2004. Rome, Italy: Learning and Skills Development Agency. 
+Rutherford, W. (1987). Second language grammar: Learning and teaching. New York, NY: Longman.  
+Shudong Wang and Simon Smith  Reading and Grammar Learning Through Mobile Phones 
+ 
+Language Learning & Technology  134 
+Stockwell, G. (2008). Investigating learner preparedness for and usage patterns of mobile learning. 
+ReCALL, 20(3), 253–270.  
+Stockwell, G. (2010). Using mobile phones for vocabulary activities: Examining the effect of the 
+platform. Language Learning & Technology, 14(2), 95–110. Retrieved from: 
+http://llt.msu.edu/vol14num2/stockwell.pdf  
+Takase, A. (2003). Effects of eliminating some demotivating factors in reading English extensively. JALT 
+2003 Conference Proceedings (pp.95–103). Shizuoka, Japan: JALT.  
+Taylor, D., Drummond, C. & Strang, C. (1997). Surveying general practitioners: does a low response rate 
+matter? The British Journal of General Practice, 47(415), 91–94. 
+The Cabinet Office of the Japanese Government. (2005). Act on the protection of personal information. 
+Retrieved from http://www.cas.go.jp/jp/seisaku/hourei/data/APPI.pdf 
+The Cabinet Office of the Japanese Government. (2011). Survey result of Internet use of Japanese 
+teenagers.  Retrieved from http://www8.cao.go.jp/youth/youth-harm/chousa/h23/net-
+jittai/pdf/kekka_g.pdf 
+Thornton, P., & Houser, C. (2005). Using mobile phones in English education in Japan. Journal of 
+Computer Assisted Learning, 21, 217–228. 
+Wang, S., & Heffernan, N. (2010). Ethical issues in Computer-Assisted Language Learning: Perception 
+should be in place s of teachers and learners. British Journal of Educational Technology, 41(5), 796–813. 
+Wang, S. & Higgins, M. (2006). Limitations of mobile phone learning. The JALT CALL Journal, 2(1), 3–
+14. 
+Warshauer, M. (1997). Computer-mediated collaborative learning: Theory and practice. Modern 
+Language Journal, 81(4), 470–481. 
+Waycott, J., & Kukulska-Hulme, A. (2003). Students' experiences with PDAs for reading course 
+materials. Personal and Ubiquitous Computing, 7(1), 30–43. doi: 10.1007/s00779-002-0211-x  
+Yamaguchi, T. (2005). Vocabulary learning with a mobile phone. Program of the 10th Anniversary 
+Conference of Pan-Pacific Association of Applied Linguistics. Edinburgh, UK. 

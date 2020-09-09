@@ -1,0 +1,959 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol1num1/chun_plass/default.html 
+July 1997, Volume 1, Number 1 
+pp.60-81 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 1997, ISSN 1094-3501 55 
+RESEARCH ON TEXT COMPREHENSION 
+IN MULTIMEDIA ENVIRONMENTS 
+Dorothy M. Chun 
+University of California, Santa Barbara 
+Jan L. Plass 
+University of New Mexico 
+ABSTRACT 
+Based on underlying theories of L2 reading comprehension and text comprehension with 
+multimedia, and in light of the new tools and modes of information presentation that are now 
+available, researchers have a variety of avenues for studying how people comprehend text in a 
+second language with the help of multimodal instructional materials. In this paper we discuss how 
+L2 reading research is focusing increasingly on the cognitive processes involved in reading, that 
+is, the interaction of lower-level, bottom-up processes such as vocabulary acquisition with higher-
+level, top-down processes such as activating prior knowledge. We combine this knowledge with 
+current research on learning with multimedia, focusing on how learners integrate verbal and 
+visual information, particularly with respect to the individual differences among learners that 
+moderate, if not determine, learning processes. 
+INTRODUCTION 
+The process of reading and comprehending in one's native language (L1) is very complex, due to the 
+myriad of factors that interact with each other in a non-linear and non-sequential manner. The issues and 
+their accompanying complexity are further compounded when describing and understanding reading 
+comprehension in a second or foreign language (L2). In facilitating L2 reading comprehension, the use of 
+sound, pictures, and animated pictures or video in addition to text have played an important role in 
+vocabulary acquisition and in overall text comprehension, and are unquestioned components of 
+instructional materials for language learning (Chun & Plass, 1996a, 1996b; Cohen, 1987; Hanley, Herron, 
+& Cole, 1995; Leow, 1995; Oller, 1996; Omaggio, 1979; Secules, Herron, & Tomasello, 1992). The 
+possibility of an instructional use for these different modes of information on a computer raises questions 
+concerning learning from media (Clark, 1994; Clark & Salomon, 1986; Kozma, 1991; Ross, 1994), and 
+concerning the specifics of language learning with multimedia. 
+Of special interest are questions regarding the difference in cognitive processes in learning from different 
+sources, and regarding the effect of individual learner differences on learning from media. How does the 
+process of comprehension of text differ from comprehension of pictures, and how does the combination 
+of pictures and text affect comprehension? What effect do students' learning preferences, abilities, and 
+cognitive styles have on the answers to these questions? This paper is concerned with the research 
+regarding text comprehension in multimedia environments. We first summarize research results in L2 
+reading comprehension and text comprehension with multimedia, and synthesize these findings into a 
+model of L2 reading comprehension with multimedia. We then review the research questions currently 
+asked by scholars working in the field and, based on the model proposed, derive new and more specific 
+research questions. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 56 
+L2 READING COMPREHENSION 
+Historical Perspective 
+From a historical perspective, our understanding of reading in a second or foreign language (L2) has 
+changed considerably in the last several decades. In the mid- to late 1960s, reading was considered a skill 
+for learners to acquire, mainly to reinforce the grammar and vocabulary being taught orally (e.g., under 
+audiolingualism). In the 1970s researchers argued that greater importance should be placed on reading 
+and advocated a psycholinguistic model or theory of reading (Goodman, 1967; Smith, 1971, 1979). 
+During the 1980s the perspectives of Goodman and Smith were extended, and L2 researchers began to 
+examine L1 reading research more closely (e.g., Bernhardt, 1991; Goodman, 1985; Smith, 1982). 
+Currently, there are two overlapping approaches to viewing and describing reading that reflect, in part, the 
+development of reading research. The first might be termed a "reading components" perspective in that 
+reading is subdivided into skills and knowledge areas. This approach goes well beyond viewing reading 
+as a simple collection of skills or knowledge in that it also focuses on the cognitive processes involved in 
+reading in general. The second approach to describing reading is in terms of metaphors: The most 
+prevalent metaphors in the literature are the bottom-up approaches, the top-down approaches, and the 
+interactive approaches. Due to the fact that many of the current views of L2 reading have been shaped by 
+research on L1 readers, this section first summarizes the main characterizations of L1 reading 
+comprehension. The additional factors that come into play when dealing with L2 reading comprehension 
+will be discussed next. Finally, a comparison of L1 and L2 readers in terms of cognitive comprehension 
+processes will lead into the following section on text comprehension with multimedia. 
+Reading Components Approach 
+Briefly, the view of reading from a so-called "reading components" perspective proposes to subdivide 
+reading into six general component skills and knowledge areas (as summarized by Grabe, 1991): (a) 
+automatic recognition skills; (b) vocabulary and structural knowledge; (c) formal discourse structure 
+knowledge; (d) content/world background knowledge; (e) synthesis and evaluation skills/strategies; and 
+(f) metacognitive knowledge and skills monitoring. Some researchers rank these factors in terms of 
+importance for the comprehension process. For example, Laufer & Sim (1985) posit the following factors 
+in order of decreasing importance: knowledge of vocabulary, subject matter, discourse markers, syntactic 
+structure. In essence, they find that vocabulary is most important, syntax least important. 
+It is important to note that the above-mentioned skills are increasingly being described by cognitive and 
+educational psychologists in terms of the processes that learners go through in developing such skills or 
+knowledge. For example, the so-called "automatic recognition skills" that typically involve recognizing 
+letters, characters, and words have recently begun to be recognized as important in L2 reading. Automatic 
+lexical access involves lower-level processing and, in a fluent reader, requires little processing capacity 
+(cf. Koda, 1992). 
+With the shift in emphasis from a pure skills approach to a process approach, researchers turned to the 
+comprehension research that formed a major domain of the field of cognitive psychology. Thus, most of 
+the current views of L2 reading have been shaped by the solid and extensive body of research by 
+cognitive psychologists on L1 reading comprehension (Grabe, 1991). There are a number of excellent 
+reviews of the literature on L1 reading comprehension (e.g., Bernhardt, 1991; Grabe, 1991; Horiba, 1996; 
+Swaffar, Arens, & Byrnes, 1991). As an overall description of the process of reading comprehension, 
+Swaffar et al. state that "fluent readers synthesize textual subsystems (e.g., content, context, intent, 
+language) into a larger metasystem of meaning" (p. 21) and that "in short, readers comprehend a text 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 57 
+when they construct a mental representation for incoming pieces of verbal information" (p. 22), see 
+section "Text Comprehension with Multimedia." De Beaugrande (1982), among others, concludes that 
+"what is in fact comprehended is not sentences, but conceptual content" (p. 180). 
+One cognitive view of reading suggests that it is a process or set of ordered stages, consisting of a 
+beginning state, an end state, and intervening transformations (e.g., Just & Carpenter, 1987). Some 
+researchers believe that reading comprehension involves multiple cognitive processes that are 
+hierarchically related to one another (e.g., Horiba, 1996). These processes (from recognizing letters, 
+characters, and words, to analyzing the syntactic and semantic structure of clauses and sentences, to 
+generating inferences) must take place in an orchestrated manner (Rayner & Pollatsek, 1989). However, 
+neither the "hierarchy of processes" view nor the proposition that they take place in an "orchestrated 
+manner" insists that the process be linear. Just and Carpenter (1980) define the process as a clearly 
+nonlinear one. Readers are active in the selection of portions of the text for processing, and former 
+portions of the text may inform latter ones, just as latter portions of the text may inform former ones 
+through feedback. Similarly, other researchers believe that reading comprehension results from interactive 
+variables that operate simultaneously rather than sequentially (Samuels & Kamil, 1984; Swaffar et al., 
+1991). 
+A second major approach to understanding the reading process is to describe it using metaphors. The 
+three most common metaphors for describing the reading process are bottom-up processing, top-down 
+processing, and interactive processing (cf. Samuels and Kamil, 1984; Silberstein, 1987; Swaffar et al., 
+1991). These terms and metaphors are described below. 
+Metaphoric Approaches 
+Bottom-up processing models place primary emphasis on textual decoding. They can be seen as data-
+driven and emphasize the priority of the text as input and, hence, lower-level processes such as letter and 
+word recognition. In contrast, top-down models place primary emphasis on reader interpretation and prior 
+knowledge. They are seen as concept-driven, in the sense that the text is "sampled" and predictions are 
+made on the basis of the reader's prior syntactic and semantic knowledge (Goodman, 1967). Other models 
+are more balanced in suggesting that linguistic knowledge from several sources (orthographic, lexical, 
+syntactic and semantic) interacts in the L1 reading process (Rumelhart, 1977). Readers may also try to 
+compensate for deficiencies at one level (e.g., word recognition) by relying more on a source at a lower or 
+higher level (e.g., contextual knowledge) (Stanovich, 1980). Texts are described in terms of their 
+linguistic properties, their content and organization, and whether or not they are authentic texts or 
+discourse. Readers are described in terms of their linguistic competence, their background or world 
+knowledge, and affective factors (e.g., learning styles, motivation) (cf. Swaffar et al., 1991). 
+A third metaphor posits interactive processing in seeking to explain the reading process. The term 
+interactive approaches can refer to two different conceptions: (a) to the general interaction between reader 
+and text, that is, the reader makes use of information from his/her background or prior knowledge in 
+(re)constructing the text information; and (b) to the interaction of many component skills that work 
+together simultaneously in the process. "Simply stated, reading involves an array of lower-level rapid, 
+automatic identification skills and an array of higher-level comprehension/interpretation skills" (see 
+Grabe, 1991, p. 383; Williams & Moran, 1989). Interestingly, most cognitive psychologists stress the 
+interaction-of-skills arrays whereas most L2 researchers stress the interaction between reader and text. In 
+sum, an interactive approach to reading is one that takes into account the contributions of both lower-level 
+processing skills (identification or decoding) and higher-level comprehension and reasoning skills 
+(interpretation and inferencing). It is widely believed that comprehension results from these interactive 
+variables operating simultaneously rather than sequentially. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 58 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 59 
+Reading Problem or Language Problem? 
+We now turn to some of the main factors that influence L2 reading but that are not normally considered in 
+L1 research, namely: (a) differences in background knowledge, that is, L2 readers start with a smaller L2 
+vocabulary knowledge than L1 speakers possess when beginning to read in their native language, but L2 
+readers start with greater world knowledge; (b) differences in language processing, that is, the transfer 
+effects or interference from L1 to L2 on the orthographic, lexical, syntactic, and discourse levels (cf. 
+Koda, 1993); and (c) differences in the social context concerning literacy, that is, expectations about 
+reading and how texts can be used (Grabe, 1991). 1 
+In considering the factors listed above, one of the most prevalent questions in recent research is: Is L2 
+reading more a reading or a language problem? (cf. Taillefer, 1996). The question was first posed by 
+Alderson (1984) who states it is both, "but with firmer evidence that it is a language problem, for low 
+levels of foreign language competence" (p. 24). After a decade of research, the question of whether L2 
+knowledge or L1 reading would be the better predictor of second language reading performance was 
+revisited by Bernhardt and Kamil (1995). They note that the two hypotheses most commonly associated 
+with L2 reading are in conflict because of the either/or nature of the question. The first hypothesis, 
+initially termed the "short circuit hypothesis," now referred to as the Linguistic Threshold Hypothesis 
+(LTH), states: In order to read in a second language, a level of second language linguistic ability must 
+first be achieved. In other words, language is the key factor in reading. The second hypothesis is referred 
+to in the recent literature as the Linguistic Interdependence Hypothesis (LIH), stating that: Reading 
+performance in a second language is largely shared with reading ability in the first language. The idea is 
+that once the ability to read has been acquired, it can be transferred to a second language. 
+Bernhardt and Kamil (1995) reviewed studies since 1984, analyzed their own new data, and found 
+considerable consistencies "in the amount of variance accounted for by first language literacy (upwards of 
+20 per cent). However, linguistic knowledge is consistently a more powerful predictor (upwards of 30 per 
+cent)" (p. 15). Based on the results of their study, they conclude that the question is not unambiguously 
+answerable. They instead propose to restate the problematic and ask both: (1) How first language (L1) 
+literate does a second language reader have to be in order to make the second language (L2) work? and 
+(2) How much second language (L2) knowledge does a second language reader have to have to make the 
+first language (L1) reading knowledge work? It then becomes important to consolidate both LIH and LTH 
+in order to account more precisely for the remaining 50 percent of the variance in L2 reading that is yet to 
+be explained. 
+The apparent interdependence of L1 and L2 abilities leads to the question of how L1 and L2 readers 
+compare in terms of cognitive comprehension processes (cf. Davis & Bistodeau, 1993). Are there two 
+separate, yet parallel cognitive processes at work, or are there generic language, and more specifically, 
+generic discourse processing strategies that accommodate both first and second languages? (Bernhardt, 
+1991). Beginning L2 readers are thought to focus on low-level process strategies (e.g., word 
+identification), whereas more proficient readers shift attention to more abstract conceptual abilities and 
+make better use of background knowledge; that is, they use textual information to confirm and predict the 
+information in the text (Coady, 1979). Recent evidence has in fact shown that L1 readers use much of 
+their attention for higher level processes such as the generation of inferences and general knowledge 
+associations, more so than L2 readers, who pay more attention to lower level processes (Horiba, 1996). 
+In conclusion, although the broad goal of this paper is to better describe and understand the components 
+and processes in text comprehension, it is not feasible to discuss in detail all of the factors and 
+perspectives listed above. We will thus propose a model of the basic components and processes in L2 
+reading as visualized in Figure 1, and acknowledge the numerous other moderating factors under the 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 60 
+rubric of individual differences (e.g., prior knowledge; learning preferences; spatial, verbal and linguistic 
+ability). Our model focuses on the relationship between a micro- or lower-level component, vocabulary 
+knowledge, and the macro- or higher-level component of propositional comprehension. It is hypothesized, 
+first, that proficient readers utilize both bottom-up and top-down processing, and that successful 
+comprehension is the result of an interaction and smooth transitions between both types of processing (cf. 
+Coady, 1993; Silberstein, 1987; Swaffar et al., 1991), and second, that presenting information in multiple 
+modes can facilitate the different types of comprehension processes. The latter will be discussed in more 
+detail in the following section. 
+TEXT COMPREHENSION WITH MULTIMEDIA 
+Multimedia environments allow for the addition of visual and auditory information to a text in order to 
+improve comprehension. In this section, we will first summarize the cognitive processes involved in text 
+comprehension without these types of additional information. Based on the differences between 
+comprehending text and comprehending graphics, we will then expand our model by identifying the 
+function of multimedia information as aids to text comprehension. 
+As discussed briefly in the preceding section, the process of text comprehension in the first language (L1) 
+is described in current models as an active process of constructing mental representations of the text 
+information. This involves first the construction of a mental representation of the text's linguistic surface 
+structure, then the construction of a propositional representation of the semantics of the text, and 
+eventually the construction of a mental model of the subject matter described in the text with the help of 
+existing cognitive schemata (Carrell, 1984b; Johnson-Laird, 1983; Schnotz & Grzondziel, 1996; van Dijk 
+& Kintsch, 1983). 
+The term "propositional representation" is used to describe subject matter in a hypothetical mental 
+language in single statements each of which is either true or false. A "mental model" is "a mental 
+representation consisting of parts that interact with one another according to principle-based rules" 
+(Mayer, 1993, p. 242). Examples for mental models are a mental model of a meteorological system or, in 
+the case of literary texts, a mental model of settings, events, and characters in a novel. When reading a 
+text, mental models are created based on propositional representations, using prior knowledge and 
+experiences in the form of existing cognitive schemata (i.e., descriptions of typical objects and scenarios). 
+The resulting mental model is a hypothetical internal quasi-object that represents subject matter based on 
+a structural or functional analogy between the subject matter and the model. Like schemata, it also 
+represents typical objects or scenarios. The mental model can then be used to derive new information 
+regarding the subject matter. 
+The difference between learning from text and learning from pictures results from the different types of 
+representations of knowledge: Text represents information in symbolic structures of a language and is 
+processed sequentially, that is, word by word or sentence by sentence (Schnotz, 1993; Schnotz & 
+Grzondziel, 1996). Pictures, on the other hand, convey their information by means of a visuo-spatial 
+structure (i.e., the spatial arrangements of the components of the picture), and thus represent the subject 
+matter by employing an analogy based on common structural properties (Clement & Gentner, 1991; 
+Gentner, 1983; Johnson-Laird, 1983; Schnotz, 1993; Vosniadou & Ortony, 1989) and encode information 
+in parallel or simultaneously (Clark & Paivio, 1991). 
+Schnotz (1993) argues that the construction of a mental model of subject matter is qualitatively different 
+in learning from text and learning from images. He argues that "graphics, like mental models, possess also 
+inherent structural properties used for their representational functions, which is not the case with text" (p. 
+248). Consequently, while the construction of a mental model from text requires the construction of 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 61 
+propositional representations, which then have to be integrated into the mental model, the use of images 
+"provides the possibility of a relatively direct construction of a mental model" (p. 248-249), since they, 
+like mental models, employ analogies to represent the subject matter. In other words, text comprehension 
+requires an indirect transformation between the symbolic representation of the text and the analog mental 
+model, while the comprehension of an image requires establishing an analogy between the picture and the 
+corresponding mental model. This bypasses the propositional representation of information altogether, 
+and is thus assumed to be language independent. The question, then, is: How can we combine both types 
+of representations to improve comprehension of a text? 
+Multimedia Aids for Text Comprehension 
+The model described above views text comprehension as the process of transforming a symbolic 
+representation of information into a propositional representation, and then, based on cognitive schemata, 
+into an analog mental model. How can these processes be supported by additional sources of information? 
+Mayer (1984) names three types of aids for text comprehension: (a) aids for selecting information; (b) 
+aids for building internal connections; and (c) aids for building external connections. Aids for selecting 
+information serve mainly to focus the reader's attention on certain aspects of the target information and 
+thus improve the chance that this information is processed. Following the proposed model, this would 
+assure that a propositional representation of the information is in fact constructed. Aids for building 
+internal representations are designed to support the reader's building of internal connections among the 
+units of information presented, that is, organizing the presented information into a coherent structure of 
+the logical relations among idea units in the text. This will help assure a coherent structure of the 
+propositional representations, based on cognitive schemata. The third type of aids for text comprehension, 
+aids for building external connections, are designed to help the reader build connections between the ideas 
+in the text and an existing mental model, thus integrating these new ideas into the existing mental model 
+(Mayer, 1984; Resnick, 1982). These aids support the construction and extension of the mental model 
+based on the propositional representations. 
+The introduction of aids in presentation modes other than text can be based on these three types of aids 
+for text comprehension. Although the process of learning from different sources of information, using 
+different types of representations of the subject matter, can engage the learner in qualitatively different 
+cognitive processes, it is ultimately the function of the three different types of aids in the process of text 
+comprehension that is of interest. For example, the integration of new information into the existing mental 
+model can be supported with a concrete advance organizer (Ausubel, 1960; Mayer, 1984). This advance 
+organizer could be presented either as text or as a video. Although the cognitive processes involved in 
+comprehending the text are qualitatively different from those involved in comprehending the video, the 
+function of the concrete advance organizer as support for the integration of information into the mental 
+model remains unchanged, irrespective of the presentation mode. 
+With the use of information in multiple presentation modes, the aids for text comprehension could 
+conceivably be presented in textual form, in visual form, in auditory form, or in any combination of these 
+presentation modes. It should be emphasized that the processing of the material is the focus of our 
+investigation, not the stimulus material provided to the learner. While spoken text as an auditory form of 
+presenting information is perceived by the learner through a different perceptual channel than a written 
+text, it is like written text in using a symbolic representation of information, and thus involves similar 
+cognitive processes of text comprehension. Visual information, on the other hand, is an analog 
+representation of information that can be directly mapped onto the mental model by establishing an 
+analogy between the visual information and the corresponding mental model (Gentner, 1983; Schnotz & 
+Grzondziel, 1996). 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 62 
+Applying Mayer's (1984) aids for text comprehension to multimedia aids, Figure 2 extends our proposed 
+model by proposing the different functions multimedia information can have to aid text comprehension: It 
+can support the processes of selecting information, of building internal representations (organizing the 
+presented information into a coherent structure), and of building external connections (integrating these 
+new ideas into the existing mental model). 
+In summary, learning from text and learning from pictures are qualitatively different ways of constructing 
+mental models. While text comprehension is an indirect transformation between a text as a symbolic 
+representation and the mental model as an analog representation, picture comprehension is a direct 
+mapping of the picture as an analog representation onto the mental model as an analog representation by 
+establishing an analogy between the visual information and the corresponding mental model (Schnotz, 
+1993; Schnotz & Grzondziel, 1996). These qualitative differences can be used to aid text comprehension, 
+namely, in supporting the processes of selecting information, organizing the presented information into a 
+coherent structure, and integrating these new ideas into the existing mental model (see Figure 2; Mayer, 
+1984). 
+In the following section we will further describe our proposed model of text comprehension in 
+multimedia environments by specifying the function of multimedia information to support the cognitive 
+processes involved in text comprehension. 
+Proposed Model of Text Compprehension in Multimedia Environments 
+A number of models address the collaborative effects of spatial and verbal processes to enhance 
+comprehension and recall. The model proposed here integrates and expands some of these existing 
+models (cf. Figure 1). On a micro level, the enhancing effects of the use of verbal and nonverbal (e.g., 
+visual) presentation modes of information on vocabulary acquisition can be interpreted in terms of dual 
+coding (Paivio, 1971, 1986). The dual coding theory postulates the existence of two different storage 
+systems for information--a verbal and a nonverbal system. Information in a symbolic representation is 
+stored in the verbal system, information in a nonverbal, analog representation is stored in the nonverbal 
+system. These systems are defined to be independent, allowing for additive effects in recall if information 
+is coded dually (i.e., in both systems). 
+In an extension of the dual coding theory to multimedia learning, Mayer and Sims (1994) found that the 
+contiguous presentation of visual and verbal material made it more likely for the learner to build 
+referential connections between the visual representation and the verbal representation in short-term 
+memory, which resulted in better performance in transfer tasks than the successive presentation of the 
+materials, especially for high-ability students. The advantages of storing information in two different 
+systems are: (a) a more elaborate encoding, resulting in more retrieval routes to the material; (b) the 
+possibility of storing more information in these two systems; and (c) the opportunity to store information 
+in the optimal system for the specific type of information, for example, symbolically coded information in 
+the verbal system, or information coded in an analog form in the nonverbal system (Kirby, 1993; Paivio, 
+1971, 1986). 
+On a macro level, text comprehension with multimedia can be interpreted with a generative theory of 
+multimedia learning (Mayer, 1997). The generative theory of multimedia learning views the learner as 
+knowledge constructor who actively selects relevant words and images from the information presented, 
+organizes these words and images into coherent mental representations, and integrates the newly 
+constructed visual and verbal representations with one another (Mayer, 1997). These cognitive tasks are 
+based on cognitive abilities and cognitive styles of the individual that have an influence on the preference 
+for using one type of information over another, and on performance when the learner is allowed to use 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 63 
+either visual or verbal information, or a combination of both, for learning. The apparent effect of 
+individual differences on learning from different sources will be discussed later in this paper. 
+In summary, we postulate that different cognitive processes are involved in micro level processing and 
+macro level processing of multimedia information (cf. Figure 1). On a micro level (e.g., vocabulary 
+acquisition), the presentation of visual information contiguously with verbal information results in the 
+construction of referential connections between the verbal and the visual mental representations of the 
+material, and the storage of the information in two different systems, a verbal and a nonverbal system 
+(dual coding). On a macro level (e.g., overall text comprehension), visual information serves as an aid for 
+text comprehension and functions as supplemental information that is added to the mental model of the 
+text by mapping the analog visual representation onto the analog mental model. The visual information 
+can aid in text comprehension in three different functions: (a) in selecting information, (b) in organizing 
+the selected information into a coherent structure of propositions using cognitive schemata, and (c) in 
+integrating these propositions into the mental model. Consequently, visual material to support vocabulary 
+acquisition has to be designed differently from visual material to aid text comprehension, depending on 
+the cognitive processes to be supported. It can be expected, however, that under some circumstances the 
+use of different presentation modes of information can have deleterious effects in the processing of the 
+information. This will be the issue of the following section. 
+Deleterious Effects of Learning with Multimedia 
+As described in the last section, studies have shown that collaborative effects of processing of verbal and 
+visual information can enhance learning. Other studies, however, found that there can also be competitive 
+effects of learning from different sources, such as task interference between modes of processing, the 
+directing of attention, and learners' individual differences. 
+Task interference can occur in complex tasks when the visual and verbal processes are not automated but 
+require executive resources, and when they have to be executed under time pressure (Kirby, 1993). For 
+example, when viewing a film in a foreign language, a learner may not have enough executive resources 
+to comprehend the foreign language and all the visual information given. Similarly, information in 
+different presentation modes that are perceived through the same channel can compete for perceptual 
+resources (Mayer & Anderson, 1991). For example, an animation (visual presentation mode) may be 
+accompanied by a text (verbal presentation mode). If both pieces of information have to be perceived 
+visually, though, (e.g., when the text is printed), then the learner may have to split attention between both 
+types of information, which may have deleterious effects on learning. However, Mayer and Anderson 
+(1991) found that when the text information is presented as voice over, using a perceptual modality other 
+than the animation, learning and transfer can be improved. 
+When presented with both visual and verbal information, the learner may direct his or her attention to the 
+type of information perceived as more important or more interesting, away from the other mode which 
+may in fact contain more important information. This assumption on the part of the learner can for 
+instance be based on interest, on the perceived demand characteristics of a source, or on the learner's 
+perceived self efficacy in processing material from a particular source, and results in a different amount of 
+invested mental effort (Kirby, 1993; Salomon, 1983; see Figure 1). 
+Animated pictures, for instance, convey in addition to the visuo-spatial structure of static pictures 
+information about the transformation of the structure over time. This can be seen as an aid to create 
+dynamic, runable mental models of the information presented. The use of animated pictures or video, 
+however, may lead to a lower amount of invested mental effort than the use of static pictures (Chun & 
+Plass, 1996a; Salomon, 1983; Schnotz & Grzondziel, 1996). Salomon (1983) found that children invest 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 64 
+less mental effort in comprehending materials on television than they invest in materials in print, and 
+perceive materials presented on television as shallower and less variable than materials presented in print. 
+In a more recent study, Schnotz and Grzondziel (1996) compared learning from static pictures and 
+animated pictures of time zones of the earth and found that learners who had access to the animated 
+pictures did not perform better in questions requiring the use of mental simulations. They conclude that 
+the use of animated pictures can result in a more superficial processing of the subject matter than the use 
+of static pictures. Chun and Plass (1996a) found a similar effect for L2 vocabulary acquisition, where 
+students who used the text and picture annotations scored higher on the follow-up vocabulary test than 
+students who used text and video annotations. 
+In the preceding sections of the paper we have repeatedly mentioned the moderating effects of individual 
+differences on learning and performance. In the following section we will take a closer look at some of 
+these learner variables that are especially related to text comprehension in multimedia environments. 
+INDIVIDUAL DIFFERENCES 
+A large number of studies indicate that individual differences can have a moderating effect on L2 reading 
+comprehension, as well as on learning from information presented in different modes. Salomon (1989), 
+for instance, points out that text and pictures affect learning for the cognitive functions they can and do 
+perform, and that individual differences, among other factors, do not only moderate, but often determine 
+how stimuli are perceived and processed. These differences include, but are not limited to, linguistic 
+competence, prior knowledge, learning styles, cognitive styles (e.g., reflection/impulsivity and field 
+dependence/independence; cf. Jamieson, 1992), abilities (general, spatial, verbal), strategies (cf. 
+Anderson, 1991; Kern, 1989; Raymond, 1993), and affective factors, such as interests, motivation, and 
+attitude (cf. Gardner, Day, & MacIntyre, 1992). 
+While most of these learner variables have an effect on learning and performance in general, some are 
+especially associated with L2 reading comprehension and with learning in multimedia environments. 
+Examples are verbal and spatial abilities, visualizer and verbalizer learning preferences, and background 
+knowledge. Since space prevents a comprehensive review of the subject, we will focus on these 
+individual differences and their effect on second language acquisition and especially L2 text 
+comprehension with multimedia. A number of books and articles offer a more thorough review of 
+individual differences in general than will be given here (e.g., Ehrman & Oxford, 1989, 1990; Jonassen & 
+Grabowski, 1993; Keefe, 1989; Reid, 1987; Skehan, 1991). 
+Verbal ability. While verbal ability has been shown to have effect on text comprehension (Knight, 1994), 
+some studies also found it to be a predictor for the effectiveness of visual aids. Levie and Lentz (1982), 
+for instance, concluded in a review of research on illustration effects that visual aids may be more helpful 
+to learners with low verbal ability than for those with high verbal ability. Peek (1993) suggests that poor 
+readers may be less capable of building mental representations based on the text itself, but may with the 
+help of visual aids be able to build the appropriate representations. 
+Spatial ability. Denis (1982) found in a series of four experiments on text comprehension that high 
+imagers, who tend to elaborate images that express the content of the text they are reading, spend more 
+time reading and have a better recall of a descriptive text that evoked imagery than low imagers who tend 
+not to imagine while they are reading. Using an abstract, nonimageable text, no differences between the 
+groups in reading time or recall were found. A number of studies of attribute x treatment interactions 
+(ATI) show, for example, that multimedia effects are strongest for low-prior knowledge and high-spatial 
+ability students (Mayer & Gallini, 1990; Mayer, Steinhoff, Bower, & Mars, 1995; Mayer & Sims, 1994). 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 65 
+Visualizer/Verbalizer. Studies of ATI effects involving learning preferences (e.g., the 
+visualizer/verbalizer preference), found a moderating effect of these preferences both on vocabulary 
+acquisition (Chun & Plass, 1996a) and L2 reading comprehension (Chun & Plass, 1996b). While students 
+who reported remembering verbal annotations did not remember more definitions overall than did 
+students who reported remembering visual annotations, the analysis revealed a significant interaction of 
+learning preferences and annotation type, in which visualizers were more likely to correctly produce a 
+definition when they reported using a visual retrieval cue (i.e., being reminded of a corresponding picture 
+or video) than when they reported using a verbal retrieval cue (i.e., being reminded of reading a text 
+definition). Similarly, verbalizers were more likely to correctly produce a definition when they reported 
+using a verbal retrieval cue rather than a visual one. 
+These results suggest that visualizers are more effective in using visual cues for remembering vocabulary 
+information whereas verbalizers are more effective in using verbal cues. For text comprehension, Plass, 
+Chun, Mayer, and Leutner (1997) found that visualizers performed better on propositions for which both 
+visual and verbal annotations were provided than on those for which only verbal annotations were 
+provided, whereas verbalizers performed well on both types of propositions. Similarly, the effect of a 
+visual preview of the text was strong for visualizers but weak for verbalizers. 
+Content and background knowledge. Proponents of top-down approaches to reading refer to a large body 
+of research on how prior knowledge affects reading comprehension and, in particular, to evidence that 
+both content schemata and cultural background information facilitate comprehension. Schema theory for 
+L2 reading has been investigated extensively and appears to be a very useful notion for describing how 
+prior knowledge is integrated in memory and used in higher-level comprehension processes (Carrell, 
+1984b, 1987; Carrell & Eisterhold, 1983; Anderson & Pearson, 1984). The theory provides a strong 
+rationale for both prereading activities and comprehension strategy training, that is, that readers need to 
+activate prior knowledge of a topic before they begin to read and that this activated knowledge facilitates 
+the reading process (Carrell, 1985, 1988). With regard to the model proposed, the activation of prior 
+knowledge using multimedia aids, such as visual advance organizers, is one method of supporting the 
+process of integrating newly acquired knowledge with an existing mental model (cf. Hanley et al., 1995). 
+In summary, an increasing number of studies can be found that investigate ATI effects involving 
+individual differences as attributes and different multimedia treatments. According to Salomon's (1972) 
+preference model, one of the potentials of multimedia is to accommodate these individual differences and 
+provide learners with the materials they need (Chun & Plass, 1996a, 1996b; Leutner, 1992; Plass et al., 
+1997). In the following section we will draw a framework of research questions that are based on the 
+belief that individual differences are one of the most important factors in studying L2 text comprehension 
+in multimedia environments. 
+RESEARCH AGENDA 
+Based on the underlying theories of L2 reading comprehension and text comprehension with multimedia, 
+and in light of the new tools and modes of information presentation that are now accessible, researchers 
+are faced with exciting avenues for future research. In this section we seek to integrate what is known 
+about L2 comprehension processes with current knowledge of learning with multimedia, and suggest a 
+research agenda specific to language learning. 
+First, with regard to L2 reading, much of the current research focuses on the cognitive processes involved 
+in reading and comprehending. Interactive approaches to reading typically view reading as a combination 
+of lower-level identification or decoding processes and higher-level comprehension and interpretation 
+processes (cf. Harrington & Sawyer, 1992). In addition, a major focus of recent research has been the 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 66 
+issue of whether L2 reading is more a language problem (i.e., dependent on linguistic competence) or a 
+reading problem (i.e., dependent on cognitive processes). In other words, what is the relative importance 
+of each of the two factors--the L2 linguistic competence and the L1 reading ability of L2 learners. 
+To elaborate on the interactive approaches to reading, one of the thorniest issues has been and remains the 
+question of how the different processes interact and whether there is a hierarchy in the degree of 
+importance of each process. Grabe (1991) states that "most current versions of interactive approaches to 
+reading have taken a strong bottom-up orientation to the processing of lower-level linguistic structure" (p. 
+384), but there are researchers who believe that, although the ability to decode vocabulary is a key 
+facilitator in L2 reading, this ability is no guarantee of understanding (Swaffar et al., 1991).2 The main 
+sources of support for favoring a bottom-up orientation to processes come from extensive research on eye 
+movement in L1 reading, which has shown (a) that readers read most words on a page and fluent readers 
+can identify the vast majority of words automatically (Rayner & Pollatsek, 1989), and (b) that most words 
+are recognized before higher-level (nonautomatic) context information can be used to influence lexical 
+access (Just & Carpenter, 1987; van Dijk & Kintsch, 1983). Hence, identification skills are extremely 
+important for fluent readers, and vocabulary recognition and acquisition become paramount in reading 
+comprehension. Specific research questions are suggested in the following sections. 
+Second, with regard to text comprehension with multimedia and following Mayer's (1997) generative 
+theory of multimedia learning, meaningful learning is said to occur when "learners select relevant visual 
+and verbal information from what is presented, organize the pieces of information into coherent visual 
+and verbal mental representations, and integrate these newly constructed visual and verbal representations 
+with others" (p. 4) The goal is to understand the processes of how people integrate verbal and visual 
+information during multimedia learning. These processes are moderated, if not determined, by individual 
+differences, such as prior knowledge, abilities, preferences, strategies, and affective factors. Multimedia 
+aids for text comprehension, independent of the presentation mode of the information, should support 
+these processes. Their design depends on their function as aids to text comprehension. The basic 
+questions posed by researchers go beyond the traditional question of whether multimedia is 
+effective.3 They address the interaction of particular characteristics of multimedia, specific learning tasks, 
+specific cognitive processes, and learner traits. 
+In the sections Vocabulary Knowledge and Acquisition (Bottom-up Process) and Text Comprehension 
+(Top-down Process), we will discuss some of the cognitive processes that have been found to be critical 
+for both L1 and L2 reading and that might be enhanced by multimedia environments. Specifically, we 
+propose research questions to be investigated in empirical studies concerning under what conditions 
+multimedia can help L2 learners integrate verbal and visual information in order to better comprehend 
+what they read; that is, what features or characteristics of information presented in different modes can be 
+shown to be effective for reading comprehension. In addition, we will subsume the issue of linguistic 
+competence and individual differences under the broader set of research questions concerned with for 
+whom multimedia instruction is effective; namely, what types of learners benefit from particular kinds of 
+multimedia instruction. 
+Vocabulary Knowledge and Acquisition (Bottom-up Process) 
+Vocabulary knowledge is considered by many researchers to be a critical feature of reading ability. Some 
+current L1 reading theories suggest that processing at the word level is central to successful reading (Carr 
+& Levy, 1990; Coady, 1993; McKeown & Curtis, 1987; Rayner & Pollatsek, 1989), that is, there may be 
+a causal connection between vocabulary knowledge and reading comprehension. In L2 research, Grabe 
+(1991) suggests that "virtually all second language reading researchers agree that vocabulary development 
+is a critical component of reading comprehension" (p. 392), and previous research has suggested that 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 67 
+annotating lexical items with different modes of information presentation has positive effects on 
+vocabulary acquisition (e.g., Kellogg & Howe, 1971; Chun & Plass, 1996a). 
+In the model proposed in Figure 1 for vocabulary acquisition, visual and verbal information presented 
+contiguously for a vocabulary item can result in dual coding of the information in a verbal and a 
+nonverbal system in the form of a verbal and a nonverbal mental representation. The contiguous 
+presentation of the two types of information allows for their simultaneous storage in short term memory 
+and for building referential connections between both representations. These connections allow for more 
+retrieval routes to access the vocabulary item and may lead to additive effects in recall. This process is 
+also strongly dependent on learner variables, such as preferences and abilities. The following questions 
+derived from this model are relevant to learning vocabulary in multimedia environments. 
+Under Which Conditions Is Multimedia Instruction Effective? 
+Under which conditions is the process of vocabulary acquisition with information in different modes 
+effective? These questions could include, but are not limited to: 
+• How should the multimedia information be designed in order to aid in the process of vocabulary 
+acquisition? What types of verbal information are helpful? What types of visual information are 
+helpful? 
+• For what types of words are visuals helpful (e.g., nouns, verbs, adjectives)? Can visuals be 
+effective, if carefully designed, for most word classes? 
+• What is the effect of presenting both verbal and visual information (e.g., dual coding effect)? 
+What effect will a contiguous presentation of two different types of information have? What 
+effect will a simultaneous presentation of two types of information have (e.g., audio plus textual, 
+audio plus visual)? 
+• How can vocabulary learning in multimedia environments be assessed? Should vocabulary tests 
+that include multimodal test items be used? 
+• What effect does vocabulary learning have on overall comprehension? 
+• What do students report remembering about modes of information presentation? Which mode of 
+information do learners use as retrieval cues for remembering/learning words? 
+For Whom Is Multimedia Instruction Effective? 
+Taking the aforementioned effect of individual differences on vocabulary acquisition into account, an 
+increasing number of research studies is concerned with the study of attribute x treatment interaction 
+(ATI) effects. However, the individual difference variables currently used to study ATI effects need to be 
+studied more specifically, and new ways of measuring these differences need to be explored. Identifying 
+subcategories for spatial ability, Schofield and Kirby (1994) found, for instance, that mental rotation 
+ability was far less related to understanding of maps than spatial visualization ability. For the assessment 
+of learning style individual differences, Leutner and Plass (1997) offer a new method of identifying 
+visualizer/verbalizer learning preferences in an L2 multimedia environment for text comprehension using 
+a behavior observation scale (VV-BOS, Visualizer/Verbalizer Behavior Observation Scale) as an 
+alternative to questionnaire-based methods, which are the focus of many critical comments (Boswell & 
+Picket, 1991; Corbett & Smith, 1984; Edwards & Wilkins, 1981; Keefe, 1989; Kirby, Moore, & 
+Schofield, 1988; Parrott, 1986). Research questions concerning the role of individual differences could 
+include, but are not limited to: 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 68 
+• Which specific individual differences variables have an effect on vocabulary acquisition in 
+multimedia environments (e.g., mental rotation as part of visual ability, vocabulary knowledge as 
+part of verbal ability)? 
+• How can these differences be measured (e.g., with instruments that observe behavior rather than 
+questionnaires)? 
+• How can an environment be designed to support the highest possible number of these differences 
+(i.e., how can adaptive environments be designed)? 
+• Which collaborative and competitive effects do multimedia information have on learners with 
+different abilities and learning styles? For example, if learners can select information about 
+individual words in different modes (e.g., visual, textual [verbal], and audio [verbal]), what do 
+they choose? For whom are visuals helpful (e.g., visualizers vs. verbalizers, high vs. low spatial 
+ability learners)? For whom are both verbal and visual information helpful (e.g., high vs. low 
+verbal ability learners, good vs. poor L1 readers, stronger vs. weaker L2 learners)? 
+Text Comprehension (Top-down Process) 
+In the process of text comprehension, the learner actively selects relevant information from what is 
+presented and constructs mental representations of the text's linguistic surface structure, which involves 
+the interaction of the linguistic features of the text and the reader's language proficiency. The reader then 
+has to construct propositional representations of the semantics of the text, that is, organize the pieces of 
+information into a coherent mental representation. These newly constructed representations, with the help 
+of cognitive schemata, have to be integrated into the existing mental model of the subject matter (cf. 
+Figure 2). Multimedia aids for text comprehension, independent of the presentation mode of the 
+information, should support these processes. Their design depends on their function as aids to text 
+comprehension. Aids for selecting information focus the reader's attention on the target, for example, by 
+using visual cues or adjunct questions). Aids for building internal connections support organizing the 
+visual and the verbal information into coherent mental representations, for example, by using overview 
+maps as visualization of structural information or an outline with headings. Aids for building external 
+connections help the reader build connections between the resulting visual and verbal representations and 
+their integration with one another, for example, by using a visual advance organizer or audio (cf. Figure 
+2). These processes are moderated, if not determined, by individual differences, such as prior knowledge, 
+abilities, preferences, strategies, and affective factors. Related research questions are concerned with the 
+design of each type of aid and with the effect of individual difference variables on the effectiveness of 
+these aids for text comprehension. 
+Under Which Conditions Is Multimedia Instruction Effective? 
+• Which types of multimedia information are useful for each type of aid for text comprehension? 
+• For example, first, in order to focus the reader's attention, do adjunct questions, which readers can 
+answer within a computer program and for which they can receive immediate feedback, facilitate 
+comprehension? (Cf. CyberBuch comprehension questions, types 1 and 2.) 
+• Second, in order to help the reader organize visual and verbal information into coherent internal 
+mental representations, can the use of graphic representations of knowledge structures, such as 
+overview maps, facilitate learning? (Cf. Tang, 1992, who reported that tree graphs facilitated 
+comprehension in ESL reading.) 
+• Third, how can prior knowledge be activated by multimedia prereading activities in order to help 
+readers build external connections, such as advance organizers in verbal (textual, audio) form and 
+visual (graphic, photographic, or videographic) form? (Cf. Teichert (1996) found that multiple 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 69 
+advance organizers plus audio- and videotapes enhanced listening comprehension.) In other 
+words, what types of verbal or visual information are helpful for activating prior knowledge? 
+• How should multimedia information be designed to help each process of text comprehension 
+(focusing attention, building internal connections, building external connections)? For example, 
+for what types of propositions is visual information, as opposed to, or in addition to, verbal 
+information, helpful (e.g., setting the scene, depicting actions or events)? 
+For Whom Is Multimedia Instruction Effective? 
+• For whom are certain types of multimedia information helpful for each of the processes of text 
+comprehension? For example, for whom are graphics and visuals helpful for focusing attention, 
+for illustrating knowledge structures or organizational structures of texts, for activating prior 
+knowledge, for the depiction of propositions, or for constructing mental models? 
+• How do different learners respond to different modes of information presentation? For example, 
+do low ability learners (e.g., weaker L1 readers or L2 learners) want or need more literal 
+depictions? Do high ability learners (e.g., stronger L1 readers or L2 learners) prefer more 
+figurative or abstract depictions so that they can construct their own mental models? 
+• How can comprehension be assessed and measured when multimodal forms of information 
+presentation have been used (cf. Wolf, 1993)? 
+CONCLUSIONS 
+The purpose of this paper has been to address the research agenda for the study of L2 reading in 
+multimedia environments. Following a review of what is currently known about L2 reading 
+comprehension and text comprehension with multimedia, as well as a discussion of the role of individual 
+differences, a model of an interactive approach to L2 reading with multimedia was proposed. On the basis 
+of this model, specific research questions for the future research agenda were suggested. Additional 
+implications of the proposed model concern research methods and principles for the design of 
+instructional multimedia materials. 
+Proposed research methods. As stated at the onset, the primary research question is not whether 
+multimedia instruction is effective, but rather under what conditions and for whom. This means that 
+studies should be designed to determine the effectiveness of specific features of multimedia materials for 
+specific types of learners, for specific learning tasks, and for specific cognitive processes. It is only by 
+isolating individual variables that gradual progress can be made in understanding the cognitive processes 
+involved in L2 reading and how they can be supported with multimedia. Some basic ideas for conducting 
+research are summarized briefly below. 
+First, the elements of multimedia materials whose effectiveness needs to be studied include: audio (e.g., 
+individual words spoken, entire narration of dialogues or texts, background sounds that enhance 
+accompanying video); graphics (e.g., charts, tables, graphs, diagrams); static or still images (e.g., 
+photographs, drawings); and dynamic video (video clips, films, animations). 
+With regard to individual differences and their role in or their effect on multimedia learning, among the 
+factors to be studied are: (a) verbal ability in L1, L2, or both, defined, for example, by scores on 
+standardized tests such as the SAT, the Kit of Factor-Referenced Cognitive Tests (Ekstrom, French, & 
+Harman, 1976), or The Nelson-Denny Reading Test (Brown, Bennett, & Hanna, 1981); (b) spatial ability 
+(e.g., as measured with the card rotation test and the paper folding tests, and standard measures of spatial 
+ability from the Kit of Factor-Referenced Cognitive Tests); (c) linguistic ability in L2 (as measured, e.g., 
+by vocabulary pre-tests, grades in L2 classes, and written essays); (d) learning preferences (e.g., 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 70 
+visualizers vs. verbalizers, as measured by observation of behavior such as VV-BOS, or self-reporting 
+questionnaires); (e) prior knowledge; (f) use of metacognitive strategies (as measured, for example, by 
+think aloud protocols); (g) word recognition ability in L1, L2, or both (as measured, for example, by eye 
+movement studies); and (h) affective factors, such as motivation, anxiety, interest (as assessed, e.g., by 
+questionnaires or interviews). 
+In addition, empirical studies should seek to strike a balance between authentic learning situations and 
+rigorous experimental conditions. The practical implications of this are that studies that allow learners 
+complete freedom in terms of which types of information they access can only provide evidence of 
+learner preferences, but cannot effectively compare the effects of particular multimedia features among all 
+learners. On the other hand, studies in which "forced" treatments are administered, while allowing for 
+direct assessment of feature effectiveness, do not reflect authentic learning environments. Thus, multiple 
+studies with different focuses are needed. 
+Design of instructional multimedia materials. One presupposition underlying the paper is that well-
+designed instructional materials would be used in empirical studies. Although the actual design of 
+multimedia instructional materials does not fall within the scope of the present paper, two important 
+principles can be derived from the proposed model. The first is that design of information presentation 
+(e.g., the selection of the mode of presentation), should be based on the cognitive processes that this 
+information aids and on how these processes can be supported by the characteristics of the particular 
+mode. For example, while for vocabulary acquisition a picture may be a good choice in depicting an 
+individual word that represents an object, for an advance organizer, a video may be a preferable choice to 
+aid the integration of information into an existing mental model of the subject matter. 
+As a second principle, the instructional materials should be designed as adaptive systems to support 
+learners with different traits, such as learning preferences and cognitive styles, so that different learners 
+can receive the type of information in the mode they need or prefer. For example, options to access 
+multiple modes of information should be available to illustrate individual words for vocabulary 
+acquisition. We argue that the combination of these two capabilities, the ability to use presentation modes 
+best suited to aid a particular cognitive process, and the possibility to support a variety of individual 
+differences within one application, are unique attributes of instructional multimedia materials. 
+Although a systematic investigation of the individual multimedia components (and under what conditions 
+they are effective), as well as of specific learner types (for whom multimedia is effective), has been 
+strongly encouraged, we must not lose sight of the broader field. We thus conclude with an overarching 
+set of questions that remains for L2 reading comprehension research as well as for research on reading 
+comprehension with multimedia, once answers to the specific questions posed in this paper have been 
+found. Does L2 reading comprehension involve multiple cognitive processes that are hierarchically 
+related to one another? How are these processes mediated by presenting information in multiple modes, 
+such as textual and visual, simultaneously or contiguously? What is the relationship between and among 
+these processes? Must these processes take place in an orchestrated manner? Is multimodal information 
+processed differently on the micro-level (e.g., vocabulary learning or recognition) as opposed to on the 
+macro-level (e.g., overall text comprehension)? How can smooth transitions between and among these 
+processes be facilitated with multimedia instruction? Recent research on many facets of second language 
+acquisition has focused increasingly on the cognitive aspects and processes of learning, and the study of 
+text comprehension with the aid of multimedia components is no exception. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 71 
+NOTES 
+1 In other words, the social view of reading is "rooted in the belief that texts are manifestations of 
+cultures... [and that] the processing of text can be viewed only within a unique context" (Bernhardt, 1991, 
+pp. 9-10). Since each cultural context will bring a different set of values into play, each cultural context 
+will provide a different reading or meaning-construction of the text. A "multifactor theory of second 
+language literacy" includes three language-based features: phono-graphemic features, word recognition, 
+syntax; and two knowledge-driven aspects: background knowledge (as described extensively in schema 
+theory) and intratextual perceptions (p. 169).]  
+2 In addition, there continues to be lively debate in cognitive psychology with regard to "modularity" vs. 
+"connectionism."  
+3 Mayer states that "the search for media effects dominated early research on media, but the current 
+consensus among educational psychologists is that questions about the relative effectiveness of various 
+media are no longer productive questions" (p. 8).  
+ABOUT THE AUTHORS 
+Dorothy M. Chun is an Associate Professor of German at the University of California, Santa Barbara. Her 
+research areas include second language acquisition, computer-assisted language learning, intonation and 
+discourse, and German linguistics. She is the co-author of CyberBuch, a hypermedia system for foreign 
+language reading comprehension, with Jan Plass. 
+E-mail: dmchun@humanitas.ucsb.edu 
+Jan L. Plass is an Assistant Professor in the Organizational Learning and Instructional Technologies 
+Program at the University of New Mexico. His research interests include learning with multimedia, 
+especially L2 vocabulary acquisition and reading comprehension, interface design and constructivist 
+learning in networked environments. Together with Dorothy Chun he co-authored CyberBuch. 
+E-mail: jan@unm.edu 
+REFERENCES 
+Alderson, J. C. (1984). Reading in a foreign language: A reading problem or a language problem? In J. C. 
+Alderson & A. H. Urquhart (Eds.), Reading in a foreign language (pp. 1-27). London: Longman. 
+Anderson, R. C., & Pearson, P. D. (1984). A schema-theoretic view of basic processes in reading 
+comprehension. In P. D. Pearson, R. Barr, M. L. Kamil, & P. Mosenthal (Eds.), The handbook of reading 
+research (pp. 255-292). New York: Longman. 
+Anderson, N. J. (1991). Individual differences in strategy use in second language reading and testing. The 
+Modern Language Journal, 75(4), 460-472. 
+Ausubel, L. J. (1960). The use of advance organizers in the learning and retention of meaningful verbal 
+Journal of Educational Psychology, 51, 267-272. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 72 
+material. Journal of Educational Psychology, 51, 267-272. 
+Bernhardt, E. B. (1991). Reading development in a second language: Theoretical, empirical, and 
+classroom perspectives. Norwood, NJ: Ablex Publishing Corp. 
+Bernhardt, E. B., & Kamil, M. L. (1995). Interpreting relationships between L1 and L2 reading: 
+Consolidating the Linguistic Threshold and the Linguistic Interdependence Hypotheses. Applied 
+Linguistics, 16(1), 15-34. 
+Boswell, D. L., & Picket, J. A. (1991). A study of the internal consistency and factor structure of the 
+Verbalizer-Visualizer Questionnaire. Journal of Mental Imagery, 15, 33-36. 
+Brown, J. I., Bennett, J. M., & Hanna, G. (1981). The Nelson-Denny Reading Test. Chicago: The 
+Riverside Publishing Company. 
+Carr, T., & Levy, B. (1990). Reading and its development: Component skills approaches. San Diego: 
+Academic Press. 
+Carrell, P. L. (1984a). The effects of rhetorical organization on ESL readers. TESOL Quarterly, 18, 441-
+470. 
+Carrell, P. L. (1984b). Evidence of a formal schema in second language comprehension. Language 
+Learning, 34, 87-113. 
+Carrell, P. L. (1985). Facilitating ESL reading by teaching text structure. TESOL Quarterly, 19(4), 727-
+752. 
+Carrell, P. L. (1987). Content and formal schemata in ESL reading. TESOL Quarterly, 21(3), 461-481. 
+Carrell, P. L. (1988). Text-boundedness and schema interference. In P. L. Carrell, J. Devine, & D. E. 
+Eskey (Eds.), Interactive approaches to second language reading, (pp. 101-113). Cambridge: Cambridge 
+University Press. 
+Carrell, P. L., & Eisterhold, J. (1983). Schema theory and ESL reading pedagogy. TESOL Quarterly, 17, 
+553-575. 
+Chun, D. M., & Plass, J. L. (1996a). Effects of multimedia annotations on vocabulary 
+acquisition. Modern Language Journal, 80, 183-198. 
+Chun, D. M., & Plass, J. L. (1996b). Facilitating reading comprehension with multimedia. System, 24(4), 
+503-519. 
+Clark, R. E. (1983). Reconsidering research on learning from media. Review of Educational Research, 53, 
+445-459. 
+Clark, R. E. (1994). Media will never influence learning. Educational Technology Research and 
+Development, 42(2), 21-30. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 73 
+Clark, J. M., & Paivio, A. (1991). Dual coding theory and education. Educational Psychology Review, 3, 
+149-210. 
+Clark, R. E., & Salomon, G. (1986). Media in teaching. In M. Wittrock (Ed.), Handbook of research on 
+teaching (Vol. 3, pp. 464-478). New York, NY: Macmillan. 
+Clement, C. A., & Gentner, D. (1991). Systematicity as a selection constraint in analogical 
+mapping. Cognitive Science, 15, 89-132. 
+Coady, J. (1979). A psycholinguistic model of the ESL reader. In R. Mackay, B. Barkman, & R. R. 
+Jordan (Eds.), Reading in a second language (pp. 5-12).Rowley, MA: Newbury House. 
+Coady, J. (1993). Research on ESL/EFL vocabulary acquisition: Putting it in context. In T. Huckin, M. 
+Haynes, & J. Coady (Eds.), Second language reading and vocabulary learning, (pp. 3-23). Norwood, NJ: 
+Ablex Publishing. 
+Cohen, A. D. (1987). The use of verbal and imagery mnemonics in second-language vocabulary 
+learning. Studies in Second Language Acquisition, 9(1), 43-61. 
+Corbett, S. S., & Smith, F. (1984). Identifying student learning styles: Proceed with caution! The Modern 
+Language Journal, 68, 212-221. 
+Davis, J. N., & Bistodeau, L. (1993). How do L1 and L2 reading differ? Evidence from think aloud 
+protocols. The Modern Language Journal, 77(4), 459-472. 
+de Beaugrande, R. (1982). General constraints on process models of language comprehension. In J.-F. L. 
+Ny & W. Kintsch (Eds.), Language and comprehension (pp. 179-192). Amsterdam: North-Holland. 
+Denis, M. (1982). Imaging while reading text: A study of individual differences. Memory & Cognition, 
+10(6), 540-545. 
+Edwards, J. E., & Wilkins, W. (1981). Verbalizer-Visualizer Questionnaire: Relationship with imagery 
+and verbal-visual ability. Journal of Mental Imagery, 5, 137-142. 
+Ehrman, M. E., & Oxford, R. L. (1989). Effects of sex differences, career choice, and psychological type 
+on adult language learning strategies. The Modern Language Journal, 73, 1-13. 
+Ehrman, M., & Oxford, R. (1990). Adult language learning styles and strategies in an intensive training 
+setting. The Modern Language Journal, 74(3), 311-327. 
+Ekstrom, R. B., French, J. W., & Harman, H. H. (1976). Manual for kit of factor-referenced cognitive 
+tests. Princeton, NJ: Educational Testing Service. 
+Gardner, R. C., Day, J. B., & MacIntyre, P. D. (1992). Integrative motivation, induced anxiety, and 
+language learning in a controlled environment. Studies in Second Language Acquisition, 14, 197-214. 
+Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. Cognitive Science, 7, 155-
+170. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 74 
+Goodman, K. (1967). Reading: A psycholinguistic guessing game. Journal of the Reading Specialist, 6, 
+126-135. 
+Goodman, K. (1985). Unity in reading. In H. Singer & R. Ruddell (Eds.), Theoretical models and 
+processes of reading (pp. 813-840). Newark, DE: International Reading Association. 
+Grabe, W. (1991). Current developments in second language reading research. TESOL Quarterly, 25(3), 
+375-406. 
+Hanley, J. E. B., Herron, C. A., & Cole, S. P. (1995). Using video as an advance organizer to a written 
+passage in the FLES classroom. Modern Language Journal, 79(1), 57-66. 
+Harrington, M., & Sawyer, M. (1992). L2 working memory capacity and L2 reading skill. Studies in 
+Second Language Acquisition, 14, 25-38. 
+Horiba, Y. (1996). Comprehension processes in L2 reading. Studies in Second Language Acquisition, 
+18(4), 433-473. 
+Jamieson, J. (1992). The cognitive styles of reflection/impulsivity and field independence/dependence and 
+ESL success. The Modern Language Journal, 76(4), 491-501. 
+Johnson-Laird, P. N. (1983). Mental Models. Towards a cognitive science of language, inference, and 
+consciousness. Cambridge, MA: Harvard University Press. 
+Jonassen, D. H., & Grabowski, B. L. (1993). Handbook of individual differences, learning, and 
+instruction. Hillsdale, NJ: Lawrence Erlbaum. 
+Just, M., & Carpenter, P. (1980). A theory of reading: From eye fixations to 
+comprehension. Psychological Review, 4, 329-354. 
+Just, M., & Carpenter, P. (1987). The psychology of reading and language comprehension. Boston: Allyn 
+& Bacon. 
+Keefe, J. W. (1989). Learning style profile handbook. II. Accommodating perceptual, study and 
+instructional preferences. Reston, VA: National Association of Secondary School Principals. 
+Kellogg, G. S., & Howe, M. J. A. (1971). Using words and pictures in foreign language learning. Alberta 
+Journal of Educational Research, 17, 87-94. 
+Kern, R. G. (1989). Second language reading strategy instruction: Its effects on comprehension and word 
+inference ability. The Modern Language Journal, 73, 135-149. 
+Kirby, J. R. (1993). Collaborative and competitive effects of verbal and spatial processes. Learning and 
+Instruction, 3, 201-214. 
+Kirby, J. R., Moore, P. J., & Schofield, N. J. (1988). Verbal and visual learning styles. Contemporary 
+Educational Psychology, 13, 169-184. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 75 
+Knight, S. (1994). Dictionary use while reading: The effects on comprehension and vocabulary 
+acquisition for students of different verbal abilities.The Modern Language Journal, 78(3), 285-299. 
+Koda, K. (1992). The effects of lower-level processing skills in FL reading performance: Implications for 
+instruction. The Modern Language Journal, 76(4), 502-512. 
+Koda, K. (1993). Transferred L1 strategies and L2 syntactic structure in L2 sentence comprehension. The 
+Modern Language Journal, 77, 490-500. 
+Kozma, R. B. (1991). Learning with media. Review of Educational Research, 61, 179-211. 
+Laufer, B., & Sim, D. (1985). Measuring and explaining the reading threshold needed for English for 
+academic purposes texts. Foreign Language Annals, 18, 405-411. 
+Leow, R. P. (1995). Modality and intake in second language acquisition. Studies in Second Language 
+Acquisition, 17, 79-89. 
+Leutner, D. (1992). Adaptive Lehrsysteme. Instruktionspsychologische Grundlagen und experimentelle 
+Analysen. Weinheim: PVU. 
+Leutner, D., & Plass, J. L. (1997). Measuring learning styles with questionnaires versus direct 
+observation of preferential choice behavior in authentic learning situations: The visualizer/verbalizer 
+behavior observation scale (VV-BOS). Manuscript submitted for publication. 
+Levie, W. H., & Lentz, R. (1982). Effects of text illustrations: A review of research. Educational 
+Communication and Technology Journal, 30, 195-232. 
+Mayer, R. E. (1984). Aids to text comprehension. Educational Psychologist, 19, 30-42. 
+Mayer, R. E. (1993). Comprehension of Graphics in texts: An overview. Learning and Instruction, 3, 
+239-245. 
+Mayer, R. E. (1997). Multimedia learning: Are we asking the right questions? Educational Psychologist, 
+32(1), 1-19. 
+Mayer, R. E., & Anderson, R. B. (1991). Animations need narrations: An experimental test of a dual-
+coding hypothesis. Journal of Educational Psychology, 83, 484-490. 
+Mayer, R. E., & Gallini, J. K. (1990). When is an illustration worth ten thousand words? Journal of 
+Educational Psychology, 82, 715-726. 
+Mayer, R. E., & Sims, V. K. (1994). For whom is a picture worth a thousand words? Extensions of a 
+dual-coding theory of multimedia learning. Journal of Educational Psychology, 86, 389-401. 
+Mayer, R. E., Steinhoff, K., Bower, G., & Mars, R. (1995). A generative theory of textbook design: Using 
+annotated illustrations to foster meaningful learning of science text. Educational Technology Research 
+and Development, 43, 31-44. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 76 
+McKeown, M., & Curtis, M. (1987). The nature of vocabulary acquisition. Hillsdale, NJ: Lawrence 
+Erlbaum. 
+Oller, J. (1996). Towards a theory of technologically assisted language learning/instruction. CALICO 
+Journal, 13(4), 19-43. 
+Omaggio, A. C. (1979). Pictures and second language comprehension: Do they help? Foreign Language 
+Annals, 12, 107-116. 
+Paivio, A. (1971). Imagery and verbal processes. New York, NY: Holt, Rinehart & Winston. 
+Paivio, A. (1986). Mental representation: A dual-coding approach. New York: Oxford University Press. 
+Parrott, C. A. (1986). Validation report of the Verbalizer-Visualizer Questionnaire. Journal of Mental 
+Imagery, 10, 39-42. 
+Peek, J. (1993). Increasing picture effects in learning from illustrated text. Learning and Instruction, 3, 
+227-238. 
+Plass, J. L., Chun, D. M., Mayer, R. E., & Leutner, D. (1997). Supporting visual and verbal learning 
+preferences in a second Language Multimedia Learning Environment. Manuscript submitted for 
+publication. 
+Raymond, P. M. (1993). The effects of structure strategy training on the recall of expository prose for 
+university students reading French as a second language. The Modern Language Journal, 77(4), 445-458. 
+Rayner, K., & Pollatsek, A. (1989). The psychology of reading. Englewood Cliffs, NJ: Prentice Hall. 
+Reid, J. M. (1987). The learning style preferences of ESL students. TESOL Quarterly, 21, 87-111. 
+Resnick, L. B. (1982). Syntax and semantics in learning to subtract. In T. P. Carpenter, J. M. Moser, & T. 
+A. Romberg (Eds.), Addition and subtraction: A cognitive perspective. Hillsdale, N.J.: Erlbaum. 
+Ross, S. M. (1994). Delivery trucks or groceries? More food for thought on whether media (will, may, 
+can't) influence learning: Introduction to special issue. Educational Technology Research and 
+Development, 42(2), 5-6. 
+Rumelhart, D. (1977). Toward an interactive model of reading. In S. Dornic (Ed.), Attention and 
+performance IV (pp. 573-603). New York: Academic Press. 
+Salomon, G. (1972). Heuristic models for the generation of aptitude-treatment interaction 
+hypotheses. Review of Educational Research, 42, 237-343. 
+Salomon, G. (1983). The different investment of mental effort in learning from different 
+sources. Educational Psychologist, 18(1), 42-50. 
+Salomon, G. (1989). Learning from text and pictures: Reflections on a meta-level. In H. Mandl, J.R. 
+Levin (Eds.), Knowledge acquisition from text and pictures (pp. 73-81). North-Holland: Elsevier. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 77 
+Samuels, J., & Kamil, M. (1984). Models of the reading process. In P. D. Pearson, R. Barr, M. L. Kamil, 
+& P. Mosenthal (Eds.), The handbook of reading research (pp. 185-224). New York: Longman. 
+Schnotz, W. (1993). On the relation between dual coding and mental models in graphics 
+comprehension. Learning and Instruction, 3, 247-249. 
+Schnotz, W., & Grzondziel, H. (1996). Knowledge acquisition with static and animated pictures in 
+computer-based learning. Paper presented at the Annual Meeting of the American Educational Research 
+Association (AERA) in New York, April 8-12, 1996. 
+Schofield, N. J., & Kirby, J. R. (1994). Position location and topographical maps: Effects of task factors, 
+training, and strategies. Cognition and Instruction, 12(1), 35-47. 
+Secules, T., Herron, C., & Tomasello, M. (1992). The effect of video context on foreign language 
+learning. The Modern Language Journal, 76(4), 480-490. 
+Silberstein, S. (1987). Let's take another look at reading: Twenty-five years of reading 
+instruction. English Teaching Forum, 25, 28-35. 
+Skehan, P. (1991). Individual differences in second language learning. Studies in Second Language 
+Acquisition, 13(2), 275-298. 
+Smith, F. (1971). Understanding reading. New York: Holt, Rinehart & Winston. 
+Smith, F. (1979). Reading without nonsense. New York: Teachers College Press. 
+Smith, F. (1982). Understanding reading. (3rd ed.). New York: Holt, Rinehart & Winston. 
+Stanovich, K. (1980). Toward an interactive-compensatory model of individual differences in the 
+development of reading fluency. Reading Research Quarterly, 16, 32-71. 
+Swaffar, J., Arens, K., & Byrnes, H. (1991). Reading for meaning: An integrated approach to language 
+learning. Englewood Cliffs, NJ: Prentice Hall. 
+Taillefer, G. F. (1996). L2 reading ability: Further insight into the Short-circuit Hypothesis. The Modern 
+Language Journal, 80(4), 461-477. 
+Tang, G. (1992). The effect of graphic representation of knowledge structures on ESL reading 
+comprehension. Studies in Second Language Acquisition, 14, 177-195. 
+Teichert, H. U. (1996). A comparative study using illustrations, brainstorming, and questions as advance 
+organizers in intermediate college German conversation classes. The Modern Language Journal, 80(4), 
+509-517. 
+van Dijk, T., & Kintsch, W. (1983). Strategies of discourse comprehension. New York: Academic Press. 
+Vosniadou, S., & Ortony, A. (1989). Similarity and analogical reasoning. New York: Cambridge 
+University Press. 
+Dorothy M. Chun & Jan L. Plass Methodological Issues in Research on Learner Computer ... 
+ 
+Language Learning & Technology 78 
+Williams, E., & Moran, C. (1989). Reading in a foreign language at intermediate and advanced levels 
+with particular reference to English. Language Teaching, 22, 217-228. 
+Wolf, D. F. (1993). A comparison of assessment tasks used to measure FL reading comprehension. The 
+Modern Language Journal, 77(4), 473-489. 
+ 

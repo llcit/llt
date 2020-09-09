@@ -1,0 +1,418 @@
+Language Learning & Technology
+http://llt.msu.edu/vol6num2/jancewicz/
+May 2002, Volume 6, Number 2
+pp. 83-91
+Copyright © 2002, ISSN 1094-3501 83
+APPLIED COMPUTER TECHNOLOGY
+IN CREE AND NASKAPI LANGUAGE PROGRAMS
+Bill Jancewicz
+Naskapi Development Corporation and SIL International
+Marguerite MacKenzie
+Memorial University of Newfoundland
+ABSTRACT
+After an introduction to the parameters for the application of computer technology in Cree and
+Naskapi language programs, it will be shown that the deliberate and structured introduction of
+these technologies to indigenous language programs can facilitate indigenous language
+stabilization and development. Using first-hand accounts from within Cree and Naskapi language
+communities as case studies, both the successes and frustrations associated with computers for
+language work will be described, and recommendations made for the future use of computer
+technology in these projects.
+INTRODUCTION
+The Naskapi and East Cree languages are members of the Algonquian language family in North America,
+and form a part of the Cree-Montagnais-Naskapi dialect continuum (MacKenzie, 1980), stretching across
+the central Canadian sub-arctic woodlands from the Labrador coast to the Rocky Mountains.
+The Naskapi community of Kawawachikamach (population c. 780), located near Schefferville, Quebec, is
+organized as a politically and administratively distinct First Nation. The only other dialect of Naskapi
+(Mushuau Innu) spoken at Utshimassits (Davis Inlet) on the Labrador coast, will not be treated in this
+paper.
+The nine communities of East Cree speakers, located in northwestern Quebec from the eastern coast of
+James Bay and Hudson's Bay inland, range in population from 300 to 3000. Although united both
+politically and administratively, these nine communities represent two distinct Cree dialects, with
+additional inter-community lexical and phonological variations.
+These Cree and Naskapi communities share not only related languages, but also similarities in culture,
+traditions, and physical environment. However, despite these similarities, the use of computer technology
+for language maintenance has taken a very different path within each group. In both areas Cree or
+Naskapi is the first language of all, including children. The primary second language is English, with
+some provision for French. Both Cree and Naskapi use similar syllabic orthographies. This use of
+syllabics has had a unique influence on the development of applied computer technology used in their
+language programs.
+SYLLABIC ORTHOGRAPHIC SYSTEM
+The orthographic system is based upon the syllabic system innovated by James Evans, a Methodist
+minister serving the Ojibwa and Cree in Ontario and Manitoba from the 1820's to the 1840's (Murdoch,
+1981). Evans was an avid philologist whose desire for an easy-to-learn "shorthand" method of writing
+these Indian languages provided the initial framework of the syllabic writing system. In the fall of 1841,
+while lodged at Norway House in Manitoba, he produced, after planning and experimentation, the first
+syllabic chart and some hymns in Cree. After some relatively minor changes, syllabics became the basis
+of the writing systems used today by the Cree, Naskapi, Ojibwa, and Inuit.
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 84
+The system is referred to as "syllabics" because for the most part each character stands for a single
+syllable: a consonant-vowel pair. The shape of the character represents the consonant onset of the
+syllable, while the orientation of the character represents the vowel peak of the syllable. Characters for
+consonant syllable codas, consonant clusters, and stand-alone vowels make up the rest of the syllabic
+repertoire (Cree Regional Authority, 2001).
+For the first 100 years following its innovation, the syllabic orthography was written conventionally by
+hand and painstakingly copied, or reproduced by means of custom-made typefaces and presses, usually
+located some distance from the communities, often overseas in England. This meant that the later stages
+of language material production could not involve Native speakers. Eventually, syllabic typewriters were
+made available to the Cree and Naskapi communities, and Native speakers themselves began to be
+involved firsthand in the production of documents in syllabics. Because mastery of syllabic typing
+required the memorization of a unique keyboard layout, with every key or combination of keys
+representing a character, only a minority of speakers became typists.
+COMPUTERS AND SYLLABICS
+In the 1970s, mainframe computers began to be used extensively by university linguists for lexicography.
+The words and definitions that had been transcribed on thousands of cards were input by assistants
+unfamiliar with the language. Data entry of the East Cree and Naskapi lexicons at the university was
+expensive and time-consuming, requiring the employment of programmers with little knowledge of
+linguistics, let alone aboriginal languages (MacKenzie, Whiskeychan, Salt, Blacksmith, & Louttit, 1987;
+MacKenzie & Jancewicz, 1994). Cree and Naskapi words were entered using a roman orthography and
+then converted to experimental syllabic scripts in the final printout. Unfortunately, all this took place far
+from the Native communities where these written materials would be used, making proofing difficult.
+Later, as computers became more portable, linguists were able to bring equipment to the communities,
+and in some cases Native speakers were able try their hand at keyboarding in their own language. The
+technology was for the most part still beyond the reach of the Native people whose language it would
+serve.
+Indeed, the practical use of any non-roman script on a computer remained an elusive goal. At first, an
+entire alphabet had to be designed and "hard-coded" into the microprocessors, as part of the computer
+hardware. Another method was to modify the output device (the screen or the printer) somehow, often by
+physically replacing the conventional roman characters with syllabics. It was not until the later 1980s,
+with the simultaneous development of the IBM Personal Computer (PC) and the graphical user interface
+(the Apple Macintosh and Microsoft Windows operating systems) that it became possible to produce a
+"software" solution to the problems of using syllabics on a computer.
+SIL International, formerly known as the Summer Institute of Linguistics, has had a legacy of providing
+technological support to field linguists working in minority languages. Their computer programmers
+developed a series of tools that made it possible for linguists, using a personal computer in the field, to
+define and use their own character sets in the MS-DOS family of operating systems (Reitz, 1988). The
+appearance of these software tools coincided with the PC's introduction to the Native communities.
+In 1988, SIL linguist Bill Jancewicz arrived in the Naskapi community and was asked to assist in
+developing a means of typing and printing Naskapi syllabics. The Band Office (the seat of community
+authority in Native communities in Canada, equivalent to municipal government) had acquired its first PC
+a year earlier to be used for accounting and general word-processing. Using the software tools provided
+by SIL, he produced a word processing system for syllabics and trained the office employees in its use.
+By 1989 the Band Office was regularly producing Naskapi language materials. That same year the
+Naskapi School and the Naskapi Development Corporation also acquired their first PCs, and the syllabic
+word processing system was installed on these computers as well. The Naskapi computer users were
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 85
+trained to open, type, save and print documents in syllabics, using a system that allowed the roman
+equivalent of syllabic spelling to be typed on a standard English keyboard, thereby eliminating the
+memorization of a different keyboard layout.
+Because Bill was residing in the community and learning to speak Naskapi himself, technical support was
+always close at hand. As with any new technology, the syllabic word processing system had to go through
+a number of refinements and improvements, but at each step, backward compatibility was implemented,
+so that the Naskapi community was able to maintain a growing corpus of digital language materials.
+The system itself remained simple, if not crude, consisting of a plain-text editor that could produce either
+roman text or syllabics. Screen fonts were bit-mapped characters formed on an 8 x 8 or 8 x 16 pixel grid,
+while printouts were accomplished by either downloading 8 x 8 or 24 x 24 bitmapped syllabic fonts to a
+9-pin or 24-pin dot-matrix printer, or by instructing the computer to print the text information
+"graphically," that is, as if it were a bit-mapped "picture." Naskapi files were saved in plain-text format,
+and could be archived and read by any MS-DOS-based computer. The syllabic characters themselves
+were "mapped" to their roman spelling, each consonant-vowel pair in the syllabic repertoire represented
+in text as English consonants and vowels.
+As computers and software became more sophisticated, the syllabic system was continually upgraded.
+Laser printers provided a much higher resolution for reproducing printed material, and bit-mapped
+syllabic character sets were developed for this technology, painstakingly "drawn" in various typesetting
+point sizes. Even though syllabic fonts of this type take up considerable disk space, and it could take
+several minutes to download and print one page of text, the result at higher resolutions was far superior to
+the earlier dot-matrix printout. The proofs for the first edition of the Naskapi Lexicon were produced by
+this procedure in 1993 in the offices Development Corporation in northern Quebec (MacKenzie &
+Jancewicz, 1994).
+In 1994, PCs utilizing Microsoft Windows, the graphical user interface that was beginning to enjoy
+widespread acceptance for business applications, became available in the Native communities. One
+important facet of this development was the implementation of TrueType font technology. Among other
+benefits, these fonts could be "scaled," that is, displayed and printed in various point sizes, with the same
+font data being used for both the screen and printer. Further, Windows provided a "WYSIWYG," or
+"What You See Is What You Get" environment. True publishing capabilities were now available on the
+desktops of Native speakers.
+About the time this technology became available in the community, Bill Jancewicz was retained as the
+resident linguist for the Naskapi Development Corporation. He developed a Naskapi TrueType font
+designed in collaboration with the Naskapi readers and writers. Computer programs that could convert
+older Naskapi texts already keyboarded in Naskapi syllabics into the TrueType font encoding were
+developed as well.
+Concurrently, SIL participated in the release of a keyboarding utility now known as Keyman that allowed
+the programming of custom keyboard input for various languages and character sets (Durdin & Hosken,
+1994). The original Naskapi keyboarding system was adapted to Windows and TrueType using this
+utility, allowing Naskapi who were already trained to use the older MS-DOS system to easily move to a
+Windows computer without having to learn a new keyboard layout. As more Windows-based computers
+came into the community, more and more Naskapi were trained to use them to produce language
+materials.
+Since 1984, when the Apple computer company introduced the Macintosh, a computer with a graphical
+user interface and publishing capabilities had been available. However, the decision to use either
+Macintosh or IBM compatible PCs was often made independently of language-related concerns. In the
+Naskapi community, some Apple computers were purchased for the Naskapi School in the 1990s for
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 86
+educational purposes. The resident linguist developed yet another TrueType font for the Macintosh, and
+eventually Naskapi educators began to produce curriculum materials using this equipment.
+The Cree School Board, on the other hand, was advised that Macintosh computers were preferred for
+multilingual word processing, and initially purchased Macintosh computers for Cree language personnel,
+providing the basis for all their language production work in the Cree communities. The approach to
+keyboarding in Cree was different than Naskapi, because it was constrained by commercial vendors rather
+than an "in house" font developer. The Cree keyboarding system was loosely based upon the old syllabic
+typewriter keyboard layout. Because of the logical layout of the Cree syllabic chart, each row of the
+typewriter keyboard could be arranged to represent one of the vowels, and thus be somewhat easier to
+remember than a random layout: the resulting keyboard was based partly on the syllabic chart and partly
+on the sound of the characters. This meant however, that a completely different keyboard layout had to be
+memorized by the Native speakers who would be typing their language; in many cases, new key-caps or
+labels were glued to the keyboard. During the mid-1990s, the commercial font vendor changed the layout
+slightly, so that key sequences had to be re-learned, and moreover, texts that were typed in the older font
+could not be displayed in the newer font. These setbacks were inevitable however, since the use of
+syllabics on computers was such a new, groundbreaking yet ad-hoc technology, and there was as yet little
+collaboration between language programs.
+COMPUTERS AND RESOURCE PEOPLE
+In the Naskapi community, the presence of a locally-based linguist specializing in the language with some
+programming ability has obviously helped to integrate computers into language work. Since 1988, the
+resident linguist has maintained all of his own language learning materials and language data on
+computer. He has also provided the local technical support that is needed in a small, isolated community,
+especially with regard to the esoteric development of computer programs that allow syllabic word
+processing. While it is not impossible to use computers in Native language work without a full-time, on-
+site computer resource person, it has been an obvious asset to have such a person available to provide
+training and technical support.
+During the 1990s, several non-Native teachers attempted to improve the educational opportunities for
+students to learn to read and write the Naskapi language. As this was linked to the realization of the
+importance and efficiency of using computers to produce materials, the Naskapi curriculum development
+department was formed. This approach, whereby key teachers in the school are seen as important
+catalysts for Naskapi language material development and computer use (Jancewicz, 1998) has
+unfortunately not been consistently maintained from year to year.
+In contrast, the Cree School Board, an educational organization that has had notable success in
+implementing Cree language education in the school system (Burnaby, MacKenzie, & Bobbish-Salt,
+1999a, 1999b; Burnaby & Mackenzie, 2001), has achieved this without continuous on-site computer
+support. The Cree commitment to Cree as a language of instruction, not just as a subject, came about
+through an explicit vision incorporated in Board policy, which led to administrative and pedagogical
+support, adequate budget allocations, and on-going staff training (Grand Council of the Crees, 1997).
+Over the past 30 years, Dr. MacKenzie has assisted in the production of lexicographic, orthographic, and
+grammatical material, encouraging the Cree language workers themselves to maintain data and produce
+materials (MacKenzie, 1992). To this end, the Board originally retained the services of non-Cree-
+speaking computer professionals to assist them with technical matters relating to the Macintosh machines
+found most efficient for producing syllabic materials. The irregular availability of a linguist familiar with
+both Macintosh systems and syllabic orthographic issues was found to be unsatisfactory. A recent
+administrative decision obliged Cree language workers to switch to Windows-based computers. The
+linguist from the Naskapi community was contracted to provide training in word processing in Cree, and
+in the use of use computer database programs to maintain and revise the lexicon. While this situation may
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 87
+be an improvement, the absence of an on-site specialist with expertise in linguistics, computer systems
+and syllabics has resulted in an emphasis on the production of reading material only, rather than
+foundational linguistic or lexical database material. Although resource people are now available by
+telephone and e-mail, they are still located great distances from the communities and are not present to
+provide routine guidance.
+COMPUTERS AND ABORIGINAL PEOPLE
+In the Naskapi community, computers were introduced gradually, due to the initial expense, the relevance
+to the needs of the community, and the difficulty of providing adequate training. The first computers were
+purchased and deployed for purposes other than the production of Native language materials so that
+Naskapi computer users became familiar with them, and non-users grew accustomed to the presence of a
+computer in the workplace.
+At both the Naskapi Nation and the Naskapi Development Corporation offices, the promotion of written
+materials in Naskapi has been mandated. This has resulted in the establishment of a number of ongoing
+language projects: the translation into Naskapi of all official business of the administrations, a lexicon, a
+grammar, a history, a monthly newsletter, legends and stories, and Bible translation. Both offices retain
+several full-time employees involved in language work, all of whom have eagerly adopted computers for
+their drafting and production work. As the number of projects increased (and funding became available)
+additional personnel were hired to translate and development language materials and were trained to use
+the computers; in every case, without exception, their ability to read and write the language improved.
+Of course, part of this increased ability must be attributed to a greater exposure to and practice in reading
+and writing Naskapi, which became their full-time job. There is also evidence that increased levels of
+confidence in literacy are directly related to the use of computers for their own language. In two separate
+cases, the Naskapi responsible for office language work had already been employed for a number of years
+prior to the acquisition of computers. Their ability in reading and writing was observed to be adequate,
+but unremarkable. Following the introduction and continued use of computers, both employees noticeably
+improved in their reading and writing ability, as well as in linguistic confidence.
+Although most Naskapi employees were initially quite uneasy with having to use a computer in their
+work, this discomfort diminished rapidly after some basic training, and as their familiarity and confidence
+with computers increased. Using a computer for mother-tongue language work raises speakers'
+assessment of the worth of their own language, as well as provides an avenue for sharing their work and
+ideas through reproduction and publication.
+Because of employee turnover, many individuals in the Naskapi community have been trained in basic
+syllabic word processing. Even for those no longer employed in language work, this initial training has
+made a great difference in their own literacy, language skills, and confidence. Thus, courses in adult
+literacy in syllabics, usually rather difficult to deliver, might well be presented as "computer courses" in
+that includes basic syllabic keyboarding, with spelling and grammatical training as well.
+Although the school at Kawawachikamach has had a number of computers available for student and
+teacher use since the early 1990s, these were seldom used in the teaching of the Naskapi language. Owing
+to a lack of vision, direction, or ambition, it does not appear that this situation will change any time soon.
+This is unfortunate, even though there appears to be a great deal of potential for increasing confidence in
+first language skills of students and teachers alike by using computers. Regrettably, the situation shows no
+sign of changing in the foreseeable future.
+On the other hand, the youngest primary school students are now benefiting from a new focus on Naskapi
+language literacy. Through the establishment of the curriculum department, sophisticated computer
+publishing equipment was put in the hands of a few Naskapi-speaking staff, who are then able to bring a
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 88
+project from conception to production completely "in-house." Unfortunately, while these materials are
+prepared by speakers knowledgeable in the culture, there is currently no full-time curriculum specialist on
+hand ensuring the pedagogical appropriateness and effectiveness of the small amount of materials
+produced.
+In contrast, members of the Cree Programs unit of the Cree School Board, beginning with minimal
+support for computer use, have provided sufficient pedagogically-appropriate materials in Cree in all
+subjects making instruction solely through the medium of Cree a reality from pre-kindergarten up to
+Grade 8. At present, several hundred Cree speakers work as full-time curriculum developers, pedagogical
+consultants, and elementary teachers without recourse to English or French. On the other hand, outside
+the educational sector, the use of written Cree has received little more than lip service.
+COMPUTERIZED PROJECTS
+Over the last two decades, the role of computers for language development projects has become
+increasingly important. Both the Cree and Naskapi Lexicons were begun prior to the introduction of
+computers in the communities, but were completed and are currently under revision using Shoebox
+linguistic database software developed by SIL specifically for lexicography in minority languages. In
+these communities, it is now the speakers themselves who maintain and revise their own lexical
+databases, as well as creating curriculum materials.
+Archival analog language tapes have been acoustically enhanced and transferred to CD-ROM in order to
+prevent the further deterioration of this irreplaceable data. By means of computers, this material can be
+edited, transcribed, analyzed, copied, and distributed by resource persons and Native language workers,
+then reproduced for distribution on audio CDs to be played on local radio and used in education.
+By using computers for text analysis, Native speakers and linguists are able to facilitate the compilation
+of much-needed grammatical reference material. Bible translation projects, again computer based, have
+had an positive impact on vernacular church life, by providing the written Scriptures in contemporary
+language, involving Native speakers in complex language work and providing ongoing employment to
+local translators. While in some language communities it may be supposed that such an emphasis on the
+production of religious texts may limit the use of Native language literacy in secular community
+institutions, the Cree and Naskapi cultures treated in these case studies traditionally do not draw a sharp
+distinction between the secular and spiritual in their day-to-day life. The technical expertise gained by
+local speakers involved in the production of religious texts has always had a positive effect on the quality
+and accuracy of secular materials they also produce. Indeed, the meticulous checking procedures
+developed for religious texts have been broadly applied to all areas of Native literature production,
+including secular and pedagogical work. Still, the exclusive use of translated religious texts as literacy
+material certainly does not provide a broad enough range of text genres. For this reason, it is important
+that many kinds of contemporary and archival Native-authored texts be used for literacy instruction and
+exposure. Computers are routinely used to produce administrative and historical documents, as well as
+articles in newsletters and notices. Obviously, these communities could benefit from an increase in the
+production and distribution of Native-authored materials of all genres.
+DIFFICULTIES AND DRAWBACKS
+As computers were introduced to these communities, isolated solutions to the problems of using syllabics
+on these computers were developed for each community and for each type of computer. Thus,
+independent solutions for the Naskapi and Cree syllabic orthographies using either Windows or
+Macintosh systems were being developed concurrently and as a result were completely incompatible with
+each other. At the same time, other Native groups across Canada were developing their own syllabic
+systems for computers or depending on commercial contractors to develop these systems for them. There
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 89
+were literally dozens of syllabic encoding systems, and more were developed with each passing year. This
+situation, with the potential for incredible fragmentation and incompatibility, was replicated around the
+world in many other languages (e.g., Greek, Russian, Hebrew, Chinese, Cambodian) that did not use a
+standard roman character set.
+The Unicode Consortium, which was formed to address this problem, developed a method of encoding
+every possible glyph used in each of the world's writing systems that would work on all computer
+operating systems (The Unicode Consortium, 2001). While the decisions as to the specific encodings
+required were made in the mid-1990s, the computer software industry has been slow to adopt the Unicode
+standard, and has only recently begun to gradually introduce Unicode support.
+The relatively recent requirement to provide multilingual language processing on the Internet and the
+World Wide Web has focused attention on the need for the Unicode standard, but the computers and
+applications, which will make the wholesale switch to Unicode practical, are not yet in place. Currently,
+for the Cree and Naskapi communities, computers can adequately carry out complex word processing and
+desktop publishing jobs, but cannot readily share their data with unlike computers or unlike syllabic
+systems. For the time being, this difficulty has been overcome by maintaining careful inventories of the
+specific encoding schemes used by the various computer platforms and syllabic systems, which are then
+used to develop conversion programs. For example, the Cree School Board is currently producing all of
+its new curriculum material on Windows computers running Microsoft Word using the Cree font
+developed by Bill Jancewicz while the commercial publisher for these materials uses Macintosh
+equipment. Because of this, a programming procedure had to be developed to convert the Windows
+formatted material for the Macintosh platform. When Unicode is finally supported by the relevant
+applications and computer operating systems, this kind of conversion will be unnecessary. However, for
+now, "work-arounds" such as these will have to be employed.
+SUGGESTIONS FOR FUTURE DIRECTIONS
+Until the complete implementation of the Unicode standard, difficulties can be minimized through inter-
+organizational collaboration and communication within a language community, by coordinating the
+purchase and deployment of computer equipment, software, and operating systems; commercial
+publishers and other service providers should be expected to conform to community preferences. In this
+regard, it is vitally important to establish community-level language planning and development teams,
+which can provide the structures needed for intra-community cooperation and collaboration necessary in
+small language communities with limited resources. Language planning teams can then be responsible for
+standardization of the orthography and lexicon, spelling reform, and for developing programs for
+language use within the community. In multi-community language situations, such as the two dialect
+areas of the Cree communities, there is an additional need for a centralized language planning team in
+order to provide coordination and standardization. Otherwise, there is a genuine danger that language
+workers may very quickly deviate from established standards. The language planning team must therefore
+establish a system of monitoring work produced in widely separated communities.
+The authors hope that the dichotomy between "resource people" and "aboriginal people" reflected in the
+section headings above would become less and less distinct. By all means, steps toward ending this
+division are being taken in both the Cree and Naskapi communities that will allow technology and Native
+language literacy to work together to enhance the vitality of these languages. As a growing number of
+local people gain experience and expertise to become their own resource persons, such a dichotomy will
+dissolve, and all the vital resources for language development will exist at a community level. However,
+until this ideal is realized, small language communities such as these must continue to identify and avail
+themselves of professional and academic resources found outside their communities.
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 90
+The Online Interactive Cree grammar project conceived by Marie-Odile Junker of Carleton University is
+a good example of cooperation and integration of resources. She has begun to initiate a collaborative
+effort that combines and coordinates the efforts of Native language speakers, trained Aboriginal language
+technicians, computer programmers, commercial software providers, Internet specialists, linguists, and
+other important resource people toward a common goal of producing Cree linguistic materials on the
+World Wide Web (Junker, 2001).
+Since the SIL International computing department may be relied upon as an ongoing, multilingual
+software provider, language planners or Native language workers should develop a collaborative
+relationship with local or regional SIL representatives in order to benefit from their collective linguistic
+computing expertise (SIL, 2001).
+The identification and use of key resource personnel to provide computer support, linguistic consultation
+and training is still an important consideration when applying computer technology to Native language
+work. Often it is difficult if not impossible to secure this kind of assistance in remote communities. In
+such situations, the planning and execution of intensive training sessions and workshops for Native
+language workers can make up for the lack of full-time, on-site resource personnel.
+In any case, adequate and immediate training of new language workers is essential. Refresher courses
+should also be scheduled for Native language workers on a regular basis in order to upgrade skills and to
+keep them abreast of new technological developments.
+CONCLUSION
+Simply providing computers for Native speakers to use in their daily work does little to develop their
+language skills. In fact, since computer use requires some literacy in a majority language (English or
+French), Native computer users may find themselves using the majority language more. Computer
+equipment has to be thoughtfully and deliberately deployed in order for indigenous language user to
+benefit. First, the equipment has to be matched to the situation, as it is unwise to introduce new computers
+that are not compatible with existing systems. Any attainable goal for the use of computers must focus on
+the intended results. The Naskapi and Cree communities are producing stories, curriculum materials,
+translations, administrative documents, and dictionaries, among other language materials. Software must
+be developed to appropriately use Native language elements (orthographic system, character set, left or
+right rendering system, keyboard modifications, etc.). Most of all, the Native speakers who will be
+expected to use the computers must be adequately trained and have plenty of opportunity to practice. The
+initial learning curve is sometimes steep, but there is no substitute for hands-on experience.
+ABOUT THE AUTHORS
+Mr. Jancewicz moved to Kawawachikamach to continue a translation project initiated by SIL. Later he
+began working at the Naskapi Development Corporation as their resident linguist, responsible for the final
+editing of the Naskapi Lexicon. He developed computer systems for Naskapi and Cree, and serves as a
+training and language resource for these languages.
+E-mail: bill_jancewicz@sil.org
+Dr. MacKenzie has worked on Naskapi as well as Cree and Innu-aimun (Montagnais) for the past 30
+years, with training programs for language teachers, supervising the editing of bilingual lexicons. She is
+currently working on projects to publish reference grammars and Native language texts with translations
+into English and French.
+E-mail: mmackenz@mun.ca
+Bill Jancewicz and Marguerite MacKenzie Applied Computer Technology in Cree and Naskapi…
+Language Learning & Technology 91
+REFERENCES
+Burnaby, B., MacKenzie, M., & Bobbish-Salt, L. (1999a). Factors in aboriginal mother tongue education:
+The Cree school board case. In D. Pentland (Ed.), Papers of the twenty-ninth Algonquian conference (pp.
+62-73). Winnipeg, Canada: University of Manitoba.
+Burnaby, B., MacKenzie, M., & Bobbish-Salt, L. (1999b). Native language for every subject: The Cree
+language of instruction project. In J. Reyhner, G. Cantoni, R. N. St. Clair, & E. Parsons Yazzie (Eds.),
+Revitalizing indigenous languages. Flagstaff, AZ: Northern Arizona University. Retrieved May 22, 2001,
+from http://jan.ucc.nau.edu/~jar/Burnaby.html
+Burnaby, B., & Mackenzie, M. (2001). Cree decision making concerning language: A case study. Journal
+of Multilingual and Multicultural Development, 22(3), 191-203.
+Cree Regional Authority. (2001). Cree syllabics. Retrieved May 22, 2001, from
+http://www.creeculture.ca/e/language/font.htm
+Durdin, J., & Hosken, M. (1994). Keyman: A multi-language keyboard manager for Windows. Notes On
+Computing, 13(5), 22-26. Waxhaw, NC: JAARS International Computer Services.
+Durdin, M. (2001). Keyman [Computer software]. Sandy Bay, TAS, Australia: Tavultesoft. Available at
+http://www.tavultesoft.com/
+Grand Council of the Crees. (1997). Language conference report. Retrieved May 22, 2001, from
+http://www.gcc.ca/Culture/language_conference/report.html
+Jancewicz, B. (1998). Developing language programs with the Naskapi of Quebec. In N. Ostler (Ed.),
+Proceedings of the second FEL conference: Endangered languages -- What role for the specialist? (pp.
+25-32). Bath, UK: The Foundation for Endangered Languages.
+Junker, M-O. (2001). Cree interactive grammar project. Ottawa, Canada: Carleton University. Retrieved
+May 22, 2001, from http://www.carleton.ca/~mojunker/eastcreegrammar/
+MacKenzie, M. E. (1980). Towards a dialectology of Cree-Montagnais-Naskapi. Unpublished doctoral
+dissertation, University of Toronto, Ontario, Canada.
+MacKenzie, M. E. (1992, August). The "Project for the Amerindianization of the Schools": Bringing
+linguistics into Aboriginal classrooms in Quebec. Paper presented at the XVth International Congress of
+Linguists, Quebec, Canada.
+MacKenzie, M. E., & Jancewicz, B. (Eds.). (1994). Naskapi lexicon -- Lexique Naskapi -- Naskapi Iyuw
+Iyimuun Misinaaikin. Kawawachikamach, Quebec, Canada: Naskapi Development Corporation.
+MacKenzie, M. E., & Whiskeychan, A., Salt, L., Blacksmith, L. & Louttit, E. (1987). Cree lexicon:
+Eastern James Bay dialects. Mistassini Lake, Quebec, Canada: Cree School Board.
+Murdoch, J. S. (1981). Syllabics: A successful educational innovation. Unpublished master's thesis,
+University of Manitoba, Winnipeg, Canada.
+Reitz, A. (1988). New font System installed in DTS programs. Notes On Computing (Computer SIGs &
+Newsletters), 7(1), 7-10.
+SIL International. (2001). Linguistics and Computing. Retrieved May 22, 2001, from
+http://www.sil.org/computing/
+The Unicode Consortium. (2001). The Unicode Standard Version 3.1 Unicode Inc. Retrieved May 22,
+2001, from http://www.unicode.org/

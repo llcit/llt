@@ -1,0 +1,264 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol9num2/review1/ 
+May 2005, Volume 9, Number 2 
+pp. 16-23 
+ 
+Copyright © 2005, ISSN 1094-3501 16 
+ARE YOU READY TO "MOODLE"? 
+Klaus Brandl 
+University of Washington 
+INTRODUCTION 
+With the rapidly increasing popularity of the Internet in recent years, the delivery of learning programs 
+has gradually shifted from local desktop to online-based applications. While the XML programming 
+environment has evolved as the new standard for the Internet, building customized learning programs 
+requires the use of authoring systems such as Macromedia Director, Authorware, Dreamweaver, Flash, 
+and Microsoft Frontpage (for a detailed review see Godwin-Jones, 2003), which places high demands on 
+design, programming skills, and time. An alternative to using such applications is the deployment of 
+course or learning management systems. One such system that has been gradually gaining worldwide 
+popularity is known as Moodle (http://www.moodle.com). 
+What is Moodle? 
+Moodle is a course management system for online learning. The acronym MOODLE stands for Modular 
+Object-Oriented Dynamic Learning Environment. Among its many users, however, Moodle has already 
+become a term of its own synonymous with a software package designed to help educators create quality 
+online instruction. It was the brainchild of Martin Dougiamas (http://dougiamas.com), a former WebCT 
+administrator with postgraduate degrees in Computer Science and Education. The design of Moodle is 
+based on socio-constructivist pedagogy. This means its goal is to provide a set of tools that support an 
+inquiry- and discovery-based approach to online learning. Furthermore, it purports to create an 
+environment that allows for collaborative interaction among students as a standalone or in addition to 
+conventional classroom instruction. 
+One of the advantages of Moodle is that it has been developed as an OpenSource software project. It is 
+entirely supported by a team of programmers and by the user community. This also means that Moodle is 
+available free of charge under the terms of the General Public License (GNU) and has no licensing cost 
+attached. As such, it is accessible to anybody in contrast to commercial software such as Blackboard 
+(http://www.blackboard.com) and WebCT (http://www.webct.com), whose licensing fees have 
+skyrocketed in recent years. 
+Deployment and Technical Background 
+Moodle runs without modification on Unix, Linux, Windows, Mac OS X, NetWare, and any other system 
+that supports PHP (HTML-embedded scripting language), including most Web host providers. Data is 
+stored in a single database: MySQL and PostgreSQL are best supported, but it can also be used with 
+Oracle, IBM DB2, Microsoft SQL Server, Borland Interbase, Informix, Visual Foxpro, SAP DB, SQLite, 
+Sybase, Microsoft Access, ADO, and generic ODBC database access, since it uses ADOdb 
+(http://www.adodb.sourceforge.net). 
+MOODLE AND LANGUAGE LEARNING  
+Since the development of communicative skills in language learning requires social interaction between 
+the teacher and the students and among the students themselves, the use of computers has for a long time 
+been regarded only as a support tool with regard to certain skill areas. Rapid advances in technology (e.g., 
+fast Internet connections, ample storage capacities, increase in bandwidth) and more compatible cross-
+platform applications now make the implementation of synchronous and asynchronous learning tasks, in 
+oral and written modes, feasible from a pragmatic point of view (see Cziko & Park, 2003, for a review of 
+computer-mediated audio communication [SCMAC] software). Furthermore, a growing body of research 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 17 
+is gradually emerging that provides concrete suggestions on how to exploit instructional online tools 
+effectively or how to integrate the Internet for different language learning goals (Brandl, 2002; González-
+Lloret, 2003). As a courseware package and learning system, Moodle has great potential for supporting 
+conventional classroom instruction, for example, to do additional work outside of class, to become the 
+delivery system for blended (or hybrid) course formats, or even to be used as a standalone e-learning 
+platform. 
+In the following section, I will provide an overview of Moodle features and point out those that are in 
+particular useful for language learning. In addition, I will present some sample learning tasks and describe 
+their implementation within a Moodle environment. 
+Layout and Organization 
+Moodle is a template-based system to which content must be is added. This makes Moodle's interface 
+very intuitive and allows for easy navigation. The whole page is presented in a "flat view" format. It is 
+laid out in small blocks and organized around sections following a topic or weekly outline. As Robb 
+(2004) describes it, this is different from other systems that  often make use of "Chinese boxes" with 
+content inside folders at various levels. Each section has its own tools such as lessons, quizzes, 
+assignments, and forums which are all linked to a built-in gradebook (see section on assessment below). 
+All blocks on a page can be individually arranged, and the elements within each section can be easily 
+moved around or be hidden. Figure 1 shows an example of a course setup in the topic format. 
+ 
+Figure 1. Sample of a course setup in the topic format 
+Course Management 
+Moodle is a teacher's dream in terms of course management features that it offers. Access to nearly all 
+lesson assignments can be made time- or password-restricted, however, only quizzes can be password 
+restricted at this point. Moodle also keeps automatic log reports of each student work (see Figure 2 for an 
+example). This means that the teacher knows not only when students have completed or uploaded an 
+assignment, but also how much time they spent on an assigned task or quiz. The teacher can also set 
+deadlines or timeframes when assignments must be completed, and restrict access to learning tasks once 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 18 
+the deadline has passed. Students can look up their grades themselves. Teachers have also the option to 
+download student grades in Excel format. Students can look up the assignments on a calendar by moving 
+the cursor over a given day which will list all the assignments for that day. The calendar is optional and 
+can be displayed on the front page. 
+ 
+Figure 2. Sample log report of students' work 
+Content and Resources 
+Moodle allows for the integration of a wide range of resources. These include any kind of text-based or 
+html-formatted documents, multimedia resources such as graphics, video or audio (e.g., MP3 files), 
+SCORMs (Goodwin-Jones, 2004), PowerPoint, Half-Baked exercises 
+(http://www.halfbakedsoftware.com), or Flash-based applications. Lesson tasks within Moodle can be 
+linked to any resources that are uploaded to one's server or that are available on the Internet. The students' 
+exploration of any of the content-based resources can be easily assessed by using any of the Moodle-
+based evaluation and feedback tools (see Example 1).  
+Moodle is quite powerful in content creation due to its built-in HTML editor. The degree of expertise 
+required is essentially the same as for any word processor. More sophisticated presentations such as 
+animations or text-specific feedback provisions need to be created by using outside multimedia authoring 
+programs. 
+Moodle also has a built-in glossary module. This allows teachers, individually or in cooperation with 
+their students, to create their own text-, course-, or site-specific dictionaries. In this way, texts integrated 
+within Moodle, especially authentic texts or resources, can be tailored to a particular level of language 
+proficiency and thus be made more easily accessible to learners. 
+Assessment and Testing Strategies 
+Moodle allows for a wide range of assessment strategies. The quiz module includes the following 
+response types: fill-ins, multiple-choice, multi-choice (more than one answer can be selected), true-false, 
+matching, short-answer (exact matching). All types are supported with automatic tallying and scoring, 
+based on teacher or student-determined rating scales. The essay module allows open-ended questions 
+with built-in comment boxes for instructors to provide feedback. Particularly noteworthy is the workshop 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 19 
+module, which is designed on the basis of peer assessment. All of these assessment types can be made 
+time and password restricted, and can be set to allow for limited or multiple retakes.  
+Learning Management 
+Moodle is also a learning management system (LMS). LMSs differ from exclusive course management 
+systems because they allow to present information to learners in small units, assess what they have 
+learned, and based on the quality of their achievement branch out into additional review of material or 
+move to the next level. In other words, the lesson module allows to design lessons that closely control the 
+learning path guiding learners step-by-step, and allowing for advancement only if sufficient mastery has 
+been achieved. 
+Figure 3 below demonstrates an example of the lesson module used in a beginning Spanish class at the 
+University of Washington. Students are asked what their life was like in the last decade. They have the 
+option to respond with true (cierto) or false (falso) to the following statement: "Me acostaba y me 
+levantaba más temprano que ahora. [I used to wake up and get up much earlier than now]." A "false" 
+response takes them to a card and asks a new question: "Por qué te acuestas y te levantas más temprano 
+hoy día? [Why do you wake up and get up earlier these days?]" (see Figure 3a). A "true" response takes 
+the learner to a card that says "Es lógico. Los jovenes se acuestan y se levantan temprano [It's logical. 
+Young people wake up and get up early]" (see Figure 3b). 
+ 
+Figure 3. Example of the lesson module used in a Spanish class 
+  
+Figure 3a. Example of a card following a "false" 
+response 
+Figure 3b. Example of a card following a "true" 
+response 
+ 
+ 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 20 
+Student-Based and Cooperative Learning 
+Moodle's design is grounded in a socio-constructivist theory of learning. Learning tasks or projects can be 
+designed so as to allow for cooperation between the instructor and students or among students by using 
+different formats of social interaction. Students can be divided into subgroups, interact with each other 
+synchronously in chat rooms, or engage in asynchronous discussions in Wikis1 and forums (see Example 
+2). The Wiki module in Moodle enables students to compose or work together on a text while online. Old 
+versions are never deleted and can be restored. Forums can also be arranged in different ways. For 
+example, they can be set so that only the teacher or any of the students can post content to a forum or start 
+a new discussion topic (thread). Other options exist that let the teacher either restrict or allow for further 
+discussions and replies within a thread. 
+Feedback 
+Students who participate in e-learning environments often complain about the lack of feedback that is 
+available in conventional classroom settings (Brandl, 2004). In Moodle, almost all modules are designed 
+to allow teachers or course participants to provide feedback in qualitative or quantitative form. For 
+example, both the journal and assignment module give the instructor the option to provide their comments 
+in a feedback box (see Figure 4). The assignment module, which is designed so that students can upload 
+their assignments in any file format to the server, also allows the instructor to upload comments about the 
+student's work in form of text- or audio-based (e.g., MP3) files. Feedback can be teacher-restricted or 
+made accessible to all participants in both forums. 
+ 
+Figure 4. Example of a feedback box 
+Additional Modules 
+Numerous additional features and modules facilitate course management and the learning process. For 
+example, Moodle has several built-in standardized questionnaires that allow teachers to collect qualitative 
+and quantitative feedback on students' learning experiences. A questionnaire module allows teachers to 
+create their own questionnaires.  
+SAMPLE LEARNING TASKS CREATED WITH MOODLE TOOLS  
+The following section presents several examples of learning tasks. Example 1 demonstrates the 
+integration of the quiz module with an authentic Internet-based cultural resource used in a second-quarter 
+German class at the University of Washington, Seattle. Examples 2 and 3 represent examples of 
+asynchronous and cooperative learning tasks that can be used in any intermediate language class. The 
+latter two examples, in particular, demonstrate how Moodle allows for the implementation of a socio-
+constructivist approach to language learning. 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 21 
+Example 1 
+ Theme/context: Der Blaue Reiter (name of a group of German artists) 
+ Task: exploring cultural information 
+ Skills: interpretive (reading) and presentational (writing) 
+ Level/language: low intermediate/German 
+ Modules: journal module, resource module 
+In this learning task, the students are asked to explore a member of the "Der Blaue Reiter" group of their 
+choice. In particular, they are asked to collect detailed information about the writer's life from a Web-
+based resource and write about it in English in the journal module (see Figure 5). 
+ 
+Figure 5. Sample of a journal module learning task based on an Internet resource 
+Example 2 
+ Theme/context: Use of media 
+ Task: establishing the sequence of a picture story in four acts 
+ Skills: interpretive (reading) and presentational (writing) 
+ Level/language: low intermediate (level may vary dependent on the complexity of picture story and 
+the target language) 
+ Modules: lesson module, forum module, quiz module 
+The goal of this learning task is to find the correct sequence of a picture story (see Figure 6). Students are 
+divided into groups of four. Each group is asked to describe one component (picture) of the story. The 
+lesson consists of the following steps:  
+1) Students access pictures through the lesson module. Each student can look up only one picture, whose 
+access is password protected.  
+2) Working individually, students describe one picture and post their answers to the forum.  
+3) As soon as a description of each of the four pictures of the story has been posted, students are asked 
+to read the picture descriptions in the forum and establish the correct sequence of pictures.  
+4) Students take a multiple choice quiz to check their answers. 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 22 
+ 
+Figure 6. Sample of an asynchronous learning task -- describing a picture story 
+Example 3 
+ Theme/context: Family 
+ Task: Finding out commonalities 
+ Skills: interpretive (listening) and presentational (speaking) 
+ Level/language: low intermediate 
+ Modules: Assignment module, forum module 
+In this task, students are asked to find commonalities about their family structures.  
+1) Students are asked to briefly describe their families based on questions such as how many brothers 
+and sisters they have, how old they are, what they do, what their names are. To do this, students 
+record their answers with Audacity (http://audacity.sourceforge.net/), an open-source recorder, save 
+their answers as MP3 files, and upload them through the assignment module. 
+2) Working in groups, students listen to each others' descriptions.  
+3) Students report their findings to the teacher through the essay module. 
+CONCLUSION  
+In the beginning, I asked what Moodle is. I would like to conclude by commenting on what Moodle is not. 
+It is not a panacea for language learning. It is a course management and delivery system. As such, Moodle 
+has great potential to create a successful e-learning experience by providing a plethora of excellent tools 
+that can be used to enhance conventional classroom instruction, in hybrid courses, or any distance 
+learning arrangements. In whatever form of instruction Moodle is used, the design of the learning tasks 
+must be grounded in theories of second language acquisition. 
+To find out additional information about Moodle, how to download and install it, go to the official 
+Moodle site at http://moodle.org. 
+NOTE 
+1. Moodle's wiki is based on ErfurtWiki, which is an implementation of the WikiWikiWeb hypertext 
+system. It allows simple collaborative editing and creation of Web pages. 
+Klaus Brandl Are You Ready to "Moodle"? 
+ 
+Language Learning & Technology 23 
+ABOUT THE REVIEWER 
+Klaus Brandl, Ph.D. is an applied linguist and a specialist in foreign language pedagogy. He is a faculty 
+member in the Department of Scandinavian Studies, and holds adjunct positions in the Language 
+Learning Center, the Teacher Education Program (TEP), the Spanish Language Program and Department 
+of Germanics. His specialties include language teaching methodology, teacher training, technology, and 
+language learning.  
+E-mail: brandl@u.washington.edu 
+ 
+REFERENCES 
+Brandl, K. (2002). Integrating Internet-based reading materials into the foreign language teaching 
+curriculum: From teacher- to student-centered approaches. Language Learning & Technology, 6(3), 87-
+107. Retrieved March 20, 2005, from http://llt.msu.edu/vol6num3/brandl/ 
+Brandl, K. (2004). A comparison of two different formats of Spanish 110. Unpublished manuscript, 
+University of Washington. 
+Cziko, G. A., & Park, S. (2003). Internet audio communication for second language learning: A 
+comparative review of six programs. Language Learning & Technology, 7(1), 15-27. Retrieved March 
+20, 2005, from http://llt.msu.edu/vol7num1/review1/ 
+González-Lloret, M. (2003). Designing task-based CALL to promote interaction: En Busca de 
+Esmeraldas. Language Learning & Technology, 7(1), 86-104. Retrieved March 20, 2005, from 
+http://llt.msu.edu/vol7num1/gonzalez/ 
+Godwin-Jones, B. (2003). Tools for distance education: Towards convergence and integration. Language 
+Learning & Technology, 7(3), 18-22. Retrieved March 20, 2005, from http://llt.msu.edu/vol7num3/ 
+emerging/ 
+Godwin-Jones, B. (2004). Learning objects: Scorn or SCORM? Language Learning & Technology, 8(2), 
+7-12. Retrieved March 20, 2005, from http://llt.msu.edu/vol8num2/emerging/ 
+Robb, T. (2004). Moodle: A virtual learning environment for the rest of us. TESL-EJ, 8(2), 1-8. 

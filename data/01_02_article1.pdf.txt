@@ -1,0 +1,659 @@
+Language Learning & Technology
+http://llt.msu.edu/vol1num2/article1/
+January 1998, Volume 1, Number 2
+pp. 23-40
+(page numbers in PDF differ and should not be used for reference)
+Copyright © 1998, ISSN 1094-3501 23
+INPUT VS. OUTPUT PRACTICE IN EDUCATIONAL SOFTWARE
+FOR SECOND LANGUAGE ACQUISITION
+Noriko Nagata
+Department of Modern and Classical Languages
+University of San Francisco
+ABSTRACT
+This paper presents an experiment concerning the relative effectiveness of computer assisted
+comprehension practice and production practice in the acquisition of a second language. Two
+computer programs were developed: (a) an input-focused program providing students with
+explicit grammatical instruction and comprehension exercises and (b) an output-focused program
+providing the same grammatical instruction together with production exercises. The results of the
+study show that the output-focused group performed significantly better than the input-focused
+group for the production of Japanese honorifics and equally well for the comprehension of these
+structures. The study supports Swain's argument that there are roles for output in second language
+acquisition that are independent of comprehensible input.
+INTRODUCTION
+There is increasing interest in the use of computer-assisted language instruction, for obvious reasons. The
+extensive exercises and drills required in second language instruction place significant demands on class
+time, and students must wait for feedback on their exercises until the instructor corrects them. Computer-
+assisted language instruction, in conjunction with contemporary natural language processing technology,
+holds out the promise of unlimited, immediate feedback pinpointed to the specific grammatical errors
+made by the student (Nagata, 1993, 1995, 1996, 1997b). But, even though it is technologically feasible
+for a computer to provide individualized grammatical feedback, there remains an important empirical
+question about how the exercises should be formatted to optimize their instructional effectiveness in
+promoting different sorts of competence for different types of target structures. Several such studies have
+been performed.
+Doughty (1991) compares three kinds of computerized instruction, in which all subjects were presented
+the same reading texts on the computer, but the rule-oriented instructional group received explanations of
+the grammatical rules in relative-clause constructions, the meaning-oriented instructional group was
+encouraged to focus on both the content and structure, and the control group was merely exposed to the
+reading texts. While both the rule-oriented instructional group and the meaning-oriented instructional
+group improved equally well in relativization ability and significantly better than the control group, the
+meaning-oriented instructional group performed best in comprehending the reading texts.
+N. Ellis (1993) performed a computerized experiment to compare the effectiveness of explicit (Rule),
+structured (Rule & Instances), and implicit (Random) programs to teach the soft mutation construction in
+Welsh. The Rule group and the Rule & Instances group received instruction in grammatical rules, but
+only the Rule & Instances group was shown how each rule applied to two instances of vocabulary.
+Afterward, all three groups were presented Welsh phrases on the computer screen and were asked to type
+in the appropriate English translation for each phrase. The Rule & Instances group performed best on
+well-formedness judgments and the Random group performed worst.
+DeKeyser's study (1995) employed a computer program to compare explicit-deductive instruction with
+implicit-inductive instruction. Both the explicit-deductive group and the implicit-inductive group were
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 24
+presented pictures with corresponding sentences in Implexan (a miniature linguistic system) on the
+computer, but only the explicit-deductive group was provided explanations on Implexan grammatical
+rules. The grammatical rules included two types: straightforward ("categorical") rules and fuzzy rules
+("prototypicality patterns" that cannot be completely reduced to an abstract rule). On the final production
+test, the explicit-deductive subjects performed significantly better than the implicit-inductive subjects for
+the straightforward rules, while no such advantage was observed in the fuzzy rules1.
+Robinson's study (1996) employed computerized instruction to teach both simple and complex structures
+of English, under several conditions. All subjects were presented the same target sentences on the
+computer, but, for example, the rule-instructed subjects were asked metalinguistic questions regarding the
+sentences, the rule-search subjects were asked if they identified any rule in the given sentences, and the
+implicit subjects were instructed to memorize the target sentences. The rule-instructed subjects performed
+significantly better than the rule-search subjects and the implicit subjects for the simple structure on the
+grammaticality judgment test. The rule-instructed subjects also outperformed the other groups for the
+complex structure although the difference was statistically significant only between the rule-instructed
+subjects and the rule-search subjects.
+Nagata's study (1997a) employed a computer program providing fill-in-the-blank exercises to practice
+Japanese particles. Two types of feedback were implemented: metalinguistic feedback (explaining
+metalinguistic rules in response to particle errors) and English translations (providing English equivalents
+to the Japanese particles). The results of the study suggest that ongoing metalinguistic feedback is more
+effective than first-language translation feedback in producing the Japanese particles.
+This paper presents a new study investigating the relative effectiveness of production (output) exercises
+and comprehension (input) exercises presented and graded by personal computers. Although the target
+structures are Japanese honorifics, the results should interest anyone concerned with computer-assisted
+language instruction (CALI) and the role of input and output practice in second language acquisition.
+THE STUDY
+Theoretical Background
+Many studies have investigated the role of input in second language acquisition (e.g., Ellis, R., 1981;
+Faerch & Kasper, 1986; Gass & Madden, 1985; Krashen, 1980, 1985, 1987; Loschky, 1994; Sharwood
+Smith, 1993; White, 1987). It seems that the role of output has received less attention. According to
+Krashen (1987), "comprehensible input"2 and the affective state are the true causes of language
+acquisition. On this hypothesis, production exercises would be relevant to language acquisition only
+insofar as they lower affective barriers or provide additional comprehensible input. VanPatten and
+Cadierno (1993a, 1993b) examined the effects of two types of instruction, traditional instruction and
+processing instruction, in both interpreting and producing Spanish object pronouns in OVS and OV order.
+The traditional instruction involved grammatical explanations and output practice, while the processing
+instruction involved grammatical explanations and comprehension practice. These two kinds of
+instruction were also different in the grammatical information provided3 and the instructional approach
+adopted.4 The result of their study indicates that the processing group performed significantly better than
+the traditional group on comprehension post-tests and equally well on production post-tests. VanPatten
+and Cadierno conclude that "instruction is apparently more beneficial when it is directed at how learners
+perceive and process input rather than when instruction is focused on practice via output," (1993a, p. 54;
+1993b, p. 240).5
+Swain (1985, p. 248), however, argues that "there are roles for output in second language acquisition that
+are independent of comprehensible input," (see also Swain and Lapkin, 1995). The results of her study
+(1985) indicate that sixth-grade French immersion students perform similarly to native speakers on those
+aspects of discourse and sociolinguistic competence which do not rely heavily on grammar for their
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 25
+realization but their grammatical performance is not equivalent to that of native speakers (p. 251). The
+immersion students in her study received enough comprehensible input, but their "comprehensible
+output"6 was very limited. Swain conjectures that producing the language, as opposed to simply
+comprehending the language, may force the learner to move from semantic processing to syntactic
+processing, thereby facilitating more grammatical competence. Swain also refers to the phenomenon of
+individuals who can understand a language and yet can only produce limited utterances in it: a ninth-
+grade immersion student said, "I understand everything anyone says to me, and I can hear in my head
+how I should sound when I talk, but it never comes out that way," (p. 248). This indicates that
+comprehension does not necessarily transfer to production.
+DeKeyser and Sokalski (1996) replicated Van Patten and Cadierno's study using two different target
+structures: the Spanish direct object clitics (the same structure used in Van Patten and Cadierno's study)
+and the Spanish conditional, which is more complex and difficult to produce. DeKeyser and Sokalski's
+study eliminated extra variables by providing the same grammatical instruction and exercise content, so
+the comparison was entirely between comprehension practice and production practice. The results of the
+immediate post-test show that for object clitics, the input practice group performed better in the
+comprehension tasks and the output practice group performed better in the production tasks. For the
+conditional, the output practice group outperformed the input practice group in both the production and
+the comprehension tasks. These differences faded in the long term, however. The results indicate that "the
+relative effectiveness of production versus comprehension practice depends on the morphosyntactic
+complexity of the structure in question as well as on the delay between practice and testing" (DeKeyser
+and Sokalski 1996).
+The present study investigates the relative effectiveness of comprehension and production practice in the
+acquisition of Japanese honorifics, both formally and conceptually complex structures of Japanese.7 The
+following describes the Japanese honorific system briefly.
+The Japanese Honorific System
+Japanese honorifics (keigo) have traditionally been sub-classified into respectful words (sonkeigo) and
+humble words (kenzyoogo).8  The use of honorifics depends on the notions of "out-group" and "in-group."
+The distinctions between "out-group" and "in-group" may be understood in terms of differences in rank,
+age, affiliation, intimacy, and so forth. Typically, the "out-group" includes the speaker's superiors (e.g.,
+teachers, supervisors, etc.) and the "in-group" includes the speaker and the speaker's family members or
+subordinates (e.g., assistants, secretaries, etc.). Japanese honorifics are used in both spoken and written
+contexts. There are irregular and regular honorific verbal forms. The regular, respectful form of a verb is
+constructed using the fixed pattern "o + verb stem +  ni narimasu."9 This form is used when an out-group
+person is the subject who performs the action in a sentence (e.g., Sensee ga kono hon o o-kaki-ni-
+narimasita (respectful), 'My teacher wrote this book'). The regular, humble form of a verb is arrived at
+using the pattern "o + verb stem + simasu." This form is used, for example, when the speaker or the
+speaker's in-group member is the subject who performs the action in a sentence and an out-group person
+is the object/direction/goal of the action (e.g., Sensee ni o-ai-simasu (humble), 'I will meet my teacher').
+The irregular honorific forms are not arrived at by these patterns and must be memorized for each verb
+(e.g., Sensee ga irassyaimasu (respectful), 'My teacher will come'; Watasi ga mairimasu (humble), 'I will
+come').
+In short, a speaker needs to choose honorific forms depending on who the subject of the sentence is, on
+who the object of the sentence is, on whom the speaker is talking to, and so forth.10 Verbs may take
+regular honorific forms, irregular honorific forms, or both regular and irregular honorific forms. Japanese
+honorifics are fairly complicated structures which represent a major hurdle for second-language learners
+of Japanese.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 26
+Subjects
+Fourteen students in a second-semester Japanese course at the University of San Francisco participated in
+this study. The students were paired based on the scores they obtained on the mid-term exam and were
+randomly divided into two groups,11 so that the two groups had no significant difference in the level of
+achievement in the course, prior to the experiment (t = 1.07, p = 0.324).12 Each group consisted of three
+males and four females. The students' first language was English, except for one student in the input-
+focused group whose first language was Korean but who was also fluent in English.13
+Materials
+Two computer programs were developed in HyperCard (these programs are called BANZAI:
+HONORIFICS). One is an input-focused program which provides explicit grammatical instruction
+together with comprehension exercises and the other is an output-focused program which provides the
+same grammatical instruction augmented by production exercises. Macintosh computers were used in this
+experiment. The target structures, Japanese honorifics, were new to the students. Four lessons of grammar
+notes and exercises were implemented in both programs.14 The grammar note includes
+grammatical/conceptual descriptions of the Japanese honorific system accompanied by examples. The
+exercises include five types of tasks, in order to develop the learners' comprehension or production skills
+through word-level, sentence-level, and paragraph-level practice. Appendices A, B, C, D, and E describe
+the five types of comprehension and production exercises respectively.
+Figure 1 illustrates one of the type 3 comprehension exercises, as presented on the computer screen.
+Every exercise in the input-focused program provides the students with a choice of three answers .15
+Suppose a student clicks #1 or #2 to answer the question in Figure 1 (the input-focused program). He/she
+is informed that "O-KAKI-NI-NARIMASITA is a respectful form, so the subject who performs the action
+in the sentence should be an out-group member (e.g., superior)."16 (Capitalized Japanese words are
+presented on the computer screen in the Japanese kana and kanji writing systems). If #3 is selected, the
+student is informed that the answer is correct and a Japanese pronunciation of the correct answer is
+provided.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 27
+Figure 2 illustrates one of the type 3 production exercises as it appears on the computer screen. The
+output-focused program involves the same sentence used in the input-focused program, but the exercise is
+to "produce" the sentence. For example, the student is asked to type a sentence in the box at the bottom of
+the screen and push the "Check Answer" button to check whether or not his/her response is correct. The
+program uses a Japanese word processor so that the students can type their responses in the Japanese
+writing system.17 The correct answer for this question is something like Sensee ga o-kaki-ni-narimasita,
+'My teacher wrote it.' If the student types Sensee ga o-kaki-simasita, he/she is informed that "O-KAKI-
+SIMASITA is a humble form, but the subject who performs the action in the sentence is an out-group
+member (e.g., superior). Use a respectful form."18 If the student in the output-focused group fails to
+provide a correct response three times, an "Answer" button appears. Pressing the "Answer" button
+provides the student with the correct answer. If the student types a correct response, he/she is informed
+that the answer is correct and a Japanese pronunciation of the correct answer is provided. In short, both
+the input-focused program and the output-focused program provide the same content of exercises with on-
+going grammatical feedback in response to the learners' correct and incorrect answers. Both programs
+also provide a "Grammar" button to open the grammar note which the students read at the beginning of
+the session and a "Vocabulary Hint" button to see the list of words used in each exercise.
+A pilot study was conducted with two third-semester Japanese students. The result of the pilot study
+indicated that comprehension exercises require less time for the students to complete than the production
+exercises. In order to equalize the total instructional time for both groups, the input-focused program
+provided more exercises than the output-focused program.19 Through four computer sessions
+(approximately one hour per session), the students in both groups received 137 exercises.20 In addition,
+the input-focused group received 130 more exercises.21
+Procedure
+The students in both groups participated in four one-hour computer sessions over the course of two
+weeks: one group received the input-focused program and the other received the output-focused
+program.22 In each computer session, the input-focused group spent five to seven minutes reading a
+grammar note (i.e., a short text describing the grammatical structures on the computer), and then
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 28
+proceeded to the comprehension exercises. The output-focused group also first spent five to seven
+minutes reading the same grammar note, and then moved to the production exercises.
+A questionnaire was administered at the end of the last computer session. On the questionnaire, the
+students were asked to rate 23 items on a 5-point scale (1 strongly disagree, 2 disagree, 3 undecided, 4
+agree, and 5 strongly agree) and to write comments about the computer program.
+Two days after the last computer session, the students took an achievement test in their usual classroom.
+The achievement test included both comprehension and production tasks similar to the ones provided in
+the computer sessions. The comprehension tasks consisted of a total of 21 questions (in which 4 questions
+were of exercise type 1, 4 questions of type 2, 7 questions of type 3, 2 questions of type 4, and 4 questions
+of type 5). The production tasks consisted of a total of 20 questions (in which 9 questions were of type 2,
+7 questions of type 3, 2 questions of type 4, and 2 questions of type 5).23 The achievement test was not
+conducted on the computer because only the output-focused group used the Japanese word processor and
+it was suspected that if the production tasks were performed on the computer, the input-focused group
+might have difficulty in typing Japanese on the Japanese word processor. It was also optional whether to
+use Japanese or roman characters to write the answers. A perfect score on the comprehension tasks was
+42 and that on the production tasks was 43. The following scoring system was used for the achievement
+test. For the comprehension tasks, 2.0 points were deducted for any incorrect choice. For the production
+tasks, points were deducted according to the relative importance of errors in the given questions. For
+example, 1.0 points were deducted for an incorrect or missing verb (although when the error was on the
+verbal forms such as using humble for respect, plain for honorific, perfective for imperfective, or negative
+for affirmative, only 0.5 points were deducted), and 0.5 points were deducted for other incorrect or
+missing words/particles and for incorrect word order. A spelling mistake also resulted in a 0.2 point
+reduction. The students' scores were converted into percentages.
+After the students took the achievement test, they were away from class for one week during the
+university's spring break period. The students in both groups were asked to write a one-page letter about
+what they did during the break to the teacher using honorific forms. After they submitted the homework,
+the homework was corrected and returned to them. A week after the spring break, the students were
+assigned another one-page written assignment to translate English conversations to Japanese. The
+conversations were between a teacher and a student, so to translate them use of appropriate honorific
+forms was required. In the following class, the students practiced oral conversations on the basis of this
+homework for about thirty minutes. During the rest of the course, no more special activity was provided
+regarding honorifics.
+A month after the computer sessions, the students took a retention test. The retention test consists of
+comprehension tasks (4 questions of exercise type 1, 3 questions of type 2, and 5 questions of type 3) and
+production tasks (7 questions of type 3) which were all provided on the achievement test. Fewer questions
+were given on the retention test than on the achievement test because the retention test was administered
+together with the written final exam, so space was limited. The retention test focused on sentence-level
+comprehension and production tasks. The perfect score on both the comprehension tasks and the
+production tasks was 24. The retention test followed the same scoring system used in the achievement
+test. The students' scores were converted into percentages.
+A week after the retention test (i.e., five weeks after the computer sessions), the students took an oral
+conversation test involving Japanese honorifics. In the oral conversation test, each student performed
+conversations together with the instructor and the tutor of the Japanese course for about 5 minutes. The
+students were asked ten questions such as whether they came to school yesterday, what they did, whether
+they met their friends or teacher, what the teacher did, etc. The conversation was recorded and graded
+based on ten sentences that the students were supposed to produce using honorifics. A perfect score on the
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 29
+oral test was 14. The oral test followed the same scoring system used for production tasks on the
+achievement test. The students' scores were converted into percentages.
+ANALYSIS
+The two-sample dependent t-test (the paired two-sample t-test) was applied to examine whether there is a
+significant difference between the input-focused group and the output-focused group in their scores on the
+achievement test, the retention test, and the oral test. All statistical analysis in this study employed two-
+tailed t-tests.
+RESULTS AND DISCUSSION
+Table 1 shows the means and standard deviations of the two groups for the comprehension tasks and the
+production tasks on the achievement test, and the results of the corresponding t-tests. The results of the
+achievement test show that there is no significant difference between the two groups in the
+comprehension tasks, while the difference between the two groups in the production tasks is statistically
+significant at the 0.002 level, favoring the output-focused group. The results suggest that given the same
+grammatical instruction, output-focused practice is more effective than input-focused practice for the
+development of skill in producing Japanese honorifics and is equally effective for the comprehension of
+these structures.
+Table 1: The results of the comprehension tasks and the production tasks on the achievement test (scores
+out of 100)
+Achievement test Input group Output group T-test
+Mean SD Mean SD t Sig of t
+Comprehension tasks 92.4 9.0 95.2 3.8 1.15 NS
+Production tasks 72.3 16.1 85.4 13.4 5.67 0.002
+Figure 3 presents the means of the two groups for each type of comprehension tasks (type 1 through type
+5) on the achievement test. The scores for each type of comprehension task were converted into
+percentages. The result shows that there is no significant difference between the two groups for each type
+of comprehension task.
+Figure 3: The result of each type of comprehension task on the achievement test (scores out of 100)
+Figure 4 presents the means of the two groups for each type of production task (type 2 through 5) on the
+achievement test. (As noted, type 1 tasks were omitted, due to time considerations and their similarity to
+type 2 tasks.) The scores for each type of production task were converted into percentages. A significant
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 30
+difference was found in types 3 and 4 (p < 0.001 for type 3 and p < 0.05 for type 4), but not in types 2 and
+5. Type 2 production tasks asked the students to fill in the blank with a verbal predicate (as illustrated in
+example (4) in Appendix B). This type of question involves only production of a verb form, while type 3
+production tasks require full-sentence production (see example (6) in Appendix C). Therefore, type 3
+production tasks involve more complex syntactic processing than type 2 tasks. Type 4 production tasks
+are also more complex than type 2 tasks because they require the students to read the text and to revise
+verbs with appropriate honorific forms when necessary (see example (8) in Appendix D). In this type of
+task, the learners need to understand discourse context and to recover some unstated subjects and objects
+from context in order to determine appropriate honorific forms. The results suggest that when more
+complex syntactic and discourse processing is involved in production tasks, it becomes more difficult for
+learners to apply their learning from comprehension exercises directly to the production tasks. Type 5 is a
+semi-production task because the students were presented a few Japanese sentences orally and were asked
+to dictate them, which is different from constructing sentences by themselves. For this task, an oral cue
+was provided three times for each sentence, and the students were given enough time to write down each
+sentence. Since the nature of the task was half receptive, this might be one reason the input-focused group
+performed as well as the output-focused group in type 5 production tasks.
+Figure 4: The result of each type of production task on the achievement test (scores out of 100)
+The retention test results (Table 2) are consistent with the achievement test results: there is no significant
+difference between the two groups in the comprehension tasks, while the difference between the two
+groups in the production tasks is statistically significant at the 0.02 level, favoring the output-focused
+group.24 The result of the oral conversation test (Table 3) also exhibits a statistically significant
+difference, favoring the output-focused group (p < 0.02).25 These results indicate that given the same
+follow-up written assignments and oral conversation practice, output-focused practice is more effective
+than input-focused practice in the long term in both written and oral production of Japanese honorific
+sentences.
+Table 2: The results of the comprehension tasks and the production tasks on the retention test (scores out
+of 100)
+Retention test Input group Output group T-test
+Mean SD Mean SD t Sig of t
+Comprehension tasks 88.1 11.6 96.4 4.5 1.62 NS
+Production tasks 74.4 15.9 84.8 16.2 3.18 0.02
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 31
+Table 3: The result of the oral conversation test (scores out of 100)
+Oral conversation test Input group Output group T-test
+Mean SD Mean SD t Sig of t
+Oral production 68.8 19.3 83.2 11.0 3.29 0.02
+Table 4 presents the means and standard deviations of the ratings for each item on the questionnaire (1
+strongly disagree, 2 disagree, 3 undecided, 4 agree, and 5 strongly agree). The result of the questionnaire
+shows that both groups had very positive attitudes toward the computer program, regardless of whether
+they received the input-focused program or the output-focused program. The ratings for items 3, 9, 18, 19,
+20, and 21 show some differences between the two groups, although the differences are not statistically
+significant.26 The reason item 3 ("I didn't have technical problems when working on the program,") was
+rated 0.9 lower by the output-focused group might be related to the fact that the output-focused group
+used the Japanese word processor and the students often hit the wrong keys to edit their responses (e.g., to
+go forward or backward in the text, delete a character, convert kana to kanji, etc.). The output-focused
+group also rated item 9 ("The processing of feedback is fast enough.") 1.3 lower than the input-focused
+group did. This is reflected by the fact that the output-focused program took a much longer time to return
+feedback than the input-focused program, especially for type 3 of exercises (i.e., sentence production
+exercises) because the output-focused program involved a more complex analysis of the student's
+response. On the other hand, item 18 ("The CALI exercises help me practice Japanese by myself.") and
+item 21 ("I want to practice Japanese using this type of CALI exercise on a regular basis.") were rated 0.8
+higher by the output-focused group than by the input-focused group, and item 19 ("I find the CALI
+exercises interesting.") and item 20 ("The CALI exercises help me concentrate on studying Japanese.")
+were rated 0.5 higher by the output-focused group than by the input-focused group. The students in the
+output-focused group appear somewhat more enthusiastic about the computer exercises they received than
+the students in the input-focused group.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 32
+Table 4: The questionnaire on the computer program
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 33
+On the questionnaire, the students were also asked to write their impressions of the computer program.
+All students (except for one in the input-focused group) expressed that they like the computer program.
+One student in the output-focused group commented that "this program taught us in two weeks what
+would have taken about a month otherwise." In fact, the computer program provided intensive, systematic
+lessons regarding different forms of Japanese honorifics, which would take several months in any
+conventional Japanese textbook. This type of computer program may be efficient for teaching complex
+grammar and developing the learner's grammatical competence.
+CONCLUSIONS
+The present study employed computer software to provide various types of comprehension and
+production tasks and examined the relative effectiveness of comprehension and production practice in the
+acquisition of Japanese honorifics. The results of the study suggest that given the same grammatical
+instruction, output-focused practice is more effective than input-focused practice for the development of
+skill in producing Japanese honorifics and is equally effective for the comprehension of these structures.
+Increased effectiveness of production practice over comprehension practice was observed in both written
+and oral production. The analysis of different types of exercises suggests that the relative advantage of
+production practice may be greater in tasks involving complex syntactic processing than in tasks requiring
+less syntactic processing. The results support Swain's argument that there are roles for output in second
+language acquisition that are independent of comprehensible input.
+The present study focused on the acquisition of Japanese honorifics. Even though Japanese honorifics
+represent relatively complex structures of a second language, it might still be too early to infer any
+general conclusion from these findings. The relative effectiveness of input and output practice in second
+language acquisition may depend on the types of target structures, as suggested by DeKeyser and
+Sokalski (1996), and on the kinds of tasks the students are required to perform. The author is now
+expanding this research, addressing these issues.
+The questionnaire results indicate that the students in both groups had positive attitudes toward the
+computer program they used. Based on such positive reactions, the author has developed computer
+software covering seventeen lessons, following the output-focused approach.27 The new programs are
+BANZAI: NOMINAL MODIFIER (consisting of two lessons on Japanese nominal modifiers),
+BANZAI: CONDITIONAL (consisting of two lessons on Japanese conditional expressions), BANZAI:
+(consisting of two lessons on Japanese causative expressions), and BANZAI: SENTENCE MODIFIER
+(consisting of two lessons on Japanese sentence modifiers). These programs have been successfully
+implemented in the language curriculum at the college-level. Continuing research on the relative
+effectiveness of different exercise formats will help to guide the development of the next generation of
+computer-assisted language instruction software.
+NOTES
+1. DeKeyser reports that the fuzzy rules were learned better by the implicit-inductive subjects than by the
+explicit-deductive subjects, but he also notes that the results regarding the fuzzy rules should be treated
+with caution, due to the small data set and the lack of statistical testing.
+2. "Comprehensible input" is defined by Krashen as input containing i+1, where i is the acquirer's current
+level and i+1 is structure a bit beyond the current level.
+3. Only the processing group was informed that language learners often misinterpret NVN sequences
+(1993a, p. 232); the processing group practiced OVS sentences but the traditional group did not (1993b,
+p. 53); and so forth.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 34
+4. The processing instruction adopted the "meaning-form connection" approach (Terrell, 1991), which
+encourages the learners to understand the concepts and meanings underlying the grammatical forms, but
+the traditional instruction followed a more mechanical, paradigmatic presentation of grammatical forms.
+5. Cadierno (1995) extended the study using Spanish past tense verb morphology and obtained results
+similar to those in VanPatten and Cadierno (1993a, 1993b).
+6. According to Swain, "comprehensible output" means "output that extends the linguistic repertoire of
+the learner as he or she attempts to create precisely and appropriately the meaning desired," (Swain, 1985,
+p. 252).
+7. Krashen discusses the relative complexity of a target structure in terms of formal and
+functional/conceptual complexity (1987, pp. 97-98), so the term "complexity" in the present paper
+includes both formal and functional/conceptual complexity of a structure.
+8. The description of the Japanese honorific system in this paper is based on Clancy's (1985) study,
+"honorifics and late acquisition of L1 Japanese", the in-group and out-group concepts are from Jorden's
+textbook (1987), the honorific usage is provided by Simon's grammar notes (1987) and Mizutani and
+Mizutani's textbook (1977), and by discussions with Kyoko Suda (Instructor of Japanese, University of
+San Francisco).
+9. There is another regular, respectful verb form, "V-(r)areru," but this study focuses on the form "o +
+verbal stem + ni narimasu." The romanization used in this paper is an adaptation of the Shin-kunrei-shiki
+'New official system'  (Jorden, 1987).
+10. The concepts of in-group and out-group also shift depending on context. For example, when a speaker
+belongs to Company A and talks to a person who belongs to Company B, the speaker uses a humble form
+to describe not only his or her own action but also the actions of other members in Company A (including
+the speaker's superior) because all members in Company A are now members of the speaker's in-group
+when speaking to a person in a different company (out-group). Since the students in this study were still
+at an elementary level and were introduced to Japanese honorifics for the first time, the situations in
+which the students were instructed to use honorifics in the program were mostly limited to a school
+situation (in which a student talks to his or her teacher or talks about the teacher with other people), or a
+company situation (in which an office worker talks to his or her superior or talks about the superior with
+his or her colleague). Examples of out-group/in-group shift were not included in the program.
+11. The student who obtained the highest score and the student who obtained the second highest score on
+the mid-term exam were paired and were randomly assigned to one of two groups. The same pairing
+system was applied until the last two students (the students with the two lowest scores) were paired and
+randomly assigned to one of two groups.
+12. The two-sample dependent t-test (the paired two-sample t-test) was applied to examine whether there
+is a significant difference between the input-focused group and the output-focused group in their scores
+on the mid-term exam. See Glasnapp and Poggio (1985) for a description of the t-test for correlated
+samples. The mean score of the input-focused group on the mid-term exam was 86.9 (SD = 11.6) and that
+of the output-focused group was 88.2 (SD = 9.3).
+13. One might argue that since Korean has its own honorific system, the student with a Korean
+background may have had an advantage in learning Japanese honorifics. However, the Korean student is
+included in the input-focused group in this study, so this argument strengthens the result, since the output-
+group actually performed better than the input-group. A statistical analysis was also performed to check
+the results when the Korean student (in the input-focused group) and the student paired with the Korean
+student (in the output-focused group) were excluded from the study.  The results were still significant,
+favoring the output-focused group.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 35
+14. In order to reduce the lexical load, the computer programs employed only vocabulary that had been
+introduced before (except for four nouns such as katyoo, 'section chief', butyoo, 'department chief', etc.,
+and two verbs, yomimasu, 'read' and hanasimasu, 'talk', which were new).
+15. The input-focused program employs the multiple choice format because it is typically used for
+comprehension exercises. However, multiple choice exercises may not necessarily capture the
+pedagogical benefits of all types of comprehension exercises. Some other question formats (such as
+asking learners to translate the target language into their first language by themselves) will be included in
+a future study.
+16. The input-focused program stores a feedback message corresponding to each response to a multiple-
+choice question, so when the student selects a number, the corresponding message is provided.
+17. The Japanese word processor works in the following way: the students type roman letters on the
+alphabetical keyboard and these roman letters are converted to katakana, hiragana, and kanji.  (Katakana
+and hiragana represent Japanese syllables, so they are phonetic descriptions. Katakana are used to write
+words borrowed from English or other foreign languages. Hiragana are used mainly to write particles and
+grammatical inflections in verbs, adjectives, and adverbs. Kanji represent both sound and meaning.
+Japanese sentences are normally written with a mixture of hiragana, katakana, and kanji.) For
+homonymous words with the same romanization, the students obtain a list of kanji for the word and are
+asked to select the kanji that he/she thinks are appropriate.
+18. The output-focused program analyzes the learner's response using a pattern matching technique: the
+program stores correct words, phrases, sentences, and anticipated errors for each question, and checks
+whether these items are found in the learner's response.  (No parsing technique is involved in this study.)
+The program also stores feedback messages corresponding to correct answers and anticipated errors, so if
+the learner's response matches a correct answer or an anticipated error, a corresponding error message is
+provided. Anticipated errors include missing words/particles, incorrect/incomplete verbal forms, and
+incorrect Japanese writing systems.
+19. Giving more exercises to the input-group also strengthens the result if the output-group performs
+better than the input-group, which is indeed the case.
+20. Among 137 exercises, 41 exercises were of type 1, 45 of type 2, 35 of type 3, 8 of type 4, and 8 of
+type 5.
+21. Among 130 additional comprehension exercises, 66 exercises were of type 1, 22 were for auditory
+comprehension of spoken honorific verbs (a combination of type 1 and type 5), 41 were for auditory
+comprehension of spoken honorific sentences (a combination of type 3 and type 5), and one was of type
+4. The additional exercises for the input-focused group were intended to review comprehension of
+honorific verbal forms and to practice auditory comprehension of honorific sentences. Consequently, type
+1, type 3, and type 5 tasks were mostly added for the input-focused group.
+22. The first computer session focused on the irregular respectful forms and the irregular humble forms,
+the second computer session included the regular respectful form "o + verbal stem + ni narimasu", the
+third computer session introduced the regular humble form "o + verbal stem + simasu", and the fourth
+session reviewed all kinds of honorific sentences practiced in the previous sessions.
+23. Different numbers of questions were drawn from the various question types on the achievement test. It
+should be kept in mind, however, that questions of different types could vary in the time and amount of
+work required to complete them. In particular, time constraints limited the number of type 4 questions that
+could be administered.  Development of a more principled measure is an important topic for future study.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 36
+24. Type 3 production scores exhibit the largest difference between the two groups on the achievement
+test, and the retention production test included only type 3 tasks. The t-score might have been lower if
+other types of tasks were included in the retention test.
+25. When multiple t-tests are performed on a series of null hypotheses, the probability of committing at
+least one type I error (i.e., the probability of mistakenly rejecting the null hypothesis) may be higher than
+the significance level employed in each of the tests. To achieve a significance level of alpha for the
+conjunction of the null hypotheses, it suffices to divide the significance level of each of the individual
+tests by the number of tests performed (Galambos & Simonelli 1996). Accordingly, suppose we select a
+significance level of 0.05 for the present study as a whole and perform t-tests for the mid-term exam, the
+comprehension achievement test, the production achievement test, the comprehension retention test, the
+production retention test, and the oral conversation test. In this case, the significance level of each test
+becomes 0.008 (0.05 divided by 6). Only the production achievement test is significant at the 0.008 level.
+The tests that fail at this corrected significance level may nonetheless be regarded as heuristic indications
+for future study with a larger sample size.
+26. P = 0.179 for item 3, p = 0.111 for item 9, p = 0.194 for item 18, p = 0.410 for item 19, p = 0.277 for
+item 20, and p = 0.334 for item 21.
+27. The new programs are BANZAI: NOMINAL MODIFIERS (consisting of two lessons on Japanese
+nominal modifiers), BANZAI: CONDITIONALS (consisting of two lessons on Japanese conditional
+expressions), BANZAI: CAUSATIVES (consisting of two lessons on Japanese causative expressions),
+BANZAI: SENTENCE MODIFIERS (consisting of two lessons on Japanese sentence modifiers),
+BANZAI: GERUNDS (consisting of three lessons of Japanese expressions with verbal gerunds),
+BANZAI: VERBAL DIRECT STYLE (consisting of three lessons of Japanese expressions with direct-
+style verbs), and BANZAI: GIVING AND RECEIVING (consisting of three lessons of Japanese giving
+and receiving expressions). Anyone who is interested in the programs may request them from the author
+(nagatan@usfca.edu).
+REFERENCES
+Cadierno, T. (1995). Formal instruction from a processing perspective: An investigation into the Spanish
+past tense. The Modern Language Journal, 79 (2), 179-193.
+Clancy, P. M. (1985). The acquisition of Japanese. In D.I. Slobin (Ed.), The cross linguistic study of
+language acquisition (Vol. 1, The data). Hillsdale, N.J.: Lawrence Erlbaum Associates.
+DeKeyser, R. (1995). Learning second language grammar rules: An experiment with a miniature
+linguistic system. Studies in Second Language Acquisition, 17 (3), 379-410.
+DeKeyser, R., & Sokalski, K. (1996). The differential role of comprehension and production practice.
+Language Learning, 46 (4), 613-642.
+Doughty, C. (1991). Second language instruction does make a difference: Evidence from an empirical
+study of SL relativization.  Studies in Second Language Acquisition, 13 (4), 431-469.
+Ellis, N. (1993). Rules and instances in foreign language learning: Interactions of explicit and implicit
+knowledge.  European Journal of Cognitive Psychology, 5 (3), 289-318.
+Ellis, R. (1981). The role of input in language acquisition: Some implications for second language
+teaching. Applied Linguistics, 11 (1), 70-82.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 37
+Faerch, C., & Kasper, G. (1986). The role of comprehension in second language learning. Applied
+Linguistics,  7 (3), 257-274.
+Galambos, J., & Simonelli, I. (1996). Bonferroni-type inequalities with applications. New York, NY:
+Springer.
+Gass, S., & Madden, C. (1985).  Input in second language acquisition. Rowley, MA: Newbury House.
+Glasnapp, D. R., & Poggio, J. P. (1985). Essentials of statistical analysis for the behavioral sciences.
+Columbus, OH: Charles E. Merrill Publishing Company.
+Jorden, E. H. (1987). Japanese: The spoken language, part 1. New Haven & London: Yale University
+Press.
+Krashen, S. D. (1980). The input hypothesis. In J. Alatis (Ed.), Current issues in bilingual education (pp.
+144-158). Washington, DC: Georgetown University Press.
+Krashen, S. D. (1985). The input hypothesis: Issues and implications. London: Longman.
+Krashen, S. D. (1987). Principles and practice in second language acquisition. Englewood Cliffs, NJ:
+Prentice-Hall.
+Loschky, L. (1994). Comprehensible input and second language acquisition: What is the relationship?
+Studies in Second Language Acquisition, 16 (3), 303-323.
+Mizutani, O., & Mizutani, N. (1977). An introduction to modern Japanese. Tokyo: The Japan Times.
+Nagata, N. (1993). Intelligent computer feedback for second language instruction. The Modern Language
+Journal, 77 (3), 330-339.
+Nagata, N. (1995). An effective application of natural language processing in second language
+instruction. CALICO Journal, 13 (1), 47-67.
+Nagata, N. (1996). Computer vs. workbook instruction in second language acquisition. CALICO Journal,
+14 (1), 53-75.
+Nagata, N. (1997a). The effectiveness of computer-assisted metalinguistic instruction: A case study in
+Japanese. Foreign Language Annals, 30 (2).
+Nagata, N. (1997b). An experimental comparison of deductive and inductive feedback generated by a
+simple parser.  System, 25 (4), 515-534.
+Robinson, P. (1996). Learning simple and complex second language rules under implicit, incidental, rule-
+search, and instructed conditions. Studies in Second Language Acquisition, 18 (1), 27-67.
+Sharwood Smith, M. (1993). Input enhancement in instructed SLA. Studies in Second Language
+Acquisition,  15 (2), 165-179.
+Simon, M. E. (1987). Supplementary grammar notes to an introduction to modern Japanese, part 2.
+Center for Japanese Studies, The University of Michigan.
+Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible
+output in its development. In S. Gass & C. Madden (Eds.), Input in second language acquisition (pp. 235-
+253). Rowley, MA: Newbury House.
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step
+towards second language learning. Applied Linguistics, 16 (3), 371-391.
+Terrell, T. D. (1991). The role of grammar instruction in a communicative approach. The Modern
+Language Journal,  75 (1), 52-63.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 38
+VanPatten, B., & Cadierno, T. (1993a). Explicit instruction and input processing. Studies in Second
+Language Acquisition, 15 (2), 225-243.
+VanPatten, B., & Cadierno, T. (1993b). Input processing and second language acquisition: A role of
+instruction.  The Modern Language Journal, 77 (1), 45-57.
+White, L. (1987). Against comprehensible input: The input hypothesis and the development of second
+language competence.  Applied Linguistics, 8 (2), 95-110.
+APPENDIX A: Type 1 Comprehension and Production Exercises
+The first type of exercise focuses on single-verb comprehension or production. The following illustrates
+one of the type 1 comprehension exercises. For the sake of illustration, English translation is provided in
+square brackets under each Japanese word in this paper, but such translation is not provided in the
+computer exercises.
+(1) A comprehension exercise - type 1
+ 
+In this exercise, the students are asked to choose an appropriate interpretation of the given verb o-kai-ni-
+narimasu, 'buy (respectful),' including the unstated subject of the sentence. In Japanese, the subject and
+object of a sentence are often dropped, so that a single verb functions as a sentence. (The unstated subject
+is indicated in the parentheses in each choice.) This is a comprehension exercise because the English
+translation selected by the student indicates his/her comprehension of the Japanese sentence provided.
+The correct answer for the above question is #3. Choice #1 and #2 are incorrect because the subject of o-
+kai-ni-narimasu, 'buy (respectful),' should be an out-group member (e.g., a superior). The output-focused
+program involves the same verb in the following production exercise:
+(2) A production exercise - type 1
+Give a Japanese equivalent to the following verb.
+(My supervisor) will buy it.
+The output-focused program asks the students to produce Japanese, according to the cue provided.  The
+correct answer for (2) is o-kai-ni-narimasu,'buy (respectful)').
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 39
+APPENDIX B: Type 2 Comprehension and Production Exercises
+The second type of exercise provides a conversation using honorifics or plain forms. For example, the
+input-focused program asks the student to interpret the relationship between the two speakers (or between
+the speakers and the subject/object in the sentence) in the given conversation:
+(3) A comprehension exercise - type 2
+The correct answer for question (3) is # 1. The same conversation is used for a production exercise in
+which the student is asked to fill in the blank with an appropriate verb (either plain or honorific):
+(4) A production exercise - type 2
+The correct answer for question (4) is mairimasu, 'come (humble).
+APPENDIX C: Type 3 Comprehension and Production Exercises
+The third type of exercise includes comprehension or production practice involving full sentences. The
+input-focused program provides the following sort:
+(5) A comprehension exercise - type 3
+The correct answer for question (5) is # 3. The same sentence is used for a production exercise:
+(6) A production exercise - type 3What would you say in Japanese if you were in the following situation.
+Use honorifics if the situation is appropriate.
+Your boss is going to London on business. Ask him when he will return to America.
+The correct answer for question (6) is Itu Amerika ni o-kaeri-ni-narimasu ka, 'When will you return
+(respectful) to America?'
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 40
+APPENDIX D: Type 4 Comprehension and Production Exercises
+The fourth type of exercise presents a text for the student to read or revise. For example, the input-focused
+program provides the following text to interpret:
+(7) A comprehension exercise - type 4
+ 
+The correct answer for question (7) is # 3. The same text is used for a production exercise, but the verbs
+in the text are presented with the plain forms and a student is asked to revise the text using appropriate
+honorific forms:
+(8) A production exercise - type 4
+ 
+Question (8) includes four plain verbs, in which the first three verbs should be replaced with their humble
+forms and the fourth verb should be replaced with its honorific form. One might say that this type of
+exercise involves comprehension of the text. However, the text is presented using non-honorific forms, so
+the target structures (honorifics) are not used for comprehension. That is, the target structures (honorifics)
+are not the ones to comprehend but the ones to be produced.
+Noriko Nagata Input vs. Output Practice in Educational Software…
+Language Learning & Technology 41
+APPENDIX E: Type 5 Comprehension and Production Exercises
+The fifth type of exercise uses oral cues. The input-focused program presents orally a short story
+(consisting of a few Japanese sentences) and asks the student to interpret it. The oral cue provided in (9) is
+as follows: Sensee wa kooen de haikingu o nasaimasita 'My teacher did hiking in a park'; Sore kara,
+Nihonmati no resutoran de osusi to osake o mesiagarimasita 'Then, he had sushi and sake at a restaurant
+in Japan Town.'
+(9) A comprehension exercise - type 5
+Ms. Brown talked to her colleague. Choose a number which corresponds to what she said.
+1. Ms. Brown went hiking in a park. Then, she had sushi and sake at a restaurant in Japan Town.
+2. Ms. Brown's teacher went hiking in a park. Then, he had sushi and sake at a restaurant in Japan Town.
+3. Ms. Brown's teacher went on a picnic in a park. He didn't go to a restaurant in Japan Town.
+The correct answer is #2. The output-focused program also presents the same story orally, but the task is
+to dictate the story:
+(10) A production exercise - type 5
+Ms. Brown talked to her colleague. What did she say? Make notes on paper first, and then type it in the
+box.
+ACKNOWLEDGMENTS
+I am grateful for the anonymous reviewers' helpful and constructive comments. I also thank Robert
+DeKeyser at the University of Pittsburgh and Kevin Kelly at Carnegie Mellon University, for their
+valuable comments on drafts of this paper. I am also grateful for the assistance of the CIT laboratory
+(Center for Instruction and Technology) at the University of San Francisco.
+ABOUT THE AUTHOR
+Noriko Nagata (Ph.D., University of Pittsburgh) is an assistant professor and the director of the Japanese
+program at the University of San Francisco. She has developed a series of computer programs for
+Japanese instruction, including a parser-driven Japanese tutor. She has published a number of articles on
+the effectiveness of computer programs in second language acquisition.
+E-mail: nagatan@usfca.edu

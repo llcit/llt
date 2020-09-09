@@ -1,0 +1,914 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2012/tsaietal.pdf 
+February 2012, Volume 16, Number 1 
+pp. 110–130 
+ 
+Copyright © 2012, ISSN 1094-3501 110 
+EFFECTS ON LEARNING LOGOGRAPHIC CHARACTER FORMATION IN COMPUTER-
+ASSISTED HANDWRITING INSTRUCTION 
+Chen-hui Tsai, University of California, Berkeley, USA 
+Chin-Hwa Kuo, Tamkang University, Taiwan 
+Wen-Bing Horng, Tamkang University, Taiwan 
+Chun-Wen Chen, Taipei National University of the Arts, Taiwan 
+This paper reports on a study that investigates how different learning methods might affect 
+the learning process of character handwriting among beginning college learners of 
+Chinese, as measured by tests of recognition, approximate production, precise production, 
+and awareness of conventional stroke sequence. Two methodologies were examined 
+during character learning: a worksheet numbering system (the most prevailing workbook 
+method used to learn characters) and a theoretically grounded handwriting system (a 
+multimedia method). A repeated-measures MANOVA showed that under the multimedia 
+treatment, novice learners with no prior character writing experience performed better on 
+all four measures, and first-year learners with six months of character-writing experience 
+only performed better in precise production and awareness of conventional sequence. 
+Variations of character formation produced in both treatments, and learners’ perceptions 
+were also analyzed to determine the effects of the two methods. Educational implications 
+in the teaching and learning of character handwriting are provided based on the empirical 
+results. 
+Keywords: Computer-Assisted Language Learning, Language Teaching Methodology, 
+Multimedia, Writing 
+INTRODUCTION 
+Logographic character handwriting, such as Hanzi in Chinese, Kanji in Japanese, or Hanja in Korean, is 
+notoriously difficult for foreign language learners. Fortunately, computer-assisted learning systems for 
+handwriting are being improved to meet the needs of teachers and learners in foreign language education. 
+The use of this developing technology, however, has not been well explored. The aim of this paper is 
+threefold. The first is to draw our readers’ attention briefly to first language (L1) handwriting tradition 
+and a common problem in second language (L2) handwriting instruction. The second is to explore the 
+effects of theory-informed multimedia handwriting system compared to the prevailing worksheet method, 
+based on participants’ performances in learning handwriting and conventional stroke execution. The third 
+is to provide pedagogical implications from a perspective concerning participants’ learning achievements 
+and perceptions, as well as the strengths of the learning tools. 
+The Role of Character Handwriting in L1 Learning 
+A character is composed of subset components that are constructed by unique sets of strokes ranging from 
+one to many. The formation and sequence of these components and strokes are not random; the 
+components must fit together internally while the strokes are executed in a conventionally proper manner 
+in L1 handwriting learning. Native beginners are taught to follow established character formation to 
+develop their handwriting skill. The learning of character formation and standard sequencing is reinforced 
+through class instruction and teaching materials throughout elementary education (Taylor & Taylor, 
+1995), as seen in: China, Taiwan, Hong Kong, Singapore, Japan, and Korea. Unlike the alphabetic 
+system, the logographic character writing system places a high value in the conventional formation for 
+cultural and practical reasons. 
+From a neuroscience perspective, the skill of logographic handwriting is associated with reading 
+characters. Recent neuroimaging studies discovered that the premotor cortex, a region for handwriting in 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 111 
+the brain, is crucially relevant to logographic character reading, and that the execution of finger 
+movements during stroke counting of ideographic characters can lighten the neural loads in recognition of 
+characters (Matsuo, Kato, Okada, Moriya, Glover, & Nakai, 2003). Additionally, the establishment of 
+motor programs is one of the mechanisms that serve and mediate the formation of long-term memory of 
+Chinese characters (Tan, Spinks, Eden, Perfetti, & Siok, 2005). The role of character handwriting in L1 
+acquisition involves both tactile learning and neural processes. 
+A Common Problem in L2 Character Handwriting Instruction 
+Character learning has been considered a challenging aspect for Chinese as a Foreign Language (CFL) 
+students (Everson, 1998; Ke, Wen, & Kotenbeutel, 2001; Shen, 2004). The difficulty lies in the 
+logographic writing system, which constitutes a barrier to memorization. For language learners, sheer rote 
+learning is inevitable (Fan, Tong, & Song, 1987).  
+Although handwriting is a part of instruction, effective methods to teach this skill have not been given the 
+attention they need. In an L2 setting, instructors usually reinforce it in a much more flexible manner, 
+allowing learners to “draw” a character as a picture to form a similar shape. This, at least partially, is for 
+two practical reasons. The first is that teachers do not want to overwhelm beginning level learners with 
+the obstacles of handwriting that might generally frustrate them. Learning character handwriting 
+consumes a great amount of time for students. A self-evaluation survey study by Allen (2008) reported 
+that, on average, the first-year participants spent a third of their study time on this one skill; however, the 
+time spent usually did not yield productive results. The second reason is because of time constraints 
+related to teaching loads. It is difficult for teachers to evaluate each character and correct the errors that 
+beginners make, even if the stroke errors are discernable simply by judging the appearance of the 
+produced characters. It is very common to see L2 beginners assemble characters together like a puzzle, 
+using small parts to complete the whole.  
+Learning of Stroke Sequencing Execution in Characters 
+Some L2 beginners might believe that the sequence and combination of strokes are of little consequence, 
+so long as the final product looks approximately the same. This requires a clarification of the value of 
+conventional stroke sequence. The first rationale is culture-oriented. For centuries, the learning of the 
+conventional character formation has been considered an essential element in handwriting instruction. It is 
+commonly reinforced in early handwriting education in character-using societies and is generally 
+accepted to bring proper proportion to a character. Traditionally, it is argued to be an aid for correct 
+reproduction of the characters, to facilitate better penmanship as well as easy memorization, and to save 
+energy in writing (Shimomura, 1980). Furthermore, because the conventional execution, to a large extent, 
+originates from Chinese calligraphy, it is easier for learners if they would like to further pursue Chinese 
+calligraphy in the future. 
+The learning of conventional character formation also serves pedagogical needs. The formation of 
+components in a character follows the general basic principle that a character is written: from left to right 
+or from top to bottom. Each specific component is constructed by conventional strokes; that is, when the 
+component appears in another character, its stroke execution remains the same. This knowledge of 
+formation between and within components, once accumulated to a certain level, is transferrable to help 
+beginners reduce their cognitive load when learning new characters, either from the motor aspect of 
+handwriting or from the provision of clue-giving aids, in which a radical component can be utilized to 
+give clues to the meaning or sound of another character that also shares the same component. For 
+example, whenever the component 女 (meaning, woman) appears on any position of a character, it is 
+always written with a uniform three-stroke sequence, whether it be in the character 妈 (meaning, mother) 
+or in another one 妆 (meaning, makeup). In the long run, this helps students to reproduce characters in 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 112 
+proper sequence and proportion even if they have never seen the character before. 
+For L2 learners, the most practical benefit is probably that the knowledge of conventional character 
+formation enables beginners to effectively use a dictionary. When it comes to indexing and retrieving in a 
+dictionary, the logographic script has been noted as being less convenient than a Western (alphabetic) 
+system (Chen, 1999). There are three major ways for learners to look up a character. The fastest one is the 
+indexing of pronunciation, which requires a user to know the exact sound and the corresponding tone of a 
+character. Since a character’s sound is not immediately known from its shape for beginners, this method 
+is actually not useful for them. The second one is based on the character’s bushou (or, radical). A 
+character’s radical refers to the aforementioned distinguishing component of a character, and is arranged 
+based on the number of strokes. A stroke is a complete movement of a handwriting action, beginning 
+when a pen touches the paper until it is lifted. Although this sounds straightforward, it might not be as 
+intuitive for beginning learners because of the architectural nature of characters. For example, the radical 
+ (bow) is built with three strokes ( ,  and ), not one stroke ( ) as beginners might perceive. The 
+third method is to search for the characters on a computer recognition program, but, in general, learners 
+must know how to write the character correctly for effective recognition results to be obtained. 
+Computer-assisted Language Learning (CALL) in Character Handwriting  
+Over the past two decades, many advances have been made in computer-assisted character learning. With 
+the developing technology of touch-screen devices, the design focus of educational software has shifted 
+from simple visual aids to interactive interfaces. Some software has been designed to identify stroke 
+production errors (Tonouchi & Kawamura, 1997; Tsay & Tsai, 1993) and some to analyze the global 
+features of the handwriting (Kim, Kim, & Bang, 1997; Ozaki, Adachi, Ishii, & Koyazu, 1995); however, 
+for the analysis to function well, the systems either required users to write a character in correct stroke 
+sequence or required them to produce it in the correct shape. However, for beginners, these two skills are 
+exactly the targeted abilities that need cultivation. This gap has been bridged by techniques that evaluate 
+character qualities through stroke execution, and spatial relationships, check for multiple errors, and 
+prompt learners with useful automatic feedback (See Tang & Leung, 2006a; Leung & Komura, 2006; Li, 
+Leung, Lam, & Tsang, 2007; Hu, Leung, & Xu, 2008; Hu, Xu, Huang, & Leung, 2009; Kuo, Huang, 
+Horng, Chen, Chen, & Wang, 2009 for more detailed reading on these techniques.) 
+Although multimedia methods have become more available and accessible for the teaching and learning 
+of orthographic character writing, empirical investigation on the effects of character learning methods is 
+scant. In L1 learning, some studies (Fang, 2000; Wu, 2002; Lin L., 2004) suggest that the multimedia 
+method with interactive exercises and immediate feedback increased accuracy of character writing in 
+elementary-handwriting education. However, C. Lin (2003) examined the effectiveness of a 
+demonstration-only non-interactive multimedia program on character writing and stroke sequence and 
+found that, in spite of the participants’ positive perceptions of the demonstration tool, there were no 
+observable statistically significant differences of the achievement test scores among the participants. 
+Related research on L2 learning is even more limited. Tang, Li, and Leung (2006) reported that it required 
+less time for the multimedia group to learn Chinese handwriting. In a second attempt, Tang and Leung 
+(2006b) suggested that the learning time was shorter in the customized-feedback condition than in the 
+general-feedback condition. There were several commonalities in these CALL studies. For example, 
+learning was sometimes the secondary focus with the technology being the primary point of the studies. 
+The multimedia effects were examined solely on final written production (i.e., the writing process was left 
+out). While the studies were concerned with the learning time and final production, one might wonder 
+how the multimedia method might affect L2 learners’ character learning in other areas. Moreover, most of 
+the relevant studies initiated and developed upon practical teaching and learning need without the basis of 
+a second language acquisition (SLA) theory. 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 113 
+Theoretical SLA and Practical Character Handwriting Instruction 
+Pica (1997) categorized approaches to SLA research based on their interface with teaching. 
+Complementarity is one interface type, in which SLA research complements L2 instruction through the 
+examination of a theory-grounded learning method or of the materials. In the current study, a theoretically 
+motivated handwriting learning system, selected and developed by the researchers, was employed to 
+explore its possible effect on learning character handwriting for L2 learners. In addition to 
+complementarity, we adopted and modified Chapelle’s (1998) interactionist model, which is a simplified 
+version of the one outlined by Gass (1997). The multimedia system was designed to operationalize 
+positive conditions for SLA from an interactionist perspective, and Figure 1 illustrates the basic 
+components and corresponding design rationales of the multimedia program. 
+ 
+ 
+Figure 1. Basic components and corresponding concepts in the design of the interactionist-based 
+multimedia character handwriting program. 
+ 
+In this section, we will address how we apply the constructs of the interactionist model to the learning of 
+character writing. Input, located at the top of Figure 1, refers to the character formation a learner is 
+exposed to. Target input is demonstrated to a learner by animations (of the whole character, or by its 
+orthographic subcomponents), but only that which is perceived as having the potential to be acquired. An 
+important aspect of apperception is one noticing certain aspects of the input. Learner controls are 
+provided to help a learner to review the noticed aspect of writing. 
+In learning character handwriting, comprehension represents the hypothesis that reproduction of a 
+• animations
+• orthographic componentsINPUT 
+• learner controls for noticed aspectAPPERCEPTION
+• stroke execution
+• conventional character formationCOMPREHENSION
+• a clear picture in mind combining the appearance and the internal structure of a characterINTAKE
+• the processes for using the intake in short-term memory to affect  character reproduction INTEGRATION
+• visualize the result of integration
+• feedback to indicate formation errors OUTPUT
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 114 
+character can be accomplished either with or without awareness of the conventional formation. However, 
+when comprehension takes place through a combination of authentic stroke execution and conventional 
+character formation, the processing can become intake. 
+Integration is the process of using the intake to influence the development of the character handwriting 
+skills, which in turn affect the character reproduction. The output is an observable result of the learning 
+process. It also serves as an aid to develop a specific aspect of a learners’ character writing ability. 
+Immediate feedback is provided to show indications of problems with the output and that will result in the 
+learner’s noticing aspects of the formation, making new integration, and producing more output. 
+Our particular interest lies in the possible ways in which the designed method assists participants in the 
+learning of conventional formation and character reproduction with the prevailing workbook method 
+serving as the control group. We hope to learn the following: What aspects of handwriting can be 
+improved through either of the learning methods? In addition to that, what are the advantages and 
+disadvantages of the two methods according to the perceptions of the participants? To what extent do 
+novice learners (those with zero experience with orthographic handwriting) and first-year learners (those 
+with prior experience in orthographic handwriting) perceive the two methods differently or similarly? 
+These questions necessitate a research design to integrate quantitative and qualitative features. 
+METHOD 
+Operational Definition 
+In the current study, handwriting refers to the skill of writing Chinese logographic characters by hand. 
+When learning character handwriting, CFL learners need to follow conventional character formation in 
+order to produce a character in its proper shape and proportion among and within sub-components. The 
+conventional character formation indicates the rules about the order and direction in which the strokes 
+and/or sub-components that make up characters should be written. The exercise of character handwriting 
+is usually implemented as self-learning assignments at college level. Thus, self-learning is defined as a 
+learning process done by students themselves outside class. The beginning learners are represented by 
+two groups of students: novice learners with no prior experience and first-year students of Chinese with 
+six-months of experience in character writing. Two methodologies were examined in the present study. 
+The first is the interactionist-based computer-assisted character learning system (hereafter the multimedia 
+method or multimedia task). The other is a popular pen-based workbook approach with aids of numbers 
+marking the stroke sequence along with still images for each stroke (hereafter the prevailing method or 
+prevailing task). The measures of Chinese character handwriting include character recognition, 
+approximate production (judging by the appearance of a character), precise production (judging by 
+conventional formation), and awareness of internal structures. Pronunciation is not emphasized in the 
+measures due to three reasons: 1) this study targets character handwriting skills, 2) Chinese characters do 
+not carry exact phonetic information in general, and 3) this study involves novice learners, whom we 
+would like to focus fully on learning how to write during the assigned tasks. 
+Research Design 
+Creswell (2003, p. 215) proposed a mixed-methods sequential explanatory design that consists of two 
+phases: quantitative followed by qualitative. The qualitative data are implemented to help analyze and 
+explain the previous quantitative results. In the current study, we adopted the design strategy and posed a 
+two-phase approach: Phase 1 was a quantitative study that looked at the immediate effects of the two 
+learning methods on character handwriting and character variants. Phase 2 explored the learners’ attitudes 
+by administering a survey, which contained Likert scales and corresponding open-ended questions to 
+probe accounts for the learners’ perceptions, as well as to examine the Phase 1 results in more explanatory 
+detail from the learners’ perspective. 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 115 
+ 
+In order to eliminate experimental errors caused by differences among individual participants, the study 
+employs a within-group repeated-measure design (Keppel & Wickens, 1991) to ascertain the 
+effectiveness of performance in the two learning conditions. The order of the two treatment conditions 
+was counterbalanced to reduce possible practice effects. 
+Research Questions 
+Performance in Learning Chinese Character Writing 
+Do statistically significant differences exist among novice and first-year learners of Chinese in terms of 
+character recognition, production, and awareness of conventional formation in character learning between 
+the prevailing learning method and the multimedia method? 
+Performance in Variations of Character Formation 
+Do statistically significant differences exist in variations of character formation between the prevailing 
+and the multimedia method? 
+Learners’ Perceptions 
+1. Are the novice and first-year learners significantly different in their perceptions regarding the 
+stroke demonstration formats of the two learning methods? 
+2. Do the novice and first-year learners have different degrees of confidence in character 
+reproduction following either of the two learning methods? 
+3. Do the novice and first-year learners have different preference for either of the learning methods 
+as a means of self-learning? 
+Participants 
+Thirty-four native English-speaking college students from a midwestern university in the US participated 
+in the study. Sixteen of the thirty-four participants were recruited from a first-year Chinese class. The 
+remaining eighteen participants were novice learners recruited from a short-term, beginners’ Chinese 
+class. At the time of the data collection, the novice learners had some exercises on basic Chinese strokes 
+but had not begun learning characters, while the first-year Chinese group had already studied Chinese 
+characters for approximately six months. A preexperiment background survey showed that none of them 
+had experience in learning an Asian language prior to their Chinese learning. They all considered 
+themselves to have basic computer skills. The participants were compensated for their participation in this 
+study. To avoid a possible Halo effect, participants were recruited from classes that were not taught by the 
+researchers. 
+Stimulus Characters 
+Two groups of Chinese characters were selected to implement a with-group design, and were randomly 
+assigned to the two experimental conditions in the study. The two groups were similar in graphic 
+complexity, having similar total stroke counts and stroke turning points and belonging to similar character 
+structure categories. The average number of strokes1 for each group is 6 and 6.1. Furthermore, the 
+characters in each group represent four character structure categories: left-right structure, top-bottom 
+structure, enclosure structure, and integral structure (see Appendix A for details). 
+Task Procedure 
+Participants were asked to learn the selected characters with the two learning conditions, a prevailing task 
+and a multimedia task. A training section was given before each task to help participants familiarize 
+themselves with the format of the tasks in the study. The two groups were randomly designated to the two 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 116 
+tasks, and the task order was counterbalanced as well. Each task has three steps. 
+Step one was a pretest, which confirmed that the target characters were new to all the participants. 
+Step two was a thirty-minute time-limited writing exercise in which a participant utilized an assigned 
+method to learn how to write the characters.  
+In a prevailing task, the participants learned character writing by using a worksheet that provided a 
+number marking system and diagram to indicate order of strokes and components within a character (see 
+Appendix B). For each character, the participants were asked to follow the system and reproduce the 
+character five times right next to each provided character on the worksheet. The format of this exercise 
+resembles a popular method that has been adopted by beginning Chinese textbooks.  
+In the multimedia task, the participants used a computer-assisted program. For each character, participants 
+saw animated demonstration to learn character writing. For each character reproduction, the program 
+provided error-specific feedback for each character entry that a learner submitted. The system checked 
+various error types, such as spatial relationship errors among internal components; stroke production 
+errors including missing, additional, concatenated and/or broken strokes, and so forth. The participants 
+utilized a digital writing tablet to practice writing in the multimedia task. For each character, they had to 
+correctly reproduce five copies in order to move on to the next one. 
+Step three was an immediate posttest, which consisted of three parts: recognition, production, and 
+awareness of conventional character formation. For the recognition task, the participants were asked to 
+provide a corresponding meaning in English for each character. For the production test, the participants 
+were given English meanings and sounds of the characters and were asked to write the corresponding 
+characters from memory on paper. In the awareness test, the participants were asked to copy each 
+character printed on the awareness task sheet. That is, they handwrote characters one by one with the 
+printed characters on sight. They were also asked to write all of the characters in a correct fashion that 
+they learned during step two. The design of the awareness test is to find out the stroke sequence and 
+execution that the participants learned in step two, and not their ability to remember characters. Fifteen 
+minutes were assigned to the participants to complete step three. 
+Each participant also took a survey (see Appendix C) at the end of the experiment. The whole experiment 
+was conducted out of class. Each participant took one task per session with both tasks separated by three 
+days. Production and awareness tests were close-up video recorded for further coding. 
+Coding 
+Tests in Character Handwriting 
+The quantitative data were analyzed with SPSS (version 19). The following four aspects of character 
+learning were examined in the posttest:  
+Recognition. One point was assigned if the English meaning was correct for the stimulus character. 
+Approximate production. A participant received one point in the production test for writing a character 
+from memory with an approximate shape to the correct form. That is, if a character, judged by examining 
+the character production sheet, was formed in a sense that the rater could recognize easily with or without 
+correct stroke sequence, one point was given. 
+Precise production. One point was assigned to precise production if a character written from memory in 
+the production test was correctly formed following the standard stroke sequence adopted in this study. 
+This was judged by viewing the corresponding video clips. 
+Awareness of conventional character formation. One point was given if the on-sight copied character 
+in the awareness test was written in a correct fashion, meaning the appearance was correct, and the 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 117 
+internal standard sequence was followed.  
+Variations of Character Formation 
+Variation in character formation indicates the incomplete learning of conventional formation in the 
+current study. This was observed by screening the video data of the awareness test. For each character, the 
+variations produced across participants, in either of the learning conditions, were counted.  
+Qualitative Data Coding 
+Inductive categorical coding techniques (Teddlie & Tashakkori, 2009) were implemented to analyze 
+open-ended survey responses. In the unitizing process, initial data were reviewed line by line and divided 
+into units of information (UOIs), which are the smallest pieces of meaningful information that are 
+associated with specific themes. These UOIs were again reviewed and provisional categories were 
+generated and attributed to cover similar UOIs, which share potentially meaningful aspects. This 
+categorizing process involves merging and further differentiation of those categories in order to 
+synthesize and conceptualize emerging patterns that surface from the participants’ response and to give an 
+idea of the frequencies of each category. Two raters worked on the procedure of classification for three 
+rounds until they reached unanimous consensus of categories.  
+Performance in Learning Character Writing 
+Since the two groups of participants are not equal and a within-subjects analysis of variance is very 
+sensitive to violations of the sphericity assumption, we first checked to see if the sphericity assumption is 
+met (Mauchly’s Test of Sphericity) before conducting a repeated-measures MANOVA analysis. Table 1a 
+and 1b show that Epsilon is 1.000 (greater than 0.75) and thus indicates perfect Sphericity. The sphericity 
+assumption is met. 
+Table 1a. Mauchly’s Test of Sphericity 
+Within Subjects 
+Effect    
+Measure Mauchly’s W Approx. 
+Chi-Square 
+df Sig. 
+ 
+Condition Recognition 1.000 .000 0 .000 
+ Approximate production  1.000 .000 0 .000 
+ Precise production 1.000 .000 0 .000 
+ Awareness 1.000 .000 0 .000 
+Table 1b. Mauchly’s Test of Sphericity 
+EPSILON 
+Within Subjects 
+Effect    
+Measure Greenhouse-geisser Huynh-feldt Lower-bound 
+Condition Recognition 1.000  1.000  1.000  
+ Approximate 
+production  
+1.000  1.000  1.000  
+ Precise production 1.000  1.000  1.000  
+ Awareness 1.000  1.000  1.000  
+The 2  2  4 (level  condition  performance) repeated-measures MANOVA  analysis, see Table 2, 
+indicated a significant effect of condition (p < .001), and a significant interaction effect between condition 
+and level (p = .043).  
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 118 
+Table 2. Repeated-Measures MANOVA Analysis for Character Learning 
+Effect   Wilks’ 
+Lambda 
+SS df MS Error df F p 
+Between subjects  
+Intercept .064 1849.432 4 462.358 29 105.668 .000 
+Level .378 178.749 4 4.687 29 11.945 .000** 
+Within subjects  
+Condition .250 59.583 4 14.896 29 21.712 .000** 
+Condition*Level  .720 9.005 4 2.251 29 2.823 .043* 
+Note. * p < .05, ** p < .01. 
+Since the two groups of learners have different proficiency in Chinese character writing, we do expect to 
+see a main effect of level. Because the interaction effect was significant, the interpretation focuses on the 
+interaction effect rather than on the main effect of condition (i.e., the learning methods). The Scheffé test 
+was chosen to perform Post hoc tests because the two groups are different in size. Additionally, the test is 
+more conservative and will reduce the risk of a Type I error. Post hoc tests with the Scheffé test, see Table 
+3, showed pairwise comparisons of the two levels and conditions broken down by the four measures in 
+character writing: recognition, approximate production, precise production and awareness of conventional 
+character formation. The results suggest that novice participants performed significantly better with the 
+aid of the multimedia program in all measures evaluated in the study, while first-year participants did 
+better on two measures, the tests of precise production and awareness. 
+Of the four Multivariate test results given, Wilks’ Lambda (Wilks’٨) is commonly used. For between 
+subjects, Wilks’ Lambda is .378. Thus, the proportion of the variance in the outcomes that is not 
+explained by an effect is .378. For within subjects, Wilks’ Lambda is .250. Thus, the proportion of the 
+variance in the outcomes that is not explained by an effect is .250. 
+Table 3. Pairwise Comparisons of the Level and Condition by the Four Measures (Performance) 
+Measure Level MD 
+(Multimedia-Prevailing) 
+SD p 
+Recognition Novice  1.333 .454 .005** 
+First-year .938 .482 .059 
+Approximate 
+production  
+Novice  1.778 .473 .001** 
+First-year .125 .502 .795 
+Precise production Novice  2.000 .505 .001** 
+First-year 1.750 .536 .002** 
+Awareness Novice  3.833 .540 .001** 
+First-year 2.375 .573 .001** 
+Note. The test is based on estimated marginal means, ** p < .01. 
+Performance in Variations of Character Formation 
+A homogeneity test is reported (see Table 4) before we move onto a paired t-test. The significance is .211 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 119 
+which is greater than .05. We can assume that the variances are approximately equal. We have met our 
+assumption. A paired t-test was used to compare the mean number of variants for the targeted characters 
+produced by the learners using the two learning methods. The results, see Table 5, indicated that 
+participants produced more formation variants in the prevailing task (M = 6.35, SD = 3.45) than in the 
+multimedia task (M = 2.80, SD = 1.81). In other words, the multimedia method helped the learners 
+significantly reduce the variations of character formation (t[17] = 5.089, p = .000, two-tailed) during the 
+learning process in the study. 
+Table 4. Test of Homogeneity of Variances 
+Levene Statistic df1 df2 sig. 
+    
+2.252 3 35 .211 
+Table 5. Paired-Samples t-Test of Character Writing Variants for the Twenty Target Characters between 
+the Two Learning Conditions  
+Pair Paired Differences  t p 
+ M SD SE    
+Prevailing-Multimedia 3.55 3.12 .698  5.089 .000** 
+Note. ** p < .01. 
+Learners’ Perceptions  
+Learners’ Perceptions of Stroke Demonstration Formats in the Two Learning Methods (Number-
+Marking Worksheet and the Multimedia Method) 
+The participants’ ratings on the survey items 1 and 2 were analyzed with a repeated measures MANOVA 
+to test whether the learners’ perceived one stroke demonstration format to be more useful than the other, 
+and whether this depended on the level of prior learning experience. Table 6 shows that the main effect of 
+the stroke demonstration types was significant (p = .001); however, the main effect of learning experience 
+was not significant (F = .44, p = .512) and the interaction between demonstration types and levels was not 
+significant (F = .194, p = .663). The effect of stroke demonstration types was clear: The participants in 
+this study perceived that using multimedia animation (M = 6.15) was slightly better than using prevailing 
+numbering to demonstrate the stroke sequence (M = 4.65). 
+Table 6. Tests of Within-Subjects Contrasts for Learners’ Perceptions of Demonstration Formats  
+Source 
+ 
+SS df MS  F p 
+Demonstration type 37.590 1 37.590  13.713 .001** 
+Demonstration * Level .531 1 .531  .194 .663 
+Note. **p < .01. 
+Learners’ Perceptions of their Confidence in Character Reproduction 
+Items 3 and 4 on the survey explore the participants’ degree of confidence in learning character writing 
+with the aid of the two learning tools. Table 7 indicated that the main effects of condition (learning 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 120 
+methods), as well as the interaction effects between condition and level, were observed in the repeated 
+MANOVA test for the two statements. However, the main effect of level of experience was not 
+significant (F = .009, p = .927). To take a closer look at the interaction effects, post hoc tests with the 
+Scheffé test were conducted to reveal that the novice learners have more confidence in character 
+reproduction after taking the multimedia task (F = 15.935, p = .001), while, for the first-year learners, 
+there was no difference based on task type (F = .398, p = .503). 
+Table 7. Tests of Within-Subjects Contrasts for Learners’ Perceptions of Confidence in Character 
+Reproduction 
+Source 
+ 
+SS df MS  F p 
+Condition 23.890 1 23.890  9.817 .004** 
+Condition * Level 11.184 1 11.184  4.596 .040* 
+Error (condition) 77.875 32 2.434    
+Note. *p < .05, ** p < .01. 
+Learners’ Preference for Either of the Learning Methods 
+Statements 5 and 6 of the survey inquire about the participants’ preference for the learning tools. A 
+repeated MANOVA test was carried out to see whether the learners liked one learning method more than 
+the other and whether this depended on the level of prior learning experience. The result, see Table 8, tells 
+us that there was a main effect of condition, the learning methods, (Wilk’s Lambda = 0.848, F = 5.735; p 
+= .023), but not for level of prior experience (F = 0.554, p = .462). The interaction effect between task 
+type and level (Wilk’s Lambda = 0.775, F = 9.278; p = .005) was also significant, suggesting that the 
+interaction may explain the variability among the means of the participants’ responses. Since the 
+interaction was significant, the interpretation focuses on this rather than on the main effect of condition. 
+Table 8. Result of a Repeated MANOVA Test for Learners’ Preference to the Learning Methods 
+Effect    SS df MS  F p 
+Between subjects   
+ Intercept  1759.441 1 1759.441  947.194 .000 
+ Level  1.030  1 1.030  .554 .462 
+ Error  59.441 32 1.858    
+Within subjects   
+ Condition  22.378 1 22.378  5.735 .023* 
+ Condition * Level   36.201 1 36.201  9.278 .005** 
+ Error  124.858 32 3.902    
+Note. * p < .05, ** p < .01. 
+Post hoc tests with the Scheffé test demonstrated that the first-year participants liked the prevailing (M = 
+5.38) and multimedia tasks (M = 5.06) to about the same degree (F = 14.97, p = .598) while the novice 
+participants liked the multimedia task (M =6.28) more than they liked the prevailing task (M =3.67, p = 
+.000). That is, the first-year participants did not have a significant preference on either of the tools, 
+whereas the novice participants preferred the multimedia program as a means of self-learning. Post hoc 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 121 
+tests with the Scheffé test showed additional pairwise comparisons of the two levels of experience broken 
+down by task type that suggest the following: the first-year participants liked the prevailing task more 
+than the novices did (p = .015), but liked the multimedia task less than the novices did (p = .013). 
+INTERPRETATION AND DISCUSSION  
+Multimedia Effects on Learning Character Handwriting  
+The multimedia effects on the precise production and awareness of conventional formation were 
+significant among the participants in this study. This begs the question: Why and how did the multimedia 
+method affect the improvement of the invisible progress in the course of learning? In answering the 
+question, we look to the differences in the “input enhancement” (Smith, 1993) of the two learning 
+conditions. 
+When an instructor assigns character homework, the exercise is usually devised to show the movement 
+(visual exercises), and to direct learners to feel the movement (kinesthetic exercises). We will focus on 
+the visual exercises for a moment. On a worksheet used in the prevailing method, a target character is 
+presented with numbers referring to the sequence of the strokes and with a still diagram showing stroke 
+position. The learners need to fulfill the writing trial with the final printed product in sight without a 
+precise movement indicating the exact writing procedure. 
+The other condition, the multimedia method, might provide more comprehensive input for the 
+participants. From a cognitive point of view, learning a language involves working memory. Baddeley 
+(2003) provides a review of working memory and language learning. He proposed that working memory 
+could be divided into three subsystems: the central executive, the visuospatial sketchpad, and the 
+phonological loop. The one that is concerned with visual information is the visuo-spatial sketchpad, 
+which “serves the function of integrating spatial, visual, and possibly kinesthetic information into a 
+unified representation which may be temporarily stored and manipulated” (p. 200). The multimedia-
+learning program provides stroke animation that shows the movement required for each stroke of a 
+character. This animated visual demonstration might help enable learners to incorporate information 
+about a stroke’s directionality and component formation in a vividly successive manner. This could offer 
+continuous and detailed input for the visuo-spatial sketchpad to better prepare learners for kinesthetic 
+exercises, which immediately followed. 
+With regard to the kinesthetic exercises, in the prevailing task, the participants did not have immediate 
+feedback on their writing. They completed the writing task and moved on. In a regular class setting at 
+college, character homework is graded and returned a few days later. When they receive the delayed 
+feedback on their writing, the whole learning process has been done, and due to the pacing of college 
+assignments, it is rare that students would review and fix the problems, as they have already moved to the 
+next lesson. 
+In the multimedia task, however, when the participants committed any writing errors, immediate feedback 
+was prompted after submission to specify any problems. They watched the stroke animation again to 
+review what the accurate form should be and, by the system’s workflow, were forced back to correct 
+themselves. It seems that during this cognitive activity of handwriting, learners’ attention was directed to 
+the visual details that distinguish the differences between what they thought it was and what it truly is. 
+The process cycled until the character was completed in an authentic manner. Therefore, even though 
+there might be factors unique to each participant that influence the likelihood of apprehension in 
+conventional formation, the input enhancement combined with customized, error-specific feedback, 
+helped the participants facilitate input assimilation, integrate new forms, modify their output, and improve 
+the quality of handwriting. This in turn accentuated the learning of conventional character formation in 
+the study.  
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 122 
+Multimedia Effects on Variations of Character Formation 
+The effects of the processes illustrated above are further evidenced by the variations of character 
+formation produced by the participants in this study. In the multimedia task, these variations were 
+significantly less than in the prevailing task. Take one of the targeted characters, 囚 (meaning, prisoner), 
+as an example to depict modifications produced during the learning process; the outer surrounding box is 
+authentically formed in a fixed manner, which consists of three strokes (see Figure 2 for an illustration of 
+the standard formation). The authentic way to write this character is to construct the 冂 part first, then 
+insert a two-stroke character for person 人 inside the cell, and finally close the bottom of the character 
+with a finishing horizontal line. There were six types of variations of this character found in the prevailing 
+task (#1 and #6 represent the same error type), while none was observed in the multimedia task, neither 
+among novice nor among the first-year learners, for this example. Figure 2 shows all of the variations that 
+emerged from the data in the prevailing task for this character. In order to highlight the deviant formation, 
+only the parts that were incorrectly written were shown, and arrows were used to indicate directions or 
+movements of strokes. 
+ 
+Standard formation  
+ 
+ 
+Levels Kinds of variants observed in the prevailing task 
+ 
+Novice 
+learners 
+#1 
+ 
+ 
+#2 
+ 
+ 
+#3 
+ 
+ 
+#4 
+ 
+ 
+#5 
+ 
+ 
+1st-year 
+learners 
+ 
+#6 
+ 
+ 
+#7 
+ 
+ 
+ 
+Figure 2. An example of variance in the prevailing worksheet task. 
+Some participants compressed the three-stroke box into one (#1, #5, and #6) or two strokes (#2 and #3), 
+and while others extended it into four strokes in the prevailing task (#4 and #7). Some of them changed 
+the stroke number and/or sequence while others made the shape of a character improperly proportioned 
+(#1, #3, and #6) or created inappropriate gaps of joints (#2, #3, #4, and #7). As described previously in 
+this discussion, things could easily go wrong during the prevailing learning process since there is no 
+visual demonstration with feedback. For the novice participants, the components and the character are 
+brand new stimuli; therefore, they have not yet developed a precise perception of how the components are 
+formed. Thus, they sequentially engendered more variations. Nevertheless, for the first-year participants, 
+they have learned three characters with the same box component (i.e., 图, 国, and 回; meaning, map, 
+country, and to return, respectively) in their prior experience of character learning; we did not expect to 
+see variations in first-year participants’ characters productions. 
+In order to further examine if these kinds of errors were inadvertent, we scrutinized those corresponding 
+characters produced by the participants who made these modifications in their character production tests 
+and in the writing exercises as well. We found that those variations were not random productions. Two 
+patterns were observed: one is that the first-year participants wrote the character in the wrong way 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 123 
+throughout the study; the other is that they changed the way they wrote the character every time they 
+produced it. That is, the variations were unpredictable for the character. In the former pattern, the wrong 
+formation was reinforced in the writing exercise while the latter showed the fluctuations during the 
+learning process. This phenomenon illustrates how different learning methods might have an impact on 
+the dimension of interlanguage variation in character handwriting. More examples of the participants’ 
+handwriting in the awareness tests can be seen at the following links:  
+The target character: 官 (Meaning, officer) 
+• Prevailing task: one of the 7 types of formation errors among novice participants (Link 1) 
+• Prevailing task: one of the 4 types of formation errors among first-year participants (Link 2) 
+• Multimedia task: one of the 2 types of formation errors among novice participants (Link 3) 
+• Multimedia task: No error was made for this character among the first-year participants  
+The problem of formation variation indeed exists but is usually neglected in handwriting instruction 
+especially when students are expected to fulfill the motor-skill training through self-learning. As 
+mentioned before, it is difficult for teachers to correct students’ errors in detail. They are usually tempted 
+to allow students to reproduce a visual approximation of a character rather than to follow the authentic 
+character formation paradigm. Sassoon (1995), in her research on handwriting acquisition, pointed out 
+that this method of teaching a writing system, i.e., allowing students to reproduce a visual approximation 
+of a character, may allow students “to express themselves more quickly in writing, but may also have a 
+disastrous effect later on. As [hand]writing is a physical act, any aspect of it quickly becomes automated, 
+and when practiced, becomes increasingly difficult to alter” (p.21). This is particularly true in learning 
+logographic characters. In the following sections, we will turn to the second phase of the study and focus 
+on the participants’ points of view. 
+Learners’ Perception of the Two Learning Methods 
+Degree of Confidence in Character Reproduction 
+The novice participants had more confidence in character reproduction when they learned with the aid of 
+the multimedia tool and that was echoed in their performances in all the measures in the current study. In 
+their corresponding open-ended responses, 15 UOIs were obtained. The primary reason for their 
+perceived confidence was that the multimedia method reinforced the correct character formation (67%) in 
+learning process by giving immediate feedback that challenged their misconceptions. The following are a 
+few comments given by the learners in this category: “It showed what I was doing wrong when I felt it 
+right,” and, “I feel more immersed in the character … feedback on my characters helps correct errors 
+early before they become a habit.”  
+Another category explaining the degree of confidence was that the multimedia method enhanced their 
+memorization (27%). Some of the learners noted that “… even if I wasn’t able to remember the character 
+right away I could remember how to copy them correctly and I could recall more of them than I could 
+with the paper task,” and another participant noted “Watching the animation and copying the movements 
+greatly improved my memory.”  
+For the first-year participants, the use of the learning methods did not bring a statistically significant 
+difference in the degree of confidence in character reproduction. We looked at their responses that 
+commented on their rating on survey item 3, which inquired about their degree of confidence in character 
+reproduction in the prevailing task. Thirteen UOIs were obtained with 9 in the main category (regular 
+practice). That is, among the first-year participants, 69% of the qualitative data indicated that their 
+confidence resulted from the regularity of the practice form in the prevailing method. One example from 
+these responses is “I already felt confident doing this due to Chinese class. ” However, along with these 
+kinds of responses, a concern with the uncertainty of authentic formation also emerged. This problem is 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 124 
+stated by a first-year learner as “you can whip through without really absorbing what you are writing.”  
+Although the first-year participants did significantly better in the precise production and awareness tests, 
+their ratings did not reflect this result. It is very likely that their confidence in character reproduction 
+results from whether they could recognize a character and whether they could produce the approximate 
+shapes of characters, but not the precise production or better awareness of internal structures. That is, 
+their confidence might come from the quantities, instead of the quality of their productions. 
+Preference between the Two Methods 
+The novice participants’ ratings and responses were clear: they liked the multimedia aid as a means of 
+self-learning. Three advantages, among 24 UOIs, were specifically identified from the participants’ 
+qualitative responses to survey item 6, (a) provide maximum correctness (54%), (b) provide animation 
+(25%), and (c) provide motivation (21%). The first two were addressed previously, so we will elaborate 
+more on the third. Some novice participants considered it more motivating to fulfill the multimedia task 
+because the system would not let go until they completed a correct entry. Some of the comments were, “It 
+was more fun and motivated me to try harder,” and “It felt like a game so I wanted to be perfect.”  
+We also looked at their verbal responses to the prevailing method, survey item 5, in order to see why 
+there was a significant difference in their preference. Among 16 UOIs, the first category that emerged to 
+the top was the sense of uncertainty in accuracy regarding the paper worksheet (44%); the second 
+category was expediency. Some of them noticed the possibility that one could go through the paper 
+exercise in a quick manner (25%). The first-year participants, interestingly enough, perceived this 
+disadvantage noted by the novice participants, as an advantage. 
+The survey result revealed that the first-year participants liked the prevailing method more than the 
+novices did. The first emerging reason, among 17 UOIs, was that they could complete writing exercises 
+with the prevailing method in a faster and more flexible manner (41%), which seemed to be a major 
+concern to them. Some participants wrote, “I have more control over ways of writing a character.” 
+“Sometimes a different way (to write a character) feels more natural and I want to deviate.”  
+Our quantitative analysis also depicted that the first-year learners liked the multimedia task less than the 
+novices did. This is also reflected in their comments toward the multimedia method: “Completing the task 
+on the computer forced me to slow down when practicing because the program was checking my 
+accuracy. I couldn’t rush through it.” One participant who habitually began a stroke from bottom to top 
+commented that he was irritated at having to change his stroke: “…many ways (of writing a character) are 
+easier for my memory.” 
+The first-year learners’ perception was, in all probability, influenced by their prior experience of learning 
+characters in the contemporary conditions of character learning. With many new words in every lesson, 
+they have a legitimate need to value their exercise time. It is also reasonable that they would prefer a more 
+flexible way to achieve a high score on a vocabulary quiz. Since only the skills of recognition and 
+approximate production are praised in tests, the accuracy and conventional formation of characters are 
+consequently ignored during the learning process. Once a handwriting habit is established, learners find it 
+awkward to change it. 
+From this, we can also see how goal orientation of a learning task might color learners’ learning attitudes 
+and affect learning processes. The prevailing task allows information to travel only one-way—the goal of 
+the task becomes “completion” to the learners while the process becomes secondary. The multimedia 
+program, however, requires a two-way information exchange between the learning tool and the learners. 
+This puts an impetus on the learner to interact: they expected their output to be comprehended or 
+acknowledged by the learning tool to see if their output was appropriately formed. This expectation 
+pushed them to actively attempt to learn the character formation. The primary goal of the task was shifted 
+to the learning of the target knowledge needed to complete the task. This goal orientation of the learning 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 125 
+tasks leads our attention to the likely problems and educational implications in character handwriting 
+instruction. 
+Educational Implications 
+Do teachers want to emphasize the quantity or the quality of characters in teaching or learning 
+handwriting? In addition to the participants’ perceptions, the phenomenon that our participants produced 
+much more variations and less precise production with the prevailing method informs practitioners of a 
+need to be more realistic in their curriculum objectives in character learning. We share a similar view with 
+Ke (1998), who accurately pointed out that “although curriculum philosophies vary from program to 
+program, it appears that at the initial stages of Chinese language learning, we need to control the amount 
+of characters for our students to produce” (p. 98). If we overemphasize the quantity of characters, for 
+instance, requesting beginners to write all the characters in the vocabulary list of a lesson by memory, 
+quality and authenticity of character handwriting are most typically sacrificed. By controlling the amount, 
+students could focus on character formation and the establishment of character writing skill. Because 
+learners must find a way to be productive anyway, with limited time and cognitive constraints, the chance 
+is greater that they would deviate to “draw” characters freestyle to compose approximate shapes instead 
+of writing characters in a conventional and authentic manner. 
+Instructors might underestimate the difficulties that confront adult learners. Our observation in the 
+learners’ character variations indirectly showed that the participants’ errors were not random, and could 
+be classified into several types. It is beyond the scope of this article to analyze the stroke error types of 
+learners’ production that might result from their established cognitions, such as their L1 writing system. 
+The fact that the multimedia effects improved the participants’ performance in conventional character 
+formation and reduced their variations in the study presented the great possibility that this developing 
+technology (i.e., multimedia with immediate error-specific feedback) appears to have positive effects on 
+novice learners’ short-term achievements and benefit the motor aspect of the character learning. That, in 
+turn, could lay a more thorough groundwork for teaching handwriting, especially at the initial learning 
+stage. It may be worth mentioning that although the Chinese characters and CFL learners were chosen to 
+serve the purpose of the study, the proposed technology could also accommodate different kinds of 
+writing systems including minute differences among Chinese societies as well as Japanese and Korean 
+characters, which are written differently (e.g., with different stroke orders), or characters created by the 
+Japanese and Korean. 
+Finally, while the conventional character formation has been the focus in this study, we are not arguing 
+for the implementation of a rigorous stroke sequence per se. Rather, we would like to emphasize the 
+feasibility and the desirability of developing culture-oriented automaticity in the beginning learners’ 
+production of common strokes and subcharacter components, with an emphasis on quality rather than 
+quantity of characters in learning logographic handwriting. 
+LIMITATIONS AND FURTHER RESEARCH 
+First of all, we remain aware that the small number of participants and stimuli sheds doubt on the validity 
+of the observed significances found in the data analyses. Thus, the results cannot be generalized. 
+However, the findings of this study could offer insights into the possible effects and perceptions that the 
+learning methods might bring to the two sublevel beginning learners (novice beginners and first-year 
+learners who had some prior experience in developing their handwriting skills).  Second, only short-term 
+effects on writing performances were studied. Future research should be undertaken to determine if the 
+multimedia effects are retained for a longer period of time at the initial stage of learning logographic 
+character handwriting. Third, as mentioned earlier, a discussion of the writing error types is beyond the 
+scope of this paper. It might be of interest for future studies to explore if the learning methods affect 
+learners’ error types in learning conventional character formation. Fourth, since we are interested in the 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 126 
+multimedia effect on learning character handwriting, the criteria of character selection primarily focused 
+on writing complexity and visual structure categories. Additionally, because the current study involved 
+novice learners, we did not include high-density characters in the stimuli. Perhaps future research could 
+cover more complex character or control other possible factors, for example, degree of stroke repetition, 
+the parallel of internal structure, character frequency, etc. It is our hope to highlight the need for more 
+research to investigate the effects of learning methods in logographic handwriting instruction. Studies of 
+this kind could provide information for practitioners and L2 beginners to better overcome difficulties in 
+learning logographic character handwriting, to exploit viability of the new technology in this process, and 
+thus to offer dynamic options to enhance instruction. 
+ 
+APPENDIX A. 
+ 
+Note.  The enclosure structure includes visually partial enclosure and/or full enclosure. The numbers in 
+the parentheses denote the average number of strokes among the characters in the structure categories. 
+ 
+APPENDIX B. 
+ 
+ 
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2012/tsaietal.pdf 
+February 2012, Volume 16, Number 1 
+pp. 110–130 
+ 
+Copyright © 2012, ISSN 1094-3501 127 
+APPENDIX C. 
+ 
+ 
+NOTES 
+1. Among the 3,500 Chinese characters for common use, the simplest characters have 1 stroke each, and 
+the most complex character has 24 strokes. The majority of the characters have between 6 and 13 strokes 
+(Taylor & Taylor, 1995). The average number of strokes for each group of characters in the current study 
+is approximately 6 as our targeted participants are novice and beginning learners. 
+ 
+ACKNOWLEDGEMENTS 
+“Xue-wen Easy Go!” program was adapted and modified to serve the present study. The computer-
+assisted character-learning program was developed by the Center of Digital Language Research (CDLR) 
+at Tamkang University in Taiwan. The experimental apparatus in the present study was supported in part 
+by CDLR’s grant from National Science Council (NSC 100-2631-S-032-001) in Taiwan. The authors of 
+the article are grateful to the anonymous reviewers for their inspiring comments and suggestions. 
+ 
+ABOUT THE AUTHORS 
+Chen-Hui Tsai is currently a lecturer at the Department of East Asian Languages & Cultures at the 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 128 
+University of California, Berkeley. Her research interests are logographic character acquisition, as well as 
+educational technology and SLA. 
+E-mail: chtsai@berkeley.edu 
+Chin-Hwa Kuo is a professor and chairman at the Department of Computer Science and Information 
+Science and the director of Digital Language Research Center, Tamkang University, Taiwan. His research 
+interests include computer assisted language learning and multimedia processing. 
+E-mail: chkuo@mail.tku.edu.tw 
+Wen-Bing Horng is a professor in the Department of Computer Science and Information Engineering, 
+Tamkang University, Taiwan. His research interests include image processing, artificial intelligence, and 
+information security. 
+E-mail: horng@mail.tku.edu.tw 
+Chun-Wen Chen received his Ph.D. in Computer Science and Information Engineering, Tamkang 
+University, Taiwan in 2009. He is currently an assistant researcher in Center for Teaching and Learning, 
+Taipei National University of the Arts, Taiwan. His research interests include image processing and 
+artificial intelligence. 
+E-mail: mavins.chen@gmail.com 
+ 
+REFERENCES 
+Allen, J. (2008). Why learning to write Chinese is a waste of time: A modest proposal. Foreign Language 
+Annals, 41(2), 237–251. 
+Baddeley, A. (2003). Working memory and language: An overview. Journal of Communication 
+disorders, 36(3), 189–208. 
+Chapelle, C. (1998). Multimedia CALL: Lessons to be learned from research on instructed SLA. 
+Language Learning & Technology, 2(1), 22–36. Retrieved from http://llt.msu.edu/vol2num1/ 
+pdf/article1.pdf 
+Chen, P. (1999). Modern Chinese: history and sociolinguistics. Cambridge: Cambridge University Press.  
+Creswell, J. (2003). Research design: Qualitative, quantitative, and mixed methods approaches (2nd Ed.). 
+Thousand Oaks, CA: Sage Publications, Inc. 
+Everson, M. (1998). Word recognition among learners of Chinese as a foreign language: Investigating the 
+relationship between naming and knowing. Modern Language Journal, 82(2), 194–204. 
+Fan, L., Tong, L., & Song, J. (1987). The characteristics of Chinese language and children’s learning to 
+read and write. The Future of Literacy in a Changing World, 87–94. 
+Fang, D. (2000). Web-based Chinese characters CAI system for primary school learners. Unpublished 
+master’s thesis, Department of Information and Computer Education, College of Science, National 
+University of Tainan, Taiwan.  
+Gass, S. M. (1997). Input, interaction, and the second language learner. Mahwah, NJ: Lawrence Erlbaum 
+Associates. 
+Hu, Z., Leung, H., & Xu, Y. (2008). Automated Chinese Handwriting Error Detection Using Attributed 
+Relational Graph Matching, Lecture Notes in Computer Science, 5145, 344–355. 
+Hu, Z., Xu, Y., Huang, L., & Leung, H. (2009). A Chinese Handwriting Education System with 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 129 
+Automatic Error Detection, Journal of Software, 4(2), 101–107. 
+Ke, C. (1998). Effects of language background on the learning of Chinese characters among foreign 
+language students. Foreign Language Annals, 31(1), 91–102. 
+Ke, C., Wen, X., & Kotenbeutel, C. (2001). Report on the 2000 CLTA articulation project. Journal of the 
+Chinese Language Teacher’s Association, 36(3), 25–60. 
+Keppel, G., & Wickens, T. (1991). Design and analysis: A researcher’s handbook. Englewood Cliffs, NJ: 
+Prentice-Hall. 
+Kim, D., Kim, E., & Bang, S. (1997). A variation measure for handwritten character image data using 
+entropy difference. Pattern Recognition, 30(1), 19–29. 
+Kuo, C., Huang, Y., Horng, W., Chen, C., Chen, C., & Wang, Y. (2009). Design of a Chinese Character 
+Learning System Based on Orthographic Decomposition Strategy. Paper presented at the International 
+Workshop on Research and Practice of Advanced Learning (RePALT), Tokyo, Japan. 
+Leung, H. & Komura, T. (2006). Web-Based Handwriting Education with Animated Virtual Teacher 
+[Special issue]. International Journal of Distance Education Technologies, 4(1) 71–80. 
+Li, K., Leung, H., Lam, S., & Tsang, C. (2007). An Assessment Tool for Judging the Overall Appearance 
+of Chinese Handwriting based on Opinions from Occupational Therapists, Lecture Notes in Computer 
+Science, 4823, 288–299. 
+Lin, C. (2003). Effects of using language- Media teaching on learning Chinese character strokes and 
+stoke orders- Exemplified with grade 2 primary school students in Hualien County. Unpublished master’s 
+thesis, Department of Language and Literacy Education, College of Humanities, National Taichung 
+University of Education, Taiwan.  
+Lin, L. (2004). The Chinese characters assessment system for second grade elementary learners. 
+Unpublished master’s thesis, Department of Educational Measurement and Statistics, College of  
+Education, National Taichung University of Education, Taiwan.  
+Matsuo, K., Kato, C., Okada, T., Moriya, T., Glover, G., & Nakai, T. (2003). Finger movements lighten 
+neural loads in the recognition of ideographic characters. Cognitive Brain Research,17, 263–272. 
+Ozaki, M., Adachi, Y., Ishii, N., & Koyazu, T. (1995). CAI System to Improve Hand Writing Skills by 
+means of Fuzzy Theory. Paper presented at the Proceedings IEEE International Conference on Fuzzy 
+Systems and the 2nd Internatoinal Fuzzy Engineering Symposium,Yokohama, Japan. 
+Pica, T. (1997). Second language teaching and research relationships: A North American view. Language 
+Teaching Research, 1(1), 48–72. 
+Sassoon, R. (1995). The acquisition of a second writing system: Intellect Books. 
+Shen, H. (2004). Level of cognitive processing: Effects on character learning among non-native learners 
+of Chinese as a foreign language. Language and Education, 18(2), 167–182. 
+Shimomura, T. (1980). Informatics: input and output: Science of the stroke sequence of Kanji. Paper 
+presented at the Proceedings of the 8th International Conference on Computational Linguistics, 
+Stroudsburg, PA, USA. 
+Smith, M. S. (1993). Input enhancement in instructed SLA. Studies in Second Language Acquisition, 
+15(2), 165–179. 
+Tan, L., Spinks, J., Eden, G., Perfetti, C., & Siok, W. (2005). Reading depends on writing, in Chinese. 
+Proceedings of the National Academy of Sciences of the United States of America, 102(24), 8781–8785. 
+Chen-hui Tsai, Chin-Hwa Kuo, Wen-Bing Horng, and Chun-Wen Chen Learning Logographic Character Formation 
+ 
+Language Learning & Technology 130 
+Tang, K., Li, K., & Leung, H. (2006). A web-based Chinese handwriting education system with 
+automatic feedback and analysis. Advances in Web Based Learning–ICWL 2006, 176–188. 
+Tang, K., & Leung, H. (2006a). Reconstructing the Correct Writing Sequence from a Set of Chinese 
+Character Strokes, Lecture Notes in Computer Science, 4285, 333–344. 
+Tang, K., & Leung, H., (2006b). Teaching Chinese handwriting by automatic feedback and analysis for 
+incorrect stroke sequence and stroke production errors. Proceeding of the 2006 conference on Learning 
+by Effective Utilization of Technologies: Facilitating Intercultural Understanding, 151, 107–114, 
+Amsterdam, The Netherlands. 
+Taylor, I., & Taylor, M. (1995). Writing and literacy in Chinese, Korean and Japanese (Vol. 3). 
+Philadelphia, USA: John Benjamins Publishing Company. 
+Teddlie, C., & Tashakkori, A. (2009). Foundations of mixed methods research. Thousand Oaks, CA: 
+Sage. 
+Tonouchi, Y., & Kawamura, A. (1997). An on-line Japanese character recognition method using length-
+based stroke correspondence algorithm. Paper presented at the Proceedings of the Fourth International 
+Conference on Analysis and Recognition, Washington, DC, USA. 
+Tsay, Y., & Tsai, W. (1993). Attributed string matching by split-and-merge for on-line Chinese character 
+recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 15(2), 180–185. 
+Wu, L. (2002). Construction and effectiveness of online Chinese language learning systems. 
+(Unpublished master’s thesis), Department of Information and Computer Education, College of Science, 
+National University of Tainan, Taiwan. 

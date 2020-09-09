@@ -1,0 +1,474 @@
+Language Learning & Technology 
+ISSN 1094-3501 
+June 2019, Volume 23, Issue 2 
+pp. 1–11 
+LANGUAGE TEACHING AND TECHNOLOGY FORUM  
+ 
+ 
+Copyright © 2019 Jim Ranalli, Hui-Hsien Feng, & Evgeny Chukharev-Hudilainen 
+ 
+ 
+The affordances of process-tracing technologies for 
+supporting L2 writing instruction 
+Jim Ranalli, Iowa State University 
+Hui-Hsien Feng, National Kaohsiung University of Science and Technology 
+Evgeny Chukharev-Hudilainen, Iowa State University 
+Abstract 
+The research literature on L2 writing processes contains a multitude of insights that could inform writing 
+instruction, but writing teachers are constrained in their capacity to make use of these insights insofar as 
+they lack detailed information about how their students actually engage in the processes of writing. At the 
+same time, writing-process researchers have been using powerful technologies that are potentially 
+applicable in educational settings to trace writers’ process engagement—namely, keystroke-logging and 
+eye-tracking. In this article, we describe a pilot effort to integrate these technologies into L2 writing 
+instruction with college-level ESL students. In addition to illustrating three key affordances of these 
+technologies that emerged from the piloting, we discuss the conceptual framework that informed our efforts 
+as well as challenges that will need to be addressed to facilitate further integration of process tracing into 
+L2 writing pedagogy. 
+Keywords: Keystroke Logging, Eye Tracking, Writing Processes, Process-Tracing, Feedback, Diagnostic 
+and Formative Assessment 
+Language(s) Learned in This Study: English 
+APA Citation: Ranalli, J., Feng, H.-H., & Chukharev-Hudilainen, E. (2018). The affordances of process-
+tracing technologies for supporting L2 writing instruction. Language Learning & Technology, 23(2), 1–11. 
+https://doi.org/10125/44678 
+Introduction 
+Even a cursory review of second language (L2) writing-process research yields a variety of insights of 
+potential interest to writing instructors. Example findings include L2 writers producing more and better 
+ideas (and doing so at a faster rate) when using free-writing rather than pre-task planning in the development 
+of argumentative essays (Ong, 2013); allocating time to various cognitive processes differently depending 
+on their proficiency level, with planning and revising time increasing as they become more skilled (Roca 
+de Larios, Manchón, Murphy, & Marín, 2008); rescanning their texts, notes, and task prompts in varied 
+ways depending on individualized approaches to task completion (Manchón, Roca de Larios, & Murphy, 
+2000); and tending to make more lower- than higher-level revisions when writing under time pressure, with 
+the latter usually consisting of adding as opposed to substituting or reordering content (Barkaoui, 2016). 
+As such findings suggest, there are no writing-process formulae that reliably lead to high-quality writing, a 
+fact which even early proponents of the process-writing approach recognized. Liebman-Kleine, for 
+example, noted that “different writers, different tasks, and different situations demand different strategies, 
+which the teacher must help the students develop” (1986, p. 786). This is, however, difficult in the absence 
+of information about how L2 students actually go about producing the texts they ultimately submit for 
+feedback and evaluation. For example, most instructors know little about (a) what type of planning, if any, 
+their students perform and how it contributes to the production of texts; (b) how much time is allocated to 
+engagement in other writing processes and whether that engagement is effective or efficient; or (c) whether 
+2 Language Learning & Technology 
+ 
+students even read their texts all the way through before turning them in. The dearth of data on students’ 
+uptake of process-oriented instruction can lead to instructors becoming disillusioned with process-writing 
+approaches (Racelis & Matsuda, 2014) and limiting their opportunities to exploit the rich knowledge base 
+of the L2 writing-process literature. 
+Writing-process research has evolved from being based in methods that would be impractical in classroom 
+situations, such as direct or video-based observations and concurrent verbal reports, to less-obtrusive 
+methods such as keystroke logging (KL) and eye tracking (ET). Indeed, software and cost issues related to 
+the latter are being addressed such that pedagogical applications are fast approaching practical reality. In a 
+recent project, we explored the affordances of such technologies for supporting L2 writing instruction, 
+which we report on in this article. First, we describe the conceptual framework that informed the 
+development and utilization of CyWrite, a KL–ET system that we used in our instructional context. We 
+then document what we saw as three of its main pedagogical affordances: diagnosing individuals’ process-
+related challenges, modeling efficacious approaches and strategies, and providing formative feedback on 
+student practice with processes and strategies. Finally, we discuss several challenges that remain in 
+integrating this type of innovation further into L2 writing instruction. 
+Conceptual Framework 
+In this project, we adopted a cognitive developmental perspective, basing our understanding of student 
+writing behavior on the pair of models proposed by Bereiter and Scardamalia (1987) to account for 
+differences between novice and skilled writers. Although these models are based in L1 research, they have 
+informed theorizing about L2 writing (Weigle, 2002). In this distinction, the knowledge-telling model 
+describes the novice approach, wherein writing is a simple act of retrieving information from memory and 
+telling what the writer knows. By contrast, skilled writers exhibit knowledge-transforming, which involves 
+an interaction between authors’ mental representations of their ideas and separate mental representations of 
+the texts, with discrepancies between the two occasioning problem-solving and rethinking of the original 
+ideas. Kellogg (2008) extended this conceptualization to include a third, top-tier level, knowledge-crafting, 
+characterizing the work of professional writers, where an additional representation—an anticipated reader’s 
+interpretation of the text—is considered alongside the other two. 
+Two features of these developmental models are important for our purposes. First, as noted by Kellogg 
+(2008), the two higher-level approaches require considerable amounts of cognitive control to maintain 
+multiple representations in working memory while simultaneously generating ideas, formulating ideas into 
+words, evaluating and revising one’s work, and monitoring and self-regulating the overall process. Skilled 
+writers have managed to reduce the cognitive resources needed for these processes through learning and 
+maturation (Kellogg, 2008). L2 writers face a unique challenge in that the language processing that native 
+speakers manage effortlessly is for them as-yet not automatized and therefore effortful. This reduces L2 
+writers’ attentional capacity available for the other requirements of skilled writing (Roca de Larios, 
+Murphy, & Marín, 2002). 
+Second, according to Bereiter and Scardamalia (1987), it is not possible to identify a writer’s current state 
+of development simply by studying a given text, because knowledge of topic, genre, and language will 
+affect writing outcomes. Rather, differentiating between the stages of development is only possible by 
+studying a writer's engagement in the cognitive processes of writing. A partial taxonomy of these processes, 
+which were adapted from the study by Roca de Larios et al. (2008) and informed the current project, 
+includes the following: 
+• task definition (i.e., trying to understand the requirements of the writing task); 
+• planning (i.e., generating, organizing, and making connections between ideas; setting goals); 
+• formulation (i.e., encoding ideas into words on a page or computer screen); 
+• evaluation (i.e., assessing “the efficacy of [one’s] pragmatic, textual, and linguistic decisions,” p. 
+37); and 
+Jim Ranalli, Hui-Hsien Feng, and Evgeny Chukharev-Hudilainen 3 
+ 
+• revision (i.e., adding, deleting, or otherwise changing previously formulated text). 
+A summary of research on these processes is beyond the scope of this paper (for example reviews, see Roca 
+de Larios, Nicolas-Conesa, & Coyle, 2016; Roca de Larios et al., 2002). 
+One major goal of the approach described here was to allow writing instructors to exploit the potential value 
+of the writing-processes knowledge base by increasing the information they have about their students’ 
+engagement in such processes—specifically, information that could be used for diagnostic and formative 
+assessment. Following the Association of Language Testers of Europe (ALTE), we define diagnostic 
+assessments as those used for “discovering a learner’s specific strengths or weaknesses [in order to make] 
+decisions on future training, learning, or teachings,” (ALTE, 1998, p. 142), whereas formative assessments 
+take place “during ... a course or programme of instruction” and allow the teacher to give remedial help or 
+change the emphasis of instruction (p. 146). In this distinction, then, diagnostic assessment is seen as 
+occurring before an intervention commences, whereas formative assessment occurs in the course of the 
+intervention. 
+Context, Students, and Tasks 
+The context for this project was an ESL writing program at a large Midwestern research university, which 
+included two sequenced courses in writing for academic purposes. The lower-level course focused on 
+shorter essays and process writing while the higher-level course assigned longer papers and emphasized 
+genre. In every course, one class session per week was assigned to take place in a computer lab. Most 
+students enrolled in these courses were Chinese first-language (L1) speakers, with the second-most 
+common L1s being Korean and Arabic. Due to ethical considerations, we were not allowed to base the 
+current project in these courses, so instead, we recruited students from these courses and paid them to 
+perform additional writing tasks outside of class. We envisioned the integration as a component of a writing 
+course effectuated in terms of an individual writing conference. The participants were assigned a series of 
+four 400-word argumentative writing tasks, which we chose because they had been found to elicit more 
+complex combinations of processes than narratives (e.g., Roca de Larios et al., 2002). 
+Participants wrote their essays in a computer lab on campus on machines equipped with eye trackers and 
+web browsers running the CyWrite software. They were encouraged to take as much time and as many 
+sessions as needed to complete the writing tasks to their satisfaction. After completing each task, the 
+participants met individually with the first author, who served as the writing instructor. These 60–90 minute 
+sessions, dubbed follow-up sessions to reflect the formative assessment focus, followed a similar procedure 
+each time. First, we had a discussion about the finished product, as would take place in a normal writing 
+conference. Then, we reviewed the students’ process data with them, trying to make connections between 
+the features of the written products and the combinations of processes that had gone into their creation. 
+Next, depending on assessed needs, the instructor might have provided some instruction related to the 
+processes, such as a specific strategy for planning or formulating. Finally, the instructor and the participant 
+set process-related goals for the next writing task. 
+The Technologies 
+Writing and process tracing were conducted in the CyWrite system, a web-based tool developed by the 
+authors. CyWrite featured a text editor that provided a familiar word-processing experience while also 
+permitting capturing of the process of composition with combined KL and ET. As the user responded to a 
+writing task, the CyWrite editor unobtrusively recorded time-aligned logs of keystrokes, text changes, and 
+eye fixations. Millisecond keystroke timings were obtained programmatically via event handlers in the 
+JavaScript code running in the user’s web browser. In our pilot, ET was performed by a GazePoint GP3, a 
+consumer-grade device available for about $700 USD, mounted under the computer screen. The editor 
+interfaced with the eye tracker via a protocol that provided a real-time feed of eye-fixation coordinates 
+(Chukharev-Hudilainen, 2019; Chukharev-Hudilainen, Saricaoglu, Torrance, & Feng, in press). 
+4 Language Learning & Technology 
+ 
+The keystroke, text-change, and eye-tracking logs were streamed live to a server where they were analyzed 
+and persistently stored. The logged events were then rendered in a post-session viewer (see Figure 1), in 
+which user activity was reconstructed in an animated visualization called playback that resembled high-
+fidelity screen-capture recordings with an overlaid gaze-point marker. Above the playback area, a static 
+visualization called the process graph was rendered, containing variables measured in characters of text on 
+the y-axis and time on the x-axis. The plotted variables were the following: total number of typed characters, 
+including deleted ones (process, in blue); total length of text (product, in green); offset in text of the 
+character rendered in the top-left corner of the viewport (scrolling, in pink); offset in text of the fixated 
+character (fixation, in yellow); and offset in text of the cursor position (cursor, in red). Gaps in the plotted 
+lines indicated periods when the writer switched focus to another window in the operating system (such as 
+an online dictionary page) or when the eye tracker was being recalibrated. 
+ 
+Figure 1. Post-session viewer with process graph above and playback area below 
+The process graph could be viewed as mirroring things shown in playback such that the farther one moves 
+down in the text, the higher that activity is represented in the graph. Likewise, when one scrolled up or 
+moved the cursor from the point of inscription into previously written text, this was represented as 
+downward movement in the graph. Importantly, the process graph and playback features were dynamically 
+linked so that moving the playhead to a point in the graph would show what was happening in playback at 
+that moment. This allowed quick and coordinated movement between macro- and micro-level perspectives 
+of the writing behavior. 
+Main Affordances of Process Visualizations  
+In this section, we describe the technology’s three main affordances for supporting L2 writing instruction, 
+using screenshots and links to online videos of the process visualizations to illustrate our points. 
+Diagnosing Individuals’ Process-Related Challenges 
+The first and most essential affordance of this technology was that it allowed individual students’ 
+engagement in processes to be observed in great detail and problems with that engagement to be diagnosed. 
+Jim Ranalli, Hui-Hsien Feng, and Evgeny Chukharev-Hudilainen 5 
+ 
+The process graph and playback allowed instructors to see how students were actually producing what they 
+ultimately submitted for evaluation. If students are asked to do all their planning work (brainstorming, 
+outlining, etc.) in the CyWrite editor, all the major stages of the writing process can be traced and then 
+made available via web-based, interactive visualizations for review and assessment. 
+For example, Figure 2 shows a lower-level student’s process graph for the first writing task. This student, 
+whom we call Adam, produced this essay in a single session lasting approximately 90 minutes. The first 12 
+minutes show Adam reading and rereading the prompt (dense yellow area). After that, and as shown in the 
+accompanying playback, he immediately began formulating his response in the absence of an external plan 
+and embarking on what might be considered a textbook case of knowledge telling (see video excerpt). 
+Adam’s formulation continued sporadically, with several instances of flatlining evident in which no 
+formulation or other activity was detected (e.g., between the 40- and 45-minute marks). The data also 
+showed numerous points where he left the text editor (represented by gaps in the colored lines). The video 
+playback showed these to be dictionary and translation-tool consultations. Formulation continued until the 
+76-minute mark, at which point Adam scrolled back up to the top of the file to reread the prompt and 
+instructions. Following a large gap during which the eye-tracker was being recalibrated, Adam did more 
+formulating and rereading of the prompt and then engaged in the only distinct revision episode of the entire 
+writing session: adding a second headword to create a compound noun phrase and substituting the word 
+disappointed for sad in the second sentence (see video excerpt). No rereading of the entire text was evident. 
+ 
+Figure 2. Adam’s process graph for the first writing task, comprising a single session evidencing no external 
+planning and minimal revision 
+A different lower-level student also completed the first writing task in a single session, spending about 80 
+minutes formulating after about 10 minutes of reading and rereading the prompt while not engaging in any 
+external planning. However, this student, whom we call Eve, devoted an additional 30 minutes to revision 
+at the end, as is evident from the area of red and yellow below green (see Figure 3). Playback showed these 
+revisions to comprise only word- and phrase-level changes, but many were improvements that enhanced 
+the quality of the final product. Thus, while we would characterize this student as being close to the 
+knowledge-telling stage of development, she is farther along the continuum than Adam. 
+ 
+Figure 3. Eve’s process graph for the first session showing a large process-product differential and more 
+than 30 minutes worth of revision activity at the end 
+Adam needed support in incorporating any form of revision, whereas Eve needed more help in the area of 
+global (i.e., above sentence-level) evaluation and revision. Both, meanwhile, were deemed to need help in 
+terms of external planning. Part of the diagnosis afforded by process tracing, therefore, was the ability to 
+6 Language Learning & Technology 
+ 
+position students in relation to models of writing-skills development, which was informative for instruction. 
+These process data also depicted both writers experiencing disfluencies that led to inefficient formulation. 
+Both ended up with 2,200–2,400 characters (about 450 words). Both displayed periods of flatlining where 
+no activity was taking place. In addition, their graphs were replete with small gaps indicating task switching 
+to other windows. In Adam’s case, these were primarily language-oriented searches in online dictionaries 
+and translation tools; for Eve, they were content-related searches. Interestingly, Eve typed twice as many 
+characters that ended up being deleted as did Adam, indicating a great deal of revising at the point of 
+inscription. These disfluencies have similar effects (i.e., slowing down formulation) but different primary 
+causes: a lack of language (in Adam’s case) and a shortage of ideas (in Eve’s). Addressing each of these 
+issues requires different, individualized approaches, which is related to the next affordance. 
+Modeling Efficacious Approaches and Strategies 
+Research supports the value of observation in learning to write (Braaksma, Rijlaarsdam, van den Bergh, & 
+van Hout-Wolters, 2004; Couzijn, 1998; Rijlaarsdam et al., 2008). However, the modeling of engagement 
+in writing processes or strategy use is often performed by the teacher live and in class (Wette, 2014). This 
+means that it (a) only provides micro-level views of skilled writing behavior, and (b) is ephemeral—that is, 
+it cannot be reviewed by students multiple times and at times of their choosing to support spaced learning. 
+With this in mind, we had an English native-speaking member of the research team (the first author) and a 
+skilled L2 writer, whom we had identified among participants in a previous research project, serve as model 
+writers. Both models responded to the same writing tasks as the participants while the KL-ET technology 
+traced their processes. The post-session viewer data that resulted then became instructional material that 
+could be used during the follow-up sessions. They were made available to students via hyperlinks so they 
+could review the data at their convenience. 
+In the video excerpt available here, the native-speaking model writer is shown demonstrating advanced 
+planning (i.e., planning conducted before the writer starts formulating text) including brainstorming and 
+organizing ideas. Another video excerpt shows the L2 model writer using the external plan he developed at 
+the top of the file to replenish his ideas when he comes to a juncture between finishing one paragraph and 
+starting a new one. As can be seen from the process graph, this allows a relatively smooth and consistent 
+form of formulation to continue. Yet another video excerpt shows the L2 model writer demonstrating 
+emergent planning—specifically, pausing formulation first to review the prompt and then to update the plan 
+by revising the thesis statement. This example can be used to show how a writer’s understanding of the task 
+and ideas can change in the course of writing, thus requiring modifications to the original plan. Such 
+iterative cycling through processes is characteristic of knowledge-transforming approaches, and these 
+process visualizations provide learners with concrete examples. 
+Model-writer data can also be used to demonstrate the processes of evaluation and revision, which we found 
+to be particularly problematic for our students. The video excerpt available here shows a writing session of 
+more than 50 minutes that is entirely given over to these processes. The first and major stage is devoted to 
+addressing higher-level issues of content and discourse. The second, shorter session is spent dealing with 
+local issues of grammar and expression. This example is also useful for showing how the text becomes 
+shorter (reflected in the downward movement of the green product line) as evaluation and revision progress, 
+as ideas are expressed more succinctly, and as unnecessary material is edited out. Some students found this 
+particularly revelatory because their own revisions were restricted to adding, substituting, or, occasionally, 
+repositioning material. 
+In addition to different approaches to the main processes, model-writer data were also used to demonstrate 
+specific behaviors such as the placeholder strategy, in which a writer typed in L1 lexical items to stand in 
+for L2 items. These were then tagged with a notation such as ## so they could easily be found and replaced 
+later during a designated language-resourcing stage. This technique obviated the need to interrupt 
+formulation to perform dictionary searches that could run the risk of throwing writers off their train of 
+thought. 
+Jim Ranalli, Hui-Hsien Feng, and Evgeny Chukharev-Hudilainen 7 
+ 
+Finally, and perhaps most importantly, the expert-model data allow students to see the sort of commitment, 
+in terms of time and effort, that skilled writing generally requires. Beginner students in our program often 
+started with a mental model of academic writing as akin to the sort of timed writing tests they took to enter 
+university. Speed was considered a virtue and spending multiple hours across multiple writing sessions was 
+viewed as inefficient and as a waste of time. Our experience suggests that these ideas can be deeply 
+ingrained and that the accompanying habits can be difficult to modify through admonition alone. It is one 
+thing for students to hear an instructor explain this point and quite another to see visual evidence—from 
+both macro and micro perspectives—of skilled writers laboring through their response to the same task 
+assigned to the students. 
+Providing Formative Feedback on Student Practice With Processes and Strategies 
+The last major affordance of process-tracing feedback is the ability to provide formative assessment of 
+students’ practice of new strategies and methods of process engagement. Indeed, this may be the most 
+valuable contribution of process tracing to L2 writing-strategy instruction. In its conventional forms, 
+writing-strategy instruction has lacked ways to provide detailed, individualized feedback on students’ 
+attempts to put new behaviors into practice. Studies of writing-strategy instruction have referenced 
+feedback on students’ practice with new strategies (e.g., Graham, Harris, & McKeown, 2013), but no data 
+has been collected or at least reported. Evidence, to the extent it is provided, is anecdotal, usually based on 
+instructors’ live observations of a limited number of students. 
+In the video excerpt available here, for example, Eve was trying out different planning approaches at the 
+beginning of her response to the second writing task. Responding to instruction to try advanced planning, 
+she started by developing an outline, but in the course of elaborating on an example, her outlining 
+transformed into freewriting, as she switched from the use of keywords and phrases to complete sentences 
+and paragraphs. Her fluent text production during this stage was a marked contrast to her performance on 
+the first task. Her freewriting consumed nearly all of the first session (see Figure 4). In the second and final 
+session for the second task, she spent about 20 minutes reviewing, modifying, and adding to her ideas via 
+sentence-level changes. She then spent the remaining time trying to organize the unwieldy jumble of text 
+into an essay. The editing task proved too much for her, resulting in a final product that displayed 
+organizational problems, contradictory ideas, and audience-awareness issues. Notably, the eye-tracking 
+data showed that she did not evaluate a full draft of her essay before finishing. Flower, Hayes, Carey, 
+Schriver, and Stratman (1986) note that skilled writers in such situations usually formulate the text anew 
+based on good ideas they extract from their freewriting. The strategy of editing the text tends to be too 
+costly in cognitive processing terms. 
+ 
+Figure 4. Eve’s first writing session for the second writing task, during which she fluently engaged in 
+freewriting 
+In our feedback to Eve, we pointed out the problems with her approach and the resulting negative effects 
+on her final product. Then, with the help of model process data, we demonstrated how to extract ideas from 
+freewriting that could be incorporated into an outline. The outline could then be used as the basis for new 
+formulation. With such guidance, Eve continued to experiment with outlining and freewriting in the 
+subsequent tasks. In the third task, she started by evaluating the loosely ordered notes she had come up with 
+in the first session and distilling them into a more concise and structured outline with main points and 
+specific types of support. She used both plans to formulate. By the fourth task, she was engaging in outlining 
+and interactive planning—that is, updating her plan with new ideas that occurred to her as she wrote and 
+8 Language Learning & Technology 
+ 
+then formulating on the basis of the updated plan—while also evidencing global evaluation and revision. 
+In the video excerpt available here, she discarded the introductory paragraph she had just written, updated 
+her plan, and started to formulate again. The process graph in Figure 5 shows Eve formulating more 
+efficiently (evidenced by the number of characters per minute and the relative absence of flat-lining) with 
+intermittent instances of scrolling upward, represented in the graph as pink downward spikes, during which 
+she returned to her plan at the top of the file to replenish her ideas. 
+ 
+Figure 5. Eve’s relatively efficient formulating in the fourth writing task, punctuated by instances of 
+replenishing of her ideas while looking back at her planning notes 
+Our point here is that the development of Eve’s planning skills was not linear and predictable, nor was it 
+based on a formula or standardized set of instructional moves. Instead, it was a gradual and contingent 
+refinement based on observation and consultation, facilitated by the detailed information available in her 
+process data. By contrast, other preferred behaviors were observed to be much more easily taken up and 
+incorporated into writers’ routines. For example, Adam quickly became an avid user of the placeholder 
+strategy to maintain a smoother rate of formulation by relegating his dictionary searches to a later stage of 
+writing (see video excerpt). Indeed, patterns of process engagement are almost certainly idiosyncratic across 
+students because, just as there is a multitude of correct ways to produce good writing, there is a multitude 
+of ways for things to go wrong. Instructors need good information about students’ actual engagement in 
+writing tasks to help them address their specific process-related issues. 
+Challenges to Integration of Process-Tracing in L2 Writing Classes 
+In this paper, we have reported the piloting of feedback based on process-tracing through a pedagogical, 
+practice-oriented lens. An accompanying empirical study (Ranalli, Feng, & Chukharev-Hudilainen, 2018) 
+provided more systematic and detailed documentation of the three affordances discussed above but also 
+highlighted two main issues that need to be addressed before this innovation can be implemented in real L2 
+writing classrooms. 
+First, there is a need to find ways to make process-tracing fit within the constraints of conventional writing 
+courses. Instruction in this pilot project followed an individual tutorial approach, which is a luxury few 
+college-level L2 writing programs can afford. In our context, students generally meet only twice with their 
+instructors for individual writing conferences: once at the beginning of the term after completing the first 
+major writing assignment and once at the end of the term while working on the final major assignment. 
+Integration of process-tracing has to be managed within such constraints. This can be achieved, in part, by 
+using written and graphical feedback on process engagement and by handling some of the process- and 
+strategy-related instruction through whole-class presentation and practice. Care must be taken, however, to 
+avoid overwhelming instructors with a large additional feedback burden—that is, conventional feedback 
+on the products of writing with a new layer of process-feedback. Process tracing already allows for some 
+amelioration of the feedback burden by obviating the need for multiple drafts, as instructors can get detailed 
+information about how students engage in both revision and the evaluation that precedes it. In addition, 
+some analysis of the process data can be automated so as not to require the teacher to interpret it manually. 
+Instead, the analysis could be made available directly to the student. In this study, for example, we 
+experimented with a visualization of relative measures of formulation, revision, and task definition activity 
+across time. The validity of these measures needs to be better established. 
+Jim Ranalli, Hui-Hsien Feng, and Evgeny Chukharev-Hudilainen 9 
+ 
+Second, there is a pressing need to support students’ abilities to self-assess and self-regulate their 
+engagement in writing processes. In addition to strategy or process knowledge, students need conditional 
+knowledge to know when it is appropriate or not to enact a particular strategy. In the approach described 
+here, monitoring, evaluation, goal setting, and strategy selection were directed by the instructor—
+appropriately so, given the exploratory nature of the activities. However, to ensure transfer of learning and 
+the development of learner autonomy, students need scaffolding and formative assessment of the 
+metacognitive as well as the cognitive elements of process engagement. They also need to develop skills in 
+interpreting process data for themselves and incorporating that information into the way they manage their 
+involvement in writing tasks. We are currently exploring ways to achieve these aims by providing process 
+visualizations directly to students alongside other forms of feedback and by assigning reflection tasks that 
+involve integrating this feedback into the development of their goals for the subsequent writing task. 
+The following reflection, written by a student who had been able to make connections between 
+shortcomings in his process engagement and coherence and relevance problems in his essay submission, 
+suggests how development might proceed from this approach: 
+What I learned [from the feedback] is the importance of making a good outline, get to write it entirely 
+before starting the essay. And also the importance of the revision and evaluation; I thought this was 
+not an essential part of the writing process, but it helps to see the missing connections and when some 
+parts seem to be out of context. For my next writing task, I’ll prepare a good outline and make sure to 
+have the time for the revision and evaluation. 
+To support the integration of this new approach, teachers need not only professional development, but also 
+support from materials developers and textbook authors. Some coursebooks contain information about 
+planning and revising, but it is often generic, not addressing the myriad problems students may face and 
+the many options they have for engaging in these processes. In the meantime, the difficulties our students 
+experienced with other processes, such as task definition and evaluation, are rarely addressed at all. 
+Materials that teach self-regulation of L2 writing are likewise in short supply. A recently published resource 
+to help writing teachers incorporate self-regulation into the curriculum—while a welcome addition—
+focuses on input from instructors and provides little guidance that could be useful in exploiting the 
+abundance of information made available by process tracing (Andrade & Evans, 2013). New materials are 
+needed to put greater emphasis on helping students appropriately self-assess—based on actual data—their 
+strengths and weaknesses and to find individualized ways of addressing the weaknesses and building on 
+the strengths. 
+Conclusion 
+The motivation for this project was to explore whether process-tracing technologies used in writing research 
+could usefully be repurposed to serve diagnostic and formative functions in L2 writing instruction. Based 
+on the piloting efforts described here, we believe such potential clearly exists, not only for helping students 
+come to grips with the behaviors through which writing is necessarily achieved, but also for building on the 
+strengths of existing process-writing pedagogy and allowing teachers wholly new perspectives on their 
+students’ engagement with writing tasks. The writing-process theorists Hayes and Flower (1981) note that 
+“part of the drama of writing is seeing how writers juggle and integrate the multiple constraints of their 
+knowledge, their plans, and their text into the production of each new sentence” (p. 371). Such juggling is, 
+as previously noted, even more difficult for L2 student writers because of their additional language-
+processing burden. Incorporating process data into our teaching can open a window into the drama of L2 
+students’ writing-process engagement and cast their efforts in a much different light. We hope this report 
+inspires other researchers and practitioners to carry this line of exploration forward. 
+Acknowledgments 
+This study was supported by the National Science Foundation under Grant No. 1550122. 
+10 Language Learning & Technology 
+ 
+References 
+ALTE. (1998). Multilingual glossary of language testing terms. Cambridge, UK: Cambridge University 
+Press. 
+Andrade, M. S., & Evans, N. W. (2013). Principles and practices for response in second language 
+writing: Developing self-regulated learners. New York, NY: Routledge. 
+Barkaoui, K. (2016). What and when second-language learners revise when responding to timed writing 
+tasks on the computer: The roles of task type, second language proficiency, and keyboarding skills. 
+The Modern Language Journal, 100(1), 320–340. 
+Bereiter, C., & Scardamalia, M. (1987). The psychology of written composition. Hillsdale, NJ: Lawrence 
+Erlbaum. 
+Braaksma, M. A. H., Rijlaarsdam, G., van den Bergh, H., & van Hout-Wolters, B. (2004). Observational 
+learning and its effects on the orchestration of writing processes. Cognition and Instruction, 22(1), 1–
+36. 
+Chukharev-Hudilainen, E. (2019). Empowering automated writing evaluation with keystroke logging. In 
+Lindgren, E., & Sullivan, K. P. H. (Eds.). Observing writing: Insights from keystroke logging and 
+handwriting (pp. 125–142). Leiden, Netherlands: Brill Publishing. 
+Chukharev-Hudilainen, E., Saricaoglu, A., Torrance, M., & Feng, H.-H. (in press). Combined deployable 
+keystroke logging and eyetracking for investigating L2 writing fluency. Studies in Second Language 
+Acquisition. 
+Couzijn, M. (1999). Learning to write by observation of writing and reading processes: Effects on 
+learning and transfer. Learning and Instruction, 9(2), 109–142. 
+Flower, L., Hayes, J. R., Carey, L., Schriver, K., & Stratman, J. (1986). Detection, diagnosis, and the 
+strategies of revision. College Composition and Communication, 37(1), 16–55. 
+Graham, S., Harris, K. R., & McKeown, D. (2013). The writing of students with learning disabilities, 
+meta-analysis of self-regulated strategy development writing intervention studies, and future 
+directions: Redux. In H. L. Swanson, K. R. Harris, & S. Graham (Eds.), Handbook of learning 
+disabilities (pp. 405–438). New York, NY: Guilford Press. 
+Hayes, J. R., & Flower, L. S. (1981). Uncovering cognitive processes in writing: An introduction to 
+protocol analysis. In P. Mosenthal, L. Tamor, & S. A. Walmsley (Eds.), Research on writing: 
+Principles and methods (pp. 207–220). New York, NY: Longman. 
+Kellogg, R. T. (2008). Training writing skills: A cognitive developmental perspective. Journal of Writing 
+Research, 1(1), 1–26. 
+Liebman-Kleine, J. (1986). Two commentaries on Daniel M. Horowitz’s “Process, not product: Less than 
+meets the eye”: In defense of teaching process in ESL composition. TESOL Quarterly, 20(4), 783–
+788. 
+Manchón, R. M., Roca de Larios, J., & Murphy, L. (2000). An approximation to the study of backtracking 
+in L2 writing. Learning and Instruction, 10(1), 13–35. 
+Ong, J. (2013). Discovery of ideas in second language writing task environment. System, 41(3), 529–542. 
+Racelis, J. V., & Matsuda, P. K. (2013). Integrating process and genre into the second language writing 
+classroom: Research into practice. Language Teaching, 46(03), 382–393. 
+Ranalli, J., Feng, H.-H., & Chukharev-Hudilainen, E. (2018). Exploring the potential of process-tracing 
+technologies to support assessment for learning of L2 writing. Assessing Writing, 36, 77–89. 
+Jim Ranalli, Hui-Hsien Feng, and Evgeny Chukharev-Hudilainen 11 
+ 
+Rijlaarsdam, G., Braaksma, M., Couzijn, M., Janssen, T., Raedts, M., Van Steendam, E., & van den 
+Bergh, H. (2008). Observation of peers in learning to write: Practise and research. Journal of Writing 
+Research, 1(1), 53–83. 
+Roca de la Rios, J., Nicolas-Conesa, F., & Coyle, Y. (2016). Focus on writers: Processes and strategies. In 
+R. Manchon & P. K. Matsuda (Eds.), Handbook of second and foreign language writing (pp. 267–
+286). Boston, MA: De Gruyter. 
+Roca de Larios, J., Manchón, R. M., Murphy, L., & Marín, J. (2008). The foreign language writer's 
+strategic behaviour in the allocation of time to writing processes. Journal of Second Language 
+Writing, 17(1), 30–47. 
+Roca de Larios, J., Murphy, L., & Marín, J. (2002). A critical examination of writing process research. In 
+S. Ransdell & M. L. Barbier (Eds.), Studies in writing, Volume 11: New directions for research in L2 
+writing (pp. 11–47). Dordrecht, Netherlands: Kluwer Academic Publishers. 
+Weigle, S. C. (2002). Assessing writing. Cambridge, UK: Cambridge University Press. 
+Wette, R. (2014). Teachers’ practices in EAP writing instruction: Use of models and modeling. System, 
+42, 60–69. 
+About the Authors 
+Jim Ranalli, PhD, is an assistant professor in the TESL/Applied Linguistics program at Iowa State 
+University. His research addresses the intersection of L2 writing, technology, and self-regulated learning. 
+He is particularly interested in innovative uses of computers for scaffolding and assessing the development 
+of English for academic purposes writing skills. 
+E-mail: jranalli@iastate.edu 
+Hui-Hsien Feng is an assistant professor in the English department at National Kaohsiung University of 
+Science and Technology, Taiwan. She holds a PhD in Applied Linguistics and Technology from Iowa State 
+University. Her research interests include computer-assisted language learning, second-language writing, 
+automated writing evaluation, and computational linguistics. 
+E-mail: hhfeng@nkust.edu.tw 
+Evgeny Chukharev-Hudilainen, PhD, is an associate professor in the English department at Iowa State 
+University. He works in the field of computer-assisted language learning. His research addresses the urgent 
+societal need of improving language learning, teaching, and assessment practices by taking advantage of 
+new technological opportunities. 
+E-mail: evgeny@iastate.edu 

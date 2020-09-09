@@ -1,0 +1,853 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol13num1/bloch.pdf 
+February 2009, Volume 13, Number 1
+pp. 59-78 
+ 
+Copyright © 2009, ISSN 1094-3501 59
+THE DESIGN OF AN ONLINE CONCORDANCING PROGRAM FOR 
+TEACHING ABOUT REPORTING VERBS 
+Joel Bloch 
+The Ohio State University 
+This paper discusses the use of a web-based concordancing program using an interface 
+design similar to the one used at the MICASE concordancing site to help students 
+appropriately choose reporting verbs. Appropriate reporting verbs are important for 
+asserting credible claims in academic papers. An interface was created that asked the 
+students to make lexical, syntactic, and rhetorical choices based on a preset number of 
+criteria related to the decisions writers make in choosing reporting verbs. Based on these 
+choices, the interface could query a database of sentences that had been derived from a 
+corpus of academic writing. The user would then be provided with a small sample of 
+sentences using reporting verbs that matched the criteria that had been selected. The paper 
+discusses how the assumptions about pedagogy for teaching about reporting verbs were 
+incorporated into the design features of the interface and how the implementation of the 
+concordancing site was integrated with the teaching of grammar and vocabulary in an L2 
+academic writing class. 
+INTRODUCTION 
+Isabel Galloway (2005) has called corpus linguistics “the most significant development in applied 
+linguistics in the last 25 years” (p. 333). Concordancing technology can provide researchers, teachers, and 
+students with a rich tapestry of examples of specific linguistic elements embedded in a variety of 
+rhetorical contexts. Concordancing can also help the user to construct meanings and usage patterns based 
+on sentences or pieces of discourse collected from published or transcribed texts. 
+Early CALL software tended to mimic the approaches used in traditional grammar teaching that used 
+artificial sentences with the student having to provide the correct answers, which could be checked by the 
+program. However, ability to study syntactic and lexical items in authentic rhetorical contexts using 
+concordancing can facilitate what Kolln (2007) calls “the marriage of grammar and rhetoric” (p. xi), 
+which emphasizes how grammatical choice is influenced by rhetorical context, social constructive views 
+of learning that emphasize the ability of learners to construct meaning for themselves (e.g., Shank & 
+Cleary, 1995; Spivey, 1997), and connectivist views of learning that focus on how learners can use 
+knowledge that is distributed outside the classroom, particularly on the Internet (Siemens, 2005).  
+Concordancing programs do not provide “correct” answers to queries about grammar and lexical 
+questions but rather help create a learning environment where the user has to induce one appropriate 
+answer from possibly many appropriate answers. As a result, concordancing programs not only provide a 
+different role for grammar teachers but also a different approach for the learner.  Learners must construct 
+the best answers from the sample sentences without obtaining feedback on whether their answers are 
+correct. Johns (1994) has called this process “data-driven learning.” In this approach, the appropriate 
+choices emerge (Hopper, 1987) out of the complexity of the rhetorical context in which they are found. In 
+this way, the learner is engaged in the thinking processes underlying the creation of knowledge (Schank 
+& Cleary, 1995).   
+This approach has made grammar teaching more about making appropriate choices and less about 
+learning prescriptive rules. This shift, in turn, has changed the role of the teacher from being the expert in 
+what is grammatically correct and what is incorrect to being a facilitator for creating a learning 
+environment where the student has to reach decisions about appropriateness for themselves. Moreover, 
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+the user evolves from being a consumer of rules to being a “detective” to discovering the answers to the 
+questions they have posed. 
+Recently, there has been much research on how concordancing can be integrated into the classroom 
+(Chambers, 2007, Cobb, 1997; Hewings & Hewings; 2002; Hunston, 2000; Hyland, 1998, 1999, 2001, 
+2002a; Lee & Swales, 2006; Stevens, 1991; Yoon, 2008; Yoon & Hirvela, 2004). Language teachers have 
+found concordancing to be a useful means of creating materials for teaching vocabulary and syntax 
+(Schmitt, 2000; Thurstun & Candlin, 1998). Hyland found that concordancing has been used in various 
+ways in the L2 composition classroom: one is as a source of materials for teachers and a second as a tool 
+for helping students understand inductively the rules and patterns of language and to raise their 
+consciousness about patterns in writing.  
+Recently, there has been a growing interest in having students use concordancing programs to research 
+their own questions about language use (Gaskell & Cobb, 2004; Lee & Swales, 2006; Stevens, 1991; 
+Yoon, 2008; Yoon & Hirvela, 2004). This research has focused on language learners as a new and 
+potentially larger group of users but who may have little or no experience in language research. While 
+there is a general consensus that concordancing can be a valuable tool for these students, a number of 
+these studies have reported that students sometimes experienced frustration with using the technology.  
+The responses of language students to the use of concordancing have been mixed. In her survey of the use 
+of concordancing programs, Chambers (2007) found positive responses to the use of authentic materials 
+and to the inductive nature of data-driven learning. Yoon and Hirvela (2004) found that students were 
+sometimes frustrated both with learning to use the programs and with the occasional technological 
+problems that inevitably occur. Vannestăl and Lindquist (2007) report on a student who stopped using the 
+program and returned to using his grammar book because of the technical problems.  
+Researchers have found that students sometimes think that they could not understand all the examples or 
+pick out the relevant examples (Kennedy & Miceli, 2001; Vannestăl & Lindquist, 2007). It was also 
+apparent in this research that even when concordancing was successfully implemented, the teachers had 
+to spend a great deal of class time incorporating concordancing programs into the class syllabus. The use 
+of concordancing, therefore, “requires a great deal of time, support, patience, enthusiasm and reflection 
+from the teacher” (Vannestăl & Lindquist, 2007, p. 344), which not every teacher has time for. 
+Chambers (2007) has called for new research in how concordancing, what she refers to as concordancing 
+consultation, can be used to foster a learning environment that can help students overcome these kinds of 
+problems. Such problems have created a basis for thinking about how the concordancing technology can 
+be redesigned and implemented to respond to both the students’ needs and the teachers’ goals for using 
+the technology for teaching grammar.  
+This paper examines one aspect of how a concordancing program was designed to guide learners through 
+the process of choosing the appropriate use of reporting verbs in academic papers. Kennedy and Miceli 
+(2001) have stressed the importance of guiding students, what is sometimes referred to as scaffolding, 
+through concordancing activities to help them develop effective learning strategies. Reporting verbs are 
+often used in academic papers to communicate both the nature of the activity reported and the attitude of 
+the writer towards that activity (Hyland, 1999). Sakita (2002) discusses the reflexivity of reporting verbs; 
+that is, how writers and speakers not only report and comment on claims but also criticize and question 
+those same claims.  
+Using reporting verbs successfully for such a variety of purposes can require a precise understanding of 
+the differences in meaning among reporting verbs, which can be difficult even for advanced English-
+language learners. In this paper, I will discuss the design of a web-based concordancing program that 
+students could use to query a corpus of sentences containing examples of how reporting verbs are used in 
+academic texts.  
+Language Learning & Technology 60
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+THE DESIGN OF A CONCORDANCING WEBSITE 
+The Nature of Concordancing Interfaces 
+Changes in the design of concordancing programs have greatly changed who could use the programs and 
+how the programs could be used. The development of a number of web-based concordancing programs 
+has greatly increased their availability to non-specialist users; however, they cannot be adapted by 
+teachers or students to their specific needs. Relatively inexpensive PC-based concordancing programs, 
+such as MonoConc 2.2 or Wordsmith allow teachers to design their own corpora to reflect their specific 
+goals for teaching grammar. While these types of small corpora can provide more specialized forms of 
+language (Aston, 2000) they cannot be easily accessed away from the computer on which they are 
+installed.   
+Despite the limitations of relying on Internet access, such access has undoubtedly greatly increased the 
+availability of concordancing to a wider variety of users with more varied needs and less expertise in 
+language analysis.  Web-based concordancing programs consist of a database holding a language corpus 
+and a user interface for accessing the corpus according to a set of criteria that is coded into the 
+architecture of the interface. An interface is what connects the user to the more complex code of the 
+program being used.  
+This ability of the interface to affect usage is based on a simple assumption: The design of any technology 
+is never neutral (Feenberg, 1999); that is, its design incorporates social, economic, or pedagogical 
+concerns that affect its use, and all these concerns can affect the design and use of the interface. The 
+design of an interface reflects a variety of assumptions about what the purpose of the program is, how it 
+will be used, and who the intended audience is. Collins Cobuild Sampler , for example, requires its users 
+to enter a variety of codes in order to access the corpus. The View, on the other hand, uses a drop-down 
+menu from which the user can choose the part of speech of the word to be searched.  
+While the purposes of these programs may be similar, one interface might be more useable by novice 
+users; another interface design might be more useable for one purpose than another. For example, the 
+interface design used in MICASE (2003) contains a web-based interface that asks a number of questions 
+in order to determine the sample of sentences that will be displayed. MICASE uses two general categories 
+for these questions, speaker and speech event, and then a number of questions for each category. Each 
+category provides a variety of choices, so the user simply has to click on a choice in each category, and 
+based on their answers, the user will receive the target group of sentences. The answers to these questions 
+are then used to query the corpus. In order to answer the questions, the user needs some understanding of 
+differences in the types of discourse or in the use of language by different groups of people. On the other 
+hand, the use of natural language, as opposed to entering codes as in Collins Cobuild, can make it more 
+usable for some teachers and students. 
+Despite the greater accessibility of Internet-based concordancing programs, their interfaces cannot be 
+modified by either teachers or users to meet their own goals. These limitations can motivate the design of 
+new programs that better reflect the goals of the teachers and the needs of the students. Giving different 
+types of users both greater access to a variety of programs as well as the ability to design their own 
+programs reflects the recent evolution in thinking about how users should become more active 
+participants in the development of materials for the World Wide Web, what is sometimes referred to as 
+the read/write web or Web 2.0 (Berners-Lee, 1999; O’Reilly, 2005). From this perspective, the design of 
+the Internet encourages the development of more concordancing programs designed not by large 
+institutions such as publishers or universities but perhaps by individual teachers for specific and limited 
+pedagogical goals. Some of these programs might be used by large numbers of people and some by only 
+one class. By placing such programs on the Internet, nevertheless, every user can connect to the 
+information found in them whenever they need to (Siemens, 2005).  
+Language Learning & Technology 61
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+New Directions for the design of Specialized Concordancing Programs 
+The migration of concordancing programs to the Internet has resulted in a transformation of the 
+technology from one that was only available to a few researchers into a tool that could be used by anyone 
+with a computer and an Internet connection.  Rather than been isolated in a proprietary environment, 
+concordancing programs now can exist in a vast learning environment along with many other sources of 
+information. Placing these sites in hyperlinked rhetorical environments also allows them to be directly 
+linked to the students’ papers or to other related websites, so they can be accessed whenever the user 
+needs to.  
+Siemens (2005) has used the term connectivism to describe this kind of learning environment where 
+different tools are available to the student at the moment they are needed. He argues that employing this 
+connectivistic approach can facilitate the ability of students to learn new information by allowing them to 
+construct their own networks. Students can access the information they need when they need it, for only 
+the purpose they need, and from wherever they are located.  
+This approach can connect learning about grammar with using that knowledge in their writing. Early 
+attempts to create programs that allowed this kind of cohesiveness encountered a variety of technical 
+problems (Bloch & Brutt-Griffler, 2001), some of which were solved with the development of the 
+“Comment” function in programs like Microsoft Word, which simplified how students can access the 
+program. The comment function in Word allows readers to insert a comment that is linked to a specific 
+piece of highlighted text.1  
+THE DESIGN OF THE CORPORA AND USER-INTERFACE FOR TEACHING ABOUT 
+REPORTING VERBS 
+The design or adaptation of any technology for specific classroom purposes, such as the teaching of 
+grammar, always involves trade-offs. The design of web-based concordancing sites, for example, has 
+raised concerns relating to the nature of the discourse contained in the corpora. Sites using large corpora 
+often contain various forms of discourse that may give users a large sample of sentences but may not 
+reflect the type of discourse found in those rhetorical contexts that the student is studying. MICASE 
+(2003), for example, is limited to spoken forms found in various contexts.  
+In these concordancing programs, the types of discourse the user can access are controlled by the 
+designers. However, in order to create tools for specific problems, teachers may have to bypass these 
+gatekeepers by developing their own concordancing sites to reflect the pedagogical approaches they want 
+to use, although they may not be able to use the kinds of large corpora other sites employ or have the 
+technological ability to incorporate various features of the interface that these interfaces possess.  
+There are also cognitive demands related to the design of the interface that can be mitigating factors in 
+how the program can be used. Gaskell and Cobb (2004) found that it was important to greatly increase the 
+number of examples their students were exposed to, which, as mentioned before, larger corpora can 
+readily provide. Aston (2000), on the other hand, has argued for smaller, more specialized corpora. For 
+example, the number of sentences that are returned when an item is queried may be suitable for the 
+language researcher who is skilled in focusing on the specific instances of what she is looking for, but 
+disadvantageous to the learner who may not have the language skills to determine which examples are 
+relevant and which are not. Providing too many examples to sort, as Osbourne (2000) argues, can also 
+cause users to miss interesting examples of the target form. 
+Although many concordancing programs provide frequency data that is valuable for limiting the possible 
+answers a search can generate, the frequency data alone does not address questions regarding what verb is 
+the most appropriate for a particular rhetorical context. The pedagogical value of these web-based 
+concordancing sites can depend on how the architecture of the interface mediates the relationship between 
+Language Learning & Technology 62
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+the user and the corpus of sentences to be queried. For example, the design strategy employed here is 
+based on the research on learning objects (Wiley, 2001)2. A learning object is defined here as a narrowly 
+based website containing educational materials that can be linked to other objects and websites. The URL 
+of a learning object can be inserted into the students’ papers as well as linked to other learning objects or 
+websites.  
+This learning object was to be used for teaching about reporting verbs in a series of academic writing 
+courses that were required of both graduate and undergraduate students. These courses stressed how 
+students situate themselves and express their own identity in conjunction with the textual materials they 
+must incorporate into their writing (Ivanič, 1998). The appropriate use of reporting verbs is a crucial 
+factor in how writers report both their own claims and the claims of others.   
+One of the goals of the course was for students to learn the rhetorical purposes for using source texts, 
+what is sometimes called textual borrowing or intertextuality (Ivanič, 1998). Ivanič has identified the use 
+of intertextuality as a means for writers to establish their identities in their papers. Reporting verbs are one 
+type of lexical item that help writers to establish this identity within their papers (Sakita, 2002).  
+The students’ use of the learning object was reinforced by their classroom experiences, a relationship that 
+can be crucial for the successful implementation of a technology (Bloch, 2007); therefore, the use of 
+reporting verbs was introduced at the beginning course. The students were first given exercises to practice 
+judging how reporting verbs were used in sentences chosen from the corpora using the categories featured 
+in the interface. Then they practiced using the learning object to make choices about reporting verbs. 
+Finally the students were asked to summarize articles related to their research using the reporting verbs 
+they had discussed. For the remainder of the course, the students rewrote each draft of their critical review 
+and research paper at least three times. On each draft, the instructor marked reporting verbs thought to be 
+inappropriate. This inappropriateness could have been the result of syntactic problems, such as using a 
+that-clause with a reporting verb that did not take that-clauses, or because of a judgment of semantic 
+inappropriateness. For example in this sentence, 
+WIKIPEDIA indicates that the first application of antenna was in the late 19th century 
+the instructor felt that the word indicates was too indirect to be used in this context. The instructor could 
+then insert the URL of the learning object into a Comment box used in Microsoft Word so the student 
+could directly access the program if desired. This process could be repeated each time the instructor felt 
+there was a problem with the choice of a reporting verb. 
+Corpus Design 
+The first step in our design process was to create a database of sample sentences containing a variety of 
+reporting verbs. Since sample articles from Science magazine had frequently been used in the course as 
+examples of the assignments, sentences from research papers and critical reviews in this journal were 
+chosen for two analogue corpora related to these two assignments (Tribble, 2002). Science 
+(http://www.sciencemag.org), which is the journal of the American Association of the Advancement of 
+Science, publishes articles in a variety of fields, primarily in the hard sciences but also in the social 
+sciences and in technology, which reflected the fields in which most of the students were studying. 
+Choosing a journal like Science would guarantee the quality of the texts used in the corpora as well as 
+reflect the type of language the students were expected to use in their assignments. In addition, a third 
+corpus based on student papers from previous sections of this class was also created in order to compare 
+the distribution of the reporting verbs in student papers with the distribution in the Science corpora.  Each 
+corpus contained approximately 300,000 words. These three corpora were then combined into one large 
+corpora. 
+MonoConc 2.2 was used to select possible sentences from this large corpus for inclusion into a single 
+database. Within the framework of local intellectual property law3, the corpora can be developed by 
+Language Learning & Technology 63
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+cutting and pasting a texts available on the Internet. These programs can then be used to search the 
+corpora using specific lexical and syntactic items. For a small cost, these programs have given teachers 
+the ability to develop small, narrowly defined corpora that match their specific goals for teaching 
+grammar.  
+As discussed above, the optimum size of the corpora is one aspect of the design that has been highly 
+contested. By greatly narrowing the functionality of the learning object to focus on reporting verbs, we 
+could limit the number of examples to better reflect specificity of the language data for developing 
+materials for grammar teaching (cf. Hyland, 2000b). As the designers of MICASE (2003) argued, the use 
+of these kinds of specialized corpora can aid teachers in finding those syntactic and lexical patterns that 
+diverge from what is often found in textbooks.  
+Another goal of the design was to limit the number of reporting verbs the student needed to choose from. 
+Students often have problems understanding that each reporting verb can express a different attitude 
+towards the claim being cited. Instead, they often seem to substitute one reporting verb for another. 
+Therefore, it was hoped that there were enough examples to demonstrate these often subtle differences 
+without overloading the students with too many possible choices. Initially, a list of 92 reporting verbs was 
+chosen for possible inclusion.  The lemma of each of the words was searched using MonoConc 2.2, and 
+then, using the frequency count function, the 25 highest ranking reporting verbs were chosen. 4  
+A search of the learner corpus yielded an additional two high frequency verbs that did not appear in the 
+other corpora for a total of 27 reporting verbs. Since the corpora were not tagged for part of speech, it was 
+necessary to go through the sample to eliminate those sentences where the target word was not used as a 
+reporting verb. A random sample of 20 sentences was chosen for each target reporting verb for a total of 
+540 sentences5 to be included in the corpus. However, there were inevitable tradeoffs with this approach. 
+For example, providing only sentences containing the target reporting verb deprived the users of seeing 
+the larger context in which the verb was used. On the other hand, it limited the amount of text the user 
+needed to read, which could allow the user to process a larger number of sentences.  
+Principles for the Design of a User Interface 
+The goal of the second aspect of the design process was to incorporate those design principles that were 
+thought important into the interface of the learning object. Downes (2004) has identified a number of 
+factors important in the design of any technology that seemed most relevant for our goals. Accessibility, 
+simplicity, and functionality were considered to be the most important ones for developing the learning 
+object. These principles are not meant to incorporate a universal theory of courseware design but to focus 
+on those particular principles that were used for designing this learning object.  
+Accessibility 
+Accessibility here refers to the various ways the program can be accessed. As Downes has argued, a 
+technology needs to be available when the student needs it, not when the teacher wants to make it 
+available. Useful technologies, such as telephones or cell phones, are available whenever they are needed 
+(Downes, 2004). One of the primary goals for the interface to make it more useful was to be able to link it 
+directly to the writing software the students were using (Bannan-Ritland, Dabbagh, & Murphy, 2001).   
+Unlike traditional handbooks where the student may have to go through a series of steps to find relevant 
+information, the ability to add the URL of the site into a comment box made the accessibility of the 
+program almost instantaneous. The modularity of the design also allows the site to be linked to other 
+websites that deal with related topics. For example, in conjunction with the program on reporting verbs 
+discussed here, another site was created that dealt with plagiarism 
+(http://esl.osu.edu/staff/bloch/plagiarism), which contained exercises on paraphrasing that could be linked 
+to the reporting verb site as well as discussions on various forms of plagiarism. In this way, information 
+about the grammatical choices that writers make when citing sources could be connected with discussions 
+Language Learning & Technology 64
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+about the rules for the rhetorical use of reporting sources. This ability to insert the URL directly into the 
+student paper can save the student time accessing the information, which could create a greater 
+cohesiveness between the recognition of the problem and the ability to solve it.  
+Simplicity 
+The second principal used in designing the interface is that good technology should be simple. Downes 
+(2004) argues that simplicity refers to both ease of use of a program and the ability of the program to do 
+only what it needs to do. As has been discussed earlier, the greater accessibility provided by the Internet 
+has increased the potential number of users who may have more diverse needs and backgrounds and 
+therefore may require more user-friendly designs than students who have expertise in linguistic research. 
+Many technologies that have been thought to be useful in education have failed because either the 
+teachers or the students failed to understand the complexity of these technologies (Cuban, 2001). One 
+such issue with language learners is the amount of time needed to train the students in using the program. 
+Chambers (2007) found that much of the research has focused on enthusiastic teachers who spent a great 
+deal of class time using the programs. The amount of time needed to train students may not be feasible in 
+every composition classroom. Therefore, the design of the interface needed to be simplified.  
+ 
+Figure 1. The pull down menu for querying the database for sample sentences. 
+One approach to simplifying the design was to eliminate the need for the user to create codes, similar to 
+the approach MICASE uses. The interface discussed here provides two different choices for querying the 
+website. The first choice is to choose a reporting verb from a pull down menu (Figure 1) and then the 
+program provides the sample of sentences using this reporting verb (Figure 2). By reading through these 
+sentences, which are provided five at a time, the writer can make a tentative hypothesis about the 
+appropriateness of one or more reporting verbs and then use the sentences to try to verify their choice. As 
+will be discussed later, the user is asked a series of questions about different aspects of reporting verb 
+usage. Each feature (see below for a discussion of features) has a link to a window containing definitions, 
+Language Learning & Technology 65
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+explanations, and examples, of these features. Along with the discussion of these features during the class, 
+it was hoped that this additional information could simplify some of the confusion discussed earlier. 
+ 
+Functionality 
+Downes (2004) argues that good technologies should have clear functions that do exactly what the 
+designer wants them to do. Functionality has always been a major consideration in the use of computer-
+aided language learning to help students solve their language problems on their own. The “tool” metaphor, 
+which has often been employed for discussing the pedagogical value of technology in education (Levy, 
+1997), incorporates the concept of functionality in the design of a technology. Traditionally, the primary 
+function of many computer-aided language learning applications has been to tutor students in standard 
+classroom-based activities (Levy, 1997). Hyland (2002a), however, has used the informant metaphor to 
+represent concordancing as a tool that provides a great deal of information that the users have to shift 
+through and make decisions for themselves. 
+ 
+Figure 2. Sample sentences the user might receive from querying the word argue. 
+The primary function of the interface was to facilitate the process of data-driven learning by providing 
+sample sentences that the student could use to induce the appropriate reporting verb for a given rhetorical 
+context. The interface was therefore designed to facilitate this process by providing the users with a set of 
+Language Learning & Technology 66
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+criteria, as well as supplemental materials, that could help them model the decisions writers make when 
+choosing a reporting verb. A secondary goal was to present learners with the kinds of decisions academic 
+writers have to make when choosing a reporting verb. In this process, the interface design allowed 
+students to walk through the decision-making processes that writers use in choosing reporting verbs 
+(discussed in more detail below). 
+It has been argued that the search process itself can help students develop a greater metacognitive 
+awareness of the forms that have been searched, which can be transferred to the students’ future reading 
+and writing experiences (Yoon, 2008). Raising the learners’ consciousness about lexical and grammatical 
+usage (Schmitt, 2000) could also help to develop their metacognitive understanding of the different 
+criteria to consider when reporting information. In his study of the role of concordancing in helping 
+students learn about connectives, Cresswell (2007) found some evidence of this metacognitive 
+development in the students’ understanding of the use of connectives. 
+To incorporate the functionality of Hyland’s (2002a) informant metaphor into the design of the interface, 
+we focused on two factors: its granularity and its ability to be hyperlinked. Wiley (2001) defines 
+granularity as the degree to which the designer focuses on a single goal or on multiple goals. In this case, 
+the learning object was limited solely to the use of reporting verbs.  
+Think about the claim you want to make and then answer the following questions.  
+Do you want an Integral or non Integral example? 
+Integral  
+Non Integral  
+ 
+Do you want an Informative or Descriptive example?  
+Informative  
+Descriptive  
+ 
+Do you want an example from the point of view of the author you are citing or yourself as the writer?  
+Author  
+Writer  
+ 
+You can express an attitude towards the truth of a claim: 
+(1) Positive (2) Negative (3) Unclear  
+Positive  
+Negative  
+Unclear  
+ 
+You can modify or hedge how strong that attitude is: 
+(1) Strong (2) Neutral (3) Weak. 
+Strong  
+Moderate  
+Weak 
+Figure 3. The screen the user sees for setting up a query of the corpus. 
+The program walks the students through the process of choosing a reporting verb by having the user 
+answer a set of five questions in order to query the corpus. Before being introduced to the program, the 
+students had discussed each of these questions in class and had practiced answering the questions using 
+pen and paper exercises. The program would yield a sample of sentences that matched their criteria based 
+Language Learning & Technology 67
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+on the users answers to the questions (Figure 3). They then could read the set sentence and then choose a 
+reporting verb to use in their paper, or they could refresh the screen and receive another set of five 
+sentences and make a choice based on the sample sentences.  Moreover, we could add additional 
+grammatical information, such as a discussion about the use of tenses in the particular sentence, as well as 
+other pages of information relating to the use of reporting verbs (Figure 4), much of which was also 
+emphasized in the classroom. 
+The functionality of the learning object can also be increased by its ability to be used whenever the 
+student needs help, what Wiley (2001) terms “reusability”. As Downes (2004) puts it, such programs are 
+always available and always on. By this measure, all concordancing programs are, in fact, reusable. This 
+program could function as a 24/7 informant for information on reporting verbs each time the student 
+needed it.  Students could access our program whenever they needed help choosing a reporting verb. By 
+allowing the user to make different choices about the criteria each time the program is accessed, the 
+program can also be reused as often as necessary.  
+ 
+Figure 4. Sample entry including word, sample sentences, codes for each category, and notes. 
+Our previous experience with the course helped us to incorporate our concerns with how students made 
+decisions about the use of reporting verbs into the design of the learning object. One problem our students 
+frequently had was distinguishing between what are called descriptive reporting verbs (e.g., describe), 
+which take an object or object clause, and an informative reporting verb (e.g., argue), which usually takes 
+a that-clause complement. Therefore, the program could help the students decide whether their choice 
+was syntactically correct by checking what complement each reporting verb could take. They could also 
+attempt to verify the semantic appropriateness of their choice by reading through some or all of the 
+sentences and then trying to induce the appropriate choice from the usages of the reporting verbs in the 
+sample. This ability to learn by matching their hypothesis with authentic sentences is an essential quality 
+of data-driven learning. Although this process does not guarantee finding a correct answer, it can provide 
+the necessary scaffolding for helping students make appropriate choices.  
+These three factors that guided the design are all interrelated within the design to increase the 
+functionality of the program. The ability to link the site directly to the students’ texts, as well as to other 
+Language Learning & Technology 68
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+websites, not only simplifies its use but also can provide a greater functionality. As Haas (1996) has 
+argued, integrating different technologies can have a transformative effect on their pedagogical potential. 
+As has been discussed, the development of web-based interfaces has greatly expanded the functionality of 
+concordancing programs in teaching grammar. The implementation of a program will inevitably 
+foreground one pedagogical approach over another, which, in this case, emphasizes the integration of 
+grammar and rhetorical context (Hopper, 1987).  
+THE FINAL DESIGN OF THE LEARNING OBJECT 
+Interfaces are always designed to respond to the problems and backgrounds of their users. Based on the 
+discussion above, there were four major goals the interface needed to address: 
+• The need to access the site from anywhere and at any time. 
+• The need to manage the number of sentences presented. 
+• The need to provide sentences that are representative of the kinds of issues that needed to be 
+considered when choosing reporting verbs. 
+• The need to model the steps that writers employ in choosing a reporting verb. 
+In some ways, achieving the final goal within the design was the most critical. A database was created 
+using Microsoft Access® to organize the sample sentences in the corpus in a way that allows these 
+sentences to be queried according to a predetermined set of criteria. The categories used for querying 
+were based on a variety of research on the use of reporting verbs in academic writing (Hunston, 2000; 
+Hyland, 2002a; Swales & Freak, 2004; Sakita, 2002; Thompson & Tribble, 2001; Thompson & Ye, 1991). 
+Five categories were selected (Figure 3) 
+• Integral/Nonintegral, 
+• Indicative/Informative, 
+• Writer/Author, 
+• Attitude toward claim, and 
+• Strength of attitude towards claim. 
+The first three categories were primarily based on Swales’ (1990) research on citation use. The 
+Integral/nonintegral distinction refers to whether the reference to the author of a claim appears within the 
+sentence (Integral), which can include the author’s name, or outside the sentence (Nonintegral), which 
+can include either the name or a number referring to the reference list. The use of integral and nonintegral 
+citations varies a great deal across disciplines (Thompson & Tribble, 2001), often reflecting the degree to 
+which a discipline allows for personalizing a claim. The second category, Descriptive/Informative reflects 
+a distinction Swales (1990) makes between sentences that provide a general overview of the research 
+(descriptive) and sentences that contain a specific claim or piece of information is found (informative). 
+The third category, Writer/Author refers to whether the claim is from the writer of the paper (Writer) or 
+from the paper being cited (Author). 
+The final two categories are related to the rhetorical impact of the choice of claim. Latour (1988) argued 
+that every instance of citation has some rhetorical purpose, including gaining support for claims and 
+demonstrating how contradictory evidence must either be incorrect or not relevant to the current 
+discussion. Sakita (2002) found that reporting verbs can be used to express an attitude or opinion 
+concerning the claim, which Latour argued is important for developing the writer’s voice or ethos within 
+the paper. Therefore, the first category expressed whether the writer agrees with the claim or disagrees. 
+The second category expressed the degree of such agreement or disagreement. For example, a writer can 
+either agree and feel the claim is strongly substantiated or agree and feel that the claim still lacks 
+substantiation. Finally the database contained a nonqueriable field called “Notes”, which contained the 
+additional information, such as on the tense of the verb.  
+Language Learning & Technology 69
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Each sentence in the corpus was coded for each of the five criteria. The most problematic area for coding 
+was deciding on the rhetorical purpose of the choice of reporting verbs. Identifying the rhetorical purpose 
+of a citation is a problem in the field of citation analysis (Chubin & Moitra, 1975). In practice, both 
+attitude and strength can be seen on a continuum from agree to disagree and from strong to weak, 
+respectively. For this website, however, this had to be captured with only a limited number of 
+subcategories. Therefore, it was decided for “Attitude,” the subcategories were “Agree/Disagree/Unclear” 
+and for “Strength,” the subcategories were “Strong/Weak/Neutral.” 
+QUALITY ASSESSMENT 
+Since the introduction into the classroom of materials derived from concordancing programs, teachers and 
+researchers have been interested in how students could use these materials (Chambers, 2007; Cobb, 1997). 
+Our immediate goal was not to assess the overall effectiveness of the learning object on student writing 
+ability but rather to better understand what the weaknesses in the program were, so we could adapt our 
+classroom implementation in order to remediate these problems.  
+Therefore, we used a quality assessment approach to see where students were having problems using the 
+learning object. Quality assessment is the process by which problems can be first identified and later 
+eliminated by the developers of the program or discussed in the classroom. Our approach was to test 
+whether an appropriate sample of sentences was returned according to the categories selected. This test 
+was accomplished by running the program repeatedly and then checking the sentences in the sample. 
+While this approach revealed a number of coding errors, we had to continually monitor the program to 
+discover if there were more such errors.  
+Second, we wanted to see whether the students could use the learning object to make choices about the 
+uses of reporting verbs and to correct inappropriately used verbs. Our first attempt at quality assessment 
+revealed several issues related to the goals of the course and the different language levels of students. One 
+such issue was the difficulty in comprehending the sentences. The most salient problem was the issue of 
+specificity. Although the goal of the project was to provide students with authentic materials that 
+contained localized features specific to their academic fields, we found that some students had trouble 
+understanding the content of the sentence because of this level of specificity. 
+Incorporating sentences from an academic journal like Science reflects the argument by Hyland (2002b) 
+for the importance of specificity in the design of materials for academic writing classes. However, having 
+materials that are overly specific can make it difficult for some students to use these materials. User issues 
+such as the amount of information received or technological considerations such as the size of the corpora 
+can affect the overall usage patterns. Gaskell & Cobb (2004) found a great amount of variability in the 
+effectiveness of concordancing, often depending on the language ability of the users. In our initial survey 
+of the students, two-thirds of the users found that the sentences were easily understood, which meant, 
+however, that one-third reported problems with understanding sentences. This problem raised questions 
+about the optimum level of specificity in a corpus and which group of students could best use the learning 
+object.  
+Further research in how the students used the learning object indicated other areas of promise and concern. 
+The students were given a series of sentences from student papers with the reporting verb left out and then 
+asked them to choose a more appropriate reporting verb than the one that had originally been used. A 
+second test asked students to find an alternative reporting verb to the one given in a sentence taken from a 
+student paper. This type of editing is often used in our classes for discussing grammar, so the students 
+were familiar with this process. The goal here was to see how well the students could make the 
+appropriate choice of a reporting verb from a limited sample of sentences. In these tests, 74% of their 
+choices were judged by their instructors to be correct. The results indicated that most of students could 
+use the program effectively. However, the number of sentences with a lower level of correct choices 
+Language Learning & Technology 70
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+indicated areas where the program warranted modification. Table 1 shows the results of a class exercise 
+students in our lowest level writing class were given to test how well they could use the program to find 
+the appropriate reporting verb. The sentences were taken from their papers, so they were familiar with the 
+nature of the claims being made.  In sentences 1-5, students were asked to fill in the missing reporting 
+verb. In sentences 6-11, students were asked to correct the boldfaced verb. The instructor then decided 
+whether their choice could be appropriate. For each sentence, there were a number of possible answers. 
+Table 1. Example Sentences of Students’ Reporting Verb Choices 
+Sentences to revise % of students judged to 
+correctly revise 
+1. The author _________ that students _______ can get good grades 
+by copying the work from the internet, but he ______ it will 
+cause them a big trouble.    92.59259 
+2. The teacher ________ copying a sentence from the internet 
+without putting the author name is stealing.  88.88889 
+3. Mrs. Lodge _______ that the punishment is too hard and the 
+student needs not a punishment but education for that. 77.77778 
+4. Heaton  _______ a girl, named Haley Lodge who faced on a big 
+problem because she put off writing a paper until the last day. 74.07407 
+5. Heaton ________ that thanks to advancing technology and the use of 
+the Internet, our youth today with the click of a mouse can find an 
+answer to all their academic problems on the Internet. 62.96296 
+6. Rose, the counselor, mentioned that it was clear that the writing 
+was not all hers. 81.48148 
+7. He indicated that the use of such these Websites is increasing, so 
+students could easily get many sources from the sites. 66.66667 
+8. The story indicates that what makes Marita accused of plagiarism 
+by a graduate student is her plagiarizing of a book. 77.77778 
+9. Rose describes she makes all selections which she copied from 
+the library as her references.  70.37037 
+10. The counselor discussed that Marita had been accused from her 
+English teacher who handed her paper in to the director of 
+Freshman English. 
+ 81.48148 
+11. Rose described Marita had been accused of plagiarism by her 
+English teacher who handed her paper in to the director of 
+Freshman English. 59.25926 
+Average 74.3827 
+ 
+ 
+One of the most frequent problems the students had in their writing was in judging whether a sentence 
+was informative or indicative. In this example, which was taken from a student paper in a lower level 
+writing course, the users were asked to find an alternative reporting verb. 
+Rose described that Marita had been accused of plagiarism by her English teacher. 
+In this example, the student used a that-clause with a reporting verb that was being used indicatively. 
+When correcting this sentence 30% of the students incorrectly substituted a reporting verb that could not 
+take a that-clause, indicating that the program could not always help them distinguish between indicative 
+and informative claims.  
+Language Learning & Technology 71
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+It is difficult to fix these kinds of problems within the program beyond adding more information about the 
+problem, although it could receive more focus in the classroom. The assessment also revealed problems 
+students had judging whether their choice of reporting verb that fit the criteria was semantically 
+appropriate for their own sentence. This problem, of course, is inherent in data driven learning where 
+correct answers are not given.  
+Students also displayed some difficulty in understanding the semantic nature of the choices. For example, 
+students often used mention to substitute for words like state or write that seem to reflect a 
+straightforward reporting of information. In the following example sentence, the student used mention in a 
+way that was felt to be inappropriate. In class, we had discussed how mention was often used to express a 
+strong negative to indicate that the cited author did not discuss the topic in enough detail. When reporting 
+their own claims, however, a writer sometimes did use mention to refer to what they themselves only 
+briefly discussed. The negative attitude expressed in the use of mention had been difficult for the students 
+to understand since this usage seemed to contradict commonly held assumptions.  
+Heaton mentions a girl named Haley Lodge who faced a big problem because she put off 
+writing a paper until the last day. 
+In this example, since the girl was the main topic of the paper, “mention” was not considered appropriate 
+although it had appeared in the sample sentences. In our assessment, 81% of the students successfully 
+corrected this usage. This kind of problem illustrates how concordancing software may give students 
+unexpected results that contradict what they previously thought or had been taught (Thurston & Candlin, 
+1998). 
+Although we did not track the sets of sentences the students received, there were uses of mention that 
+could fulfill the criteria the student had selected, although they were not necessarily appropriate in this 
+particular sentence. The difficulty that some students had in matching the examples they received from 
+the program with the problem in the sentence raised additional questions about how effectively students 
+could use the program. This kind of problem with the use of the program raises questions that are beyond 
+the scope of this paper about the general role of authority assumed in the concept of “data-driven 
+learning.” How well can students judge whether a sample of sentences that matches the criteria they 
+imputed is, in fact, appropriate to the problem they are trying to solve. The possibility of these kinds of 
+“false positive” results is an inevitable consequence of the students having to judge for themselves 
+whether the answer is correct. However, these kinds of problems did help us better understand the issues 
+that needed to be discussed more thoroughly in class throughout the course. 
+Since there is so much uncontrollable variability in how technologies are implemented, it may be difficult 
+to generalize the results from one situation to another. As the often nasty debate over the value of explicit 
+grammar teaching has shown (e.g., Ferris, 2004; Truscott, 1999), it is often difficult to control all the 
+variables that affect the process of learning grammar, and therefore it is difficult to assess whether a 
+particular approach, such as the one employed here, was effective in meeting the goals of the course. 
+Nevertheless, based on this assessment, we modified both the design of the learning object and the way it 
+was implemented. Our primary modification was changing how the learning object was introduced into 
+the classroom and to integrate the discussion of reporting verbs usage into more aspects of the course. In 
+future classes, we incorporated more pen and paper work with making choices about the use of reporting 
+verbs before introducing the program into the class.  
+Our assessment of the learning object is ongoing, and more modifications will be made, which is an 
+essential process in the use of any technology in the classroom.6 Although the samples were small and 
+therefore not statistically significant, the problems that were found are important for understanding 
+possible limitations in the use of the technology and give direction to how these limitations may be 
+remediated by increased classroom practice. As Gaskell and Cobb (2004) suggest, changing how students 
+are introduced to the technology may help them become more effective users of it.  
+Language Learning & Technology 72
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+CONCLUSION 
+The migration of concordancing to the Internet came at a time when there was a growing interest in 
+contextualizing the teaching of grammar, creating what Micciche (2004) called a “discourse that takes 
+seriously the connection between writing and thinking” (p. 718). The growing access to a variety of 
+concordancing programs had given teachers, researchers, and material developers the ability to integrate 
+authentic materials from specific rhetorical contexts in ways that reflected new theoretical and 
+pedagogical developments on teaching grammar (Ellis, 2001). More recent changes in user interfaces 
+have also allowed students to become more involved in using concordancing whenever they want and for 
+whatever purpose they deem necessary. As Warschauer (2002) put it, technology can be a resource that 
+can aid the student in critically reflecting on the “complicated” nature of language use, which was the 
+ultimate goal in designing this learning object.   
+The ability to share information over the Internet, what Benkler (2006) calls “the wealth of networks,” has 
+also changed the social context of how students learn grammar and how teachers can interact in the 
+teaching of grammar. The Internet provides the opportunity to share teaching materials and ideas on 
+teaching reporting verbs with other teachers all over the world without the restrictions and costs that 
+publishing textbooks entails. Such access allows students to use a teacher’s materials after they leave the 
+classroom as well as provide access to students the teacher has never met. As with other web-based 
+technologies, this approach has potential for changing how we think about teaching. Benkler (2006) 
+argues that the openness of the kinds of designs discussed here can itself facilitate the development of a 
+new kind of social context for education. The ability to access grammatical information at the moment 
+they need it can make it more convenient, and perhaps more useful, to engage in the process of “data-
+driven” learning whenever they need to. The use of concordancing in this way can be a step in achieving 
+the long term goal of teachers to have students become autonomous learners of grammar both inside and 
+outside the classroom (Chambers, 2007).  
+As with the use of any technology, the solution to the pedagogical problems inherent in the existing 
+designs of concordancing interfaces involves modifying the architecture of the program. This paper 
+attempted to demonstrate how modifying the interface of the program can address specific pedagogical 
+problems a teacher wants to address. There were limitations to the design employed here, such as 
+regarding how much context would be displayed for each example, an issue that should be the subject of 
+further research.   
+Despite the limitations, it was hoped that this technology would help students not only make an 
+appropriate choice of reporting verbs but also to understand how the choices of reporting verbs reflect an 
+understanding of the rhetorical nature of the writing context and both the constraints and the possibilities 
+of the genre in which they are working. Having students think through what position they are taking and 
+how they think about the claims they are citing can help students reflect more about themselves as authors. 
+Understanding that there may be several possible “correct” answers can also help the students to 
+understand that writers make choices relating to their own opinions even when writing within the 
+constraints of a particular genre of academic writing.  
+This discussion of using technology to teach grammar demonstrates a central point that is crucial to 
+understanding how any technology can be used in the classroom: no technology is transparent regarding 
+pedagogical practice nor is any technology deterministic in its effect on teaching practices (Haas & 
+Neuwirth, 1994). There is always a “push-pull” effect between the inherent nature of a technology and the 
+social context of the technology that makes every implementation unique: the technology affects the 
+learning process, and the learning process affects both how the technology is designed and how it is 
+implemented (Lessing, 1999). Similarly implicit in Johns’ (1994) concept of data driven learning is the 
+argument that the use of concordancing forces students to learn grammar in a different, more 
+contextualized manner than is found in traditional grammar textbooks.  
+Language Learning & Technology 73
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Language Learning & Technology 74
+Finally, there is always the problem of obtaining proof that concordancing, in fact, can help the student 
+writer learn to use a particular lexical or syntactic item. The argument that the introduction of 
+concordancing has materially changed the environment for teaching grammar means that much of the 
+previous research, especially the highly controversial issues concerning the effectiveness of grammar 
+teaching, may not be the same, or perhaps as relevant, for grammar teaching in a technologically-enriched 
+environment. Despite its limitations and controversies, we have found that concordancing can be of great 
+value to our students, but, as with any technology, it must be constantly evaluated and modified in order 
+to address the often changing problems with the use of the technology (Cobb, 1997).  
+ 
+NOTES 
+1. Macros can be used to easily insert the URL into a comment box in Word, along with an explanation 
+the instructor wants to provide. 
+2. For examples of learning objects, see Merlot (www.merlot.com) and Agora (agora.virtualmuseum.ca). 
+3. Intellectual property law varies around the world.  It is difficult to know whether any given act violates 
+a specific law unless there is clear legal precedence. In American law, the fact that there was no monetary 
+gain or loss and the use for only for academic purposes could allow for this form of cutting and pasting to 
+be legal under the fair use doctrine. 
+4. For the data used in the reporting verb learning object, see http://tinyurl.com/28pdqf. 
+5. While we based this on sentence units, we sometimes needed to create a larger context for interpreting 
+the meaning of the verbs. 
+6. The learning object can be viewed 
+at http://www.digitalunion.osu.edu/eslbloch/About_Reporting_Verbs.html. 
+ 
+ACKNOWLEDGMENTS 
+I would like to thank The Office of Technology Enhanced Learning and Research (TELR) at The Ohio 
+State University for providing technological assistance in developing the website discussed in this paper.  
+ 
+ABOUT THE AUTHOR 
+Joel Bloch teaches ESL composition at The Ohio State University. He has a Phd in Rhetoric from 
+Carnegie Mellon University and has published previously on Chinese rhetoric, academic discourse, 
+blogging, contrastive rhetoric, and plagiarism. He is the author of Technologies in the L2 Composition 
+Classroom, published by the University of Michigan Press. 
+E-mail: bloch10@yahoo.com 
+ 
+REFERENCES 
+Aston, G. (2000). Corpora and language teaching. In L. Burnard & T. McEnery (Eds.), Rethinking 
+language pedagogy from a corpus perspective (pp. 7-17). Frankfurt: Peter Lang. 
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Language Learning & Technology 75
+Bannan-Ritland, B., Dabbagh, N., & Murphy, K. (2001) Learning object systems as constructivist 
+learning environments: Related assumptions, theories, and applications. Retrieved January 19, 2007, 
+from http://www.reusability.org/read/. 
+.  
+Barlow, M. (2004). MonoConc 2.2 [computer software]. Houston: Athelstan.  
+Benkler, Y. (2006). The wealth of networks: How social production transforms markets and freedom. 
+New Haven, CT: Yale University Press. 
+Berners-Lee, T. (1999). Weaving the Web: The original design and ultimate destiny of the World Wide 
+Web. New York: Harper Collins. 
+Bloch, J. (2007). Technologies in the second language composition classroom. Ann Arbor, MI: 
+University of Michigan Press. 
+Bloch, J., & Brutt-Griffler, J. (2001). Implementing CommonSpace in the ESL composition classroom. In 
+D. Belcher and A. Hirvela (Eds.), Linking literacies: Perspectives on L2 reading-writing connections (pp. 
+309-334). Ann Arbor, MI: University of Michigan Press. 
+Bolter, J.D., & Grusin, R. (1999). Remediation: Understanding new media. Cambridge, MA: MIT Press. 
+Chambers, A. (2007). Popularising corpus consultation by language learners and teachers. In E. H. 
+Tenorio, L. Querada-Navarro, & J. Santana (Eds.), Corpora in the foreign language classroom: Selected 
+papers from the sixth international conference on teaching and learning corpora (pp. 3-16). Amsterdam: 
+Rodopi. 
+Chubin, D.E., & Moitra, S.D. (1975). Content analysis of references: Adjunct or alternative to citation 
+counting. Social Studies of Science, 5(4), 423-441. 
+Cobb, T. (1997). Is there any measurable learning from hands-on concordancing? System, 25(3), 301-315. 
+Cresswell, A. (2007). Getting to ‘know’ connectors? Evaluating data-driven learning in a writing skills 
+course. In E. H. Tenorio, L. Querada-Navarro, & J. Santana (Eds.), Corpora in the foreign language 
+classroom: Selected papers from the sixth international conference on teaching and learning corpora (pp. 
+267-288). Amsterdam: Rodopi, 
+Cuban, L. (2001). Oversold and underused: Computers in the classroom. Cambridge, MA: Harvard 
+University Press. 
+Downes, S. (2004). Nine rules for good technology. In The learning marketplace: Meaning, metadata, 
+and content syndication in the learning object economy (pp. 11-15). Retrieved July 13, 2004, 
+from http://www.downes.ca/files/book3.pdf
+Ellis, R. (2001). The place of grammar instruction in the second/foreign language curriculum.  In E. 
+Hinkle & S. Fotos (Eds.), New perspectives on grammar teaching in second language classrooms (pp. 17-
+34). Mahwah, NJ: Lawrence Erlbaum Associates.  
+Feenberg, A. (1999). Questioning technology. London: Routledge. 
+Ferris, D. R. (2004). The “grammar correction” debate in L2 writing: Where are we, and where do we go 
+from here? (and what do we do in the meantime …?), Journal of Second Language Writing, 13(1), 49-62  
+Galloway, I. (2005). Computer learner corpora and their pedagogical application. TESOL Quarterly, 
+39(2), 333-340. 
+Gaskell, D. & Cobb, T. (2004). Can learners use concordance feedback for writing errors? System, 32, 
+301-319. 
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Language Learning & Technology 76
+Haas, C. (1996). Writing technology: Studies on the materiality of literacy. Mahwah, NJ: Lawrence 
+Erlbaum. 
+Haas, C., & Neuwirth, C.M. (1994). Writing the technology that writes us: Research on literacy and the 
+shape of technology. In C.L. Selfe & S. Hillgross (Eds.) Literacy and computers: The complications of 
+teaching and leaning with technology (pp. 319-335). New York: Modern Language Association of 
+America. 
+Hewings, M., & Hewings, A. (2002). “It is interesting to note that…”: A comparative study of 
+anticipatory ‘it’ in student and published writing. English for Specific Purposes, 21(4), 367-383. 
+Hopper, P.J. (1987). Emergent grammar. Berkeley Linguistics Society, 13, 139-157. Retrieved October 16, 
+2008 from http://home.eserver.org/hopper/emergence.html. 
+Hunston, S. (2000). Evaluation and the planes of discourse: Status and value in persuasive texts. In S. 
+Hunston & G. Thompson (Eds.), Evaluation in text: Authorial stance and the construction of discourse 
+(pp. 176-207). Oxford: Oxford University Press. 
+Hyland, K. (1998). Hedging in scientific research articles. Amsterdam: John Benjamins.  
+Hyland, K. (1999). Academic attribution: Citation and the construction of disciplinary knowledge. 
+Applied Linguistics, 20(3), 341-367. 
+Hyland, K. (2001). Bringing in the reader: Addressee features in academic articles. Written 
+Communication, 18(4), 549-574. 
+Hyland, K. (2002a). Activity and evaluation: Reporting practices in academic writing. In J. Flowerdew 
+(Ed.), Academic discourse (pp. 115-130). Harlow, UK: Longman.  
+Hyland, K. (2002b). Specificity revisited: How far should we go now? English for Specific Purposes, 
+21(4), 385-395.  
+Ivanič, R. (1998). Writing and identity: The discoursal construction of identity in academic writing. 
+Amsterdam: John Benjamins. 
+Johns, T. (1991). From printout to handout. ELR Journal, 4, 27-46. 
+Kennedy, C., & Miceli, T. (2001). An evaluation of intermediate students' approaches to corpus 
+investigation. Language Learning & Technology, 5(3), 77-90. 
+Kolln, M. (2007). Rhetorical grammar: Grammatical choice, rhetorical effects. New York: Pearson. 
+Latour, B. (1988). Science in action. Cambridge, MA: Harvard University Press. 
+Lee, D., & Swales, J. (2006). A corpus-based EAP course for NNS doctoral students: Moving from 
+specialized corpora to self-compiled corpora. English for Specific Purposes, 25(1), 56-75. 
+Lessing, L. (1999). Code and other laws of cyberspace. New York: Basic Books  
+Levy, M. (1997). Computer assisted language learning. Oxford: Clarendon Press. 
+MICASE (2007). Michigan Corpus of Academic Spoken English. Available 
+at: http://quod.lib.umich.edu/cgi/c/corpus/corpus?c=micase;page=mbrowse. 
+Micciche, L. (2004). Making a case for rhetorical grammar. College Composition and Communication, 
+55(4), 716-737. 
+ 
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Language Learning & Technology 77
+The Michigan Corpus of Academic Spoken English: MICASE (2002).  Simpson, R. C; Briggs, J. Ovens S. 
+L, & Swales. J. M. Ann Arbor, MI: The Regents of the University of Michigan. Retrieved August 11, 
+2004 from http://www.hti.umich.edu/m/micase. 
+O’Reilly, T. (2005).  What is web 2.0: Design patterns and business models for the next generation of 
+software. Retrieved December 3, 2005, 
+from http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html?page=1.  
+htm. 
+tml. 
+Osbourne, J. (2000). What can students learn from a corpus? Building bridges between language and data. 
+In L. Burnard & T. McEnery (Eds.), Rethinking language pedagogy from a corpus perspective (pp. 165-
+172). Frankfurt: Peter Lang. 
+Sakita, T.I. (2002). Reporting discourse, tense, and cognition. Amsterdam: Elsevier. 
+Schmitt, N. (2000). Vocabulary in language teaching. New York: Cambridge University Press. 
+Scott, M. (n.d.) Oxford WordSmith Tools Version 4.0 [computer software]. Cambridge: Oxford 
+University Press. 
+Shank, R.C., & Cleary, C. (1995). Engines for education. Hillsdale, NJ: Lawrence Erlbaum. 
+Siemens, G. (2005). Connectivism: A learning theory for the digital age,. International Journal of 
+Instructional Technology & Distance Learning, 2(1). Retrieved May 31, 2008, 
+from http://www.itdl.org/Journal/Jan_05/article01.
+Spivey, N.N. (1997). The constructivist metaphor: Reading, writing, and the making of meaning. San 
+Diego: Academic Press. 
+Stevens, V. (1991). Classroom concordancing: Vocabulary materials derived from relevant, authentic text. 
+English for Special Purposes Journal, 10(1), 35-46.  
+Swales, J. (1990). Genre analysis: English in academic and research settings. Cambridge: Cambridge 
+University Press.  
+Swales, J. M., & Feak, C. B. (2004). Academic writing for graduate students: Essential skills and tasks, 
+2nd Edition. Ann Arbor, MI: The University of Michigan Press. 
+Thompson, G. & Ye, Y.Y. (1991). Evaluation in reporting verbs used in academic papers. Applied 
+Linguistics, 12(4), 365-382.  
+Thompson P., & Tribble, C. (2001). Looking at citations: Using corpora in English for academic purposes. 
+Language Learning & Technology, 5(3), 91-105. Retrieved December 2, 2008, 
+from http://llt.msu.edu/vol5num3/thompson/default.h
+Thurstun, J., & Candlin, C.N. (1998). Concordancing and the teaching of the vocabulary of academic 
+English. English for Specific Purposes, 17(3), 267-280. 
+Tribble, C. (2002). Corpora and corpus analysis: New windows on academic writing. In J. Flowerdew 
+(Ed.), Academic Discourse (pp. 131-149). Harlow, UK: Longman. 
+Truscott, J. (1999). The case for “The case against grammar correction in L2 writing classes”: A response 
+to Ferris. Journal of Second Language Writing, 8, 111-122. 
+Vannestăl, M.E., & Lindquist, H. (2007). Learning English grammar with a corpus: Experimenting with 
+concordancing in a university grammar course. Recall, 19, 329-350. 
+Warschauer, M. (2002). Networking into academic discourse. Journal of English for Academic Purposes, 
+1, 45-58. 
+Joel Bloch The Design of an Online Concordancing Program 
+ 
+Language Learning & Technology 78
+htm. 
+Wiley, D. (2001). Connecting learning objects to instructional design theory: A definition, a metaphor, 
+and a taxonomy. In D. Wiley (Ed.), The instructional uses of learning objects (online version). Retrieved 
+December 2, 2008, from http://reusability.org/read.   
+WordPilot (n.d.). [computer software]. Hong Kong: Compulang. Retrieved October 18, 2008, 
+from http://home.ust.hk/~autolang/download_WP.
+Yoon, H. (2008). More than a linguistic reference: The influence of corpus technology on L2 academic 
+writing. Language Learning & Technology, 12(2), 31-48. 
+Yoon, H. & Hirvela, A. (2004). ESL student attitudes toward corpus use in L2 writing. Journal of Second 
+Language Writing, 13(4), 257-283.  
+ 

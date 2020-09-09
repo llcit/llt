@@ -1,0 +1,933 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol11num3/lansungchang/ 
+October 2007, Volume 11, Number 3 
+pp. 130-151 
+ 
+Copyright © 2007, ISSN 1094-3501 130 
+A MOBILE-DEVICE-SUPPORTED PEER-ASSISTED LEARNING 
+SYSTEM FOR COLLABORATIVE EARLY EFL READING 
+Yu-Ju Lan 
+Yao-Ting Sung 
+Kuo-En Chang 
+National Taiwan Normal University 
+Collaborative learning methods which emphasize peer interaction have been widely 
+applied to increase the intensity and effectiveness of EFL reading programs. However, 
+simply grouping students heterogeneously and assigning them group goals does not 
+guarantee that effective collaborative learning will ensue. The present research includes 
+two studies. In Study One, the weaknesses of collaborative learning in a traditional EFL 
+setting were observed. Then, in Study Two, a mobile-device-supported peer-assisted 
+learning (MPAL) system was developed for the purpose of addressing the identified 
+weaknesses. Two classes of twenty-six third grade students participated in the present 
+research to examine the unique contribution of MPAL to collaborative EFL reading 
+activities. The collaborative behavior of elementary EFL learners was videotaped and 
+analyzed. Detailed analysis of the videotaped behavior indicated that MPAL helped 
+improve collaboration in elementary school level EFL learners and promotes their reading 
+motivation. 
+INTRODUCTION 
+Due to increased globalization and internationalization in recent decades, English has become the lingua 
+franca of the world due to its widespread use in academia, business, commerce, and technology (Spolsky 
+& Shohamy, 1999). As a result, study of the English language has increased worldwide. In Taiwan, 
+formal English as a foreign language/English as a second language (henceforth referred to simply as EFL) 
+instruction begins at the elementary school level. However, because of the limited opportunities for 
+exposure to English, Hirvela (2004) highlighted the importance of providing reading materials to second 
+language (L2) learners so that they can learn the rhetoric and writing styles of the language through 
+reading. Moreover, there is a growing recognition that reading provides important opportunities for L2 
+development (Day & Bamford, 1998). Reading is especially important for learners of EFL in an 
+educational setting with limited L2 resources (Gehard, 1996). Therefore, the teaching of English reading 
+is receiving increasing attention from EFL teachers and researchers. 
+To achieve the reading goals set for elementary learners, intensive intervention programs have been 
+viewed as an effective approach (Clay, 1993; Foorman & Torgesen, 2001; Hiebert, Colt, Catto, & Gury, 
+1992; Slavin, Madden, Karweit, Dolan, & Wasik, 1992; Taylor, Frye, Short, & Shearer, 1992). Further, 
+collaborative learning that includes groups working together and peer assistants has been widely used in 
+English reading programs to create the necessary intensity and strong support for learning. Numerous 
+studies have confirmed the positive educational effects of collaborative learning on the instruction of 
+English reading. Collaborative learning (or peer-assisted learning) can improve the cognitive activity of 
+students (Hartup, 1992) and their reading outcomes (Greenwood, 1996; Ghaith, 2003; Slavin, 1988). 
+Collaborative learning can also increase motivation and satisfaction (Ushioda, 1996), as well as the 
+enthusiasm of students through the achievement of goals as a group (Nichols & Miller, 1994). 
+Although the effectiveness of collaborative learning in EFL reading has been clearly demonstrated, a 
+collaborative learning environment in an EFL classroom in Asia may differ markedly from one in the 
+West. Other pedagogical challenges (such as the diversity of students’ reading ability, social and 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 131 
+economic differences, class size, time constraints, and available resources) become problematic when 
+EFL teachers try to adopt collaborative methods for reading instruction in traditional EFL classes (Curtis, 
+1998; Lan, Chang, & Sung, 2004; Reed, 2002). 
+Mobile technology is currently a feasible approach to overcoming many of the obstacles in current 
+methods of EFL reading instruction. Standing on the shoulders of the giant, CALL (Computer Assisted 
+Language Learning, e.g., Barker & Torgesen, 1995; Mioduser, Tur-Kaspa, & Leitner, 2000; Speziale & 
+La-France, 1992; Sung, Huang, & Chang, under review), mobile assisted language learning (MALL) has 
+the capability of providing EFL learners with the same opportunities for independent and targeted reading 
+practice and immediate corrective feedback as CALL. In recent years, many studies have explored new 
+methods of language learning made possible by the unique features of MALL, including portability, 
+social interactivity, context sensitivity, connectivity, individuality, and immediacy (Attewell & Webster, 
+2004; Chinnery, 2006; Klopfer, Squire, & Jenkins, 2002; Soloway et al., 2001). 
+Research suggests that MALL has excellent potential for providing students with rich, real time, 
+collaborative and conversational experiences both in and outside the classroom. However, the focus of 
+MALL is mostly on speaking (Kukulska-Hulme, 2005), vocabulary (Thornton & Houser, 2005), phrases 
+(Thornton & Houser, 2005; Morita, 2003), and grammar (Sung, Huang, & Chang, 2006), rather than early 
+reading skills. Furthermore, most subjects in recent studies of MALL have been college students. Few 
+studies have investigated how mobile technology benefits the reading skills of elementary students. The 
+subjects of studies by Zurita and Nussbaum (2004) (6- and 7-year old children) and Soloway and his 
+colleagues (2001) (k-12 students) are exceptions, but the learning objective in these studies was not 
+specifically English reading skills. Further, although the most widely used hand-held devices (e.g., 
+cellular phones, personal digital assistants, and mp3 players such as iPods) have a good reputation in 
+MALL research, their small screens have been frustrating (Carlson, 2002). 
+Considering the limited number of MALL studies focusing on early EFL reading skill training, and fewer 
+studies using elementary EFL learners as participants, the purpose of this research was to investigate how 
+mobile technology benefits collaboration in elementary EFL learners. Rather than measuring specific 
+learning gains, this research focuses on the weaknesses of collaborative learning in traditional EFL 
+reading activities and how these weaknesses could be overcome by using mobile technology. To achieve 
+this objective, two studies were conducted. In the first study, collaborative learning behavior was 
+observed in elementary EFL students to clarify deficiencies in traditional reading activities. In the second 
+study, for the purpose of enhancing collaboration in elementary EFL learners, we first developed a 
+mobile-device-supported peer-assisted learning (MPAL) system based on the results of Study One. In 
+addition to the characteristic of mobility, the MPAL was implemented on Tablet PCs under the 
+considerations of its bigger screen size, compared with the hand-held devices mentioned above, as well as 
+the easy input equipment (stylus) that Tablet PCs could provide. The efficacy of MPAL in overcoming 
+the perceived limitations of traditional collaborative learning was then assessed.  
+STUDY ONE: COLLABORATIVE EFL READING ACTIVITIES WITHOUT 
+TECHNOLOGICAL SUPPORT 
+To develop a mobile-device-supported reading system that can enhance collaborative learning in EFL 
+students, learners were first observed in class during traditional reading activities. All student activities 
+were videotaped and analyzed by two observers. The analysis was intended to identify deficiencies in 
+collaborative reading in traditional EFL settings, as well as the opportune moment to introduce mobile 
+technology in EFL learners’ collaborative reading activities.  
+ 
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 132 
+Methods 
+Design 
+The first study was conducted during the first semester of the school year using a quasi-experimental 
+design. Two classes of third grade students using identical materials participated in this study. One class 
+(experimental group) learned reading using the collaborative learning approach, and the other class 
+(control group) learned reading by individual learning and whole class activities led by the EFL 
+instructor. All reading activities were videotaped for subsequent analysis by two observers who were 
+instructed to record and analyze all collaborative behavior and interactive discourse observed in the 
+experimental group.  
+Participants 
+The subjects in Study One included 52 third grade students (two classes of 26 students, 14 males and 12 
+females in each class) from an elementary school in Taipei, Taiwan. One class was randomly chosen as 
+the experimental group and the other as the control group. All enrolled subjects were considered 
+beginning-level learners, although they had received two years of EFL instruction in elementary school. 
+According to the Taipei Municipal Education Department's standards for the elementary school English 
+curriculum, all third-grade students must learn all letters in the English alphabet, 30 words, and 20 
+sentences of basic daily conversation and classroom English. 
+The students were divided into heterogeneous reading groups based on their level of English achievement 
+in the second grade. Grade A students were classified as high reading ability, those at grade B or C were 
+classified as medium reading ability, and those at grade D or Fail were classified as low reading ability. 
+As a result, the experimental group had 6 high-ability, 11 medium-ability, and 9 low-ability students; the 
+control group had 7 high-ability, 10 medium-ability, and 9 low-ability students. Students with more 
+advanced English ability (referred to as "group leaders") were grouped with two or three students with 
+lower ability (medium- and low-ability students) which resulted in both classes having seven reading 
+groups (each consisted of five groups with four members and two groups with three members). 
+Instruments 
+Description of early EFL reading activities and teaching materials. Study One employed a program with 
+five basic-level teaching packages. The lesson structure of the teaching materials was based on a balanced 
+foundation of language skills: each teaching package included instructional material for basic linguistic-
+skills (phonemic awareness, phonics rules, and sight words) as well as text reading articles. This study 
+package was similar to the one used in the second study (Appendix D). The basic linguistic skills training 
+module for each teaching package included phonics rules and selected English words for instruction in 
+sight identification. Based on the linguistic skill objectives in each teaching package, a carefully tailored 
+written text was used as reading material to provide the students with opportunities to apply their skills to 
+comprehending written text. 
+Each teaching package included two activities and lasted for two periods (40 minutes each period; 160 
+minutes for each teaching package). In general, elementary school students in Taiwan receive two periods 
+of instruction on English each week; therefore, each teaching package was taught over a period of two 
+weeks. Thus, the five teaching packages were applied for a total of 10 weeks. In the initial series of two-
+period reading activities, both groups used printed materials to practice basic linguistic skills together as a 
+class or by working in pairs. In the second series of two-period activities, the two groups learned via 
+different approaches. The experimental group engaged in collaborative group reading activities in which 
+the students were permitted to assist each other when reading the assigned text. However, the students in 
+the control group received instruction from the EFL teacher or were asked to practice individually. 
+Procedure 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 133 
+Before the experiment, the students in the experimental group were asked to agree on and follow their 
+own collaborative reading rules (Appendix A). In the first two-lesson activities, the EFL teacher 
+instructed the students in sight words, phoneme segmentation, and phonics rules. After direct modeling 
+(in which the EFL teacher demonstrated the correct pronunciation of sight words and explicitly presented 
+the phonics rules employed to decode and encode English words), the EFL teacher led entire-class 
+activities and inter-group speed-reading contests. At the second of the two-lesson activities of each 
+teaching package, the students in the experimental group participated in collaborative text reading 
+activities while seated in groups around a desk. Each student read the text according to a step-by-step 
+reading guide (Appendix B), after which they performed peer assessment. Whenever they encountered a 
+problem reading a word or comprehending its meaning, the students were permitted to ask for instructed 
+help from their group leader or groupmates. 
+In contrast with the experimental group, the students in the control group used identical reading materials 
+but only received instruction from the teacher in the first two-lesson activity. In the second two-lesson 
+activity, the students were then asked to read the articles individually following a simplified version of the 
+step-by-step reading guide (Appendix C). 
+Data collection 
+During the experiment, video-cameras were installed in two corners of the room so that each camera 
+could videotape four reading groups. Additionally, seven digital voice recorders were used to record oral 
+discourse between group members. Upon completion of the reading activity, two observers reviewed all 
+videotaped group reading sessions. The observers were instructed to record and classify all intra-group 
+interactive behavior observed during the recorded group reading activity. The Pearson product-moment 
+correlation of the frequencies of various behaviors from the two copies of the records was then computed. 
+To identify the most opportune time to introduce mobile technology and associated scaffolding in EFL 
+collaborative reading activities, the observation was also intended to identify deficiencies in any of the 
+following aspects of group learning: (a) support provided by groupmates, (b) feedback provided by 
+groupmates, and (c) collaborative processes. 
+Results 
+After the treatment finished the two observers repeatedly watched the videotapes and listened to the 
+digital voice recordings until all the discourses and interactive behavior exhibited by the experimental 
+group were coded. The observations focused on interactive behavior among groupmates and the problems 
+that might have reduced the effectiveness of group collaboration. The Pearson product-moment 
+correlation of the frequencies of various behaviors computed from the two copies of the records was 
+0.968. 
+The analytical results of the video data and discourse in the experimental group revealed frequent peer-
+assisted learning behavior in the collaborative reading groups. Examples 1 and 2 are two concrete positive 
+examples of the components "support provided by groupmates" and "feedback provided by groupmates," 
+in which group leaders helped group members read assigned tasks and provided feedback. Besides, in the 
+following examples (Examples 1, 2, and 3) if students use Chinese (their native language) to 
+communicate with each other, the particular discourse conducted in Chinese will be printed in italics, 
+followed by its Chinese version in parentheses. 
+Example 1. 
+Group 1:  
+Group members: Tracy, Pole, Joe and Faye 
+ 
+Tracy: OK, now everyone read the text. Step two, mmm… you read and circle the words you do not know. 
+(你們自己讀，再把不會的字圈起來) 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 134 
+(Students read and circle unknown words.) 
+Tracy: Don’t be afraid to circle too many unknown words. (不要害怕圈太多字) What I care is honest. 
+(我在意的是誠實) Don’t cheat. (不要騙我) Just let me know which word you don’t know. 
+(盡管讓我知道你們什麼字不會念) I will teach you. (我會教你們) 
+Pole: Tracy, how to say the word? (這個字怎麼讀) (Pole points to the word ‘Rat’.) 
+Tracy: r r /r/r/, a a /a/a/, /r/a/ /ra/, t t /t/t/, /rat/. Rat is a big mouse, and mouse means a small one. (Rat 
+是大老鼠，mouse是小老鼠) Understand? (component: support provided by groupmates, positive) 
+Pole: Understand. Thank you. 
+Tracy: Joe, Faye, any question? 
+Joe: Tracy, how to say the word? (怎麼讀這個字) (Joe points to the word ‘Will’.) 
+Tracy: (Covers the last three letters, ‘ill’, shows letter w to Joe and supports scaffolding.)  w w, say 
+what? (怎麼念) (component: support provided by groupmates, positive) 
+Joe: w w /u/. 
+Tracy: i i… 
+Joe: /i/i/. 
+Tracy: l l … 
+Joe: (Kept silent.)  
+Tracy: (Models the sound of the letter "l") l l /l/l/. /u/i/ /ui/ /l/ /uil/. Say it. (念一遍) 
+Joe: /u/i/ /ui/ /l/ /uil/. (component: support provided by groupmates, positive) 
+ 
+Example 2. 
+Group 7:  
+Group members: Esther, Ann, Apple and Sandy 
+ 
+(Students read text.) 
+Esther: Hey, read out loud, the guide says ‘read aloud’. (嘿，讀出聲音，這份guidance說read aloud) Ann, listen 
+and say "Mr. and Mrs." (Ann，聽我讀跟著念Mr. and Mrs) (points to the words)  
+Ann: ‘Mr.’ and ‘Mrs.’  
+Esther: Good (component: feedback provided by groupmates, positive), now how to say the word? 
+(這個字怎麼讀) (points to the word ‘had’) 
+Ann: (kept silent.)  
+(Apple and Sandy begin to read and discuss together.) 
+Esther: When you read a word, you cover the latter letters and sound the beginning sound, then the middle 
+sound and say the two sounds together, and then add up the ending sound and say them together. Like this. 
+(當你讀一個字時，先蓋住後面的字母，先讀開頭的字母，然後是中間的字母，然後把兩個字母拼起來，
+然後再把最後一個字母加近來一起讀，像這樣) (covers letters a and d) h h /h/h/, a a /a/a/, /h/a/ /ha/, then 
+(然後) d d /d/d/, then say them together (然後一起念), it becomes /had/. (就變成 /had/) OK? (component: 
+support provided by groupmates, positive) 
+Now you try. Apple, Sandy, any question?  Hey, don’t chat. (不要聊天) 
+Apple and Sandy: We don’t. (我們沒有) 
+Esther: Good, let me know if you have questions. (有問題要告訴我) Ann, you say the word. (你讀這個字) 
+Ann: /h/a/d/ /had/. 
+Esther: Good. (component: feedback provided by groupmates, positive) 
+(Esther was keeping busy in supervising and helping her groupmates to read.) 
+ 
+However, it was also found that simply placing students in groups heterogeneously and assigning them 
+group goals (e.g., winning the inter-group reading contest and being rewarded) did not guarantee effective 
+collaboration during the whole reading activity. Several weaknesses in the collaborative process were 
+identified by the observers. First, the group leaders differed in their small-group collaborative reading 
+activity in that some of them were constantly busy helping their groupmates whereas others spent most of 
+their time reading individually. As a result, students in groups with busy leaders may have experienced 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 135 
+delays in assistance from their group leaders (classified as ‘postponed support’), whereas leaders in other 
+groups were constantly available for helping anyone (including those belong to a different group) in need 
+of learning support (classified as 'invisible helper'). Furthermore, the medium-ability students were 
+frequently asked to read by themselves because their group leaders were busy helping their low-ability 
+groupmates. The lack of immediate feedback resulted in medium-ability students frequently 
+demonstrating uncertainty or confusion during the reading activity (classified as ‘absent feedback’). Other 
+weaknesses in a small group included group leaders teasing or ignoring groupmates because of their 
+slower rate of learning (classified as ‘conflict-oriented collaborative process’), resulting in increased 
+passivity in these students. In a specific example of the components of 'collaborative process', Example 3 
+shows a negative episode in which the group leader in Group 3 lost his temper and teased his group 
+member. 
+Example 3. 
+Group 3:  
+Group members: Richard, Jasmine and Angel 
+ 
+(Students read step-by-step reading guide handout and the copy of the text.) 
+Jasmine: Richard (the group leader), how to do step 1? (第一個步驟怎麼做) 
+Richard: (Reads the guide statement.) Look at the Picture and think about its meaning.  See, look and think. 
+(看到沒，看一看，想一想) 
+(Angel looks around.  She is not sure how to do it.) (component: support provided by groupmates, 
+negative) 
+Richard: (to Angel) Hey, what are you doing? Quickly, do it. (趕快讀啦) 
+Angel: But, but, …, I don’t know how to read. (可是…我不知道怎麼讀) 
+Richard: (Points to the handout of the reading instruction.) Look at this and read. (看這個步驟跟著讀) 
+(Richard sound angry and ignores Angel while reading the text.) (component: collaborative process, 
+negative) 
+Angel: How to say this? (這個字怎麼讀) (Points to the word ‘six’ and asks Richard.) 
+Richard: Who knows?! Oh, how terrible it is! (喔！怎麼這麼慘啊) My God! (component: collaborative 
+process, negative) 
+(Richard complains about the stupid question Angel asked him, and then he chatted with Jasmine.) 
+Angel: (Sounding scared) Please teach me say the word. (請…教我讀這個字) (Points to the word ‘six’). 
+(component: collaborative process, negative) 
+Richard: (Says the word ‘six’.) /siks/ /siks/, don’t forget. 
+Angel: How to say this? (這個怎麼念) (Points to the word ‘kids’.) 
+Richard: Oh, /kidz/, /kidz/, oh, my God!  Teacher, teacher, she even doesn’t know how to say the letter sound. 
+(她連字母發音都不會) I don’t know how to teach her! (我不知道怎麼教她) (component: collaborative 
+process, negative) 
+(The teacher comes to the group and shows the peer-assisted method to Richard then comforts and encourages 
+Angel.) 
+STUDY TWO: SOLVING WEAKNESSES BY SUPPORT FROM MOBILE TECHNOLOGY 
+The findings of Study One appeared to show that collaborative learning and peer-assisted learning are 
+feasible strategies for helping elementary EFL learners learn to read. In most of the small reading groups, 
+the group leaders were willing to help their groupmates and provide their peers with necessary 
+scaffoldings and feedback (see Examples 1 and 2). The study also found that elementary EFL learners 
+require adequate support to address the above weaknesses and to enhance the teaching of EFL reading. 
+The weaknesses identified in Study One were used to design a mobile-device-supported peer-assisted 
+learning (MPAL) system implemented on the environment of Tablet PCs to support collaborative learning 
+in elementary EFL learners. This study revealed how computer technology can be used to solve the 
+shortcomings in traditional collaborative reading activities. 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 136 
+Methods 
+Design 
+The second study also adopted a quasi-experimental design but was executed in the second semester. In 
+advance of the experiment, the control group received training in collaborative learning to minimize 
+differences in the collaborative learning experience between the two groups (the experimental and the 
+control groups). The video data were also collected but were analyzed quantitatively by coding the 
+behaviors according to the defined categories and then calculating the frequency of each behavior for 
+comparison of differences between the two groups. 
+Participants 
+Similarly to the evaluation of collaborative EFL reading activities, the mobile-device-supported activities 
+were investigated over a 10-week period with the same subjects in the second semester of the same school 
+year. All subjects were grouped into the same groups as described in Study One. 
+Instruments 
+Description of early EFL reading activities and teaching materials. Study Two employed five additional 
+teaching packages at more advanced levels. The lesson structure of the materials used in the second study 
+was identical to that of Study One. Appendix D is an example of a teaching package used in Study Two. 
+The reading activities resembled that of Study One except that the collaborative learning approach was 
+used in both groups. 
+Observation checklists. Study Two involved a more quantitative approach. In the observation checklists 
+(see Appendix E), the EFL reading behaviors were categorized as learning-related and learning-unrelated 
+behaviors according to whether the observed behaviors related to the specific learning activities. 
+Additionally, the learning-related behaviors included three reading behaviors: individual, inter-group, and 
+intra-group. The students were observed in four-minute segments. For each segment, observers coded the 
+frequency of target behaviors at 15-second intervals. Finally, the relative frequency of each target 
+behavior was calculated for comparison. In Study Two, observers focused on the weaknesses of 
+collaborative learning activities observed in the two groups. 
+Hardware: Tablet PCs. Despite the usual limitations of mobile electronic devices (e.g., small screen), the 
+tablet PC was a more appropriate device in this study because of its editing support. Tablet PCs allowed 
+students to easily note and mark the learning materials; consequently the effect of different levels of 
+typing skill was limited in this study. The hardware used in this study was TravelMate C110 Convertible 
+Tablet PC. Appendix F lists the detailed specifications for the device. 
+Mobile-device-supported Peer-Assisted Learning (MPAL) System. The design purposes of MPAL were, 
+first, to provide elementary EFL learners with necessary scaffolding during individual learning, especially 
+when their group members are not available to provide them with feedback, and, second, to provide a 
+simple method for EFL learners to assist each other, particularly when some group members are 
+occupied. The MPAL model consists of two modules: (1) a phonological-skills training module and (2) a 
+peer-assessment module. Figure 1 illustrates the learning flow for the MPAL and the function of each 
+module. 
+The phonological-skills training module was comprised of two submodules: sight words and phonetic 
+words. After students log into the MPAL system, MPAL first assesses their reading skills (sight and 
+phonetic word identification skills) relative to a standard determined by EFL teachers. Upon passing the 
+test, the students were allowed to access the peer-assessment module (Figure 1, left); students who failed 
+the test were returned to the phonological-skills training module for additional practice with MPAL 
+(Figure 1, right). With the coaching support provided by the system, students practiced sight and phonetic 
+word identification for each unit until their ability reached specified testing standard. Throughout the 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 137 
+learning process (practice as well as testing), the MPAL system recorded the learning results, provided 
+both real-time feedback and learning support, and assessed mastery of skills. 
+ 
+Figure 1. The learning flow in the MPAL system. 
+After the students mastered the target sight words and phonics rules for each unit, under the control of the 
+MPAL system, they continued text reading (Figure 1, left). The MPAL system maintained a list of 
+qualified online helpers including the names of all students that passed the peer-assessment process. The 
+first five students who had passed the Test of sight words and phonetic words, as well as finished the step 
+of meaning-based reading, read the text to their EFL teacher in an online assessment via Skype. After 
+passing the test, their names were added to a list of those eligible to assist their peers in online peer 
+assessments or in text reading. 
+Generally, after entering the peer-assessment module, the students first read the text individually and 
+asked for online help via Skype (a peer-to-peer internet-based telephony) whenever they encountered 
+reading or comprehension difficulties. After they were able to read individually and comprehend the text 
+(i.e., able to correctly answer the comprehension questions), they would invite two available online 
+helpers and demonstrate their ability to read the text. The text was continuously displayed on their screens 
+when performing peer assessment, and the online helpers noted mispronounced words by clicking on the 
+word with a stylus. Immediately after completing the assessment, MPAL automatically evaluated the 
+performance of the student by calculating the accuracy ratio and assessing the result as a ‘fail’ or ‘pass’. 
+The reader could then become eligible as an online assistant after receiving a 'pass' from two different 
+online helpers. If one of the two online helpers assessed the reader as ‘fail’, the readers were required to 
+continue reading the text. Figure 2 shows examples of the learning activities involved in online peer 
+assessment. 
+Reading task 
+pass fail 
+Meaning-based reading 
+Interactive practice module 
+pass fail 
+MPAL 
+Practice reading aloud with reading partners 
+ 
+Ask for help (online helper or group members) 
+Invite reading partners (at least two) 
+partners) 
+Test (sight words & 
+phonetic words) 
+Test (sight words & 
+phonetic words) 
+Online peer assessment pass fail 
+ 
+Enter next reading mission 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 138 
+ 
+Figure 2. An example of online peer assessment. 
+Procedure 
+Before the treatment, the control group was trained in collaborative learning and was also asked to 
+formulate collaborative reading rules by entire-class discussion. The group was also asked to agree to 
+follow all rules during the study. Conversely, the experimental group was simply asked to review the 
+collaborative reading rules and follow them.  
+Shortly after the training session for collaborative learning skills, five advanced level teaching packages 
+(see Appendix D) were taught during the treatment period (10 weeks). Each package was taught in two 
+two-lesson activities. In the first two-lesson activity, the teaching activities were similar to those 
+described in Study One. However, in the second two-lesson activity, the activities were conducted 
+differently. In the control group, students first reviewed the materials (sight words and phonetic words) 
+through direct instruction and tests administered by the EFL teacher. They were then asked to 
+collaboratively read a printed text with their peers in groups following the step-by-step reading guide 
+(Appendix G). Finally, each student was asked to read the text to two of their peers (peer-assessment). 
+Students who passed the peer-assessment were instructed to wear paper crowns and print their names on 
+the blackboard to signify that they were qualified helpers available for reading assistance or assessment. 
+In contrast to the control group, each student in the experimental group received a Tablet PC with a stylus 
+and a headset which the students used for collaborative reading activities with the support of the MPAL 
+system. 
+The main differences between the collaborative EFL reading activities without technological support (the 
+control group) and those with support (the experimental group) were the following: First, during text 
+reading activities, the MPAL allowed the students to find available helpers easily and receive help not 
+only from their groupmates but also from the online helpers (any student who had passed peer-
+assessment). Additionally, two or three students spontaneously formed a learning group by making an 
+online call (using Skype) when performing online peer-assessment activities or peer-assisted learning. 
+Moreover, the results of peer-assessment were available from MPAL immediately upon completion of 
+assessment. Thus, both the EFL teacher and the students were able to precisely monitor the learning 
+process and outcome. Second, during phonological-skills training activities, the experimental group 
+Invite two students to 
+help in the online 
+assessment. 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 139 
+received real-time learning support and feedback from MPAL during individual reading activities when 
+no other help was available. 
+Data collection 
+During the treatments, all activities were recorded by three digital video cameras. Two were focused on 
+two small reading groups (one on each group), and one was focused on the entire class. After completion 
+of the experiment, the same observers reviewed the video data. However, in contrast to Study One, the 
+purpose of observation was to determine the frequency of target behaviors listed in the observation 
+checklists (Appendix E). The Pearson product-moment correlation of the observation results of the 
+records was then computed. To document the efficacy of MPAL, the observation focused on the 
+following aspects of collaborative behavior: (a) support provided by groupmates, (b) visible or invisible 
+helper, (c) feedback provided by groupmates, and (d) collaborative processes. 
+Results 
+The observations of learning behavior recorded in this study had two objectives. One was comparison of 
+weaknesses due to postponed support, invisible assistance, lack of immediate feedback, and conflict-
+oriented collaboration in the two groups. Another objective was identifying differences in collaborative 
+behavior (learning-related and learning-unrelated) between the two groups. 
+After the treatment finished, two observers tallied the frequency of each target behavior. Pearson product-
+moment coefficient of concordance was then computed from the decoded results obtained from the two 
+copies of the records. The Pearson correlation was 0.78 (p < .01).  
+Comparison with weaknesses identified in Study One 
+Table 1. The Frequencies of the Four Target Behaviors and the Chi-Square Analysis Results 
+Groups Chi-square Behaviors Experimental Control χ2(1,1) 
+Real-time 33 7 
+support 
+Postponed  11 15 
+11.46* 
+Visible 35 25 
+helper 
+Invisible  1 1 
+.06 
+Real-time 37 18 
+feedback 
+Absent 13 65 
+35.21* 
+collaboration-oriented 79 72 
+collaborative process 
+conflict-oriented  4 17 
+8.17* 
+*p < .05. 
+Table 1 displays the frequencies of the four target behaviors related to support, helper, feedback and 
+collaborative process. Each target behavior was confirmed by chi-square analysis to identify significant 
+differences between the two groups. Results of chi-square analysis revealed that the two groups 
+significantly differed in behaviors related to support (χ2(1,1) = 11.46, p < .05), feedback (χ2(1,1) = 35.21, p < 
+.05) and collaborative process (χ2(1,1) = 8.17, p < .05). These statistical findings revealed that the incidence 
+of postponed support, absent feedback, and conflict-oriented collaboration was significantly lower in the 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 140 
+experimental group than in the control group. However, the result of chi-square analysis related to helper 
+type showed that there was no significant difference between the two groups. 
+Comparison of collaborative learning behaviors 
+All the reading activities were videotaped during the treatments. Two observers watched the video data 
+and recorded the results based on the observation checklists. The EFL reading behaviors were categorized 
+as learning-related and learning-unrelated behaviors. The learning-related behaviors included three 
+reading behaviors: individual, inter-group, and intra-group. Table 2 displays the frequency of each 
+category of behaviors. Results of chi-square analysis revealed that the frequency of learning-related (the 
+sum of individual, inter-group, and intra-group items) and learning-unrelated behaviors in the 
+experimental group significantly differed from that of the control group (χ2 (1,1) = 90.61, p < .05).  
+Table 2. The Frequency of Group Reading Behaviors and the Chi-Square Analysis Results 
+Groups Group reading behaviors Experimental Control 
+Learning-related   
+Individual 142 97 
+Inter-group 157 35 
+Intra-group 201 121 
+Sum 500 253 
+Learning-unrelated 78 167 
+Chi-square (χ2(1,1)) 90.61* 
+*p < .05. 
+According to Table 2, the students in the experimental group concentrated on EFL reading activities 
+(fewer learning-unrelated behaviors) with the support of MPAL. Table 2 also reveals that MPAL 
+benefited collaborative reading behavior (both inter- and intra-group), especially inter-group behavior 
+because of the use of peer-to-peer internet-based telephony. 
+In addition to the above comparison, the frequency of each behavior category in each observed turn (4-
+minute interval) was compared between the two groups to identify different trends in student behavior 
+during collaborative reading activities (see Figure 3). As illustrated in Figure 3, students in the 
+experimental group were more focused than the students in the control group. The students consistently 
+paid attention during reading activities with the support of MPAL. Conversely, the students in the control 
+group tended to pay attention to learning activities during the first half of the two-lesson reading activities 
+only. Subsequently, they were easily distracted, and their attention decreased as the activities progressed. 
+Similar differences also appeared on learners’ anxiety, motivation, and oral reading confidence. Those 
+students’ attitudes were identified  by video data observation. It was found that students in the 
+experimental group, especially the lower-ability students, were eager to practice what was instructed and 
+ask for online help without hesitation or fear of being teased by the helper. Furthermore, the desire of 
+becoming a qualified online helper also motivated them to be willing to read to their peers over and over 
+again until they passed the online peer-assessment. 
+ 
+ 
+ 
+ 
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 141 
+a. 
+ 
+b.  
+ 
+Figure 3. The frequencies of each behavior category happened in each observed turn: (a) the experimental 
+group and (b) the control group. 
+DISCUSSION AND CONCLUSION  
+The goal of this study was to explore the potential application of mobile technology for elementary EFL 
+reading instruction. Due to limited reference studies found in this area and to avoid careless use of mobile 
+technology in education, a two-study research was conducted to explore the reasonable moments and 
+methods for introducing mobile technology in the teaching and learning of elementary EFL reading. In 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 142 
+Study One, by observing twenty-six third grade students (experimental group) learning to read in a small 
+group, the weaknesses which might hinder students’ collaborative learning were identified. This in turn 
+laid the groundwork for designing a mobile learning system. The data analyzed in the first study indicated 
+that simply grouping students into heterogeneous small groups does not guarantee effective collaboration 
+even with collaborative and peer-assisted learning behavior. 
+Careful analysis of the video data revealed the limitations of traditional group learning, including delayed 
+support, invisible helpers, lack of feedback, and conflict-oriented collaborative processes. This finding 
+challenges traditional collaborative learning approaches in which students are heterogeneously grouped to 
+work together and to reach a common goal (Johnson & Johnson, 1994; Ravenscroft, Buckless, & Hassall, 
+1999; Slavin, 1986). The findings also demonstrate that if the students are grouped heterogeneously with 
+different levels of critical skills needed for reading tasks, additional learning support (scaffolding) is 
+necessary for an effective collaborative and peer-assisted learning process.  
+Based on the findings of Study One, the use of mobile technology for elementary EFL reading activities 
+was evaluated in Study Two. In Study Two, a mobile-device-supported peer-assisted learning (MPAL) 
+model was used to support the collaborative reading activities of elementary EFL learners. 
+According to the results of Study Two, it is our distinct impression that MPAL seemed to reduce anxiety 
+in elementary EFL learners, promote motivation to learn, and enhance oral reading confidence. These 
+findings are consistent with recent studies evaluating the application of CALL in EFL such as instruction 
+for early reading skills by Mioduser, Tur-Kaspa, and Leitner (2000) and the study of individualization of 
+instructional sequence by Speziale and La-France (1992). The present study also bears similarities to 
+previous studies of MALL which explored the possibility of learning vocabulary via cell phone 
+(Kukulska-Hulme, 2005; Thornton & Houser, 2005) or Personal Digital Assistant (PDA) (Zurita & 
+Nussbaum, 2004). 
+Furthermore, with the scaffoldings provided by MPAL, students could read on their own or receive online 
+help without their group leaders. Thus they demonstrated a higher level of concentration on reading tasks, 
+particularly the low- and medium-ability students. This finding underscores the value of technology for 
+EFL students with lower reading ability as suggested by Foster, Erickson, Foster, Brinkman, and 
+Torgesen (1994). The experimental results of the current study are also consistent with the findings of 
+Attewell and Webster (2004) that mobile learning inspires enthusiasm in young adults and increases their 
+motivation to improve their reading skills. In addition to the positive effect on collaborative learning, the 
+weaknesses identified in Study One were effectively addressed by the support of MPAL. 
+In summary, it appears that the use of mobile devices in collaborative EFL reading activities reduces the 
+stress experienced by students and facilitates student collaboration. Use of these devices also opens a new 
+world of possibilities where students can individually engage in EFL reading activities anywhere and at 
+any time with the assistance of learning support and real-time feedback. Immediate responses to requests 
+for help or feedback allow students to learn reading according to their individual needs and individual 
+pace. Furthermore, it seems likely that the availability of online helpers not only enhances the usability of 
+the help resource but also encourages students to pass the peer-assessment process and thereby achieve 
+the status of online helper. This study provides further evidence that a mobile-device-supported EFL 
+reading program is an emerging portable and potential solution that can provide students with adaptable 
+and ubiquitous support for collaborative EFL reading activities at virtually any place and time. 
+ 
+ 
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 143 
+APPENDICES 
+Appendix A. Collaborative Reading Rules 
+I will: 
+1. take good care of the learning materials and equipment. 
+2. concentrate. 
+3. be willing to learning with others. 
+4. follow the reading guide. 
+5. work hard. 
+6. ask for help when I need it. 
+7. be nice in discussions with others. 
+8. answer the requests of others for learning help. 
+9. be a responsible peer. 
+10 tidy up the material when I have finished reading. 
+ 
+I will not 
+1. tease others. 
+2. chat or play with others when learning. 
+3. fight with others. 
+4. make noise. 
+5. discuss in a loud voice. 
+6. wander around. 
+ 
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 144 
+Appendix B. Step-By-Step Reading Guide Used in Experimental Group in Study One 
+Story Title: _______________________________________________ 
+Group: _______  Name: _________  Date: _______ 
+ Do and check.  
+(  ) 1. Look at the picture and think about its meaning:  
+who, what, where, and when? 
+(  ) 2. Read aloud the story.  
+If there are some words that you cannot read: 
+ Circle the words you do not know.  
+ Try to read them using phonics rules. 
+ Are they sight words?  
+ Ask your groupmates to help you.  
+(  ) 3. Read aloud again.  
+(  ) 4. Read the story to your group. 
+Peer assessment:  
+Performance    
+Signature    
+Signature    
+ 
+ 
+Appendix C. Step-By-Step Reading Guide Used in Control Group in Study One 
+Story Title: _______________________________________________ 
+Group: _______  Name: _________  Date: _______ 
+ Do and check.  
+(  ) 1. Look at the picture and think about its meaning:  
+who, what, where, and when? 
+(  ) 2. Read aloud the story.  
+If there are some words that you cannot read: 
+ Circle the words you do not know.  
+ Try to read them using phonics rules. 
+ Are they sight words?  
+ Ask your teacher to help you.  
+(  ) 3. Read aloud again and assess your reading. 
+Self-assessment:       
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 145 
+Appendix D. An Example of Teaching Packages Used in Study Two 
+Group: _____ Class: ______ Name: _________  Number:_______ Date: ______ 
+ 
+Today’s mission: 
+1. Practice the sight words (Sight words_a.ppt) 
+2. Practice the phonetic words (Phonetic words_a.ppt) 
+3. Read the article "What is it in the box?" & answer the questions 
+4. Peer-assessment: Read the article to two of your classmates.  
+Sight words: 
+by, asked, guess, said, isn’t, can, does, doesn’t, baby, sing, know, will, who, so, no, look, like, her 
+Phonetic words: 
+ob cob hob job mob rob  
+ock chock cock dock hock lock nock rock shock sock 
+op chop cop hop lop pop shop top 
+ot cot dot got hot jot lot pot rot shot 
+ox box pox fox 
+ob cob hob job mob rob  
+o 
+ock chock cock dock hock lock nock rock shock sock 
+ 
+Peer-Assessment 
+Signature: ______________        Date: ________ 
+What is it in the box? 
+Doctor Dodd sits on a log by the pond. 
+Doctor Dodd has a big box. 
+"What is it in the box?" asked Tom. 
+"Guess," said Doctor Dodd. 
+"Is it a doll?"  "No, it isn’t." 
+"Is it a fox?"  "No, it isn’t." 
+"It has spots.  It can hop. 
+It does not look like her baby. 
+It likes to sing in the pond." 
+"What is it in the box?" asked Doctor Dodd. 
+"I know it.  It is a …," said Tom. 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 146 
+What is it in the box? 
+Doctor Dodd sits on a log by the pond. 
+Doctor Dodd has a big box. 
+"What is it in the box?" asked Tom. 
+"Guess," said Doctor Dodd. 
+"Is it a doll?"  "No, it isn’t." 
+"Is it a fox?"  "No, it isn’t." 
+"It has spots.  It can hop. 
+It does not look like her baby. 
+It likes to sing in the pond." 
+"What is it in the box?" asked Doctor Dodd. 
+"I know it.  It is a …," said Tom. 
+ 
+ 
+Answer the questions: 
+(   ) 1. What is it in the box? 
+(1) A rabbit.  (2) A bug.  (3) A frog. 
+(   ) 2. Which animal doesn’t look like her baby? 
+(1) Butterfly.  (2) Cat.  (3) Pig. 
+(   ) 3. What is the baby of a frog? 
+(1) Kitten.  (2) Tadpole.  (3) Puppy. 
+(   ) 4. Draw a line to match the baby animals and their moms. 
+ Piggy    Sheep 
+ Lamb    Bear 
+ Duckling    Pig 
+ Cub     Hen 
+ Chick    Duck 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 147 
+Appendix E. Observation Checklists Used in Study Two 
+Date:  Unit:  Observed group:        
+Observe intervals 1st 2d 9th 
+Time       Observed behaviors Students’ numbers 1 2 3 4 1 2 3 4 1 2 3 4 
+Set up or operate the TabPCs                         
+Do practice                         
+Do test                         
+Use Skype                         
+individual 
+Idle helper (ignore help request)                         
+Peer-assessment                         
+Teach another to learn materials                         
+Teach another to use TabPC                         
+Be taught to use TabPC                         
+Be taught to learn materials                         
+Waiting for peer-assessment                         
+Ask for help                         
+negotiation                         
+communication                         
+inter-group 
+discussion                         
+Peer-assessment                         
+Teach another to learn materials                         
+Teach another to use TabPC                         
+Be taught to use TabPC                         
+Be taught to learn materials                         
+Waiting for peer-assessment                         
+Ask for help                         
+negotiation                         
+communication                         
+discussion                         
+Sharing with group mates                         
+Encouraging group mates                         
+Le
+arn
+ing
+-re
+lat
+ed
+ be
+ha
+vio
+rs 
+intra-group 
+Watching group mates                 
+… 
+        
+ 
+  Students’ numbers 1 2 3 4 1 2 3 4 1 2 3 4 
+Chatting with others                         
+Playing with others                         
+Moving around                         
+Catnapping                         
+Playing alone                         
+Abstracted                         
+Leaving seat                         
+Looking around                         
+Learning-
+unrelated 
+behaviors 
+Other behaviors                 
+… 
+        
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 148 
+Appendix F. The Specification of TravelMate C110 Convertible Tablet PC 
+Operation system: Microsoft® Windows XP Tablet PC Edition 
+Platform: Intel® CentrinoTM mobile technology 
+Processor: Low Voltage Intel® Pentium® M processor at 800 MHz; 512KB L2 cache memory  
+Chipset: Intel® 855GM chipset with 400 MHz front-side bus 
+Wireless technology: Integrated, coexistent, Intel® PRO/Wireless 2100 network connection 802.11b 
+Memory: 256MB of DDR memory and a Flash BIOS can be upgraded to 2GB, 512KB; support shadow 
+RAM 
+Screen: 512 Flash BIOS; support shadow RAM; The notebook screen can be swiveled up to 180o  
+Storage: 30 GB of DASP (Disk Anti-Shock Protection) hard disc storage 
+External drive: IEEE1394 DVD 
+Size/weight: 257 by 216 by 25.4 mm/ 1.45 Kg 
+ 
+Appendix G. Step-By-Step Reading Guide Used in Study Two 
+Story Title: _______________________________________________ 
+Group: _______  Name: _________  Date: _______ 
+ Do and check.  
+(  ) 1. Look at the picture and think about its meaning:  
+who, what, where, and when? 
+(  ) 2. Read aloud the story.  
+If there are some words that you cannot read: 
+ Circle the words you do not know.  
+ Try to read them using phonics rules. 
+ Are they sight words?  
+ Ask your groupmates to help you.  
+(  ) 3. Read aloud again.  
+(  ) 4. Answer the questions by yourself. 
+(  ) 5. Discuss the answers with your group members.  
+Self-assessment:       
+(  ) 6. Read the story to two of your classmates. 
+Peer assessment:  
+Performance    
+Signature    
+Signature    
+ 
+ 
+ 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 149 
+ACKNOWLEDGMENTS 
+This research was supported by a grant from the National Science Council, Republic of China, under 
+contract no. NSC 96-2520-S-003-012-MY3. 
+ 
+ABOUT THE AUTHORS 
+Yu-Ju Lan received the B.S. degree in Computer Science from Chinese Culture University, Taipei, 
+Taiwan, R.O.C., in 1990 and M.S. and Ph.D. degrees in Information and Computer Education from 
+National Taiwan Normal University, Taiwan, in 1995 and 2006, respectively. Her research interests 
+include EFL instruction and research, ICT in education, and mobile learning. 
+Email: yujulan@gmail.com 
+Yao-Ting Sung received the M.S. and Ph. D. degrees in Education and Psychology and Counseling from 
+National Taiwan Normal University, Taiwan, R.O.C., in 1992 and 2000, respectively. He is a professor of 
+Department of Education and Psychology and Counseling at National Taiwan Normal University, Taipei. 
+His research interests include the psychology of learning and computer-assisted instruction. 
+Email: sungtc@ntnu.edu.tw 
+Kuo-En Chang is currently vice president and a professor in the Department of Information and Computer 
+Education at National Taiwan Normal University, Taipei. He is also a co-chair of the National Project of 
+e-Learning. His research interests include intelligent tutoring systems, web-based learning, and learning 
+technology. His main research work is the design of web-based systems with applications to education. 
+Email: chang@ice.ntnu.edu.tw 
+ 
+REFERENCES 
+Attewell, J., & Webster, T. (2004). Engaging and supporting mobile learners. In Proceedings of 
+MLEARNING 2004: Mobile learning anytime everywhere (pp. 15-20). London, UK: Learning and Skills 
+Development Agency. 
+Barker, T. A., & Torgesen, J. K. (1995). An evaluation of computer-assisted instruction in phonological 
+awareness with below average readers. Journal of Educational Computing Research, 13(1), 89-103. 
+Carlson, S. (2002, October 11). Are personal digital assistants the next must-have tool? The Chronicle of 
+Higher Education, 49(7). Retrieved November 30, 2006, from 
+http://chronicle.com/free/v49/i07/07a03301.htm. 
+Chinnery, G. (2006). Emerging Technologies - Going to the MALL: Mobile Assisted Language Learning. 
+Language Learning & Technology, 10(1), 9-16. Retrieved November 30, 2006, from 
+http://llt.msu.edu/vol10num1/emerging/default.html. 
+Clay, M. M. (1993). An observation survey of early literacy achievement. Portsmouth, NH: Heinemann. 
+Curtis, A. (1998). What EFL teachers learn from action research? Proceedings of the 1998 Korea TESOL 
+Conference, 9-14. 
+Day, R. R., & Bamford, J. (1998). Extensive reading in the second language classroom. Cambridge: 
+Cambridge University Press. 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 150 
+Foorman, B. R., & Torgesen, J. (2001). Critical elements of classroom and small-group instruction 
+promote reading success in all children. Learning Disabilities Research & Practice, 16(4), 203-212. 
+Foster, K. C., Erickson, G. C., Foster, D. F., Brinkman, D., & Torgesen, J. K. (1994). Computer 
+administered instruction in phonological awareness: Evaluation of the Daisyquest program. The Journal 
+of Research and Development in Education, 7, 126-137. 
+Gehard, J. G. (1996). Teaching English as a foreign or second language. Ann Arbor, MI: University of 
+Michigan Press. 
+Ghaith, G. (2003). Effects of the learning together model of cooperative learning on English as a foreign 
+language reading achievement, academic self-esteem, and feelings of school alienation. Bilingual 
+Research Journal, 27(3), 451-474. 
+Greenwood, C. R. (1996). Research on the practices and behavior of effective teachers at the Juniper 
+Gardens Children’s Project: Implications for the education of diverse learners. In D. L. Speece & B. K. 
+Keogh (Eds.), Research on classroom ecologies (pp. 39-67). Mahwah, NJ: Lawrence Erlbaum. 
+Hartup, W. W. (1992). Having friends, making friends, and keeping friends: Relationships as educational 
+contexts. (ERIC Document Reproduction Service No. ED 345 854)  
+Hiebert, E. H., Colt, J. M., Catto, S. L., & Gury, E. C. (1992). Reading and writing of first-grade students 
+in a restructured Chapter I program. American Educational Research Journal, 29, 545-572.  
+Hirvela, A. (2004). Connecting reading & writing. Ann Arbor, MI: The University of Michigan Press. 
+Johnson, D. W., & Johnson, R. T. (1994). Together and alone: Cooperative, competitive, and 
+individualistic learning (4th ed.). Boston: Allyn & Bacon. 
+Klopfer, E., Squire, K., & Jenkins, H. (2002). Environment detectives: PDAs as a window into a virtual 
+simulated world. Proceedings of IEEE International Workshop on Wireless and Mobile Technologies in 
+Education. Vaxjo, Sweden: IEEE Computer Society, 95-98. 
+Kukulska-Hulme, A. (2005). The mobile language learner—now and in the future. Fran Vision till 
+Praktik. Language Learning Symposium, Umea University, Sweden. Retrieved November 30, 2006, from 
+http://www2.humlab.umu.se/symposium2005/program.htm.  
+Lan, Y. J., Chang, K. E., & Sung, Y. T (2004). DIAMOND hunt: A reading teaching approach for EFL 
+beginners’ reading skills development. Proceedings of International Conference on Education and 
+Information Systems: Technologies and Applications, 3, 92-96. 
+Mioduser, D., Tur-Kaspa, H., & Leitner, I. (2000). The added learning value of computer-based 
+instruciton of early reading skills in preschool children at high risk for learning disabilities. Journal of 
+Computer Assisted Learning, 16, 267-273. 
+Morita, M. (2003). The Mobile-based Learning (MBL) in Japan. Proceedings of the First Conference on 
+Creating, Connecting and Collaborating through Computing. Retrieved December 28, 2005, from 
+http://csdl2.computer.org/comp/proceedings/c5/2003/1975/00/19750128.pdf. 
+Nichols, J. P., & Miller, R. B. (1994). Cooperative learning and student motivation. Contemporary 
+Educational Psychology, 19, 167-178. 
+Ravenscroft, S. P., Buckless, F. A., & Hassall, T. (1999). Cooperative learning – A literature guide. 
+Accounting Education, 8(2), 163-176. 
+Reed, J. (2002). The pedagogical challenges for western ESL teachers in Asia. Contact, 28(4), 1-8. 
+Slavin, R.E. (1986). Using student team learning (3rd ed.). Baltimore, MD: The Johns Hopkins 
+University. 
+Y.-J. Lan, Y.-T. Sung, & K.-E. Chang A Mobile-Device-Supported Peer-Assisted Learning System 
+ 
+Language Learning & Technology 151 
+Slavin, R. E. (1988). Cooperative learning and student achievement. Educational Leadership, 46(2), 31-
+33. 
+Slavin, R. E., Madden, N. A., Karweit, N. L., Dolan, L., & Wasik, B. A. (1992). Success for all: A 
+relentless approach to prevention and early intervention in elementary schools. Arlington, VA: 
+Educational Research Search. 
+Soloway, E., Norris, C., Blumenfeld, P., Fishman, B., Krajcik, J., & Marx, R. (2001). Log on education: 
+Handheld devices are ready-at-hand. Communications of the ACM, 44(6), 15-20. 
+Speziale, M., & La-France, L. (1992). Multimedia and students with learning disabilities: The road to 
+success. Computing Teacher, 20(3), 31-34. 
+Spolsky, B., & Shohamy, E. (1999).  The languages of Israel: Policy, ideology, and practice. Clevedon, 
+UK: Multilingual Matters. 
+Sung, Y. T., Huang, C. C., & Chang, K. E. (2006). The design and application of a mobile devices-based 
+real time formative assessment system. Paper presented at the IADIS International Conference Mobile 
+Learning, July, 13-16, Dublin. 
+Sung, Y. T., Huang, J. S., & Chang, K. E. (in press). Enhancing students' strategy use and reading 
+comprehension through a computer assisted strategies teaching and learning environment. Computers in 
+Human Behavior. 
+Taylor, B. M., Frye, B. J., Short, R., & Shearer, B. (1992).  Classroom teachers prevent reading failure 
+among low-achieving first-grade students. Reading Teacher, 45, 592-597. 
+Thornton, P., & Houser, C. (2005). Using mobile phones in English education in Japan. Journal of 
+Computer Assisted Learning, 21(3), 217-228. 
+Ushioda, E. (1996). Learner autonomy 5: The role of motivation. Dublin, Ireland: Authentik. 
+Zurita, G., & Nussbaum, M. (2004). Computer supported collaborative learning using wirelessly 
+interconnected handheld computers. Computer & Education, 42, 289-314. 
+ 

@@ -1,0 +1,904 @@
+Language Learning & Technology
+http://llt.msu.edu/vol7num1/gonzalez/
+January 2003, Volume 7, Number 1
+pp. 86-104
+Copyright © 2002, ISSN 1094-3501 86
+ DESIGNING TASK-BASED CALL TO PROMOTE INTERACTION:
+EN BUSCA DE ESMERALDAS
+Marta González-Lloret
+University of Hawai'i
+ABSTRACT
+Developing effective language teaching materials based on second language acquisition
+principles is a priority which needs to be addressed in all language teaching areas. The field of
+computer-assisted language learning (CALL) is no exception. "En Busca de Esmeraldas" is a
+CALL activity delivered via the Internet and based on principles of language teaching (Doughty
+& Long, 2002; Long, in press) and on Chapelle's (1998) proposals for developing multimedia,
+grounded in SLA research.
+The first part of this article presents the steps necessary for designing an effective language
+learning tool to foster communication and negotiation, taking into consideration the importance
+of supporting integral education, using tasks, providing elaborated input and feedback, and
+promoting collaborative learning. The second part of the article reports on a study conducted
+using such a tool to determine whether communication and negotiation occurred, and whether the
+negotiation was similar to that reported in previous studies that claim such negotiation facilitates
+the comprehension process.
+INTRODUCTION
+All areas of education are undergoing changes in the way teaching and learning are perceived. Teacher-
+centered, class-lecture based, and structural-syllabus instruction are giving way to a more student-
+centered, hands-on, practical, and flexible approach (Shank & Cleary, 1994). The field of second
+language teaching is no exception in this paradigm shift. New theories and applications of language
+teaching are exploring the benefits of new methods and pedagogical approaches, among them task-based
+language teaching (Crookes & Gass, 1993; Long, in press) and focus on form (Doughty & Williams,
+1998; Long, 1991a, 1998; Long & Robinson, 1998).
+Parallel to these changes in education is a technological revolution realized in the increasing use of
+computers for learning, the implementation of the Internet, and the rise of network-based teaching. Until
+now, many CALL activities were created with the sole rationale that computers are useful and motivating
+for students, although such activities lacked a solid research base. Recently, however, the field of CALL
+has begun to undergo self-evaluation, and researchers are now claiming that in order for the field to
+progress, it is necessary to look to SLA principles that make language teaching effective (Chapelle, 1998;
+Doughty, 1987; Levy, 1999).
+The Rationale for Network-Based Activities
+Design, preparation, and programming of a computer-based activity are highly time-consuming, and
+typically entail more difficulties in development than any paper-and-pencil classroom activity. Therefore,
+in order to justify the investment in a CALL activity, there must be a rationale for why it is implemented
+via the computer instead of another, less resource-demanding form. Simulations are one type of
+computer-based activity that allows students to be immersed and actively involved in an environment that
+is not otherwise accessible (Crookall & Oxford, 1990; Higgins & Morgenstern, 1990; Scarcella &
+Crookall, 1990). The computer, thus, becomes a tool that cannot be easily substituted by any other
+language teaching procedure and, therefore, the work invested in the creation of the materials is justified.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 87
+Furthermore, CALL activities may be based in a network, such as the Internet, presenting several
+advantages: rapid global access at any time from any computer with Internet access; integration of
+graphics, audio, and text; and ease and low cost of publication (Kern & Warschauer, 2000). In sum,
+network-based simulations offer access to an otherwise unattainable environment that translates into
+language input and tasks for second language (L2) students.
+L2 Interaction
+Several theories postulate a relationship between language acquisition and output during the interaction
+process (Pica, Holliday, Lewis, & Morgenthaler, 1989; Swain & Lapkin, 1995), between language
+acquisition and input (Long, 1996), and between language acquisition and negotiation of meaning (Ellis,
+1999; Ellis & He, 1999; Gass, 1997; Gass & Varonis, 1989, 1994; Loschky, 1994; Lyster, 1998a, 1998b;
+Lyster & Ranta, 1997; Pica, 1994; Pica, Lincoln-Porter, Paninos, & Linnell, 1996). Some interaction
+studies also indicate that negotiation with a teacher in the classroom is valuable for language acquisition
+(Ellis, Tanaka, & Yamazaki, 1994; Pica, 1991). Hegelheimer and Chapelle (2000), following Long
+(1996), posit that interaction may not be effective by itself, and that noticing input may be necessary for
+language acquisition (Schmidt, 1990). They also state that learners are most likely to notice linguistic
+form during interaction, and that the most useful interactions are "those which help learners comprehend
+the semantics and syntax of input and which help learners to improve the comprehensibility of their own
+linguistic output" (Hegelheimer & Chapelle, p. 42).
+In addition, studies that focused on student dyads have suggested that interaction facilitates
+comprehension better than conditions without the interaction component (Gass & Varonis, 1994;
+Loschky, 1994; Pica, Doughty, & Young, 1986; Polio & Gass, 1998). Other studies have also pointed out
+a positive effect of negotiation for meaning on the quality of the students' immediate production
+(Holliday, 1995; Linnell, 1995, reviewed in Gass, Mackey, & Pica, 1998). Additional findings suggest
+that the interaction process frequently results in improvement in the speech of lower level speakers.
+Moreover, those speakers who have already acquired a form did not change it as a result of their peers'
+errors, but they could help to model and correct this form (Gass & Varonis, 1989). In addition, it has been
+suggested that during language interaction, both native (NS) and non-native (NNS) speakers provided
+their interlocutors with input modified towards comprehensibility (Pica et al., 1996). According to
+research, not only is language input important for SLA, but output may increase the control that learners
+have over already acquired structures, permanently restructuring the learners' interlanguage (Donato,
+1994; LaPierre, 1994; Noboyushi & Ellis, 1993).
+Several CALL studies have also examined the interaction of students engaged in computer-mediated
+communication (CMC). These studies present data collected while students are "chatting" (in a written
+form) using a computer as the communication instrument (Beauvois & Eledge, 1996; Blake, 2000; Kern,
+1995; Kitade 2000; Warschauer, 1996). The interaction analyzed in this article is not CMC. Rather, it is
+more similar to traditional face-to-face interaction, with an added component, the computer, which serves
+not as a communication vehicle but as a presenter of materials to engage students in conversation.
+THE DESIGN PRINCIPLES
+The general organization of "En Busca de Esmeraldas" (In Search of Emeralds)1 places students in a plot
+in which they are hired to help find a document at the University of Hawai‘i. Students have the choice of
+either reading a letter or listening to a message on their answering machine from a woman in Spain who
+would like to hire them to search for a document at the University. Students have the option of accepting
+or rejecting the job by writing and submitting an electronic letter. If they accept the job, they then have
+three choices: listening, reading, or working with a partner to follow directions while engaged in a three-
+dimensional environment. The first option allows the student to listen to directions while navigating the
+three-dimensional simulation through a building. The second option allows the student to read the
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 88
+directions while navigating through the building. And the third option encourages students to work in
+pairs, using the L2 to communicate. During the simulation (for all three options), one of the students has
+the directions for finding the document, while the other student navigates the simulation. The directions
+require that the students move through a building to find a key that opens the door to an office where they
+can find a hidden map. The last task consists of writing back to the employer to inform her that the
+document has been found and to ask her for further instructions. The complete activity can be found at
+http://marta.lll.hawaii.edu/enbusca.2
+In order to create this activity, two sets of principles, based on SLA research, were taken into account:
+Long's principles of language teaching (Doughty & Long, 2002; Long, in press) and Chapelle's principles
+for developing multimedia CALL (Chapelle, 1998).
+Language Teaching Methodological Principles
+In order to select design features that had a strong base in SLA research, the Language Teaching
+Methodological Principles (TMP) proposed by Long (in press) and adapted by Doughty (2000a) were
+used as guidelines. Doughty's adaptation divides these principles into four categories: activities, input,
+learning processes, and learners.
+Table 1. Language Teaching Methodological Principles (adapted from Doughty, 2000a)
+ACTIVITIES
+1. Support integral education
+2. Use tasks, not texts, as the units of analysis
+INPUT
+3. Elaborate input
+4. Provide rich input
+LEARNING PROCESSES
+5. Encourage inductive/"chunk" learning
+6. Focus on form
+7. Provide negative feedback
+8. Respect learner "syllabuses"/developmental processes
+LEARNERS
+9. Promote cooperative/collaborative learning
+10. Individualize instruction
+TMP 1: Support Integral Education
+This principle refers to the concept of "learning by doing." For "En Busca de Esmeraldas," students take
+on the main role in a developing story. The overall activity is designed so that, upon its completion,
+students have not only immersed themselves in the simulated target language environment, but have also
+become practiced in some computer skills, such as writing and sending e-mail, and navigating through a
+3-D environment, all done in L2.
+TMP 2: Use Tasks as the Unit of Analysis
+Task-Based Language Teaching (TBLT) is the pedagogy that best fits the principle of "learning by
+doing." According to Long (1985, p. 91, 2000), there are four main steps necessary to develop TBLT:
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 89
+1. Conduct task-based needs analysis to identify target tasks.
+2. Classify the target tasks into task types.
+3. Develop pedagogic tasks from the task types.
+4. Select and sequence the pedagogic tasks to form a task-based syllabus.
+Although the activity presented here is not part of a task-based syllabus, the steps for a TBLT program
+were considered in the design of the activity. A small needs analysis eliciting some instructional and
+pedagogic needs was conducted among students and faculty in the Spanish department at the University
+of Hawai‘i. The responses indicated that there was an evident need for a medium that would allow
+instruction and practice in giving and receiving directions in an efficient and realistic manner. The 3-D
+simulation was designed to meet this apparent need. From the needs analysis three target tasks were
+identified: listen and understand directions, read and understand directions, and follow directions. They
+were then classified into more general task types: receive directions and follow directions. Next, several
+pedagogical tasks were created: listen to an answering machine message and identify what needs to be
+accomplished (view it), follow the directions given orally on a tape (view it), follow directions given in a
+letter (view it), and work with a partner in exchanging information (view it). Finally, the tasks were
+sequenced in a chronological manner, following the steps for the document search.
+In addition to Long's TBLT model, the complexity of the tasks was also considered for the task design.
+Since the early 1980s there has been important research on measuring task complexity (Brindley, 1987;
+Brown, Anderson, Shillcock, & Yule, 1984; Candlin, 1984; Nunan, 1989; for a review, see Robinson, in
+press). Robinson distinguishes between task complexity (the cognitive demands of the task), task
+difficulty (depending on learner factors), and task conditions (the interactive demands of tasks). He states
+that task complexity should be the only consideration when selecting a task, since the other two cannot be
+anticipated.3 Robinson proposes planning time, number of tasks, prior knowledge, and number of
+elements as possible dimensions of complexity. All these concepts were taken into consideration when
+developing the present materials. In addition, "En Busca de Esmeraldas" was evaluated by 42 participants
+who were enrolled in their fourth language semester at the University of Hawai‘i, to assess the design
+features as well as the difficulty of the task. The evaluation consisted of a questionnaire (see Appendix)
+with 23 statements rated on a scale from 5=strongly agree to 1=strongly disagree. The mean was
+calculated for every statement. The results of the students' evaluations were uniform, and the level of
+difficulty of the activity seemed to be appropriate for the group (see Table 2).
+Table 2. Students' Answers to Questionnaire
+Mean SD
+text is easy to understand 4.19 0.74
+messages are easy to understand 3.90 0.83
+movie is easy to follow 4.16 0.73
+appropriate for level 4.38 0.58
+interesting activity 4.71 0.59
+helps me understand directions 4.21 0.79
+Based on the results of the students' evaluations, some changes were made to the activity. Directions were
+rewritten where they seemed unclear, and the sound files were compressed for faster uploading.
+TMP 3: Elaborate Input
+TMP 4: Provide Rich Input
+Rich, elaborated output has been shown to be more effective for language acquisition than simplified
+input, which provides unnatural use of language and deprives the students of items necessary for language
+development. Elaborated input has also been shown to be more effective than natural, unmodified input,
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 90
+which may be linguistically too dense and may lack items that could aid comprehension (Long, 1997;
+Parker & Chaudron, 1987).
+In order to provide clear, understandable, but not simplified language, the input for the different tasks was
+created as follows: Two native speakers of Spanish, other than the researcher, examined the texts to make
+sure the language used was natural and appropriate to convey the message. Ten first-year students then
+read the texts to identify potentially unfamiliar words. These words were kept in the text, but modified
+input was provided to help students comprehend those words by glossing them through synonyms,
+antonyms, paraphrases, definitions, or links to an on-line dictionary. When the student placed the cursor
+over an underlined word, a small window opened in the top left corner of the screen. It disappeared when
+the cursor was moved away.
+TMP 5: Encourage Inductive/"Chunk" Learning
+Several theories propose that superior language acquisition by children as compared to adults may be the
+result of children learning items as formulaic sentences (Wray, 2000, cited in Doughty & Long, 2002).
+Doughty and Long also suggest that the incorporation of whole "chunks" of the input may be beneficial
+for adult language learners when performing a task. Following this idea, "En Busca de Esmeraldas"
+incorporates those "chunks," or common phrases, necessary for giving and following directions such as
+"dobla a la derecha/izquierda" (turn right/left), "sigue adelante" (go straight). These "chunks" were also
+enhanced with color for saliency (view it).
+TMP 6: Focus on Form
+For "En Busca de Esmeraldas" to be effective, it was very important to pay attention to the learning
+processes involved, so that the activity would not only promote interaction, but the language produced by
+the students would also be as accurate as possible for their level. Research has shown that some type of
+teacher intervention is desirable to achieve linguistic accuracy (Doughty & Williams, 1998; Pavesi, 1986;
+Schmidt, 1983, 1993). Focus on Form (FonF) allows L2 teachers to implement this principle in an
+effective manner. According to Long (2000), "FonF refers to how attentional resources are allocated and
+involved briefly drawing students' attention to linguistic elements (words, collocations, grammatical
+structures, pragmatic patterns, etc.) in context, as they arise incidentally in lessons whose overriding focus
+is on meaning, or communication" (emphasis in original; p. 185; see also Doughty, 2001; Doughty &
+Williams, 1998; Long, 1991a, 1998; Long & Robinson, 1998).
+While students were working with "En Busca de Esmeraldas," teachers provided help with common and
+individual linguistic problems. For details about the issues and limitations of implementing FonF in a
+classroom setting, see Doughty (2001).
+TMP 7: Provide Negative Feedback
+Intervention in the form of feedback has also proved to be effective for language acquisition, both in L1
+and L2 settings (for an overview see Long, Inagaki, & Ortega, 1998). "En Busca de Esmeraldas" included
+two possibilities: a) feedback provided by another student during the negotiation of meaning; and b)
+feedback provided by the teacher as a response to students' written output, submitted by e-mail. The first
+type of feedback is difficult to control from the designers' point of view, since it depends on the
+participants. Nevertheless, if the instructor is going to participate in the activity, recasting is
+recommended since it is unobtrusive and more effective than modeling (Long, 1999). The pedagogic
+technique chosen to implement the second type is at the discretion of the teacher supplying the e-mail
+feedback.
+TMP 8: Respect Learner "Syllabuses"/Developmental Processes
+This principle advocates that content should be determined by students' needs and psycholinguistic
+readiness for the content. Following this principle, "En Busca de Esmeraldas" originated from a needs
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 91
+analysis that identified practice giving and following directions in a realistic environment as important.
+As for the students' psycholinguistic readiness, examination of students' writing showed that they had
+been exposed to and started to use directions, but that they still did not do so in a native-like manner.
+TMP 9: Promote Collaborative Learning
+Cooperative learning occurs during the interaction among small groups of students. According to
+educational researchers and psychologists, peer-interaction is the most successful form since it promotes
+support, acceptance, and social development (Slavin, 1990; Wells, Ling, & Maher, 1990). One of the key
+concepts of cooperative learning is the importance of a high success rate that results from working
+collaboratively on tasks. There is considerable research from an educational perspective on the value of
+task completion as a preferred method of instruction (Sharan, 1990) that supports the choice of a task-
+based approach for a network-based activity. Furthermore, cooperative language learning embodies the
+idea that language has a predominant social function and endorses the "social interactionist theory" in
+which language finds its use in functions relevant to the learner's immediate communicative needs
+(Doughty, 2000b).
+TMP 10: Individualize Instruction
+The individualization of instruction based on parameters such as language learning aptitude, motivation,
+cognitive style, interests, and learning strategies has proved to be effective for language learners (Doughty
+& Long, 2002). "En Busca de Esmeraldas" includes several tasks that can be accomplished through
+different media (audio and visual) in an effort to accommodate different learning strategies, interests, and
+cognitive styles. Although for Doughty and Long, the idea of "individualization" is not synonymous with
+"autonomous learning," an added advantage of using computers for teaching is the possibility of
+providing distance instruction. This is especially the case with network-based activities, since they can be
+accessed from any location where the Internet is available. This feature allows for independent,
+autonomous, and class learning. Students can access the task as many times as desired, whenever it is
+most convenient for them.
+Principles for Developing Multimedia CALL
+In addition to following Long's (in press) general methodological principles for language teaching,
+Chapelle's (1998) "seven hypotheses relevant for developing multimedia CALL" (p. 23) were taken into
+account:
+1. The linguistic characteristics of target language input need to be made salient for "input
+enhancement."
+2. Learners should receive help in comprehending semantic and syntactic aspects of linguistic input.
+3. Learners need to have opportunities to produce target language output.
+4. Learners need to notice errors in their own output, and they need to correct these errors.
+5. Learners need to correct their linguistic output.
+6. Learners need to engage in target language interaction whose structure can be modified for
+negotiation of meaning.
+7. Learners should engage in L2 tasks designed to maximize opportunities for good interaction.
+The relevant aspects of SLA, according to Chapelle (1998), are the noticing of input, the intake or
+comprehended language that may help develop the language system, and the negotiation of meaning that
+facilitates second language development. Chapelle's proposals coincide with several aspects of Long's (in
+press) general methodological principles for language teaching. Both emphasize the importance of
+enabling the production of target language output by engaging the learners in L2 interaction (hypothesis
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 92
+3), in which they negotiate meaning to accomplish a task (hypotheses 6 and 7). "En Busca de Esmeraldas"
+incorporates Chapelle's suggestion that students need help understanding syntactic and semantic aspects
+of the language by providing modified input to aid comprehension (hypothesis 2). In addition, the input
+was also enhanced with color and a larger font to make the directions more salient (hypothesis 1;
+Sharwood-Smith, 1993; view it).
+Summary
+In order to be effective for language learning, the design of "En Busca de Esmeraldas" integrates
+methodological principles of language teaching that are well grounded in SLA principles. Based on these
+principles, the activity includes a series of tasks that engage students in the learning process by promoting
+interaction. The input presented was modified to be salient and elaborated, not simplified. In addition, the
+design also included features that promote learner autonomy.
+A STUDY OF L2 INTERACTION DURING THE 3-D SIMULATION
+Given that oral interaction and negotiation of meaning are potentially important for the acquisition of
+language, and that well planned task-based activities incorporating SLA principles could foster
+communication and negotiation, the 3-D simulation portion of the network-based activity was analyzed to
+determine if such communication and negotiation occurred, and if it did, whether it was similar to that
+reported in previous studies (Gass & Varonis, 1994; Loschky, 1994; Pica, Doughty, & Young, 1986;
+Polio & Gass, 1998).
+Negotiation Model
+The negotiation model proposed by Doughty (2000b) was adopted for this study (Figure 1). According to
+Doughty, the essential feature of the negotiation sequence "is the opportunity that is provided to the
+learner to process utterances in the L2 which become more comprehensible" (p. 50). Her model
+incorporates a trigger, a signal, a response, and a reaction. A trigger is "an utterance or part of an
+utterance that is not understood" (p. 48). A signal is used by the interlocutor to express a lack of
+comprehension. A response then comes from the first speaker trying to repair the problem. A reaction is
+an extension or a response to the repair. This model is similar to the one employed by Gass and Varonis
+(1985), although they use the term "indicator" instead of "signal." Gass and Varonis also included two
+types of responses: direct (often wh- questions) and indirect (repetition, use of intonation). In this paper,
+direct and indirect responses are considered without further differentiation since both are part of the
+negotiation process.
+Trigger → Signal → Response → Reaction
+lexical item confirmation check repetition exclamation
+phonetic error clarification request expansion non-verbal
+language complexity comprehension check reformulation correction
+task complexity Use of L1
+Figure 1. Negotiation process (sequence adapted from Doughty, 2000b, p. 49)
+To operationalize signals, Long's (1991a) confirmation checks, clarification requests, and comprehension
+checks were used. These types of input modifications are used to negotiate meaning. Also following
+Long, the responses in the data were identified as either repetition, expansion, or reformulation.
+Subjects
+Twelve English-speaking intermediate level students of Spanish as a foreign language at the University of
+Hawai‘i participated in the study. All but one had taken three semesters of Spanish in the same program.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 93
+Although all 12 students participated, the recordings of two dyads (4 students) were not included because
+the quality of the tape made transcription impossible. All had been exposed to and had started to use
+directions such as dobla a la derecha/izquierda (turn right/left), sigue adelante (go straight), and
+entra/sale (enter/exit), as shown by previous examination of their writing, but they still did not do so in a
+native-like way.
+Materials and Procedures
+The task consisted of a 3-D simulation, structured as an information gap activity. During this task, one of
+the participants was given the necessary written directions to convey to his/her partner to navigate
+through the simulation. Tape-recorders were placed behind each computer station, and, in order to be as
+unobtrusive as possible, they were preset to record. The students formed pairs, without teacher
+intervention, and assigned themselves the roles of instruction-giver or navigator. The teacher gave general
+instructions on how to navigate, and encouraged students to ask and answer questions. Instruction-givers
+were told not to show the written information to the navigators. In addition to the class instructor, four
+other instructors assisted students with technical problems and observed several dyads.
+Data Coding and Analysis
+Four dialogues lasting between 35 and 55 minutes were transcribed and coded to examine the
+interactional modifications that took place. The transcription system used was fairly standard, but was not
+adopted from any particular source. Several periods were used to indicate a longer pause. Colors were
+used for faster identification of breakdowns in communication and for revealing how the errors were
+followed up and repaired. The language used during the negotiation was then analyzed following the
+negotiation model discussed earlier (Figure 1). Triggers, signals, responses, and reactions were identified,
+classified, and color-coded (red for triggers, green for signals, blue for responses, and pink for reactions).
+English translation is provided between brackets.
+The data showed a variety of triggers: lexical items that prompted the negotiation for meaning, phonetic
+errors that mislead the listener, language complexity of the written instructions, and level of task
+complexity. Although the complexity of the task was reduced by allowing students to learn to navigate
+the 3-D environment and become familiar with the computer settings before the task was initiated, the
+data included some instances where students seem to be have been having some technical problems due to
+the task rather than the language needed to complete it.
+As for types of responses, expansion, repetition, and reformulation were manifest although not abundant.
+Reactions were not as evident in the data since in many instances they were non-verbal and occurred in
+the 3-D environment. Nevertheless, there were several instances of reactions that varied from simple
+exclamations of understanding to corrections of the trigger. These examples from the coded data help
+illustrate the variety and complexity of the negotiation process.
+Table 3. Example 1
+Students' language Translation Type of Response
+S7* al salir del ascensor when you leave the elevator Trigger -- lexical item
+S8
+oh, aquí pero no podemos ir a
+otro! solamente dos cuartos
+here but we can not go other! only
+two rooms
+Signal -- clarification
+request
+S7 donde está el ascensor? where is the elevator?
+S8
+que es el ascensor? no
+comprendo! significa ascensor?
+what is the "ascensor"? I don't
+understand, meaning "ascensor"?
+Signal -- clarification
+request
+S7 en ingles es elevator in English is the elevator Response -- English use
+S8 oh, quieres ir a otro piso? oh! you want to go to another floor? Reaction -- exclamation
+*S7 = student 7
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 94
+Table 4. Example 2
+Students' language Translation Type of Response
+S8
+tenemos que decir como hacer con
+/lleva/
+we have to say how to do with
+"key" (mispronounced)
+Trigger -- phonetic error
+S7 /lleva/? (puzzled) Signal -- clarification request
+S8 so
+Response --
+repetition/reformulation
+S7 llave key
+S8 encotramos la llave si si pero we found the key yes, yes but Reaction -- correction
+Table 5. Example 3
+Students' language Translation Type of Response
+S5 a la izquierda ... deja ... no arrow? to the left ... stop ... no arrow? Trigger -- lexical item
+S6 la flecha the arrow
+S5 doble otra ... entre ... no? turn another ... enter ... no?
+S6 no puedo I can't Signal -- clarification request
+S5 a la iz derecha to the left right Response -- reformulation
+S6 (sound of moving like a plane/bee) Reaction -- non-verbal
+S7 entre ... aaah enter ... aaah Reaction -- exclamation
+. = pause;
+… = longer pause
+Although most of the time the process followed a more linear path, in some instances there were several
+processes embedded in each other, and a reaction was not always apparent. Example 4 (Table 6)
+illustrates this type of complex negotiation.
+Table 6. Example 4
+Students' language Translation Type of Response
+S1
+sube hasta el cuatro piso y al salir
+del ascensor dobla a la izquierda ...
+Inmediatamente despues ... dobla a
+la derecha
+go up to the fourth floor and
+when you come out of the
+elevator turn left ...
+immediately after ... turn right
+Trigger -- lexical item
+S2 [giggles]
+S1 y sigue todo . JESUS!! and follow . JESUS!! Signal -- clarification request
+S2
+uno a tiempo
+one at a time
+Response -- repetition +
+trigger
+S1 ok wait … Salir del ascensor
+ok wait ... Go out of the
+elevator
+Signal -- clarification request
+S2 ascensor ascensor (mumbles) elevator elevator
+S1 a la izquierda ... y [xxx] ... a la to the left ... and ... to the
+Response -- repetition +
+trigger
+S2 izquierda? (asks for confirmation) left?
+Signal -- confirmation
+request
+S1 oh . a la izquierda oh . to the left Response -- repetition
+S2 izquierda es left is
+Signal-- confirmation
+request
+S1 oh! oh! Reaction -- exclamation
+. = pause
+… = longer pause
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 95
+The coding of the data also included the number of turns, number of utterances, t-units, and c-units
+(communication units), and noted how many of these were read from the written directions. The
+definitions for these units were adopted from Long (1991a). Turns are "one or more utterances bounded
+by silence or the speech of another"; an utterance is " a stream of speech under a single intonation contour
+bounded by silence or the speech of another"; a t-unit is defined as "one main clause plus a subordinate
+clause attached to or embedded in it"; and a c-unit is "a t-unit or isolated phrase not accompanied by a
+verb, but which has communicative value" (Long, 1991b, p. 1). This study used communication units (c-
+units) as the primary units of analysis, since they most appropriately account for those utterances that
+were not complete, lacked a verb, or were simply exclamations, but were used as elements for
+communication. The count of the c-units included both Spanish and English elements, since both were
+used to convey information; and when two words were used contiguously conveying the same meaning,
+one in English and one in Spanish, they counted as one c-unit (e.g., wait, ya, si = 3 utterances, 2 c-units;
+wait, ok, yes).
+Results
+Once the data were coded for negotiation and interaction features, a number of analyses were undertaken
+to reveal the nature of the L2 simulation discourse. By comparing the proportion of turns taken by
+participants in a dyad (Table 7) it can be verified that the task was constructed well enough to elicit
+language from both participants. This result confirms that of Gass and Varonis (1985) who found that this
+type of task elicited as much language interaction as that where both participants held half of the required
+information.
+Table 7. Account of Units for All Participants
+Turns English Utterances t-units c-units reading*
+S1 54 16 77 38 83 21
+S2 48 18 63 13 67 0
+S3 50 0 63 30 67 7
+S4 49 5 64 13 71 2
+S5 40 7 56 24 64 13
+S6 39 2 65 29 75 4
+S7 56 1 92 44 104 13
+S8 55 10 115 49 125 10
+*reading = not their own utterances; reading from written directions
+S1, S3, S5, S7 = direction givers
+S2, S4, S6, S8 = navigators
+In addition, the interaction took place mainly in the target language despite the fact that one of the
+participants in each dyad had written instructions, and that both participants spoke the same L1.
+Table 8. Percentages of Target Language Use
+S1 S2 S3 S4 S5 S6 S7 S8
+55% 73% 90% 90% 69% 92% 87% 84%
+S1 exhibited the lowest amount of L2 use (55%). Due to his limited command of the target language,
+97% of his t-units were read or in English. Further analysis of this participant's language during an
+informal oral interview revealed that his command of the language was considerably lower than that of
+the other seven participants.
+Since the percentage of turns by participant is not a primary indicator of negotiation, further analysis
+examined the triggers that indicated a break in communication, and the signals and responses that
+constituted the interaction. The analysis of signals and responses (Table 9) showed that signals were used
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 96
+mainly by participants in the navigator role, and the preferred signal was a clarification request, followed
+by a confirmation request. On the other hand, responses were produced both by direction giver mainly in
+the form of repetition, and by the navigator by using English. Although at first glance this result was
+surprising, a more detailed analysis of when the use of English had taken place by participants in the
+navigator role showed that most of the instances had occurred between S1 and S2, where S1, the direction
+giver, had a much lower command of the language and often inquired about the translation of words
+he/she only could read in the written directions.
+Table 9. Signals and Responses
+Direction giver Navigator Total
+Confirmation requests
+2
+7.4%
+25
+92.6%
+27
+100%
+Clarification requests
+8
+17.4%
+38
+82.6%
+46
+100%
+Signals
+Comprehension checks
+2
+50%
+2
+50%
+4
+100%
+Repetitions
+16
+72.7%
+6
+27.3%
+22
+100%
+Expansions
+8
+100%
+0
+0%
+8
+100%
+Reformulations
+4
+100%
+0
+0%
+4
+100%
+Responses
+Use of English
+9
+37.5%
+15
+62.5%
+24
+100%
+The data contained only eight instances of expansion and four instances of reformulation. This is probably
+because (a) explanation and reformulation may require a higher than intermediate-level command of the
+target language to appear frequently; (b) explanation and reformulation are usually produced by the NS, if
+there is one, in a dyad; and (c) the language abilities of the two participants were similar although in each
+dyad one participant took the leading role.
+The data were also analyzed to determine the most common type of trigger (Table10) and reaction.
+Lexical items that were unknown to one or both of the participants accounted for most of the triggers that
+initiated negotiation (approximately 53%), followed by language complexity (30%). Phonological errors
+triggered a few of the negotiations (approximately 7%), a result consistent with the intention of the task to
+elicit negotiation of meaning for task completion. Lexical items carry meaning necessary for the
+completion of the task, but phonological errors usually do not impede comprehension.
+Table 10. Triggers
+Types Total number Total as %
+Lexical 16 53.33%
+Phonological 2 06.66%
+Language complexity 9 30.00%
+Task complexity 3 10.00%
+The discourse was also examined for sequences that might reveal L2 acquisition. In two out of the four
+interactions there are examples of a student correcting an error during a later interaction (i.e., after his/her
+partner had produced the correct form). In example 5 (Table 11), S8 produced an erroneous form (/lleva/)
+repeatedly. This was not understood by his interlocutor, S7, who first questioned and then repaired the
+error. Several turns later, S8 produced the correct form. Of course, a follow up is needed before claiming
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 97
+that S8 has corrected this item in his/her interlanguage, but noticing the form and the overt correction
+constitute an initial step towards the acquisition of the form.
+Table 11. Example 5
+Students' language Translation
+S8
+Ok (reading) escribe una carta diciendo que lo
+has encontrado y preguntado cuando lo
+necesitas y que debes hacer con el trabajo (end
+of reading) Tenemos que escribir carta y
+tenemos que decir como hacer con lleva
+Ok (reading) write a letter telling what you have
+found and asking when she needs it and what do
+you need to do about the job (end of reading)
+We have to write letter and we have to say how
+to do with lleva
+S7 lleva?
+S8 Preguntando cuando: asking when
+S7 (reading) Lo necesita (reading) She needs it
+S8
+When you need .. found .. when it is needed and
+what you should do with it and that was the
+/lleva/ si?
+S7 Si yes
+S8 So
+S7 si llave yes key
+S8 Necesitamos escribir una carta ahora we need to write a letter now
+S7 Si. Pero. yes but
+(they turn around and start talking in Spanish
+with one of the invited instructors for a long
+time about his private life)
+T terminaron de escribir la carta? did you finish writing the letter?
+S8
+encotramos la llave .si si pero que necesitamos
+escribir una carta?
+we found the key yes yes But what do we need
+to write a letter?
+(red = trigger, green = signal, blue = response, pink = incorporation of negotiation)
+This example also confirms that one learner not only does not pick up the other learner's errors, but can be
+a model that would induce a correction (Bruton & Samuda, 1980; Gass & Varonis, 1989; Pica et al.,
+1996).
+Finally, this study revealed a variety of indicators of comprehension involved in the negotiation process:
+41% non-verbal reactions (navigator placing cursor on the right place in the simulation), 34%
+exclamations followed by the navigator correcting the cursor position in the simulation, and 25%
+corrections of the trigger made by its originator (see Table 12).
+Table 12. Reactions.
+Type Total number Total as %
+Non-verbal 41% 18
+Exclamation 34% 15
+Self-correction 25% 11
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 98
+DISCUSSION
+These results show that the language produced by the participants during the simulation was typical of
+negotiation for meaning, where the main emphasis is on the completion of the task, and where language is
+used with its main communicative purpose in an economical way, without paying attention to the
+production of long, accurate constructions. The students produced utterances very similar in type to those
+produced by non-native speakers in the study by Pica et al. (1996). Pica et al. concluded that L2 students
+can be a source of modified input, although limited, and that interaction between L2 students, although
+not as rich as the interaction between native speaker and non-native speaker, does offer "data of
+considerable quality, particularly in the area of feedback" (p. 80). As an improvement to the present
+study, it would be interesting to form dyads of students that do not share the same L1 since this would
+eliminate the possibilities of responding with their L1, and would force students to negotiate more
+through repetition, expansion and reformulation (more similar to native-nonnative dyads).
+Measuring comprehension is difficult, and this study was not specifically designed to measure
+comprehension or learning, but rather to present an example of a CALL task designed to elicit L2
+interaction between dyads of students and to examine the type of interaction that actually occurred.
+Certainly, more research is necessary to assess the relationship between interaction and comprehension, to
+find out what type of interaction leads to comprehension, and to discover how language comprehension
+can be identified and measured.
+If research indicates that negotiation leads to comprehension and ultimately to language acquisition, the
+claim would have some important pedagogic implications for language teaching. Most learners, especially
+those studying less commonly taught languages, may not have many occasions to interact with NSs,
+especially in classroom settings. Therefore, pair work and student-centered activities could be an efficient
+and beneficial substitute for native speakers. However, as Pica et al. (1996) state, NNSs' negotiation may
+not provide the necessary input modification that would result in restructuring of the learner's
+interlanguage. For this reason, interaction should not be limited to this type of negotiation. Negotiation
+for meaning, as presented here, may have a beneficial role when used in combination with other
+pedagogic principles that promote language acquisition.
+CONCLUSION
+The design of the network-based activity described and evaluated in this program was motivated by the
+need to develop language teaching materials, especially CALL materials, that are well grounded in SLA
+principles. "En Busca de Esmeraldas" was developed based on sound language teaching principles. "En
+Busca de Esmeraldas" incorporates a sequence of tasks building towards a meaningful goal, designed to
+support learning by doing. The input provided during the tasks is elaborated, to provide students with rich
+input, shown by SLA research to be beneficial for language acquisition. Giving feedback was also
+considered, and recasting suggested as the preferred feedback form. Finally the ordering of tasks was
+designed to promote cooperative learning, in order to involve students in L2 interaction and negotiation,
+while working towards a meaningful goal.
+A case study of the L2 interaction generated by the 3-D simulation was also undertaken to asses whether
+this task was effective in generating L2 interaction, the type of interaction, and whether this CALL
+interaction was similar to that of previous research. Keeping in mind the relatively small number of
+subjects, the results of the analysis nevertheless suggest that students engaged in L2 interaction negotiated
+in ways similar to previous reports suggesting that this type of negotiation facilitates comprehension and
+could lead to language acquisition. More research is needed in the areas of L2 interaction between
+nonnative speakers and in the creation of effective CALL materials. It is important to keep in mind that
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 99
+well-designed, effective materials need to be grounded in language acquisition research and solid
+language teaching principles.
+NOTES
+1. "En Busca de Esmeraldas" is a two-part network-based activity: Part one is the search for a map, and
+part two is the search for the emeralds. This paper describes part one.
+2. The simulation component of "En Busca de Esmeraldas" consisted of 23 Web pages designed with
+Claris Homepage 3.0, which incorporated 23 image files, two audio files (created with Microsoft Sound
+Recorder for Windows 98 and compressed and modified with Awave software), and two QTVR movie
+files created with Quick Time VR software. These two movies constituted the simulation, and each one
+was built from 60 digital pictures converted into six panoramic scenes, where the students could navigate
+inside a three-dimensional (3-D) environment. The environment places students at the basement of a
+building and allows them to navigate up and down the building, entering different corridors and doors.
+In the 3-D environment, the students followed spoken or written directions, alone or as part of a
+communicative activity. Although one could claim that this activity could be more effectively
+implemented by using the "real-world" environment, 80 students trying to follow the same path inside a
+building would create serious difficulties. The simulation eases the constraints that time and space impose
+in actual language instruction.
+3.This is a complex subject, and other aspects of cognitive demands may need to be considered such as
+those associated with abstract/general and concrete/specific learning skills.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 100
+APPENDIX
+Students' Questionnaire
+Please circle the most adequate answer.
+5 = Strongly agree  4 = agree  3 = I don't know  2 = disagree  1 = strongly disagree
+About the Program
+Navigation through the project was clear 5 4 3 2 1
+You knew where you were going at all times 5 4 3 2 1
+The design was uniform 5 4 3 2 1
+The design was visually appealing 5 4 3 2 1
+The font was easy to read 5 4 3 2 1
+The links were easy to recognize 5 4 3 2 1
+The text was not overwhelming 5 4 3 2 1
+The pictures uploaded in a reasonable time 5 4 3 2 1
+The movies uploaded in a reasonable time 5 4 3 2 1
+The movie quality was good 5 4 3 2 1
+The sound uploaded in a reasonable time 5 4 3 2 1
+The sound quality was good 5 4 3 2 1
+Allowed different navigation routs 5 4 3 2 1
+It was interesting to follow 5 4 3 2 1
+Other comments:
+What did you find was the best part of the project:
+About the Activity
+The instructions were easy to understand 5 4 3 2 1
+The texts were easy to understand 5 4 3 2 1
+The listening messages were easy to understand 5 4 3 2 1
+The movie was easy to follow 5 4 3 2 1
+The movie was interesting to follow 5 4 3 2 1
+The level of the project was appropriate 5 4 3 2 1
+The project was interesting 5 4 3 2 1
+It helped me understand directions 5 4 3 2 1
+Would you try this simulation again in the future yes / no
+Why:
+Any other comments that would help evaluating the activity:
+Gracias
+ACKNOWLEGMENTS
+I would like to thank Professor Catherine Doughty for her invaluable contributions to this paper and
+Professor Dalila Ayoun for her comments on the manuscript. I would also like to thank the LLT reviewers
+for their insightful comments.
+ABOUT THE AUTHOR
+Marta González-Lloret is a PhD candidate in the Second Language Acquisition program at the University
+of Hawai‘i at Manoa. She is also a full-time instructor in the Spanish Division of the European Languages
+and Literatures of Europe and the Americas.
+E-mail: marta@hawaii.edu
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 101
+REFERENCES
+Apple. (1998). Quicktime VR authoring studio (version 1.0) [computer software]. Cupertino, CA: Apple
+Computer, Inc.
+Beauvois, M. H., & Eledge, J. (1996). Personality types and megabytes: Student attitudes towards
+computer mediated communication (CMC) in the language Classroom. CALICO Journal, 13(2,3), 27-45.
+Blake, R. (2000). Computer mediated communication: A window on L2 Spanish interlanguage. Language
+Learning & Technology, 4(1), 120-136. Retrieved March 4, 2002, from
+http://llt.msu.edu/vol4num1/blake/default.html
+Brindley, G. (1987). Factors affecting task difficulty. In D. Nunan (Ed.), Guidelines for the development
+of curriculum resources (pp. 45-56). Adelaide, Australia: Adelaide National Curriculum Resource Center.
+Brown, G., Anderson, A., Shillcock, R., & Yule, G. (1984). Teaching talk: Strategies for production and
+assessment. Cambridge, England: Cambridge University Press.
+Bruton, A., & Samuda, V. (1980). Learner and teacher roles in the treatment of oral error in group work.
+RELC Journal, 11(2), 49-63.
+Candlin, C. (1984). Syllabus design as a critical process. In C. Brumfit (Ed.), General English syllabus
+design (pp. 29-46). Oxford, England: Pergamon.
+Chapelle, C. A. (1998). Multimedia CALL: Lessons to be learned from research on instructed LA.
+Language Learning & Technology, 2(1), 22-34. Retrieved March 4, 2002, from
+http://llt.msu.edu/vol2num1/article1/index.html
+Crookall, D., & Oxford, R. L. (Eds.). (1990). Simulation, gaming and language learning. New York:
+Newbury House Publishers.
+Crookes, G., & Gass, S. M. (Eds.). (1993). Tasks in a pedagogical context. Integrating theory and
+practice. Clevedon, England: Multilingual Matters
+Donato, R. (1994). Collective scaffolding in second language learning. In J. Lantolf & G. Appel (Eds.),
+Vygotskian approaches to second language research (pp. 33-56). Norwood, NJ: Ablex.
+Doughty, C. (1987). Relating second-language acquisition theory to CALL research and application. In
+W. F. Smith (Ed.), Modern media in foreign language education: Theory and implementation (pp. 133-
+167). Lincolnwood, IL: National Textbook Company.
+Doughty, C. (2000a, September). What do computers assist in language learning? Perspectives from SLA
+research and LT methodology. Handout for IATEFL Conference, Madrid.
+Doughty, C. (2000b). Negotiating the L2 linguistic environment. University of Hawai‘i Working Papers
+in ESL, 18, 47–83.
+Doughty, C. (2001). Cognitive underpinnings of focus on form. In P. Robinson (Ed.), Cognition and
+second language instruction. Cambridge Applied Linguistics Series (pp. 207-257). Cambridge, England:
+Cambridge University Press.
+Doughty, C., & Long, M. H. (2002, February 3). Creating the optimal learning environment in a DL
+language course. Plenary: Title VI conference on distance learning of the less commonly taught
+languages. Washington, DC. Retrieved February 15, 2002, from
+http://langinnovate.msu.edu/commpapers.html#doughty
+Doughty, C., & Williams, J. (Eds.), (1998). Focus on form in classroom second language acquisition.
+Cambridge, England: Cambridge University Press.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 102
+Ellis, R. (1999). Theoretical perspectives on interaction and language learning. In Ellis, R. (Ed.), Learning
+a second language through interaction (pp. 3-31). Amsterdam: John Benjamins Publishing Company.
+Ellis, R., & He, X. (1999). The roles of modified input and output in the incidental acquisition of word
+meaning. Studies in Second Language Acquisition, 21, 285-301.
+Ellis, R., Tanaka. Y, & Yamazaki, A. (1994). Classroom interaction, comprehension and acquisition of
+L2 word meanings. Language Learning, 44, 449-491.
+FMJ-Software. (2000). Awave Studio (Version 7.0) [Computer software]. Hägersten, Sweden.
+Gass, S. M. (1997). Input, interaction, and second language learner. Mahwah, NJ: Lawrence Erlbaum
+Associates.
+Gass, S. M., Mackey, A., & Pica, T. (1998). The role of input and interaction in second language
+acquisition. The Modern Language Journal, 82, 299–305.
+Gass, S. M., & Varonis, E. (1985). Task variation and nonnative/nonnative negotiation of meaning. In S.
+Gass & C. Maden (Eds.), Input in second language acquisition (pp. 149-161). Rowley, MA: Newbury
+House.
+Gass, S. M., & Varonis, E. (1989). Incorporated repairs in nonnative discourse. In M. Eisenstein (Ed.),
+The dynamic interlanguage (pp. 71-86). New York: Plenum Press.
+Gass, S. M., & Varonis, E. (1994). Input, interaction, and second language production. Studies in Second
+Language Acquisition, 16, 283–302.
+Hegelheimer, V., & Chapelle, C. (2000). Methodological issues in research on learner-computer
+interactions in CALL. Language Learning & Technology 4(1), 41-59. Retrieved March 4, 2002, from
+http://llt.msu.edu/vol4num1/hegchap/
+Higgins, J., & Morgenstern, D. (1990). Simulations on computers. In D. Crookall & R. Oxford (Eds.),
+Simulation, gaming and language learning (pp. 183-189). New York: Newbury House Publishers.
+Holliday, L. (1995). NS syntactic modifications in NS-NNS negotiations as input data for second
+language acquisition of syntax. Unpublished doctoral dissertation, University of Pennsylvania,
+Philadelphia.
+Kern, R. (1995). Reconstructing classroom interaction with networked computers: Effects on quantity and
+characteristics of language production. The Modern Language Journal, 79(4), 457-476.
+Kern, R., & Warschauer, M. (2000). Theory and practice of network-based language teaching. In M.
+Warschauer & R. Kern (Eds.), Network-based language teaching (pp. 1-19). Cambridge, England:
+Cambridge University Press.
+Kitade, K. (2000). L2 learners' discourse and SLA theories in CMC: Collaborative interaction in Internet
+chat. Computer Assisted Language Learning, 13(2), 143-166.
+LaPierre, D. (1994). Language output in a cooperative learning setting: Determining its effects on second
+language learning. Unpublished master's thesis, University of Toronto (OISE), Toronto, Canada.
+Linnell, J. (1995). Negotiation as a context for learning syntax in a second language. Unpublished
+doctoral dissertation, University of Pennsylvania, Philadelphia.
+Levy, M. (1999). Computer assisted language learning. Oxford, England: Oxford University Press.
+Long, M. H. (1985). A role for instruction in second language acquisition: Task-based language teaching.
+In K. Hyltenstam & M. Pienemann (Eds.), Modeling and assessing second languages acquisition (pp.77-
+99). Clevedon, England: Multilingual Matters.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 103
+Long, M. H. (1991a). Focus on form: A design feature in language teaching methodology. In K. de Bot,
+R. P. Ginsberg, & C. Kramsch (Eds.), Foreign language research in cross-cultural perspective (pp. 39-
+52). Amsterdam: John Benjamins.
+Long, M. H. (1991b, July). Measuring classroom language change.  Unpublished manuscript, University
+of Hawai`i at Manoa.
+Long, M. H. (1996). The role of linguistic environment in second language acquisition. In W. C. Ritchie
+& T. K. Bhatia (Eds.), Handbook of second language acquisition (pp. 413-468). San Diego, CA:
+Academic Press.
+Long, M. H. (1997). Authenticity and learning potential in L2 classroom discourse. In G. M. Jacobs (Ed.),
+Language classroom of tomorrow: Issues and responses (pp. 148-69). Singapore: SEAMEO Regional
+Language Center.
+Long, M. H. (1998). Focus on form in task-based language teaching. University of Hawai‘i Working
+Papers in ESL, 16(1), 357-371.
+Long, M. H. (1999, August). Recasts: The story so far. Paper presented at the AILA conference, Tokyo.
+Long, M. H. (2000). Focus on form in task-based language teaching. In R. Lambert & E. Shohamy (Eds.),
+Language policy and pedagogy. Essays in honor of A. Ronald Walton (pp. 179-192). Philadelphia: John
+Benjamins
+Long, M. H. (in press). Task based language teaching. Oxford, England: Blackwell.
+Long, M. H., Inagaki, S., & Ortega, L. (1998). The role of implicit negative feedback in SLA: Models and
+recasts in Japanese and Spanish. Modern Language Journal, 82(3), 357-371.
+Long, M. H., & Robinson, P. (1998). Focus on form: Theory, research, and practice. In C. Doughty & J.
+Williams (Eds.), Focus on form in classroom second language acquisition (pp. 15-41). Cambridge,
+England: CUP.
+Loschky, L. (1994). Comprehensible input and second language acquisition. Studies in Second Language
+Acquisition, 16(3), 303-323.
+Lyster, R. (1998a). Recasts, repetition, and ambiguity in L2 classroom discourse. Studies in Second
+Language Acquisition, 20, 51-81.
+Lyster, R. (1998b). Negotiation of form, recasts, and explicit correction in relation to error types and
+learner repair in immersion classrooms. Language Learning, 48, 183-281.
+Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake. Studies in Second Language
+Acquisition, 19, 37-66.
+Noboyushi, J., & Ellis, R. (1993). Focused communication tasks and second language acquisition.
+English Language Teaching Journal, 47, 203-210.
+Nunan, D. (1989). Designing tasks for the communicative classroom. Cambridge, England: Cambridge
+University Press.
+Parker, K., & Chaudron, C. (1987). The effects of linguistics simplifications and elaborative
+modifications on L2 comprehension. University of Hawaii Working Papers in ESL 6(2), 107-133.
+Pavesi, M. (1986). Markedness, discoursal modes, and relative clause formation in a formal and informal
+context. Studies in Second Language Acquisition, 8, 38-55.
+Pica, T. (1991). Classroom interaction, negotiation, and comprehension: redefining relationships. System,
+19(4), 437–452.
+Marta González-Lloret Designing Task-Based CALL to Promote Interaction…
+Language Learning & Technology 104
+Pica, T. (1994). Research on negotiation: What does it reveal about second-language learning conditions,
+processes, and outcomes? Language Learning, 44(3), 493-527.
+Pica, T., Doughty, C., & Young, R. (1986). The impact of interaction on comprehension: Do interactional
+modifications help? International Review of Applied Linguistics, 72, 1-25.
+Pica, T., Holliday, L., Lewis, N., & Morgenthaler, L. (1989). Comprehensible input as an outcome of
+linguistic demands on the learner. Studies in Second Language Acquisition, 11(1), 63-90.
+Pica, T., Lincoln-Porter, F., Paninos, D., & Linnell, J. (1996). Language learners' interaction: How does it
+address the input, output, and feedback needs of L2 learners?. TESOL Quarterly, 30(1), 59-84.
+Polio, C., & Gass, S. (1998). The role of interaction in native speaker comprehension of nonnative
+speaker speech. Modern Language Journal, 82, 308-319.
+Robinson, P. (in press). Task complexity, cognitive resources, and second language syllabus design. In P.
+Robinson (Ed.), Cognition and second language instruction. Cambridge, England: Cambridge University
+Press.
+Scarcella, R., & Crookall, D. (1990). Simulation/gaming and language acquisition. In D. Crookall & R.
+Oxford (Eds.), Simulation, gaming and language learning (pp. 223-230). New York: Newbury House
+Publishers.
+Shank, R. C., & Cleary, C. (1994). Engines for education. Hillsdale, NJ: Lawrence Erlbaum.
+Sharan, S. (1990). Cooperative learning: A perspective on research and practice. In S. Sharan (Ed.),
+Cooperative learning: Theory and research (pp. 285-300). NY: Praeger.
+Sharwood-Smith, M. (1993). Input enhancement in instructed SLA: Theoretical bases. Studies in Second
+Language Acquisition, 2, 165-179
+Schmidt, R. W. (1983). Interaction, accumulation, and the acquisition of communicative competence. In
+N. Wolfson & J. Manes (Eds.), Sociolinguistics and second language acquisition (pp. 137-174). Rowley,
+MA: Newbury House.
+Schmidt, R. (1990). The role of consciousness in second language acquisition. Applied Linguistics 11,
+219-258.
+Schmidt, R. (1993). Awareness and second language acquisition. Annual Review of Applied Linguistics
+1992, 13, 206-226
+Slavin, R. (1990). Cooperative learning: Theory, research & practice. Englewood Cliffs, NJ: Prentice
+Hall.
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generated. Applied
+Linguistics, 6(4), 371-391
+Warschauer, M. (1996). Comparing face-to-face and electronic discussion in the second language
+classroom. CALICO Journal, 13(2 & 3), 7-26.
+Wells, G., Ling, G., & Maher, A. (1990). Creating classroom communities and literate thinkers. In S.
+Sharan (Ed.), Cooperative learning: Theory and research (pp. 95-121). NY: Praeger

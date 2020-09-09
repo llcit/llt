@@ -1,0 +1,302 @@
+Language Learning & Technology  vol5num1 2001
+46
+Language Learning & Technology
+Vol. 5, No. 1, January 2001, pp. 46-54
+REVIEW OF LAB MANAGEMENT SOFTWARE FOR THE MAC
+Product nameProduct type &
+cost
+System requirementsFeatures Techni
+cal
+suppor
+t
+MacLogin Shareware
+utility $10 per
+work station
+Minimum System 7 or
+newer, 500k free RAM
+Log-in,
+messaging and
+server control
+Not
+availabl
+e
+Simplewave Shareware
+utility $150
+Minimum System 7 or
+newer, 100k free RAM
+Maintains
+integrity of
+client machines
+Not
+availabl
+e
+RevRdist Freeware utilityMinimum System 6 or
+newer, 1MB free RAM
+Maintains
+integrity of
+client machines
+Not
+availabl
+e
+MacAdministrat
+or
+Commercial
+administrative
+environment, for
+pricing
+information
+contact supplier
+Administrator machine:
+System 7.5 or newer, 5
+MB free RAM.
+Client machines: System
+7 or newer 2MB free
+RAM
+User level
+access
+restrictions,
+machine
+replication,
+protect of file
+and folder
+structures
+Availab
+le
+AtOnce Commercial
+management
+utility $600
+Minimum System 6 or
+newer, AppleTalk 1MB
+free RAM
+Protection of
+hard disc,
+recording of
+user activity,
+provides
+networking
+without the need
+for a server
+Availab
+le
+Apple Network
+Assistant
+Commercial
+administrative
+environment, for
+pricing
+Administrator machine:
+System 7.6.1or newer 8
+MB free RAM. Client
+machines: System 7.1 or
+Multi-level
+administrator
+access, network
+performance
+Availab
+le
+Language Learning & Technology  vol5num1 2001
+47
+information
+contact supplier
+newer 4 MB free RAMtesting, support
+for AppleTalk
+networks
+KeyServer Commercial
+software license-
+monitoring tool,
+$40 for 10
+machines
+(academic rate)
+All versions of the Mac
+operating system, 1MB
+free RAM
+Limits the
+number of users
+who can launch
+a software
+application
+Availab
+le
+FolderBolt ProCommercial
+security utility,
+for pricing
+information
+contact supplier
+Minimum System 7 or
+newer, 16MB free RAM
+Protection of all
+folders in a
+networked lab
+Availab
+le
+Reviewed by Mark Peterson, Japan Advanced Institute of Science and Technology
+The growth of interest in computer-assisted language learning (CALL) and the greater
+availability of language learning software have been accompanied by a proliferation of
+CALL centers, computer-based facilities designed to provide learners with access to this
+software. In recent years, the emergence of computer-mediated communications (CMC)
+technologies and their ever-increasing use in language teaching and learning (Paramskas,
+1999; Peterson, 1997), together with an increasing number of users, has placed new demands
+on CALL labs and lab managers. A common response to these circumstances has been the
+implementation of lab management software tools. These tools provide management features
+such as remote control, network security, data collection, and troubleshooting. This review
+will provide an overview of some of the major software management applications compatible
+with the Mac OS operating system; lab management software available for the PC will not be
+discussed. The software discussed here is not unique to CALL labs. Nonetheless, it is hoped
+that the discussion of this software will prove valuable for CALL lab managers and
+administrators.
+LAB MANAGEMENT SOFTWARE: FACTORS TO CONSIDER
+Although the institutional environment faced by the individual lab administrator varies, a
+number of factors should be borne in mind by practitioners considering the implementation
+of lab management software applications. Institutional requirements and resources will be a
+primary concern of lab managers. Thus, the individual lab manager must consider whether
+the purchase of software management tools is justified, given the size of the lab and usage
+requirements. Because funding is often an issue for language programs, the cost of software
+management applications may also be a decisive factor in the selection of tools: Using
+Language Learning & Technology  vol5num1 2001
+48
+ commercial software in large labs often requires expensive site license agreements, the cost
+of which may be prohibitive for some institutions. This problem may be overcome to some
+degree by the use of shareware or freeware programs.
+The level of computer knowledge required to install and operate a management system may
+also be a major concern for administrators as well as potential managers. Many of the
+advanced features included in some lab software require extensive knowledge of computer
+systems and networks. As a result, the implementation and operation of advanced
+management tools often requires the presence of trained support staff (Smith, 1993). Thus,
+the decision to implement such tools may have long-term budgetary implications. Regardless
+of the software chosen, the need for trained personnel also highlights the importance of
+planning and maintaining good relationships between managers, faculty and administrators
+(McVicker, 1997). In the author’s experience (Peterson, 1999), relations between network
+managers, administrators, and academic faculty should be fostered in order for a CALL
+center to operate efficiently.
+In addition, managers should consider the functionality and mix of software applications
+required by their environment. Small labs with limited usage may require relatively few
+management tools while large open-access labs may require more powerful tools with
+extensive features such as remote control and monitoring. However, it is important to
+remember that simplicity is an important goal, as simple systems are often more robust.
+Thus, programs with numerous advanced features are not always preferable to simple
+applications. Software compatibility is also a major issue to consider. For example,
+practitioners should be aware that some of the newer software management packages are not
+compatible with older versions of the Mac OS. This is frequently the case with older
+shareware applications, many of which have not been updated to take account for upgrades
+of the Mac OS.
+Security considerations are another crucial factor in the choice of management tools
+(Stevens, 1996). Large open-access labs often require software tools that can provide for
+restrictions on user access. Restrictions required may include prevention of unauthorized
+access and copyright violation.
+Now that I have reviewed some of the major issues to take into consideration in the choice of
+lab management software, I will describe the features of some of the most commonly used
+Mac lab management packages and tools.
+FREEWARE AND SHAREWARE LAB MANAGEMENT TOOLS
+The following software applications are available either as freeware or as low-cost
+shareware. Most of these applications offer more limited features than the commercially
+produced management environments. However, these tools are usually reliable, easy to
+Language Learning & Technology  vol5num1 2001
+49
+install and operate. In addition, they have relatively small memory requirements. These
+factors, combined with their low cost, make freeware and shareware applications attractive
+choices for CALL lab managers seeking management systems.
+MacLogin, a low cost shareware utility available in four versions, is designed to restrict
+access to the network environment by enabling CALL center managers to control log-in,
+messaging, and server mounting functions. An online manual for MacLogin is available at
+their Web site.
+Simplewave is a shareware system extension for the maintenance of lab computers. This
+application provides basic maintenance of named client folders by synchronizing a local
+start-up disk with a remote master folder. Potential users should note that this product is not
+compatible with AppleShare Chooser (versions 3.8 or later) and that no upgrades are
+planned.
+RevRdist, a freeware utility produced at Purdue University, enables an administrator to
+replicate and maintain the hard disks of client machines from a server mounted master folder
+in order to prevent users from permanently changing the configuration of a networked Mac.
+Unlike security packages, R vRdist does not prevent local users from reconfiguring the hard
+disk. Instead it makes it easy to restore the configuration of networked Macs in lab at
+prescheduled times, or as deemed necessary by the administrator. This product comes with a
+HyperCard stack designed to facilitate installation of the software (see Figure 1). Th
+RevRdist Web site also includes access to a listserv-based mailing list.
+Language Learning & Technology  vol5num1 2001
+50
+Figure 1. RevRdist helper stack
+COMMERCIAL LAB MANAGEMENT PACKAGES AND TOOLS
+Commercially-produced software management applications offer a wider range of features
+than shareware products, but they are often more expensive and require a higher level of
+technical expertise to operate. Commercial products offer the advantages of flexibility,
+frequent upgrades, and technical support, which are not always available with shareware
+products.
+MacAdministrator, the first complete Mac network-based lab administration software
+package, allows the administration of a Mac lab from a single machine, through the use of
+server and client software. Major features of MacAdministrator include control of access
+through passwords and user level access restrictions, machine replication, and protection of
+specified files and folder structures (see Figur  2). MacAdministrator also enables lab
+managers to provide customized files to a specified user group, as well as full print and
+software auditing, which not only offers the ability to control user printing and software
+distribution, but also provides detailed usage reports for each user and application. FileM ker
+Pro version 2.1 or newer, is necessary to view these reports.
+Language Learning & Technology  vol5num1 2001
+51
+Figure 2. MacAdministrator folder control interface
+AtOnce is a management utility designed to prevent damage to computers in a lab and to
+facilitate the automation of various management functions. It can be customized to meet the
+needs of individual practitioners and provides complete control over applications (see Figure
+3). For example, interface consistency can be maintained on all machines in a lab, and menu
+bar options may be disabled in selected applications. AtOnce also permits protection of the
+hard disk, recording of user activity, and the operation of a networked environment without a
+server.
+Language Learning & Technology  vol5num1 2001
+52
+Figure 3. AtOnce control panel
+Apple Network Assistant allows centralized control and distribution of applications across a
+network. Other features of this software include provision of multi-level administrator
+access, network performance testing, and support for AppleTalk networks and TCP/IP. In
+addition, Apple Network Assistant offers administrators various innovative features such as
+the ability to control the screens of client machines, and the means to converse with users
+using either text or voice. (see Figur 3) The Web site for this product provides extensive
+links including a discussion forum and a FAQ page.
+KeyServer is a cross-platform software license-monitoring tool designed to prevent software
+copyright violation while also reducing licensing costs. The program limits the number of
+users who can launch a network-based application simultaneously This permits a given
+application to be used on multiple computers without requiring that licenses be purchased for
+ever single machine. KeyServer also provides restrictions on access through multi-level
+administrative passwords.
+FolderBolt Pro enables a lab administrator to prevent tampering with the hard drive of a
+machine thus limiting desktop configuration damage by shared users. This product provides
+protection for Mac labs at the folder level. Folders may be locked completely, made read-
+only, or password protected. In addition, FolderBolt may be configured to prevent changes to
+the system, extensions, control panels, or chooser (Stevens, 1996). FolderBolt requires OS
+system 7 or newer.
+Language Learning & Technology  vol5num1 2001
+53
+CONCLUSION
+The software discussed here represents a sample of the growing number of software
+management solutions available to practitioners. Given the great variety of CALL center
+needs and resources, the author has refrained from recommending particular products.
+Instead, because the specific circumstances of CALL labs must be taken into account when
+choosing management software, this review has focused on informing educators of the
+software solutions available. Future years may see a further increase in the number and
+sophistication of these tools, as the market continues to expand. However, the central
+challenge facing the lab manager will remain the same: effectively managing the lab
+environment through the selection and use of the most appropriate software. While the
+specific programs may change, the issues discussed here will likely continue to be central in
+the choice of software.
+ABOUT THE REVIEWER
+Mark Peterson holds a Master’s degree (M.Sc.) in TESOL & CALL from the University of
+Stirling. At present he is a doctoral candidate at the University of Edinburgh and a faculty
+member at Japan Advanced Institute of Science and Technology (JAIST). In 1996, he
+established (and now manages) a networked CALL lab.
+E-mail: mark@jaist.ac.jp
+REFERENCES
+McVicker, J. (1997) Planning computer-based language learning resource centers.
+Retrieved November 20, 2000 from the World Wide Web:
+http://www.ohiou.edu/esl/teacher/labs.html.
+Paramskas, D. M. (1999). The shape of computer-mediated communication. In K. Cameron
+(Ed.), Computer Assisted Language Learning (Call): Media Design And Applications (p .
+13-34). Lisse, The Netherlands: Swets & Zeitlinger.
+Peterson, M. (1997). Language teaching and networking. System, 25(1), 29-37.
+Peterson, M. (1999). Piloting and The creation of a CALL center: The case of Japan
+Advanced Institute of Science and Technology. Computer Assisted Language Learning,
+12(2), 163-170.
+Language Learning & Technology  vol5num1 2001
+54
+Smith, M. (1993). Installing a Multimedia Laboratory: Some lessons to be learned. On-Call
+8, 15-21.
+Stevens, L. (1996). Batten Down the Hatches: Lab Managers Protect Macs. MacWeek, 10(6),
+10-13
+About LLT | Subscribe | Information for Contributors | Masthead | Archives

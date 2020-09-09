@@ -1,0 +1,209 @@
+Language Learning & Technology May 2001, Vol. 5, Num. 2
+http://llt.msu.edu/vol5num2/emerging.html pp. 8-13
+Copyright ª  2001, ISSN 1094-3501 8
+EMERGING TECHNOLOGIES
+Language Testing Tools and Technologies
+Bob Godwin-Jones
+Virginia Commonwealth University
+Introductory Quiz
+1. Testing has long been an integral part of language instruction:
+True False
+2. Testing is used to... (check all that apply)
+ place students in appropriate instructional levels
+ assess learners' progress (for themselves or their teachers)
+ ascertain and certify language proficiency levels
+3. The preferred networking environment for delivering language testing is rapidly becoming the...
+Extra credit.
+The Educause-sponsored project to ensure interoperability among Internet-based assessment
+programs is the .
+Computerized Testing
+Computers have been used in language assessment since at least the 1960s. The PLATO project at the
+University of Illinois pioneered the use of networked computers for language practice and testing.
+However, the use of computers in language testing did not become widespread and generally available
+until the advent of the personal computer in the late seventies and early eighties. Among the better-known
+software packages from the early (DOS) days is Calis from Duke University (still available as an
+unsupported product). It was designed for active drill and practice of grammar and vocabulary, rather than
+formal assessment. This was the case as well for Dasher, a widely-used Mac-based program from the
+University of Iowa. Both programs provided for varied feedback options and recognition/display of
+partially correct answers. In addition to dedicated language software, generic authoring tools were often
+used to develop language drill and assessment programs. The best-known of these are HyperCard (from
+Apple) and Toolbook (from Asymetrix, now click2learn) With both, multimedia could be integrated into
+the tests or exercises, allowing for more options, including assessing listening comprehension. The arrival
+of CD-ROM facilitated greatly the use of multimedia in language programs, by providing the necessary
+storage capacity.
+There are today successors to these stand-alone authoring programs, such as WinCalis, the Windows
+version of Calis. One of the attractive features of WinCalis is its support for Unicode (ISO 10646), which
+allows representation of a great variety of languages and alphabets simultaneously in an application.
+MaxAuthor, from the University of Arizona, is another Windows-based authoring program for language
+testing and practice. It also supports a variety of languages, and lessons can be made Web-accessible.
+Robert Godwin-Jones Emerging Technologies
+Language Learning & Technology 9
+Internet Applications
+Although some testing applications have taken advantage of the availability of local area networks
+(particularly for storing scores centrally), the arrival of the World Wide Web in 1993 with its rich and
+powerful network environment provided a more attractive -- and ever more pervasive -- networking
+option. The Web offers the advantages of centralized delivery (and authentication) as well as server-based
+score storage and retrieval. Initially, the user experience with Web-based tests was not much different
+from pen and paper versions, with relatively little interactivity or user feedback. Some Web tests continue
+to use similar approaches with test scoring provided by e-mail or separate Web pages showing the
+answers (for the test taker to compare with his/her answers). The advantage of using the Web, however, is
+in the interactivity it enables. This is generally done through the use of Web form pages which are
+processed by CGI ("Common Gateway Interface") scripts, usually written in Perl. Tests delivered through
+CGI typically are in machine-correctable formats such as multiple choice or true-false, using checkboxes,
+radio buttons, or pull-down menus. Usually users must complete the entire test before submitting it and
+receiving feedback. In CGI-based formats, feedback options are limited and there is rarely recognition of
+partially correct answers.
+In 1995, Netscape introduced JavaScript as an interpreted scripting language built into its browser, using
+object-oriented syntax borrowed from Java. Subsequently, Microsoft delivered a JavaScript compatible
+language with its browser ("JScript"), and two years ago ECMAScript, based on JavaScript and JScript,
+was adopted as an Internet standard. JavaScript adds considerably more flexibility to the processing of
+Web forms, allowing, for example, for question by question feedback to questions. With the arrival of
+JavaScript, language tests have begun to expand format options, adding short answer, matching, or
+sentence ordering, for example. JavaScript is not as well suited as CGI for secure testing since the source
+code is accessible to users. It is possible to provide some security through the use of temporary "cookies"
+(to hold answers), encrypted answer strings, or external scripts which dynamically write the Web pages,
+but these are not as secure as server-based CGI solutions. There has been an explosion of interest in
+recent years in using JavaScript in language testing (see resource list).
+A more secure option than JavaScript is Java. Like JavaScript tests, Java applets can easily be distributed
+over the Internet, but since they are compiled, the source code is not viewable. Java has been used in
+language testing but mostly on an experimental basis. Java has suffered from slow performance,
+compatibility problems, and mediocre multimedia support. Some use is being made also of programs with
+Web browser plug-ins such as Director (see example) and Flash (see example), as well as multimedia
+players combined with quizzes, such as Quicktime VR (see example) or RealPlayer (see example). These
+can provide attractive interfaces and good multimedia support, but require users to have the necessary
+version of the plug-in installed. For both Java and multimedia authoring programs such as Director or
+Authorware, there is a steeper learning curve than is the case with basic Web authoring using HTML and
+JavaScript.
+One area in which there has recently been considerable activity is the development of Web-based
+language placement exams. Among them are those from Macalaster, BYU, and Northwestern. All use a
+server-based CGI delivery for security reasons. Of interest is the use of a computer adaptive testing
+approach in some on-line placement exams, such as the WebCAPE Tests from BYU. The placement
+exams under development at Ohio State University use an adaptive testing mechanism combined with
+authentic language materials shown in their original context.
+Authoring Tools
+There has been a great deal of interest in recent years in the creation of Web-based tests and exercises
+through easy-to-use authoring tools. A number of such tools have been created specifically for language
+learning. WebPractest from Gary Smith, for example, allows creation of JavaScript-based interactive
+Robert Godwin-Jones Emerging Technologies
+Language Learning & Technology 10
+exercises. One of the advantages of WebPractest is the ability to choose question-by-question or summary
+feedback. Tests are created in WebPractest through the use of a text editor. Hot Potatoes, out of the
+University of Victoria, is another tool developed for creating language tests. It is being widely used for a
+variety of languages. Its formats include multiple-choice, fill-in-the-gap, short-answer, jumbled-sentence,
+and crossword-type quizzes. Hot potatoes involves use of the Windows or MacOS version of its stand-
+alone authoring tool. No knowledge of HTML or JavaScript is required (although users with that
+knowledge can edit source files as desired). In addition to instant feedback, the program can also provide
+hints and clues.
+A wide variety of test and quiz formats is available through the "Interactive Quiz Makers" from Dan
+Beeby (cloze, matching, multiple choice, memory). This tool uses a combination of CGI and JavaScript to
+deliver the quizzes. Several of the formats feature the use of DHTML ("dynamic HTML") to enable drag
+and drop functionality. This allows for considerably more interactivity. In the "Matchmaker2" format, for
+example, students drag and drop images to match a text cue; in "PlaceMaker3," students are given
+vocabulary words that fit into a specific location in an image and must use drag and drop to match.
+In addition to these authoring tools, quiz/exercise templates are also available for language teachers, such
+as those from Marmo Soemarmo. His site provides examples of exercises in a great variety of formats:
+true-false, multiple choice, matching, feature or category identification, short answer, cloze, sentence
+generation, hypertext, memory, spelling. By downloading the source code for the examples provided, new
+content can be added by following the comments included in the code. Test and exercise templates for
+language learning are also available from Douglas Mills and George Mitrevski.
+Many instructors in higher education today are using the testing mechanisms built into Web course
+management systems such as WebCT or Blackboard. These tools offer instructors an extensive set of
+features to include in Web-based course materials. The test formats vary, but at a minimum include short
+answer, multiple choice, true-false, and essay. The delivery is CGI-based. An exception are the quizzes in
+Web Course in a Box, which provide the option of more flexible feedback through JavaScript and also
+include built-in standard feedback in multiple languages.
+Outlook
+Computerized testing will inevitably increase in volume and scope. This is happening in all areas,
+including in major national and international standardized tests. This growth is not without controversy,
+as evinced in the reaction to the ETS announcement of the use of computerized testing in Africa. As
+schools demand more frequent standardized testing of students, more of that testing will migrate to
+computer formats. Many states provide practice tests for students on the Web, such as those from Edutest
+for the Virginia "Standards of Learning" exams.
+In language testing, accelerating development of speech recognition technologies promises to provide
+new options in computerized testing which may involve both listening and speaking. It is likely as well
+that testing will become more customizable, with options for tailoring tests to individual students and
+their specific needs and backgrounds. XML ("extensible markup language") through its interactive
+"Document Object Model" (DOM) is likely to replace both HTML and JavaScript as the standard for
+creating interactive Web pages for language testing and practice. The IMS Project ("Instructional
+Management System") uses XML as a standard for describing questions and tests. The idea is to enable
+and encourage the interoperability of content within assessment systems, a very useful development for
+individual instructors, as well as for publishers, certification agencies, and software vendors. Several
+software companies, such as Blackboard and WebCT, are already using the IMS specifications and XML
+to enable import/export functionality. The University of Baltimore recently took advantage of this feature
+to move courses from one course management system to another.
+Robert Godwin-Jones Emerging Technologies
+Language Learning & Technology 11
+On the server end, JSP ("Java Server Pages") is becoming an attractive alternative to CGI. JavaServer
+Pages technology uses XML-like tags and scriptlets written in the Java programming language, but
+incorporated into the HTML code, to provide an equivalent to CGI. Java "servlets" residing on the Web
+server are able to interpret this code and execute the processing of the Web forms. The idea is to separate
+the page display and formatting from the programming logic, so that interactive pages can be created and
+maintained by conventional HTML/XML tools. While the approach is similar to that used by Microsoft's
+ASP ("Active Server Pages"), the JSP approach provides more programming and scripting flexibility as
+well as multi-platform support. In any case, there is likely to be a database back-end that keeps test
+information, including questions and answers, as well as scores. There are well-established methods for
+connecting databases with Web servers, such as ODBC ("Open Database Connectivity"). A popular
+method to interact with databases is the use of middleware or application development software such as
+ColdFusion (from Allaire, recently merged with Macromedia), Tango, or Lasso.
+Resource List
+Web-Based Testing Resources
+·  The Language Tester's Guide to Cyberspace excellent guide from Glenn Fulcher
+·  Resources in Language Testing Page by Glenn Fulcher
+·  "Language Testing" on WWW from Doshisha University, Kyoto, Japan (K. and S. Kitao)
+·  Language Testing Resources from the Center for the Advancement of Language Learning
+·  Foreign Language Test Database from CALL, listing 140 tests in 63 languages
+·  Assessment & Evaluation on the Internet links to web pages of organizations, etc., with
+annotations
+·  Ericae.net resource collection on assessment and evaluation
+·  Education Standards and Testing links to web sites related to testing
+Organizations and Institutions
+·  International Language Testing Association
+·  ALTE The Association of Language Testers in Europe
+·  Cambridge EFL Examinations
+·  English Language Institute (ELI) Testing-Certification from the University of Michigan
+·  ETS Educational Testing Service, its tests, and links to other test-related resources
+·  ILTA International Language Testing Association includes links to LTRC Program Booklets
+·  Local Examinations Syndicate (UCLES) from the University of Cambridge
+Language Tests
+·  Oral Proficiency Testing ACTFL
+·  IELTS - English language test from the British Council
+·  TOEFL practice questions for the widely used TOEFL exam
+·  Basic English Skills Test (BEST) from the Center for Applied Linguistics
+·  Examination for the Certificate of Proficiency in English (ECPE) from the University of
+Michigan
+·  The Michigan English Language Assessment Battery (MELAB) University of Miichigan
+·  Examination for the Certificate of Competency in English (ECCE)
+·  The STEP test (in Japanese)
+Robert Godwin-Jones Emerging Technologies
+Language Learning & Technology 12
+·  Advanced Placement Program from the College Board
+Sample On-line Practice Tests
+·  Language Tests for English Language Learners from Ohio University
+·  ESL Quiz Center links to quizzes, from Dave Sperling
+·  TransWord Foreign Language Tests / Exercises
+·  V-LASSO Vocational Language Assessment On-line
+·  Self-Study Quizzes for ESL Students from The Internet TESL Journal's Activities for ESL
+Students
+·  Cutting Edge CALL Demos from Jim Duber
+·  Spanish Language Exercises from Juan Roman de Arana
+·  French Grammar Exercises from the University of Texas
+Language Placement Tests On-line
+·  WebCAPE Language Placement Tests from the Humanities Research Center, Brigham Young
+University
+·  Foreign Language Placement Tests from the Multimedia Learning Center, Northwestern
+University
+·  Placement test (German) from Macalester College
+Test Makers, Tools, and Templates
+·  Dasher
+·  WinCalis from Duke University
+·  MaxAuthor from the University of Arizona
+·  WebPractest by Gary Smith (William and Mary)
+·  Hot Potatoes from the University of Victoria Humanities Computing and Media Centre
+·  Review of Hot Potatoes
+·  Sites using Hot Potatoes
+·  Web Author from the Language Resource and Research Center at the University of Pennsylvania
+·  Interactive Language Makers from Dan Beeby
+·  Webgen 2000 (Java-based) from the University of Lethbridge
+·  Marmo's JavaScript Templates by Marmo Soemarmo
+·  JavaScript for Language Learning from the LinguaCenter, University of Illinois
+·  Knowledge Design from George Mitrevski (Auburn)

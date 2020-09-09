@@ -1,0 +1,1214 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol11num1/grgurovic/ 
+February 2007, Volume 11, Number 1 
+pp. 45-66 
+ 
+Copyright © 2007, ISSN 1094-3501 45 
+HELP OPTIONS AND MULTIMEDIA LISTENING: STUDENTS’ USE OF 
+SUBTITLES AND THE TRANSCRIPT 
+Maja Grgurović and Volker Hegelheimer 
+Iowa State University 
+ABSTRACT 
+As multimedia language learning materials become prevalent in foreign and second 
+language classrooms, their design is an important avenue of research in Computer-
+Assisted Language Learning (CALL). Some argue that the design of the pedagogical 
+materials should be informed by theory such as the interactionist SLA theory, which 
+suggests that input modification can help comprehension, but does not provide specific 
+guidance regarding choices designers should make when they attempt to implement 
+theory-based features like modified input. This empirical study was designed to provide 
+evidence about one such issue: whether subtitles or transcripts are more effective in 
+providing modified input to learners. 
+A multimedia listening activity containing a video of an academic lecture was designed to 
+offer help in the form of target language subtitles (captions) and lecture transcripts in cases 
+of comprehension breakdowns. Eighteen intermediate ESL students enrolled in an 
+academic listening class at a research university participated in the study. Two tests and 
+questionnaires in addition to screen recordings were used to analyze students' performance 
+on the activity and their use of help. 
+The results indicate that participants interacted with the subtitles more frequently and for 
+longer periods of time than with the transcript. Also, the study identified four patterns of 
+learner interaction with the help options. Since, overall, the participants interacted with 
+help less than half of the time they opened help pages, an important challenge in 
+investigating help options lies in finding ways to promote the use of help. 
+ 
+INTRODUCTION 
+As multimedia language learning materials are becoming increasingly common in foreign and second 
+language classrooms, the design of those materials is becoming an important avenue of research in 
+Computer-Assisted Language Learning (CALL). Chapelle (2003) argues that the real challenge in applied 
+linguistics at present is the search for "evidence for the most effective ways to design software for CALL, 
+to use software effectively in tasks, and to help learners to take advantage of the electronic resources 
+available to them" (p. xiii). Addressing the challenge, this paper offers suggestions on the design and 
+implementation of software help options (L2 subtitles and L2 transcript) in a multimedia listening 
+activity. Also, it investigates the learner’s use of multimedia listening software with a particular focus on 
+learner interaction with subtitles and transcripts in cases of comprehension breakdowns. Finally, the paper 
+examines if and how learners take advantage of help options available to them. 
+REVIEW OF THE LITERATURE 
+Theoretical Framework  
+The interactionist SLA theory considers interaction to be a crucial factor for language acquisition since it 
+can promote negotiation of meaning (Long, 1996; Pica, 1994). Although originally based on the study of 
+the negotiation of meaning between human interlocutors, the notion of interaction in CALL was extended 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 46 
+to include person-computer interaction during a task completion by a single user (Chapelle, 2003). A key 
+component of this theory—that only the input that is noticed, or apperceived, can become beneficial—
+provides guidance for the design of instructional materials, which should contain features that enhance 
+input through modifications (Chapelle, 2003, p. 40) such as added redundancy and change of the input 
+mode. Following Chapelle’s (1998) suggestions relevant for the development of multimedia CALL, the 
+online unit used in this study was constructed to investigate the effectiveness of two types of input 
+modifications, subtitles and transcripts, within a listening comprehension unit centered around a video of 
+an academic lecture. In particular, these two textual help options were selected because they can add 
+redundancy to the aural input by changing the input mode from its aural form in the video into the textual 
+form of subtitles and a transcript, hence addressing different learning styles. 
+Multimedia Listening and Help Options Studies 
+Quite a bit has been written about the different characteristics of multimedia that can enhance reading 
+(Chun & Plass, 1997), vocabulary acquisition (Plass, Chun, Mayer & Leutner, 1998), and even speaking 
+(Borras & Lafayette, 1994). However, a smaller number of studies (Brett, 1996, 1997) investigated the 
+use of multimedia software for listening comprehension. When investigating learners’ attitudes towards 
+multimedia, Brett (1996) found that 86.9% of students believed that a multimedia application they were 
+introduced to would improve their listening skills. Also, in questionnaires, participants preferred 
+multimedia for listening over media such as video and audio (Brett, 1997). Finally, learners had better 
+listening comprehension scores on a multimedia task than on a paper and pencil task in which the input 
+was delivered via video and audio tapes (Brett, 1997). More research into the use of multimedia listening 
+materials is necessary as is research into help options, which Pujolà (2002) defined as "resources of the 
+program which assist the learner in performing a task" (p. 241). Since several studies investigating help 
+options (Hegelheimer & Tower, 2004; Hsu, 1994; Liou, 1997, 2000; Pujolà, 2002) proved instrumental 
+for the current research study, their main findings are briefly reviewed here. Appendix provides the 
+summary of results of these help option studies. 
+Hsu’s study (1994) was one of the first studies examining ESL students’ use of help options (audio 
+repetition, textual repetition, and the dictionary) while listening to a story delivered on the computer. 
+Textual repetition was in the form of a transcript, which was displayed on the screen when students 
+requested help after being unable to comprehend the spoken input. Frequencies of help function use 
+showed that the transcript was the most often used tool followed by aural repetition and the dictionary. 
+The participants also mentioned in questionnaires that the transcript was the most effective tool. Finally, 
+Hsu (1994) found that the amount of requests for textual help positively correlated with participants’ 
+listening comprehension scores. 
+Liou (1997) also studied the frequency and effectiveness of help use. She examined how 20 college 
+students at a Taiwanese university interacted with eight online help functions in a self-paced multimedia 
+video disc. The textual help options included English and Chinese scripts in addition to the video control 
+functions (pause and rewind) and five other options (see Appendix for details). Liou (1997) divided the 
+participants into an "effective" and an "ineffective" group based on three factors: listening proficiency, 
+direct student observation, and instructors’ records. Frequency of help access showed that the ineffective 
+group requested twice as much help as the effective group and used the replay of aural input more than 
+the English and Chinese scripts. The effective group, on the other hand, used the English script most, 
+followed by the replay function and the Chinese script. As can be seen from Hsu’s and Liou’s results, the 
+transcript was among the most frequently used forms of help. In another article about the same study, 
+Liou (2000) reported that 80% of participants found the English script useful. However, contrary to Hsu 
+(1994), Liou (1997) found that frequency of help use did not correlate with listening scores. 
+In addition to the transcript, Pujolà (2002) examined the use of subtitles (which were in his study a part of 
+one help option) as well as six other help facilities (Appendix). Based on participants’ decoding level, the 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 47 
+ability to decode input, Pujolà divided 22 beginner EFL students into four groups (higher, average, lower, 
+and poorer decoders) and observed their use of textual help. He found that participants in each group 
+behaved in "varied, idiosyncratic ways" (p. 253), so it was difficult to draw conclusions that would apply 
+to all participants in one group especially since some participants in lower groups never used textual help. 
+Generally, the higher decoders used the replay and rewind functions more than the transcript and/or 
+subtitles. The use of textual help increased as the decoding level decreased, so some poorer decoders 
+relied on it to such an extent that at times "they were doing a reading task instead of listening" (p. 253). 
+Pujolà believed that this was due to the participants’ perception of the purpose behind textual help. While 
+the higher groups used textual help as a backup for listening, lower groups tended to use it as a necessary 
+part of the listening process. In terms of overall help use, there was no correlation between the use of any 
+help facility (including textual help) and participants’ linguistic level. 
+Another study that looked at the use of textual help in multimedia software was Hegelheimer and Tower 
+(2004). The participants were 94 beginner EFL students at a university in the Middle East who used a 
+CALL software program for self-study over a period of eight weeks. The use of the software was a 
+required part of the course and students worked with it at their own pace. Options of the program included 
+the Repeat button, which repeated the previous sentence aurally, and the ABC button, which repeated the 
+previous sentence aurally together with its transcript. The teachers introduced the Repeat button to the 
+participants, but not the ABC button, which may be a reason why, overall, the Repeat button was used 
+more than the ABC button. The results showed that the simultaneous display of audiovisual and textual 
+input (ABC button) was negatively correlated with comprehension scores. The ABC button was the most 
+frequently used help option for the 30 lowest-performing participants. The thirty highest-performing 
+participants used the Repeat button most frequently. As in Pujolà’s (2002) study, the participants showed 
+great variation when using help options. For example, half of the participants did not use the ABC button 
+at all. More research is necessary to explain why that was the case. Liou (1997) hinted at this issue when 
+wondering if it was the students who did not use the environment to their advantage or CALL designers 
+who offer more help than necessary.  
+In sum, previous literature shows that help options to aid listening comprehension have not been 
+thoroughly investigated, and that there are mixed results on the relationship between the use of help and 
+comprehension scores (positive relationship in Hsu, 1994; no relationship in Liou, 1997; negative 
+relationship in Hegelheimer & Tower, 2004). The current study attempts to address this gap by examining 
+the use of target language subtitles and the transcript. 
+Subtitles and Navigational Patterns 
+Among the studies about help options reviewed in the previous section, only Pujolà’s (2002) examined 
+subtitles as a help option in multimedia listening materials. However, the research on the influence of 
+subtitled/captioned TV programs on listening comprehension has been going on for a number of years as 
+the work of Vanderplank (1988, 1990) and Garza (1991) shows. Borras and Lafayette (1994) investigated 
+advanced learners’ use of digital video with and without subtitles and concluded that learners who have 
+control over subtitles exhibit better comprehension and better production of the language. Guillory (1999) 
+also used digital video clips to check the comprehension of beginner French learners, dividing learners 
+into three groups: no captions, full captions, and keyword caption. Guillory (1999) concluded that the full 
+caption group performed better than the keyword caption group although both caption conditions proved 
+beneficial for students’ comprehension. Taking into account these findings, the present study 
+implemented full, intralingual subtitles1 that students had complete control over to look at students’ 
+interaction with them and describe navigational patterns necessary for better understanding the design and 
+use of help in multimedia listening software. 
+Of the studies in the previous section, Hsu’s (1994) was the only one to investigate navigational patterns. 
+Hsu found that the higher and lower proficiency groups did not follow the same pattern when requesting 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 48 
+help. The lower group followed the audio repetition-transcript-dictionary pattern while the higher group 
+followed the transcript-dictionary pattern. Hsu, however, did not attempt to explain the reasons behind 
+this type of participant behavior. In another study, Desmarais, Duquette, Renie, and Laurier (1998) 
+described and accounted for linear and chaotic patterns of interaction with a multimedia videodisc. In a 
+linear schema, participants completed the activities and moved through them in a linear order. In a chaotic 
+schema, participants switched from one activity to another and abandoned them, possibly because of the 
+task type and task difficulty, as well as a lack of participant learning goals. In another article about the 
+same study, Desmarais, Laurier, and Renie (1998) concluded that proficiency levels influenced 
+navigational patterns since the intermediate learners established a more linear pattern while the beginners 
+engaged in activities that were sometimes too difficult. This difficulty prompted learners to interrupt the 
+activities, which resulted in a more chaotic pattern. This result corroborates Hsu’s (1994) findings and 
+calls for more investigation of similar multimedia environments, an aim of this paper. 
+Research Questions 
+Although the literature on multimedia listening has looked at help options, none of the studies, to our 
+knowledge, has compared the use of subtitles and transcripts, which is important to understand, both for 
+teachers who use multimedia materials with their classes and for software designers who create them. In 
+this study, which was conducted in an intact class, these two textual help options are compared for 
+frequency and time of use. In addition, the reasons for a learner’s choice of a help option are explored 
+through questionnaires and interviews. Furthermore, to better understand patterns of help option use or 
+the ways in which learners access help, this study looks at participants’ navigational patterns. Finally, this 
+study examines the effect of proficiency level on the use of help and the performance of the participants. 
+There are four research questions in the study: 
+1. How frequently and for how long do participants use two help options (subtitles and the transcript) 
+offered in a multimedia activity?  
+2. Are there patterns of participants’ behavior that suggest differences in how they approach help, and if 
+so, how could those patterns be explained?  
+3. Are there differences in the use of help options between participants at different proficiency levels? 
+4. What are participants’ attitudes towards two help options before and after the activity? 
+METHOD 
+Participants 
+Participants in this study were 18 ESL college students enrolled in one section of the Academic English 
+Listening class at a large state university in the U.S. Midwest in the spring semester of 2004. The students 
+were placed in the class based upon their scores on the listening section of an in-house ESL placement 
+test. The participants were from 7 different countries: China (8), Korea (4), Japan (2), India (1), Malaysia 
+(1), Peru (1), and Vietnam (1) with their self-reported TOEFL scores ranging from 500 to 615 on the 
+paper-based version of the TOEFL test, with a mean score of 559 (SD 30). For the purpose of the study, 
+the participants were divided into two groups: higher intermediate (10 students) and lower intermediate (8 
+students) based on a) the instructor’s opinion of their listening ability, b) their present grade in the course, 
+c) a self-evaluation of listening proficiency, d) scores on an initial academic listening test and e) self 
+reported TOEFL scores.  
+Materials 
+The materials were integrated into the course syllabus and consisted of two tests (initial listening 
+comprehension and delayed recall), two questionnaires (pre and post-listening), an unstructured 
+retrospective interview, and the CALL multimedia listening activity, which was specifically designed for 
+this research. To circumvent the issues frequently associated with the use of isolated tasks in CALL 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 49 
+research, such as the lack of motivation and engagement, the activity was made an integral part of the 
+class and the topic was chosen based on the authors’ previous experience teaching the same course. All 
+the materials were tested and improved during two pilot studies (Grgurović, 2005). 
+The initial listening comprehension test consisted of an academic lecture of a similar format and length as 
+the one used in the CALL activity as well as ten multiple choice questions. The pre- and post-listening 
+questionnaires were given to participants before and after the main CALL activity. The pre-listening 
+questionnaire examined participants’ familiarity and previous use of two help options (subtitles and the 
+transcript), as well as surveyed which of the two help options the participants would use in a hypothetical 
+multimedia listening activity. The post-listening questionnaire looked at the participants’ use of the 
+transcript and subtitles and examined the rationale behind the use. At the end of the study, a retrospective 
+interview was also conducted to gather more details about participants’ behavior during the CALL 
+activity. 
+The main material in this study was an online CALL activity entitled the ‘Astronomy’ unit. Although 
+designed as an online unit that could be delivered via the Internet, the unit was accessed locally to avoid 
+bandwidth problems. The Astronomy unit consisted of an eleven-minute video of a lecture on astronomy 
+given by a professor in front of a group of students. Following suggestions regarding the ideal length of 
+listening segments (i.e., 30 -120 seconds) for intermediate ESL learners (e.g., Rubin, Quinn & Enos, 
+1988; Thompson & Rubin, 1993), the video was divided into ten segments of approximately 30 to 90 
+seconds. This segmentation also enabled participants to check and monitor their comprehension of the 
+lecture as they proceeded through the unit. The video segments could be played only once to make the 
+delivery of input similar to delivery in a lecture hall where students usually don’t hear the same lecture 
+twice. Additionally, this kept the initial exposure to the lecture the same for all participants. This way, the 
+viewing of the lecture for the first time was made as authentic as possible. Furthermore, each video 
+segment was accompanied by a multiple choice comprehension question. In all, the activity consisted of 
+ten questions and four cumulative multiple-choice, post-listening questions that appeared after the last 
+video segment.  
+Apart from the video, the other core components of the unit were two help options—the subtitles and the 
+transcript. These options were given to students only after they had viewed the video segment and 
+answered the comprehension questions incorrectly. This meant that help was offered only in cases of 
+comprehension breakdowns when students needed help in order to move on. Each of the help options 
+included the video segment and, for the second viewing, the participants could choose either to a) open 
+the page with the subtitled video (Figure 1) or b) open the page with the lecture transcript and the video 
+(Figure 2). 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 50 
+ 
+Figure 1. Screen shot of a page containing the video, subtitles, and dictionary 
+ 
+Figure 2. Screen shot of a page containing the video, transcript, and dictionary 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 51 
+The participants progressed through the Astronomy unit as outlined in Figure 3. First, they went through a 
+tutorial that explained how to go through the activity and offered a sample video segment they could 
+interact with. This was done to give learners basic training in the application (Hubbard, 2004) and to 
+minimize the exploratory behavior sometimes found in the initial steps of using the program (Desmarais, 
+Duquette, Renie & Laurier, 1998). Then, the participants viewed video segment 1 for the first time and 
+proceeded to comprehension question 1. If the answer was correct, they moved on to segment 2. 
+However, if the answer was incorrect, they were offered to view segment 1 again either with the subtitles 
+or the lecture transcript. The subtitles which appeared at the bottom of each video segment were 
+synchronized with the video and the participants used the play and pause buttons to control the video and 
+the subtitles. They could also rewind and fast-forward the video using the video controller. The transcript 
+for each segment appeared next to the video, which was controlled in the same manner. When on the 
+transcript page, the learners could choose whether to play the video or not, but the transcript was 
+displayed even if the video was not played. 
+Video segment 1
+Comprehension
+question 1
+Correct Incorrect
+Video segment 2
+Video + subtitles + (dictionary)
+Video + transcript + (dictionary)
+Tutorial
+ 
+Figure 3. Progression through the Astronomy unit (Tutorial through Video segment 2) 
+The participants could interact with the help option for as long as they wanted to. Then, when they were 
+ready, a slightly modified version of comprehension question 1 was presented, i.e., the answer choices 
+were presented in a different order. If the correct answer was chosen, they went on to segment 2; if not, 
+they were given the same help options until they got the correct answer. The activity ended once they had 
+correctly answered all ten questions and received the score for the four post-listening questions. 
+As a part of each help option, the participants had access to an online English-English dictionary, which 
+they could keep open or hidden. Originally, this research also aimed at investigating the use of the 
+dictionary, which has been previously researched as a help option (Hegelheimer & Tower, 2004; Hsu, 
+1994; Liou, 1997; Pujolà, 2002). However, because the participants in this study did not access it at all, 
+the use of the dictionary is not examined here.  
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 52 
+When designing the Astronomy unit, special care was given to the following issues: primary users, user 
+navigation, and control options. The primary users were the intact class of Academic listening students 
+who interacted with the unit for only one class period. The navigation and control issues were 
+implemented to narrow the realm of investigation and to control for variables. Since previous research has 
+shown that students vary in their use of help (Pujolà, 2002; Hegelheimer and Tower, 2004), help use in 
+the Astronomy unit was encouraged through linear navigation and an inability to skip help. To ensure this 
+navigation, the right mouse click was disabled, the toolbar with the back button removed, and each new 
+page opened in the same window. Furthermore, after each multiple-choice question, students received 
+immediate feedback, which made them notice the input on help option pages better because of added 
+redundancy and mode change. As for control options, the users did not have any control over the first 
+viewing of the video but could choose the help option and could control the video as a part of help 
+options during a second viewing. 
+Procedures 
+This study was conducted as a part of the academic listening course syllabus and took place over 3 weeks. 
+The class met twice a week for fifty minutes in the classroom or the computer lab depending on the 
+activities, while interviews were scheduled outside of class time. Since the computer lab had only ten 
+computers equipped with the data collection software, the participants were divided into two groups using 
+the alphabetical class list. After all participants had completed the pre-listening questionnaire, the first 
+group did the initial listening comprehension test while the second worked on the Astronomy unit. The 
+next class period the groups switched places. Before participants started the Astronomy unit, they were 
+given verbal instructions on how to use the unit and were directed to explore the tutorial with written 
+instructions and a sample video segment. The screen recording program Camtasia Recorder (2004) was 
+used to capture participants’ moves through the activity. In addition, the whole group was observed by 
+one of the authors. The screen recordings were the core data collection instrument, while the observation 
+helped select participants for interviews and helped explain sometimes atypical behavior noted in the 
+recordings (for example, when students experienced technical difficulties). Since the participants were 
+using headphones to listen to the lecture in order not to disturb one another, the screen recordings did not 
+contain audio but only video of participants’ interaction with the Astronomy unit. Once the participants 
+completed the Astronomy unit, they proceeded to the post-listening questionnaire and, in the third week 
+of study, they completed the recall test. After reviewing the questionnaires, tests, and several screen 
+recordings, six participants were invited to retrospective interviews because they switched between two 
+help options or did not use help at all. Only three of the participants agreed to meet for an interview, 
+during which they were shown parts of their screen recordings and questionnaire answers to elicit details 
+about their choice of help options. When all the data were collected, the screen recordings of all 
+participants were transcribed.  
+Analysis 
+To answer the four research questions in this study, the data were analyzed using quantitative and 
+qualitative data analysis approaches.  
+To address research question 1 about the frequency and time of participants’ interaction with help options, 
+the number of times each participant opened each help page and number of seconds spent on the page 
+were examined. While all the learners who did not correctly answer a question had to go to the page with 
+the help options, the screen recordings revealed that some learners did not use (or interact with) the help 
+options. Rather, they simply clicked on the link to the help page and as soon as the page loaded they 
+proceeded to the question page where they chose another option, i.e., they were fishing for the correct 
+answer using the trial and error method. For learners who engaged in such behavior, no useful interaction 
+was possible. Based on the loading times of the video clips embedded in the help pages and the rapid 
+progression of participants, the researchers determined that to usefully interact with the help option, 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 53 
+approximately seven seconds needed to elapse. The same criterion was applied to the frequency of 
+interaction so that only the help openings that involved useful interaction with help (called instances) 
+were examined. Once this criterion was set, the following variables were examined: help page openings, 
+instances of interaction, and time spent on the help page. Then, descriptive statistics were obtained for 
+these variables and paired t-tests were performed to compare the two help options. The list of all the 
+variables in the study is given in Table 1. 
+Table 1. Variables Examined in the Study 
+ Variable name Explanation 
+1 Help page openings Total number of times help pages were opened  
+2 Instances of interaction Number of times help pages were opened and 
+participants usefully interacted with them 
+3 Subtitles instances of interaction Number of times subtitle help pages were opened and 
+participants usefully interacted with them 
+4 Transcript instances of interaction Number of times transcript help pages were opened and 
+participants usefully interacted with them 
+5 Time on help page Total time on help pages in useful interaction 
+6 Time on subtitles page Time on subtitle help pages in useful interaction 
+7 Time on transcript page Time on transcript help pages in useful interaction 
+8 Incorrect answers Total number of incorrect answers on 10 multiple 
+choice questions following video segments  
+9 Post-listening questions Total number of correct answers on 4 post-listening 
+questions 
+10 Recall test questions Total number of correct answers on the recall test (max 
+10) 
+ 
+To address research question 2, help page openings, instances of interaction, and time spent on the help 
+page were examined to group participants according to common navigational behavior. The data showed 
+that there are four distinct patterns of interaction: a) subtitles pattern b) transcript pattern c) non-
+interaction pattern and d) mixed pattern. The participants following these patterns used only subtitles or 
+only transcripts during the activity, did not use any help options (non-interaction), or used both help 
+options (mixed interaction pattern). Based on the patterns, the participants were assigned into four groups 
+and means for six variables (incorrect answers, time on help page, help page openings, instances of 
+interaction, post-listening questions, and recall test questions) were calculated for each group. After that, 
+the means were compared using a single-factor ANOVA to see whether there were significant statistical 
+differences among groups, followed by a post hoc analysis (Tukey’s Honestly Significant Difference, 
+HSD) to determine exactly which group(s) were different.  
+To address research question 3 on the possible differences between groups at two proficiency levels, the 
+higher and the lower group were compared across ten variables (see Table 1) using a two-tailed t-test (p ≤ 
+0.05).  
+To address research question 4, examining participants’ attitudes towards help options before and after 
+the Astronomy unit, pre- and post-listening questionnaire answers were compared to see how many 
+students changed their preferences. Also, the reasons for the change of preferences were examined by 
+using questionnaire and interview responses.  
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 54 
+RESULTS AND DISCUSSION 
+Research Question 1: Frequency and Time of Help Option Use 
+Frequency 
+Overall, the participants exhibited great variation in help openings, a finding already reported in the 
+literature (Hegelheimer & Towers, 2004; Pujolà, 2002). The subtitles pages were accessed more 
+frequently than the transcript pages. In the course of the activity, the subtitles pages were opened on 
+average 6.88 times (SD = 4.95) and the transcript pages 2.17 times (SD = 3.68). Thus, subtitles page 
+openings accounted for 76% of all help page openings—three times more than transcript page openings 
+(24%). Table 2 shows the descriptive statistics for frequency of help option use. 
+Table 2. Help Page Openings and Instances of Useful Interaction by Help Option 
+ Help page openings Instances of interaction (Useful interaction)  
+ Frequency Mean, (SD) Total in % Frequency Mean, (SD) Total in % 
+Subtitles 124 6.88  (4.95) 76 48 2.66 (3.20) 65 
+Transcript 39 2.17  (3.68) 24 26 1.44 (2.15) 35 
+Total 163 9.06  (5.47) 100 74 4.11 (3.34) 100 
+ 
+When looking at the breakdown of instances of interaction by the two help options in Table 2, the results 
+show that 65% of all interactions were those with the subtitles which is almost twice as many as with the 
+transcript (35%). It could be that it was easier for the participants to play the video with subtitles than read 
+the transcript and play the video at the same time because they could read smaller amounts of text or 
+because they were accustomed to subtitles. Indeed, five participants who exclusively used the subtitles 
+reported in questionnaires that they always (4) or sometimes (1) watched subtitled movies on DVD.  
+The comparison of help page openings and instances of interaction with help options revealed that only 
+45% of help page openings resulted in help use (Table 3). The remaining 55% of the openings were 
+classified as non-interaction because the participants opened help (since that was the only way to proceed 
+with the activity), but they did not use it.  
+Table 3. Comparison of Help Page Openings and Instances of Interaction with Help Options 
+ Total Total in % 
+Help page openings 163 100 
+Instances of interaction (Useful interaction) 74 45 
+Non-interaction 89 55 
+ 
+The data also revealed an interesting finding about dictionary use. Not a single participant opened the 
+dictionary link or interacted with the dictionary, which was available in both help options. Low dictionary 
+use was noted in other studies as well (e.g., Hegelheimer & Tower, 2004; Kon, 2002).   
+Frequency of help option use is an important issue for research into design and implementation of help 
+options in CALL listening materials since help may not be always used even when readily available. This 
+may be due to a number of factors such as interface design and time on task. Thus, it is possible to add to 
+claims that there may be more help than needed in multimedia materials (Liou, 1997).  
+Time 
+The results of the amount of time on the help options showed that the participants spent twice as much 
+time on the subtitles pages (44 min 43 sec) than on the transcript pages (21 min 17 sec), which suggests 
+that participants made more use of the subtitles judging both by amount of time and frequency of 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 55 
+interaction. Also, the participants varied greatly in their help time from no help openings, and thus no 
+time spent on help, to more than 10 minutes on help which was almost one third of the amount of time 
+spent on task for that participant. To further examine time spent on help, its distribution in one minute 
+intervals is given in Figures 4 and 5. 
+0
+2
+4
+6
+8
+10
+0 0-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9
+Time interval in minutes
+N
+u
+m
+b
+e
+r 
+o
+f 
+p
+a
+rt
+ic
+ip
+a
+n
+ts
+ 
+Figure 4. Time spent on the subtitles in one minute intervals (N=18) 
+0
+2
+4
+6
+8
+10
+0 0-1 1-2 2-3 3-4 4-5 5-6 6-7 7-8 8-9
+Time interval in minutes
+N
+u
+m
+b
+e
+r 
+o
+f 
+p
+a
+rt
+ic
+ip
+a
+n
+ts
+ 
+Figure 5. Time spent on the transcript in one minute intervals (N=18) 
+Figure 4 reveals that five participants did not use subtitles at all, two used it less than one minute, and the 
+remaining eleven used it between 1 and 9 minutes overall. Figure 5 shows that ten students did not 
+interact with the transcript, one used it less than a minute, and seven used it between 1 and 8 minutes. 
+More explanation of the behavior of participants who did not use subtitles/transcript at all can be found in 
+the results to research question 2. 
+As can be seen from both Figure 4 and Figure 5, the highest number of participants spent less than one 
+minute both on the subtitles pages (n=7) and the transcript pages (n=11). Four participants spent between 
+1 and 2 minutes on the transcript (Fig. 5) and three participants spent between 1 and 2 minutes on the 
+subtitles (Fig. 4), suggesting that this time interval is to be the most frequent for all participants, i.e., most 
+participants got the information they needed in that time interval. 
+Both figures show that the number of participants accessing help decreased as the amount of time spent 
+on help increased. In the case of subtitles, this decrease is steady and could be explained by the fact that 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 56 
+participants usually tended to watch the whole video segment without fast-forwarding it. Also, the 
+average video segment in the activity was 1 minute and 5 seconds long. In case of the transcript, the 
+decline in frequency is not so gradual, probably because not a lot of participants used the video when 
+reading the transcript (only three students for a total of 4 times). Moreover, as some participants reported, 
+it was quicker to read the transcript than view the video in real time. When shown his recording, 
+participant 10 commented: "When I use the transcript it make[s] me speed up." Similarly, when talking 
+about the transcript, participant 17 remarked: "I can get information very quickly." In sum, the differences 
+in use of the two help options may be related to the nature of reading (quicker) and viewing (slower) in 
+this type of activity. 
+To compare the use of the two help options on three variables (help page openings, instances of 
+interaction, and time on help pages), a paired two-tailed t-test (df =17, t =1.6083) was run. The results 
+(Table 4) show that the difference between the subtitles and transcript page openings may not be due to a 
+chance (p < 0.0089), while no statistical significance was found for instances of interaction and time spent 
+on help pages. When interpreting the results, it is important to note that the set up of the study and the use 
+of an intact class of 18 participants does not allow for easy generalization of results to other contexts. 
+Follow-up studies with a greater n-size would be necessary for that.  
+Table 4. Results of t-tests for the Use of Subtitles and Transcript 
+ Subtitles  
+N=18 
+Transcript 
+N=18 
+p 
+ Mean SD Mean SD  
+Help page openings 6.88 4.95 2.17 3.68 0.00894* 
+Instances of interaction 2.66 3.20 1.44 2.15 0.24493 
+Time on help pages 02:29  01:11  0.14990 
+Note: Time is displayed in minutes and seconds. 
+* p ≤ 0.05 
+Research Question 2: Patterns of Interaction with Help Options 
+Based on the analysis of the number of help page openings, instances of interaction, and time spent on 
+help pages, four patterns of navigational behavior emerged: a) subtitles pattern, b) transcript pattern, c) 
+non-interaction pattern, and d) mixed pattern.  
+The participants in the subtitles group (n=7) used only the subtitles as help during the activity and did not 
+use the transcript at all. The transcript group participants (n=3) used only the transcript and did not access 
+the subtitles. Also for both groups, the number of incorrectly answered questions is similar to the number 
+of subtitle instances of interaction (subtitles group) or transcript instances of interaction (transcript group). 
+This means that the students used help when they selected an incorrect answer unlike the students in the 
+non-interaction group who did not use help at all although the activity was designed to encourage help 
+use. Retrospective interviews and questionnaires identified several possible reasons for using only one 
+help option: level of ease in using the help option, personal preferences, and previous experience with the 
+help option. Participants’ comments are presented in Table 5.  
+The non-interaction group participants (n=4) exhibited very specific behavior in the activity since they 
+had 10 or more openings of help pages per participant but mostly only one instance of interaction. This 
+suggests that the participants did not use help even though they opened help pages. Moreover, it is 
+interesting to note that all of the participants in this group belonged to the lower proficiency group. This 
+finding supports the claim by Desmarais, Laurier, and Renie (1998) that navigational patterns may be 
+connected with participants’ proficiency levels. 
+ 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 57 
+Table 5. Participants’ Reasons for Using Only One Help Option 
+Category Participant’s comment Participant 
+"Because it’s the easiest way to follow all the words the 
+speaker says" 
+9 Level of ease 
+"I chose subtitles since it was easy for me to find what 
+information I missed to answer a question..." 
+11 
+"I don’t like transcript because I lost my concentration for 
+listening from reading too much" 
+12 Personal preference 
+"In spite of learning English from the middle school, it's hard 
+to speak and listen English for most [Korean] students. But 
+most students can read and write. Anyway what I want to tell 
+you is that this is the problem for English education in my 
+country. So for me to read sentence is to easy for 
+understanding some story" 
+6 
+"I watch TV with subtitles" 20 Previous experience with 
+help "I’m accustomed to reading subtitles while listening" 11 
+ 
+The mixed interaction group (n=4) consisted of participants who used both the subtitles and the transcript 
+at least once in the activity. These participants switched between two help options either within the same 
+question or in the course of the activity. When compared to other groups, the mixed interaction group had 
+the highest number of instances of interaction in addition to the longest total time spent on help on 
+average per participant, which points to the interpretation that this group made extensive use of help. It 
+appears that experimenting with help is one of the reasons for switching between two help options. For 
+example, participant 18 remarked that she wanted to have a choice to see which help option worked better 
+for her. Similarly, participant 10 commented, "I just want to compare them [the subtitles and the 
+transcript]."  
+In order to get a more detailed analysis of the four different groups, a single-factor ANOVA with the p 
+value set at the .05 level was used to compare mean scores of groups across six variables. Statistical 
+significance between groups (Table 6) was found for three variables: incorrect answers, help page 
+openings, and instances of interaction. Also, for time on help page variable, the p value is approaching 
+statistical significance. However, since the division into groups was made after the experiment was 
+conducted and since the groups were small, the results can only serve as indicators of statistically 
+significant relationships that warrant further research. 
+Table 6. ANOVA Results for Group Differences on Interaction with Help 
+ Subtitles 
+group 
+N=7 
+Transcript 
+group 
+N=3 
+Non-
+interaction 
+group N=4 
+Mixed 
+interaction 
+group N=4 
+p 
+ Mean Mean Mean Mean  
+Incorrect answers 4.14 4 7 5.5 0.0318* 
+Time on help page 03:52 03:53 00:54 05:55 0.0540 
+Help page openings 5.71 6.33 13 13 0.0379* 
+Instances of interaction 4 4.33 0.75 7.5 0.0234* 
+Post-listening 
+questions 
+2.43 2.33 1.75 2 0.0740 
+Recall test questions 6.14 3.67 0 3.75 0.1630 
+Note: Time is displayed in minutes and seconds.  
+*p ≤ 0.05 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 58 
+As shown in Table 6, the subtitles and the transcript groups have very similar performance on average in 
+terms of incorrect answers, time spent on help, instances of useful interaction with help, and scores on the 
+post-listening questions. The subtitles group seems to have, by far, the best recall test score. The weakest 
+group overall is the non-interaction group whose participants have the highest number of incorrect 
+answers, shortest time on help pages in useful interaction, smallest instances of useful interaction, and 
+weakest score on the delayed recall test. As an example, not a single student in the non-interaction group 
+could recall any ideas from the lecture.  
+In order to determine which specific group(s) may differ from others on the variables under investigation, 
+a post hoc comparisons procedure—Tukey’s Honestly Significant Difference (Tukey HSD) was used. 
+Tables 7 and 8 show the pairs of groups whose differences between means were statistically significant at 
+the .05 level when two-tailed t-tests for all pairs of groups were run. It is interesting to note that although 
+four groups differed significantly on the help page opening variable (p=0.0379*) when the ANOVA was 
+performed, Tukey’s comparison method did not detect any significance probably because the p value was 
+adjusted. Similarly, although the p value for the time on help page variable was not significant (p=0.540), 
+Tukey’s HSD method revealed statistical significance between the non-interaction and the mixed 
+interaction groups (Table 8). 
+Table 7. T-test Results for the Differences Between the Non-interaction and the Subtitles Groups 
+ Non-
+interaction 
+group  
+ Subtitles group   p 
+ Mean SD Mean SD  
+Incorrect 
+answers 
+7 1.6 4.14 0.9 0.03336* 
+* p ≤ 0.05 
+ 
+Table 8. T-test Results for the Differences Between the Non-interaction and the Mixed Interaction Groups 
+ Non-
+interaction 
+group  
+ Mixed interaction 
+group  
+ p 
+ Mean SD Mean SD  
+Time on help 
+page 
+00:54 00:59 05:15 3:22 0.0355* 
+Instances of 
+interaction 
+0.75 0.5 7.5 5.1 0.0136* 
+Note: Time is displayed in minutes and seconds.  
+* p ≤ 0.05 
+Tables 7 and 8 show that the non-interaction group significantly differed from the mixed interaction and 
+subtitles groups on three variables. In addition to the weakest performance, this result makes the non-
+interaction group the most different from the other groups and thus of interest for CALL software 
+designers and applied linguists who should try to create materials that would encourage useful interaction 
+for this type of learner who chose not to use input modifications and thus did not benefit from the 
+enhanced input.  
+Research Question 3: Performance of Participants at Different Proficiency Levels 
+The data about the performance of two proficiency groups showed that groups varied in their use of help 
+options. The average performance of higher (n=10) and lower (n=8) groups is given in Table 9. When 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 59 
+examining total time spent on the help page, it can be seen that the higher group spent almost twice as 
+much time on average interacting with help options. This finding is in contrast with Liou’s (1997), whose 
+results showed that the ineffective group requested twice as much help as the effective group. In this 
+study, a possible explanation for the overall low time on help for the lower group could be due to the fact 
+that two of the participants did not use help at all and that four of the eight participants in this group 
+belonged to the non-interaction group as well.  
+When looking at time and frequency of useful interaction with each help option, data show that the higher 
+group made more use of the subtitles, though the average difference between the means of two groups 
+was not statistically significant. Interestingly, time and frequency of interaction with the transcript did not 
+vary much between groups. The lower group, on average, opened help pages more times than the higher 
+group, but the higher group had more useful instances of interaction—another proof that the higher group 
+used help options more effectively. This result is similar to the finding of Hegelheimer and Tower (2004), 
+who suggest that lower proficiency students may not only lack the competence to take advantage of help 
+options, but also may not know which help options may be more beneficial to them.  
+Table 9. Performance of the Higher and Lower Proficiency Groups on the Activity 
+ 
+Table 9. Performance of the Higher and Lower Proficiency Groups on the Activity (cont.) 
+Note: Time is displayed in minutes and seconds 
+H-higher group 
+L-lower group 
+A two-tailed t-test revealed statistical significance between the higher and lower groups on three variables 
+(incorrect answers, post-listening questions, and recall test questions). As could be expected, the means in 
+Table 10 show that the higher group had better comprehension and recall. Obviously, the weaker students 
+did not comprehend the content of the lecture well and did not answer many comprehension questions 
+correctly. Immediately after the lecture, their comprehension is even lower, while a week after the 
+activity, on the recall test, many of them could not remember any ideas from the activity. The reason for 
+this may be that the lecture was too difficult for the students or that the help options were not employed 
+ 
+ 
+Incorrect 
+answers 
+Time on 
+subtitles 
+pages 
+Time on 
+transcript  
+pages 
+Total time 
+on  
+help pages 
+Help page 
+openings 
+Subtitles 
+help page 
+openings 
+Transcript 
+help page 
+openings 
+ H L H L H L H L H L H L H L 
+Total 42 49 32:20 12:23 12:27 08:50 44:47 21:13 70 93 55 69 15 24 
+Mean 4.20 6.12 03:14 01:33 01:15 01:06 04:29 02:39 7.00 11.63 5.50 8.63 1.50 3.00 
+SD 1.48 1.64 2:50 01:53 1:33 2:30 2:41 2:31 4.57 5.68 4.67 5.01 2.07 5.10 
+ 
+ 
+Instances of 
+interaction 
+Subtitle 
+instances 
+Transcript 
+instances 
+Post- 
+listening 
+questions 
+Recall 
+test questions 
+ H L H L H L H L H L 
+Total 51 23 37 11 14 12 26 13 62 7 
+Mean 5.10 2.88 3.70 1.37 1.40 1.5 2.60 1.62 6.20 1.17 
+SD 3.73 2.47 3.80 1.69 1.84 2.62 0.84 0.92 2.82 2.04 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 60 
+effectively to compensate for comprehension breakdowns, which consequently resulted in low learning 
+outcomes. Finally, as already noted, some of the weaker students did not interact with the material at all, 
+since half of the group exhibited the non-interaction pattern of help use. This result supports Pujolà 
+(2002), who also found that some of the lower group participants never used help. As in all CALL 
+research, the result can be interpreted in the light of motivation and student attitudes but the effects of 
+those variables were minimized by the way the task was set up and integrated into the course.  
+Table 10. Comprehension and Recall Data for the Higher and Lower Proficiency Groups 
+ Higher proficiency group    
+N=10 
+Lower proficiency group      
+N=8 
+p 
+ Mean SD Mean SD  
+Incorrect 
+answers 
+4.2 1.48 6.12 1.64 0.018682* 
+Post listening 
+questions 
+2.6 0.84 1.62 0.92 0.032143* 
+Recall test 
+questions 
+6.2 2.82 1.17 2.04 0.001977* 
+* p ≤  0.05 
+Research Question 4: Attitudes towards Help Options 
+To look at attitudes towards help options, participants’ answers from pre- and post-listening 
+questionnaires were compared. The subtitles were preferred over the transcript—thirteen students chose 
+the subtitles and five chose the transcript both before and after the activity. Although the ratio between the 
+preference for subtitles and the transcript did not change (13:5), only one student kept to the transcript and 
+nine students to the subtitles (Table 11). This means that 8 students changed their preferences after they 
+encountered help; 4 changed from transcript to subtitles and 4 from subtitles to transcript. 
+Table 11. Participants’ preferences of help options as reported in questionnaires 
+                  Preferred help option  
+Before the activity After the activity 
+Number of 
+students 
+Transcript    Transcript 1 
+Transcript Subtitles 4 
+Subtitles Subtitles 9 
+Subtitles Transcript 4 
+ 
+A possible explanation for this shift in preferences could be that the participants realized which help 
+option worked better for them. A comment from participant 5 supports this: "I think I switch my answer 
+because I realized that it was easy for me to follow the lecture and understanding the speaking using 
+subtitles (like a close caption on TV)." Also, it can be speculated that the participants chose the type of 
+help they were most exposed to in everyday life. This was supported by answers to the question about 
+familiarity with transcripts and subtitles—out of 18 participants, 10 were familiar with subtitles, 1 with 
+both subtitles and transcripts, and 7 with none. 
+CONCLUSION AND LIMITATIONS 
+The results of this study about the use of subtitles and transcripts as help options in cases of listening 
+comprehension breakdowns showed that the participants used the subtitles more frequently and for longer 
+periods of time than the transcript. The subtitles were also the preferred help option before and after the 
+activity, and it appears that the participants picked the help option they were predisposed to in daily life. 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 61 
+The higher proficiency group also used subtitles more frequently and for longer amounts of time than the 
+lower proficiency group although both groups exhibited very similar behavior on the transcript. 
+Overall, the results show that the participants spent less time interacting with help options than was 
+anticipated when the study was set up, since the help pages were used only 45% of the time they were 
+opened. The failure of participants to make use of help options could be because of the task 
+characteristics, such as the degree of control and time pressure. It appears that some of the participants did 
+not like the fact that they could not skip help after answering a comprehension question incorrectly. 
+Moreover, time on task was limited to one class period of fifty minutes, which may have forced some of 
+the participants to finish quicker and did not allow them to use help to the extent they wanted, a factor 
+that could be controlled in future studies. Additionally, it could be speculated that external factors such as 
+motivation and attitudes towards the task could have influenced students’ behavior as well.  
+In the course of the activity, the participants exhibited great variation in the time spent on help, and a 
+large variation was also noted in frequency of help page openings and instances of useful interaction with 
+help. These findings support Hegelheimer and Tower (2004), and Pujolà (2002), who also found 
+variations in the use of help.  
+This research also identified four patterns of participants’ interaction with help options (subtitles, 
+transcript, non-interaction, and mixed interaction pattern) and described behavior of participants 
+following those patterns. The analysis showed major differences between subtitles and transcript groups 
+on one side and the non-interaction group on the other in terms of performance, help page openings, and 
+instances of useful interaction with help. While the subtitles and the transcript groups performed similarly 
+on comprehension questions during and after the activity as well as on time and frequency of help use, the 
+non-interaction group varied the most in behavior and performance from all other groups, probably due to 
+task difficulty and lack of motivation. 
+The results of this study need to be interpreted with the following limitations in mind. First, the number of 
+participants was relatively small and homogeneous in terms of proficiency levels. Second, the time 
+constraint of one class period limited the time spent on task, while technical limitations (no audio with 
+screen recordings, time-consuming transcriptions) slowed down the data analysis process. However, some 
+of these issues are difficult to circumvent when conducting research in an authentic classroom where 
+many of the variables cannot be controlled.  
+Implications  
+The fact that students preferred subtitles and used subtitles more than the transcript calls for making 
+subtitles the help option in multimedia listening materials of this kind. However, if CALL designers are 
+not limited to only one help option, offering transcripts in addition to subtitles is likely the best solution 
+because it provides learners with a choice. Also, rather than superimposing a prescribed route through the 
+material as was done here, we would now argue for giving users more control over the choice of help by 
+introducing the option to skip help altogether to accommodate different learning styles and preferences. 
+Based on the results of this study, it seems that the real issue of investigating help options lies in help use 
+vs. no help use. The non-interaction group participants who opened help pages but did not use help 
+showed the weakest performance during and after the activity. All of the participants in this group were 
+also in the lower proficiency group, which could partly explain their weak performance. From the point of 
+view of SLA acquisition theory, low comprehension could have resulted from no/minimal use of input 
+modifications available in the form of subtitles and transcripts. All of the other groups that made use of 
+input modifications demonstrated better learning gains overall.  
+If help use is found beneficial, then the question for CALL designers, teachers using CALL materials, and 
+learners interacting with help options is how to encourage the use of help. CALL designers could 
+implement software demos and tutorials that would promote the use of help. Teachers could prompt the 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 62 
+use of help for both in-class (use of lecture transcripts, subtitled digital video) and out-of-class listening 
+(captioned TV program, subtitled movies on DVD). They could also create CALL tasks that would 
+require the use of help, as well as observe students using help to encourage an effective use of learning 
+strategies. Finally, learners could be trained by teachers to use help options to their advantage (Hubbard, 
+2004). 
+Suggestions for Future Research 
+There are several possible paths to follow regarding future research on help options in multimedia 
+listening materials. First, if a replication of the present study is to be done, it could include a different 
+setting. The research could compare the use of the software in class, outside of class for homework, and 
+for independent study to see whether user interaction with help options would be different. Second, future 
+studies could be longitudinal and investigate help option use over a longer period of time for the same 
+group of participants. Also, future research could look at a different and larger sample of participants. The 
+use of the program by beginner and advanced students could add to the understanding of user behavior as 
+influenced by the proficiency level. Other important variables, such as student computer familiarity and 
+attitudes towards computers for language learning, could be taken into account when designing future 
+studies. Finally, the issues of motivation and student engagement should be assessed as a part of CALL 
+research because they affect student performance and consequently implications drawn from the data. 
+No matter which of these paths future research takes, the goal should remain to help CALL researchers 
+and practitioners, CALL software designers, and CALL users get a better understanding of interaction and 
+help use in multimedia listening materials. 
+ 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 63 
+APPENDIX.  Summary of studies dealing with help options in multimedia listening materials 
+Author 
+year 
+Title Participants Materials Help options 
+used 
+Frequency of 
+help option use 
+Patterns 
+described 
+Usefulness 
+(self-reported)  
+Hsu, 
+1994 
+Computer 
+assisted 
+language 
+learning 
+(CALL): the 
+effect of ESL 
+students’ use of 
+interactional 
+modifications 
+on listening 
+comprehension.  
+15 
+beginner 
+ESL 
+students 
+divided 
+into higher 
+and lower 
+group 
+Interactive 
+Active 
+English 
+CD-ROM 
+program  
+Three input 
+modifications 
+displayed from 
+the beginning 
+aural repetition 
+text 
+reinforcement 
+dictionary 
+1. text 
+reinforcement  
+2. aural 
+repetition 
+3. dictionary 
+Lower group: 
+aural 
+repetition-text 
+reinforcement-
+(dictionary) 
+ 
+Higher group: 
+text 
+reinforcement-
+(dictionary) 
+Most 
+beneficial 
+modifications 
+are:  
+text 
+reinforcement  
+audio 
+repetition 
+dictionary  
+Liou, 
+1997 
+ 
+ 
+ 
+ 
+Liou, 
+2000 
+Research on 
+on-line help as 
+learner 
+strategies for 
+multimedia 
+CALL 
+evaluation.  
+ 
+Assessing 
+learner 
+strategies using 
+computers: new 
+insights and 
+limitations.  
+ 
+20 EFL 
+college 
+students 
+divided 
+into 
+effective 
+and 
+ineffective 
+group  
+Self-paced 
+interactive 
+video unit 
+(IVD) 
+Eight help 
+functions 
+displayed on 
+request 
+Chinese script 
+English script 
+gist 
+background 
+information 
+idiom search 
+(dictionary) 
+ word search 
+(dictionary) 
+ repetition 
+(current 
+sentence) 
+ repetition 
+(previous  
+sentence) 
+video control 
+(pause and 
+rewind) 
+video controller 
+rewind  
+English script 
+Chinese script 
+ 
+Ineffective 
+group: 
+rewind 
+English script 
+Chinese script 
+ 
+Effective group:  
+1. English script 
+2. rewind 
+3. Chinese script 
+ pause 85%a 
+backward 
+85% 
+English script 
+80% 
+glossary 80% 
+repetition of  
+previous 
+sentence 80% 
+repetition 
+70% 
+Chinese script 
+55% 
+Note. Out of 100% 
+ 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 64 
+APPENDIX Continued 
+Author year Title Participants Materials Help options 
+used 
+Frequency of 
+help option use 
+Patterns 
+described 
+Usefulness 
+(self-
+reported)  
+Pujola, 2002 CALLing for 
+help: 
+researching 
+language 
+learning 
+strategies 
+using help 
+facilities in a 
+web-based 
+multimedia 
+program.  
+22 Spanish 
+adult EFL 
+students 
+divided 
+into four 
+groups of 
+decoders: 
+Higher 
+Average 
+Lower 
+Poorer 
+ 
+Web-based 
+multimedia 
+program 
+(imPRESSions) 
+Seven help 
+facilities 
+1. dictionary 
+2. cultural 
+notes 
+3. transcript 
+4. subtitles 
+5. video 
+controls 
+6. feedback 
+7. exerts 
+module 
+ 
+ 
+  
+Hegelheimer 
+& Tower, 
+2004 
+Using CALL 
+in the 
+classroom: 
+Analyzing 
+student 
+interactions 
+in an 
+authentic 
+classroom.  
+91 
+beginner 
+EFL 
+students 
+ 
+CD program 
+New Dynamic 
+English 
+Three options 
+available on 
+request  
+ABC button 
+(repetition of 
+aural input 
+accompanied 
+by displayed 
+text) 
+repeat button 
+(aural 
+repetition) 
+glossary 
+Repeat  
+ABC 
+Glossary 
+ 
+High 
+performance 
+group 
+Repeat  
+ABC 
+ 
+Low 
+performance 
+group 
+ABC 
+Repeat 
+  
+ 
+ 
+ 
+NOTES 
+1. In this study, subtitles are English captions of the English video soundtrack. 
+ 
+ACKNOWLEDGMENTS 
+We would like to thank the anonymous reviewers and the editors for their insightful comments and 
+suggestions that helped improve this article. 
+ 
+ABOUT THE AUTHORS 
+Maja Grgurović is a doctoral student in the Applied Linguistics and Technology Program at Iowa State 
+University. She holds an MA degree in TESL/Applied Linguistics from Iowa State. Her research interests 
+are CALL, multimedia, listening, and integration of technology into language teaching and teacher 
+education.  
+E-mail: gmaja@iastate.edu 
+ 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 65 
+Volker Hegelheimer, Associate Professor, teaches courses on technology in language teaching and 
+research, language assessment, and research methodology. His research interests include applications of 
+the WWW and emerging technologies in language learning and language testing. He has presented his 
+research and held academic workshops at numerous national and international conferences. His 
+publications have appeared in journals such as Language Learning & Technology, Language Testing, 
+System, Computer-Assisted Language Learning, ReCALL, CALICO Journal, and he has contributed to 
+several edited volumes on Computer-Assisted Language Learning. 
+E-mail: volkerh@iastate.edu 
+ 
+REFERENCES 
+Borras, I., & Lafayette, R. (1994). Effects of multimedia courseware subtitling on the speaking 
+performance of college students of French. The Modern Language Journal, 78 (1), 61-75. 
+Brett, P. (1996). Using multimedia: An investigation of learners’ attitudes. Computer Assisted Language 
+Learning, 9 (2-3), 191-212.   
+Brett, P. (1997). A comparative study of the effects of the use of multimedia on listening comprehension. 
+System, 25 (1), 39-53.  
+Camtasia Recorder (Version 2.0.5) [Computer software], 2004. Okemos, MI: TechSmith Corporation. 
+Chapelle, C. A. (1998). Multimedia CALL: lessons to be learned from research on instructed SLA. 
+Language Learning and Technology, 2 (1), 22-34. 
+Chapelle, C. A. (2003). English language learning and technology: Lectures on applied linguistics in the 
+age of information and communication technology. Amsterdam: John Benjamins. 
+Chun, D. M., & Plass, J. L. (1997). Research on text comprehension in multimedia environments. 
+Language Learning & Technology, 1 (1), 1-35. 
+Desmarais, L., Duquette, L., Renie, D., & Laurier, M. (1998). Evaluating learning interactions in a 
+multimedia environment. Computers and the Humanities, 22, 1-23. 
+Desmarais, L., Laurier, M., & Renie, D. (1998). The analysis of navigation patterns in CALL. Computer 
+Assisted Language Learning, 11 (3), 309-315. 
+Garza, T. (1991). Evaluating the use of captioned video materials in advanced foreign language learning. 
+Foreign Language Annals, 24 (3), 239-258. 
+Grgurović, M. (2005). Research into the use of help options in a multimedia listening unit. Unpublished 
+MA thesis, Department of English, Iowa State University, Ames, IA.  
+Guillory, H.G. (1999). The effect of keyword captions to authentic French video on learner 
+comprehension. CALICO Journal, 15(1-3), 89-108. 
+Hegelheimer, V., & Tower, D. (2004). Using CALL in the classroom: Analyzing student interactions in 
+an authentic classroom. System, 32, 185-205. 
+Hsu, J. (1994). Computer assisted language learning (CALL): The effect of ESL students’ use of 
+interactional modifications on listening comprehension. Unpublished doctoral dissertation, Department of 
+Curriculum and Instruction, College of Education, Iowa State University, Ames, IA. 
+Maja Grgurović and Volker Hegelheimer Help Options and Multimedia Listening 
+ 
+Language Learning & Technology 66 
+Hubbard, P. (2004). Learner training for effective use of CALL. In S. Fotos, & C. M. Browne, (Eds.), 
+New Perspectives on CALL for Second Language Classrooms, (pp. 45-67). Mahawah, New Jersey: 
+Lawrence Erlbaum Associates. 
+Kon, C. K. (2002). The influence on outcomes of ESL students’ performance strategies on a CALL 
+listening comprehension activity. Unpublished MA thesis, Department of English, Iowa State University, 
+Ames, IA.  
+Liou, H.C. (1997). Research on on-line help as learner strategies for multimedia CALL evaluation. 
+CALICO Journal, 14 (2-4), 81-96. 
+Liou, H.C. (2000). Assessing learner strategies using computers: new insights and limitations. Computer 
+Assisted Language Learning, 13 (1), 65-78. 
+Long, M. H. (1996). The role of linguistic environment in second language acquisition. In W. C. Ritchie, 
+& T. K. Bhatia, (Eds.), Handbook of second language acquisition (pp. 413-468). San Diego: Academic 
+Press. 
+Pica, T. (1994). Research on negotiation: What does it reveal about second-language learning conditions, 
+processes, and outcomes? Language Learning, 44(3), 493-527. 
+Plass, J.L., Chun, D. M., Mayer, R. E., & Leutner, D. (1998). Supporting visual and verbal learning 
+preferences in a second language multimedia learning environment. Journal of Educational Psychology, 
+90 (1), 25-36.  
+Pujolà, J.-T. (2002). CALLing for help: Researching language learning strategies using help facilities in a 
+web-based multimedia program. ReCALL, 14 (2), 235-262. 
+Rubin, J., Quinn, J., & Enos, J. (1988). Improving foreign language listening comprehension. Report on 
+Project 017AH70028, (Sept.) Washington, DC: International Research and Studies Program, U.S. 
+Department of Education. 
+Thompson, I., & Rubin, J. (1993). Improving listening comprehension in Russian. Report on Project 
+017A00032. International Research and Studies Program, U.S. Department of Education. 
+Vanderplank, R. (1988). The value of teletext sub-titles in language learning. ELT Journal, 42 (4), 272-
+281. 
+Vanderplank, R. (1990). Paying attention to the words: practical and theoretical problems in watching 
+television programmes with uni-lingual (CEEFAX) sub-titles. System, 18 (2), 221-234. 
+ 

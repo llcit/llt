@@ -1,0 +1,307 @@
+Language Learning & Technology
+http://llt.msu.edu/vol7num3/net/
+September 2003, Volume 7, Number 3
+pp. 4-17
+Copyright © 2003, ISSN 1094-3501 4
+ON THE NET
+|Interactive and Multimedia Techniques in Online Language Lessons:
+A Sampler
+Jean W. LeLoup
+SUNY Cortland
+Robert Ponterio
+SUNY Cortland
+While one might think the definition of distance education would be simple enough, the concept and
+justification of learning over distances are actually under continual debate (Distance Education
+Clearinghouse, 2003). There are probably as many explanations and rationales of distance learning as
+there are sites and modes of offering it in its various forms: eg., self-directed study or teacher-guided
+coursework available only online, surmounting geographical barriers. In many ways, foreign language
+(FL) study seems a natural candidate for distance learning, one major goal being the connection of
+language learners with target language input and native speakers, which are often a great distance away.
+Digital technologies have advanced to such a point that this distance no longer presents much difficulty,
+even though it physically still exists. A myriad of distance language learning sites can be found online,
+and some are quite good from both a pedagogical and a technological perspective.
+The fundamental skills that students need to learn to use a language come through communicative
+interactions, through the example of a teacher/model who can speak the language proficiently, and
+through lots of reflective practice that depends on meaningful feedback. The success of self-study
+materials claiming to teach foreign languages suggests that the desire to learn new languages outside the
+classroom setting is widespread. That publishers tend to sell many more of these materials for the very
+early stages of language learning suggests that motivation often drops off as the difficulty of the task,
+especially without the support of a teacher, becomes apparent to the naive learner. More and more online
+materials for learning new languages implement interactive activities that attempt to compensate to some
+extent for the lack of a teacher's physical presence and support. Authors of such materials do not claim to
+do the job better than a teacher in a face to face learning environment, but they do fill an important niche
+for those who cannot get to a class but who are trying to get a start on a new language or review one that
+has been studied in the past. In this column we will examine some of the techniques used in a variety of
+these sites for learning several languages. The lessons featured were chosen for their quality, the variety
+of technical features, range of pedagogical techniques, and selection of languages taught.
+(n.b. This article shows how a number of teachers are using Web technologies to teach language, but it
+does not seek explain how to produce these techniques in one's own Web page. Because of this, the
+interactive samples that the authors have included in this article are designed to perform only the specific
+functions presented. They were programmed by the authors only for illustrative purposes, not for tutorial
+purposes, and do not necessarily work in the same way as those found on the pages being discussed. If
+you wish to analyze the technical methods used in order to learn how to design similar activities, be sure
+to study the original code, JavaScript, objects, ASP, and so forth, from those pages rather than the code
+used in this article.)
+One of the most interesting collections of interactive language activities is the Spanish Grammar
+Exercises site by Barbara Kuczun Nelson at Colby College
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 5
+http://www.colby.edu/~bknelson/exercises/
+The "¡Qué miedo pasé!" module on this site is an excellent example of the integration of a number of
+different techniques guided by sound pedagogical principles directed towards clear communicative and
+grammatical goals. The student watches a short video in Quicktime format in which a woman tells a story
+about something that happened to her at her job. The pre-listening introduction sets the scene and presents
+enough context so the student is prepared to listen (Omaggio Hadley, 2001; Shrum & Glisan, 2000).
+instrucciones
+El preterito y el imperfecto
+ejercicio (sin los verbos)
+ejercicio (con los verbos)
+tarea para mandar
+accents on a Mac or PC
+Download QuickTime free
+¡Qué miedo pasé! home
+Spanish Grammar Exercises
+The main page in which the video and instructions are presented uses
+frames to allow the menu and the video to remain in the same place in the
+left hand pane of the screen at all times while the various stages of the
+activity appear in the right hand pane when selected by the student.
+The fill-in exercises reproduce the text of the video with the verbs cut out. The student can view the video
+using audio as a cue for completing the verbs in the exercise. The activities, presented with and without
+infinitive cues, serve quite different pedagogical functions. In the version without written cues, the
+student uses listening comprehension skills to identify the missing vocabulary and verb tense.
+In the version with cues, the student may tend to focus more on the grammatical structure, preterit vs.
+imperfect, and less on comprehension of the meaning to identify the correct answer.
+In both fill-in exercises, when each answer has been attempted, clicking anywhere outside the textbox for
+the answer compares the student's response with the correct answer for that item. Any letters in the
+student response that differ from the correct answer are replaced by a "=" to mark not only that there is a
+problem, but to indicate exactly where the problem lies. Clicking on the button following each textbox
+fills in the box with the preferred answer.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 6
+Finally, a "tarea para mandar" activity allows students to respond to an open-ended homework question
+and send the answer to the teacher. To answer this question, students must interpret the text to identify
+important elements, reorganize the text, and phrase a multi-sentence answer in their own words.
+This summary activity takes the student a step beyond the comprehension and grammar practice of the
+fill-in activities while providing an opportunity to use the skills learned through those previous tasks. A
+potential technical problem lies in the need for the student to accurately type in the teacher's email address
+for the cgi script on the server to send the homework to the right place. This can easily lead to the excuse:
+"The computer, rather than the dog, ate my homework."
+There are many ways of using the ability to have students post open-ended replies though a web page.
+Whereas in this case the reply is sent to the teacher, it is also possible to collect those replies to be shared
+with other students who could, in turn, comment on them. It is possible to use similar techniques to
+collect the answers to several questions from a student and then reorganize them for the student as the
+basis of a longer composition assignment.
+Professor Nelson's site includes activities using a number of different, well constructed technical tools.
+Another interesting activity makes use of images and Quicktime audio to demonstrate pronunciation in
+much the same way that a teacher might in a classroom environment: http://www.colby.edu/~bknelson/
+exercises/pronunciacion.html.
+There are a number of pages on the Internet that use audio to illustrate pronunciation for language
+students, but the technical implementation often results in slow turnaround time for the audio portion (i.e.,
+there tends to be too long a lag between pressing the button and hearing the sound) making the interaction
+awkward. Good reaction times will tend to mimic those of ordinary conversation (Martin, 1973).
+In the pronunciation exercise for the letter "g" we find embedded audio, that is to say that the audio plays
+in a plug-in that appears as an object on the Web page, not in a separate window. This method makes for
+an easy to use interface because the student is not confused by new windows opening on the screen when
+a sound is played. Thus the relationship among the visual cues, the hyperlink button, and the audio player
+remains constant.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 7
+Because the audio files use a high quality, high compression codec (compression/decompression
+algorithm), they can be downloaded to the local browser along with the images in the Web page so that
+they can play instantly when their button is pressed as they do in the selected samples below. (The reader
+may need to download the free Quicktime player for these audio samples to work.)
+When designing a page using this technique, it is essential to carefully allow for the download time of all
+of the components that must be loaded when the page opens. In these pronunciation lessons, the balance
+of file size, audio quality, number of sounds, and ease of use combine to create a very effective lesson.
+Any of the various multimedia formats currently in use may require users to install or upgrade software
+plug-ins such as RealPlayer, Quicktime, or Windows Media Player, to play them. This is even more true
+when the media is embedded, as it is here, because the page will not appear as it was intended to until and
+unless the software is downloaded and installed. This can be problematic when users have very limited
+technological acumen or if they are in a lab where security prevents them from installing software. It
+behooves language teachers to learn about which multimedia programs and plug-ins are used in Web
+lessons and ask that these be installed and kept up-to-date on machines that students may be using. The
+designers of these lessons routinely provide this information on their Web sites.
+http://fog.ccsf.cc.ca.us/~creitan/grammar.htm
+In her French Online Grammar Quiz, Carol H. Reitan uses a few different exercise formats, some of
+which were designed by other colleagues. For instance, the Javascript for a multiple choice activity that
+has the student fill in blanks in a sentence was scripted by Doug Popeney and shared via online tutorials.
+Sharing software modules in this way allows teachers with creative pedagogical skills to implement
+quality online activities without learning arcane programming techniques or reinventing the wheel. Here
+the student selects the correct word or expression to fill in the blank from choices listed in the drop down
+box.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 8
+http://fog.ccsf.cc.ca.us/~creitan/q3de.htm
+When all questions have been answered, the student clicks on a button to find out which responses were
+right or wrong and to learn the percentage of answers that were correct. In this activity, the student must
+attempt to answer all questions before checking any answers.
+In a different lesson by professor Reitan, a listening activity asks students to distinguish which of two
+sounds they are hearing. Here the student receives immediate feedback for each answer in the form of a
+smiley or frowning face.
+http://fog.ccsf.cc.ca.us/~creitan/poisson/
+Another activity has students select between the imperfect and passé composé forms of verbs in the
+context of a paragraph. The javascript for this exercise was originally written by Barbara K. Nelson using
+a lookup array to select meaningful feedback written for each possible answer. When the student selects a
+verb, the feedback explaining why the choice was correct or wrong appears in the textbox.
+http://fog.ccsf.edu/~creitan/clark.htm
+Creating feedback determined by digital error analysis can be a daunting task for open ended activities
+because there are so many possible student errors that need to be anticipated. By limiting the student's
+choices, the analysis of errors is vastly simplified allowing the software to provide far more detailed
+explanations than the common yes/no feedback that one finds in most online activities.
+The German Electronic Textbook uses WebPractest© by Gary Smith, an online utility for creating cloze
+passages with some interesting features. It may be used for free by teachers to create their own activities
+by following online instructions. We will examine an example from the grammar lessons at the site.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 9
+http://www.wm.edu/CAS/modlang/gasmit/grammar/grammnu.htm
+The following cloze activity for the verb sein uses a question/answer format to provide some context,
+though context in a drill of this sort, where individual replies appear as separate items, tends to be limited
+no matter what the medium used to present it. Verbs have been cut out, replaced by textboxes into which
+student may type a response. To obtain an additional cue, the student can place the cursor over a yellow
+book icon to see a pop-up translation. The responses that have been typed in may be checked for accuracy
+at any time during the activity. At that point, whatever textboxes contain replies will be examined by the
+software and the student's response converted to plain text in green for correct answers and in red for
+errors.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 10
+When the activity is completed, the student can submit the results to the teacher by e-mail. For
+identification purposes, the e-mail report asks for the student's name, e-mail address, exercise
+identification information, and the teacher's e-mail address. The techniques used in these activities are
+quite interesting. Students may obtain feedback as soon as they wish, they may request an additional cue
+as determined by the teacher, and the teacher may receive a copy of the student's results. Submitting the
+report to the teacher is worthwhile because the ability for the teacher to track student progress is an
+essential feature of an assignment that is a required component of a class rather than a self-assigned
+activity by an independent student motivated only by the desire to learn the language.
+In the Italian lessons at the University of British Columbia, Jessica Barbagallo uses another fill in the
+blank format for review exercises.
+http://www.arts.ubc.ca/italian/
+In the sample activity shown below, textboxes allow students to write the appropriate verb forms. The
+submit button labeled Controlla le tue riposte counts the number of responses that match the correct
+answers programmed in the page, but it does not give automatic feedback indicating which replies contain
+errors or what the errors are. However, the student can examine the answer key to figure out which are
+wrong.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 11
+The format allows the student to practice composing the words in the answers, but it might be more
+effective, especially in a review rather than a testing situation, if the program were to show the student
+where the problems were located. This would help focus the student's attention and also avoid the
+problem of casting doubt in the student's mind on the accuracy of correct answers. This might also
+encourage the student to figure out the answer rather than look it up in the answer key. On the other hand,
+an answer key gives the student practice checking her own answers and may lead to improved skills in
+self-correction. There is no one right way to construct feedback.
+The KET Distance Learning site includes a selection of online courses. Most of the site is open to the
+general public, including the grammar lessons for Latin that we examined for this column. These lessons
+make extensive use of multiple choice and concentration-style matching activities for interaction with
+students. The feedback on the multiple choice sections at this site has the particularity of being
+instantaneous.
+http://www.dl.ket.org/latin2/grammar/
+In the sample relative pronoun exercise shown below, selecting an incorrect response immediately crosses
+out the wrongly selected letter choice whereas clicking on the correct answer produces a checkmark. The
+feedback remains on the screen for a short time, then disappears. Thus the markup avoids becoming a
+distraction.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 12
+The promptness of the feedback works to better reinforce accurate grammatical choices. The multiple
+choice format lends itself readily to the computer medium because of the ease with which such simple
+responses can be evaluated. The drawback, of course, is that the student is not practicing production of
+actual language but recognition of the forms presented.
+A very different use of the computer is apparent in the Viva Voce Roman Poetry site by Vojin
+Nedeljkovic.
+http://dekart.f.bg.ac.yu/~vnedeljk/VV/
+Multimedia features allow students to learn pronunciation by listening to recited poetry in mp3 format
+while viewing the text and/or examining a representation of the poem's meter.
+The audio files for this lesson are quite a bit longer than those mentioned in the Spanish Grammar
+Exercises above. They clearly appear to the user as links to files that are first downloaded, then played,
+and the size of the file is indicated so that the user knows how big it is before beginning the download.
+Because of this manner of presenting the links the rapid response discussed earlier for the grammar
+exercise is not an issue here. The download time is easily perceived as appropriate for the task.
+Although there are no clearly defined learning goals and interactive evaluation of student learning, the site
+gives power to the student to control the interaction with and manipulation of the material presented and
+provides examples that the student needs to learn about how we think classical Latin poetry was
+pronounced. Thus rather than the teacher leading the student through the learning process by a
+predetermined route, it is the student who makes choices about how to best use the material to study in a
+manner fitting the student's individual learning style.
+Vietnamese is an example of a less commonly taught language in the US with special considerations in
+terms of its writing system, which requires diacritics beyond those of the iso-8859-1 or LATIN-1
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 13
+character set that is standard in browsers available in the US and western Europe. Vietnam Television
+provides Web-based lessons to accompany its televised Vietnamese lessons http://www.vtv.org.vn/
+tiengviet/. This site includes a link to download Vietnamese fonts for viewing the pages for browsers and
+operating systems that do not have this ability built-in. In newer browsers and operating systems this
+should not be a problem. Fonts, however, can be quite confusing for most people who have little
+understanding of the complex interactions among operating system, installed fonts, browsers, and browser
+settings. For most people, troubleshooting font problems can be a daunting task, and even for experts,
+writing easy to follow and comprehensive instructions that take into account the range of possible
+environments in which a page may be viewed can be quite difficult. The font implementation on the
+Vietnam Television site seems to be more transparent than most on the systems where we have tested it.
+Extensive use of video is an interesting feature of these lessons. Of course, a television station is
+particularly well placed to integrate video in its Web site. In this case the lessons use Real Player to play
+short streaming video segments that are supported by written text and questions on the corresponding web
+page, which can display Vietnamese language characters. For example, in lesson 41  of this
+series we see two young women discussing vacation spots around Vietnam including, of course, Ha Long
+Bay (see photo).
+Although when examined by the authors the video download on this site was slow, connections have been
+getting better and will continue to improve, especially as broadband Internet access becomes the standard
+throughout the world. For example, the following embedded excerpt, extracted from this high quality
+RealPlayer video, will work well only for readers with a fast connection. It is possible with today's
+technology to produce videos of similar quality using a much higher level of compression for faster
+downloads. (The reader may need to download the free RealOne Player for this video sample to work.)
+(Click on the image to download RealOne Player.)
+Such videos of conversations between native speakers can help the language come alive and provide a
+model of authentic speech, if not the valuable oral interaction of the face-to-fece learning environment,
+that makes the language real for the learner. Development of such Web-based technologies is essential for
+providing the tools that allow the Web to transcend the limitations of the printed page.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 14
+There are a number of different ways to display a character set for a language in a Web browser. On older
+browsers a special font for the language could be downloaded and installed, but more recent operating
+systems such as Windows 2000 or XP and the latest Web browsers using the Unicode font allow more
+transparent access to other languages' writing systems. The Vietnamese lessons at Northern Illinois
+University are built to function with either method depending on user preference, but the much easier new
+system is certain to eventually replace the old.
+These lessons present dialogs and vocabulary lists for study, but also include fill-in exercises and
+interactive activities to help the student check progress. Audio is used throughout to model the language
+for the learner. As may be seen in Lesson 1 below, the audio dialog is first presented in its entirety but is
+then broken down into separate files for each reply, allowing the student to easily study and repeat
+individual sentences.
+http://www.seasite.niu.edu/vietnamese/uniLesson1/Lesson1_main.htm
+The site presents a variety of exercise types including, for example, a Java-based drag-and-drop sentence
+creation activity in which the student selects words and uses the cursor to drag them to their proper place
+in the sentence. The interactive activity shown below may be run at the Lesson 1 page at SEAsite by
+selecting Interactive exercise 3.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 15
+A drag-and-drop activity works particularly well in a language such as Vietnamese where one does not
+need to learn inflections that are everywhere in languages such as Spanish or German requiring students
+to study special word forms for verb number and tense or noun number or declension.
+In Chinese, stroke order is important when learning to write characters. The image shown
+here is an animated gif file that will display the character, stroke by stroke. The animation,
+made possible by the computer, is a major advantage over the printed page for teaching
+skills that need to be learned step by step. 
+For instance, on the page for learning numbers, the student can click on any number to see its stroke
+order. After clicking on the complete character in the table, a representation of the character appears to
+the right but is drawn one stroke at a time and slowly enough to allow the student to follow the order.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 16
+http://www.ocrat.com/ocrat/chargif/numbers.html
+A potential though unlikely technical problem with animated gif files as a learning tool is that it is now
+possible to turn off animations in Web pages to speed up display. A student whose settings will not
+display the animation may not know this and be confused by the lack of animation, not understanding
+why the page is not doing what it is supposed to do or how to troubleshoot the problem.
+Sometimes, in language learning, two chairs and face-to-face communication between a target language
+speaker and learner comprise the best method and technology (Ponterio, 1998, personal communication).
+However, even that simple methodology is not always available. For those language learners without
+recourse to conventional classroom instruction experiences, distance education is a very viable option.
+The sites discussed above offer ample opportunities for comprehensible input, meaningful feedback,
+interactivity, and control over one's own learning pace and sequence. Distance learning erases the
+distance.
+Jean W. Leloup & Robert Ponterio On the Net: Interactive and Multimedia Techniques…
+Language Learning & Technology 17
+REFERENCES
+Distance Education Clearinghouse. (2003). Definitions. Available from
+http://www.uwex.edu/disted/definition.html
+Martin, J. (1973). Design of Man-Computer Dialogues. Englewood Cliffs, NJ: Prentice-Hall.
+Omaggio Hadley, A. (2001). Teaching language in context (3rd ed.). Boston, MA: Heinle.
+Shrum, J. L., & Glisan, E. W. (2000). Teacher's handbook: Contextualized language instruction (2nd
+ed.). Boston, MA: Heinle.

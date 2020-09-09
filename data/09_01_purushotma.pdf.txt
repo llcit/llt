@@ -1,0 +1,534 @@
+Language Learning & Technology
+http://llt.msu.edu/vol9num1/purushotma/
+January 2005, Volume 9, Number 1
+pp. 80-96
+Copyright © 2005, ISSN 1094-3501 80
+COMMENTARY: YOU'RE NOT STUDYING, YOU'RE JUST…
+Ravi Purushotma
+Massachussetts Institute of Technology
+ABSTRACT
+As often as language teachers lecture about the importance of continual practice to adolescent
+learners, the dullness of homework exercises designed primarily to be educational has difficulty
+competing with popular media designed solely to be entertaining. Recently, numerous attempts
+have been made to develop "edutainment" titles that seek to merge educational goals with
+entertainment content; oftentimes, however, they fail to achieve either goal and fall instead into
+niche markets.
+Rather than seeing entertainment-focused media forms as adversarial to educational content,
+educators should instead embrace them. This commentary examines how content originally
+designed for entertainment purposes can be modified to provide natural and context rich language
+learning environments, without sacrificing its entertainment value. First, I examine a modification
+to the number one selling video game The Sims that intelligently combines game data from the
+English edition with data from editions of other languages to form a bilingual gaming
+environment. This exposes learners to abundant L2 vocabulary, yet still provides enough L1
+support not to detract from the game. This principle is then extended to other applications such as
+music videos, typing tutors, and voice-navigated games. Finally, areas of otherwise wasted time
+are identified, such as waiting for Web pages to load or walking to class, with suggestions of how
+technology can facilitate language learning during these times.
+In a single week, I met five people each claiming to be the world's worst language learner. Having
+legitimately claimed this title for myself long ago, it's obvious they were only exaggerating. Still, in
+listening to their various language learning histories, it seems we all reached this conclusion from similar
+experiences: Frustration with our old high school workbooks, a sense of helplessness when confronted
+with lists of isolated vocabulary to memorize, and little connection between assignments and our
+everyday life. While changes in classroom environments over the past century have allowed in-class
+learning to evolve considerably, the guidance students receive on how to continue learning a language
+outside of class has remained relatively the same. In general, beginning students are advised to set aside
+dedicated study time for completing practice exercises and to rehearse vocabulary items with techniques
+such as flashcards. However, as the current dot-com generation grows up submerged in captivating and
+dynamic media forms, educators will likely need to adapt their conceptions of homework to match if they
+wish to capture the interests of adolescent students. While recently numerous suggestions have been
+advanced for enlivening the language learning experience with interactive activities and online
+collaboration (e.g., LeLoup & Ponterio, 2003), much of the potential for the integration of entertainment
+media with mainstream language learning remains untapped -- something that would have been pivotal
+for my own early language learning experiences.
+Finding my high school German homework assignments frustrating and dull, I rarely managed to
+complete assignments. Naturally, as the course progressed it became increasingly difficult for me to
+remain an active participant in class -- in turn, making homework assignments yet more frustrating. At the
+end of the year, I left the course with only two things: an ability to irritate my teacher enough never to be
+called upon in class and an "F" in German 1. It was at this time I dubbed myself "the world's worst
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 81
+language learner" and publicly declared that I was well satisfied with my monolingual status, with full
+intentions of keeping it throughout my life.
+Fortunately, the Internet later provided a perspective on foreign language and culture considerably more
+appealing than the one I received in ninth grade. Far from the German "She'll be Comin' Round the
+Mountain" we used to open each morning, sites like audioscrobbler connected me to modern commercial
+songs by analyzing youth in Germany with the same musical tastes. Rather than spending my free time on
+"find the conjugated form" word-search puzzles, I practiced contextualized conversation and grammar by
+loading learning materials found on the Internet into my cell phone and listening to them in my spare time
+while walking between classes. Surprised and encouraged by how much I learned from such a simple
+system, I enrolled in further German study and set about developing more complex ways of using
+technology to increase my foreign language exposure in practical and entertaining contexts.
+YOU'RE NOT STUDYING, YOU'RE JUST PLAYING THAT SIMS™ GAME OF YOURS
+For many adolescent language learners, the suggestion of playing an edutainment software title
+unfortunately conjures up images of simplistic space invader games, re-programmed to solicit foreign
+language vocabulary before being able to be able to shoot at a screen of sketchily drawn aliens. For
+students in a class only because of a mandated requirement, the temptation to forego all educational value
+for a modern software title instead designed solely to be entertaining is far too enticing. Upon a closer
+look, however, some of these same entertainment-focused titles possess much of the basic content desired
+in an educational title. For example, if we look at the number one selling game (Croal, 2003) The Sims,
+we see a lot of the same content one might find in an introductory language textbook.
+The Sims is a game designed to simulate normal everyday life. Players control the daily routines of a
+virtual family, guiding them through tasks such as managing personal hygiene, cooking food, finding
+jobs, entertaining guests, and so forth. After assigning professions to their characters, players then manage
+the family finances, deciding how to best purchase furniture and appliances to develop their house based
+on analysis of the emotional states of their characters. In playing the English version of the game, I
+noticed the vocabulary for the tasks contained many of the same words as the German homework I should
+have been studying instead. Finding that the language of the game could be changed to German simply by
+switching a single registry setting, I placed a laptop with a translation tool beside my main computer and
+continued playing the game in German. When the vocabulary items then came up in class, I was already
+familiar with them and could recall the relevant associated contexts and animations used in the game.
+While there have already been numerous suggestions for using commercial simulation games as language
+learning contexts (see, e.g., Coleman, 2002), most are based on designing external activities without
+modifying the games themselves. Traditionally, modifying a commercial game's interface or language
+data was an impossible task, as its programming was often locked away in compiled binary code. Today,
+however, most game designers separate game data into external files and actively encourage third-party
+customizations. For games like The Sims, this has led to an explosion of enhancements for the
+entertainment value of the game, though so far little has been done to take advantage of this
+customizability for educational extensions. One freely available customization tool provides users with
+direct access to the language data used in the game. By using macros, or scripts, educators can rapidly
+extract the parts of the first language (L1) game data they feel necessary for scaffolding learners and then
+integrate them as available translations within the second language (L2) version of the game (see Figure
+1).
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 82
+Figure 1. The Sims German Edition, annotated for English speaking students
+In Figure 1 we can see an edit in which the main interface uses data from the German version of the
+game, yet includes tool tip data from the English dataset, so that if a player does not know a German word
+such as "Kochen," s/he can leave the cursor over the word and receive a pop-up explanation which
+includes an English translation. Also, enough keywords are glossed for the prompt "Do you wish to save
+before quitting" (literally: "Wants you save, before you the game quit?") to ensure a player would not get
+frustrated trying to understand, but makes it likely they will first read in the L2.
+This method of modifying video games offers a powerful vehicle for further exploring recent work on
+incidental learning. Hulstijn (1992), suggests that vocabulary retention can be improved if new words are
+glossed with multiple choices in which the learner must then decide the most appropriate choice (Figure
+2).
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 83
+Figure 2. Players are presented two meanings for the word "Post," making them evaluate which most
+likely combines with the word "angestellter" and fits in the context of being their Sim's profession.
+Unfortunately, in a traditional reading environment this can have adverse effects for both reading
+comprehension and vocabulary retention if learners make the wrong choices (Watanabe, 1997). In a video
+game, however, some incorrect assumptions by learners can be recovered through the interactions present
+in a typical gaming environment. For example, one of the variables players must keep track of is their
+Sim's energy level -- represented in the German version by a bar labeled "energie." If a poor learner were
+to guess the meaning of this word incorrectly, her/his character would take steps to notify the player until
+the energy variable was addressed: First, the character would act sleepy and think about beds (Figure 3).
+Figure 3. Sleepy Sim
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 84
+If the learner still failed to recognize and improve the Sim's energy level, the game would take control and
+show the learner how by having the Sim fall asleep on the spot (Figure 4).
+Figure 4. Asleep Sim
+Besides interactivity and flexibility, video games provide content that is naturally rich in associations.
+Numerous studies report on how glossing reading passages with images and videos can enhance
+incidental vocabulary acquisition better than can text-only glosses (Al-Seghayer, 2001). Creating images
+for glosses, however, also requires more work than simply writing text -- and videos yet even more. By
+using video games as content platforms, images and animations become an automatic and effortless part
+of the environment. In The Sims, anytime a player clicks to receive elaboration on variables they need to
+monitor, it presents a window already containing images of all the game items relevant to that variable
+(see Figure 5).
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 85
+Figure 5. Detailed view provides both textual and pictorial information
+Another challenge in incidental learning is that materials should be personally relevant and useful to the
+learner (see Huckin & Coady, 1999). In a gaming environment, content is generally presented to the user
+because of its direct relevance to their task. Should a player in The Sims choose to ignore messages about
+the variable harndrang ("bladder") and any game cues (e.g., how their Sim starts running when by the
+bathroom), s/he would later be embarrassed when the Sim becomes unable to control him/herself (Figure
+6). This would hopefully encourage the learner to take interest in and learn more about that variable.
+Figure 6. Failure to respond to game cues can have embarrasing consequences
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 86
+In their review of studies on incidental vocabulary learning, Laufer and Hulstijn (2001) conclude that
+"learner involvement" is the main factor influencing overall effectiveness. They highlight three core
+components comprising learner involvement: "need" -- ensuring a word is relevant to the learner; "search"
+-- providing a means by which a learner can work to discover the meaning of an unknown word; and
+"evaluation" -- assessment by the learner of how the meaning does or does not fit into the current context.
+An entertainment-focused video game such as The Sims can be modified to not only fulfill each of these
+criteria, but do so in a manner that minimizes extraneous effort and stress on part of the learner, provides
+repeated interactive exposures to words, and automatically generates rich contexts for associations.
+Additionally, by making direct changes to the game data files themselves, educational designers can make
+their modifications instantly deployable by teachers worldwide.
+Looking Ahead
+Besides game customization tools, today's educators enjoy a wide variety of other gaming innovations for
+building pedagogical solutions. Previously, a typical commercial game would consist only of a weapon
+and a target -- leaving educators little room for inserting educational enhancements. Fortunately, as
+designers are forced to come up with more creative game elements, technologies useful to educational
+designers will naturally make their way into entertainment media (Squire, 2003).
+Perhaps the most successful innovation in game designs is the development of modern massively
+multiplayer online games -- MMOGs. In these games, rather than playing within a pre-programmed
+environment, players exist as characters in a virtual world formed through their interactions with other
+live players on the Internet. The unparalleled success of these games should be of interest to anyone
+trying to understand adolescent motivation and attention. In stark contrast to the high school language
+teacher sometimes struggling to receive 30 minutes worth of homework from students, the alarming
+success of MMOGs has prompted the establishment of government organizations to control their use and
+psychological addiction (Yee, 2002) after a set of players neglecting to break for food collapsed following
+up to 84 hours straight at their keyboards (Farrell, 2002; Gluck, 2002). Makers of the popular online game
+"Everquest" (commonly referred to as "Evercrack" for its addictive properties ) found the average player
+spends over 20 hours a week playing the game (Everquest or Evercrack?, 2002).
+While it might be nice to get teens to spend 20 hours a week solely on their Spanish homework, we
+should consider the educational potential for leveraging the phenomenal ability of MMOGs to capture the
+attention of adolescent audiences and bring them into a manipulatable world with players from all over
+the planet. Some studies have reported success at integrating MOOs, the historical predecessor to modern
+MMOGs, into the language classroom (Von der Emde, Schneider, & Kötter, 2001), although the
+educational potential for MMOGs is only just beginning to be examined (Coleman, 2004; Squire &
+Jenkins, in press). Simply by having such an international population together in a virtual community
+based on communicative interaction, motivated players have access to countless native L2 speakers and
+tasks to discuss with them -- though much could be done to extend this possibility to encourage shy
+learners to find and interact with players speaking their L2. For example, in a game like The Sims Online -
+-- the MMOG version of The Sims -- players begin by choosing a city to live in, finding a house, then
+chatting with and getting to know their roommates. Besides merging international editions to form
+bilingual versions, another almost effortless modification game designers could make to interest language
+learners would be to create incentives and ways in which players could find and partner with native
+speakers of their L2 trying to learn their L1. This would not only provide the above-mentioned benefits of
+playing a bilingual game, but also provide learners with an L2 native from whom to learn about culture
+and language while performing a series of entertaining tasks requiring communicative exchanges.
+Alternatively, teachers could collaborate with classes in other countries and assign their students L2
+speaking roommates.
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 87
+Besides multiplayer interaction via the Internet, speech recognition is another advancement often
+regarded as a promising candidate for making CALL truly interactive, though to date the number of
+successful applications has been limited due to its poor performance and high system demands. The
+Learning Company provides one of the better examples of speech recognition technology in their Learn-
+to-Speak product line and freely available VirtualTalk Web site. These programs allow learners to engage
+in a simulated conversation by presenting them with a list of possible responses to choose from whenever
+they have a turn to participate in the conversation. The program then simply has to match the learner's
+response to the closest of the available responses and provide corrective feedback.
+While pre-programming each of the expected responses greatly improves functionality -- such that even
+foreign accents can be somewhat accommodated -- it significantly increases the design complexity. As a
+result, participatory conversation designers targeting the foreign language market often need to simplify
+interactions in ways that impair both the entertainment and educational value. For example, in response to
+a question such as "Would you like some coffee?" designers may need to force learners down a single
+prepared path ("Yes, please/I'd love some/Sure, thanks") rather than creating distinct paths a learner can
+meaningfully choose between ("Yes, please/No thanks/Do you have decaf?"; Hubbard, 2002).
+While in the foreign language software market it may not be feasible to create lengthy and complex
+dialogs -- a typical VirtualTalk conversation generally lasts only a couple of minutes; games targeting the
+larger entertainment market should begin incorporating spoken interfaces in the near future. While U.S.
+releases have only just begun to do this, such games have been available in the Japanese market for some
+time: Seaman takes the old tomogachi virtual pet craze to a new level by presenting players with a virtual
+baby fish-creature, which they must nurture into adulthood by conversing with it about its life and
+conditions. Raising a creature from birth to adulthood is expected to take about a month, with about 10
+minutes of interaction a day. For more advanced students a game such as Operator's Side (Lifeline in
+English) includes all the elements of a typical action/adventure game, though instead of directly
+controlling the main character, players are challenged to direct her entirely through vocal instructions
+based on over 100,000 phrases.
+While there are numerous other commercial gaming innovations that could be discussed, the ability to
+easily edit international language files combined with advances like MMOGs and speech interfaces
+should be incentive enough for us to begin considering how entertainment focused games can be used for
+language learning, rather than needing to develop an edutainment title from scratch. For researchers,
+modifying commercial games offer a quick way to develop rich content for examining student motivation,
+task-based learning, context effects, incidental learning, and simulated immersion; additionally it could
+prove useful in rapidly creating content for less commonly taught languages (Figure 7). For commercial
+game designers, selling foreign language expansion packs provides a simple way to further capitalize on
+investments already made into creating versions for different languages and, in the case of MMOGs, the
+collection of a large multi-lingual community of players.
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 88
+Figure 7. Games can be edited to support entirely new languages
+YOU'RE NOT STUDYING, YOU'RE JUST BROWSING THE WEB
+As game design develops further, even more opportunities for practicing foreign languages within
+entertaining contexts will become available; the main challenge for educators will be to fold the value
+added by games in with the structure provided by a traditional learning environment. A beginning
+classroom playing a bi-lingual The Sims needs a way of focusing student attention on learning the most
+relevant words and an intermediate Japanese class playing a bi-lingual Operator's Side needs a way of
+preparing students for all the vocal commands expected in the game. One possibility might simply be to
+assign exam words as vocabulary homework for students to memorize during independent study time.
+This, however, may lose some of the interest of the less motivated or less organized students.
+Being the world's worst language learner, it always took me far longer to learn foreign vocabulary than
+any of my classmates. In asking some of my more successful classmates how they approached
+vocabulary, they mentioned that they studied flashcards during television commercials. Lacking either a
+television or index cards, I set about to instead make an equivalent system for browsing the Internet.
+Much like the language data for The Sims, the user interface descriptions for the latest Mozilla and
+Netscape Web browsers are stored in editable files. This allows anybody with knowledge of XUL, a
+language similar to HTML/XML, to rapidly reconfigure the layout and design of the browser interface. In
+most browsers, the upper right hand corner includes a logo known as a "throbber" which animates while
+loading a Web page. During my German class, I replaced my throbber with a small frame pointing to a
+Web site containing a randomized vocabulary word from the current chapter of my textbook. Instead of
+displaying a corporate logo, the throbber in the top right corner displayed a German word and image
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 89
+while loading a Web site, followed by the English translation when loading was complete.In my case, this
+simply served to flash new vocabulary words while I was waiting for Web sites to load, although such a
+system could be extended in any number of ways (see Figure 8).
+Figure 8. Top right corner is replaced with an online flashcard system for when pages are loading
+Being part of the browser, the internal frame used in this example naturally inherits the ability to display
+HTML -- making the implementation of rich media annotations a simple process using commonly
+available authoring programs. Furthermore, this opens possibilities for direct authorship by students.
+Nikolova (2002) shows how vocabulary retention is best when students author their own personalized
+annotations, yet cautions that logistics and time-on-task can actually outweigh such advantages. With this
+in mind, an innovative textbook publisher could offer a Web gallery where students who enjoy authoring
+could share any multimedia annotations they develop (Figure 9) would then provide those students not
+inclined to authoring with a large point-and-click repository, allowing them to personalize their
+annotations in a time efficient manner.
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 90
+Figure 9. Possible gallery for classrooms who choose to author their own annotations
+Besides inheriting the rich media capabilities of an HTML renderer, an internal browser frame also has
+access to the same scripting environment and programming capabilities as the main browser frame. This
+allows it to interact with the user and other components of the browser. For example, it could adaptively
+adjust its content based on which site the user is currently visiting. Another script may be able to monitor
+language-learning exercises students perform online and then automatically update its content according
+to their mistakes. For users who consent, a script could additionally allow the browser to automatically
+transmit data about student's usage back to a researcher. As an example of the numerous possibilities
+available to creative educators, the Mozilla browser includes a feature that replaces advertisement banners
+with blank images; rather than blank images, advertisements could be replaced with vocabulary images.
+Although learning vocabulary phrases while waiting for Web sites and programs to load fragments a
+student's studying into numerous quick flashes, it features many advantages over dedicating a set block of
+study time. For adolescent learners, the clearest advantage is that little else can compete for the learner's
+attention. While a 10-minute study block could also be redirected towards Friends™,1 flashes integrated
+into Web site loading have a more captive audience. Furthermore, a digital delivery system centralizes the
+logistics behind studying away from each individual student to the teacher or textbook publisher. By
+having content stored on a Web site, teachers can specify the current vocabulary words and deliver them
+directly to the student's browser interface -- such that even the least disciplined student is forcibly
+saturated with material of the teacher's choice.
+Besides logistical advantages, a more fragmented vocabulary exposure system could also aid the long-
+term retention of words. Numerous studies show long-term advantages when items to be remembered are
+spaced out in their presentations (Bjork & Bjork, 1992; Forester, 2002). Other studies show the
+importance of a learner being in the same mood when trying to recall an item as when learning it
+(Forester, 2002). By distributing and repeating exposures of a target vocabulary phrase across the whole
+time a student is using a computer, the student is more likely to have seen a given word in a wider range
+of moods. In a dedicated study time, students are likely to stop studying as soon as they can successfully
+recall an item from memory. Researchers suggest, however, that if an item is to remain accessible in the
+long-term, students must continue studying a word even after it appears to be learned (Bjork, 1999).
+Keeping study content in the periphery of a student's browser interface encourages continued rehearsal.
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 91
+YOU'RE NOT STUDYING, YOU'RE IN TYPING CLASS
+Another possibility for getting students to engage in more rote forms of practice without needing to
+compete for their free time is to piggyback foreign language practice on time spent working with a typing
+tutor. Many high schools already include classes where students practice with a typing tutor, though there
+is little value in repeatedly telling them about how the quick brown fox jumped over the lazy dog. One
+simple modification could be to set a typing tutor to use sentences in the language the student is learning.
+The Online Spanish Tutorial and about.com German offer a series of model sentences students can
+memorize in order to learn grammatical concepts such as differentiating "por" and "para" or dative versus
+accusative prepositions; however, students may find memorizing so many sentences tedious and boring.
+Williams and Thorne (2000) report on how students learning foreign language subtitling acquired
+impressive language skills simply as a byproduct of their subtitling practice. By using the customize
+sentences feature available in most typing tutors to include key L2 sentences, students could likely gain
+similar language learning side effects from their keyboarding classes. For typing tutor programs that offer
+further customization, high school language teachers could work together with keyboarding teachers to
+supply sentences synchronized with the current course material, bi-lingual games, or pop-music lyrics.
+YOU'RE NOT STUDYING, YOU'RE JUST LISTENING TO MUSIC
+In every language classroom I have attended or observed, there has been some attempt to use music as a
+medium of engaging students. While music has strong potential for sharing foreign culture with students,
+its use in classrooms has numerous challenges. Foremost, musical tastes are often very individualized,
+making it impossible for a teacher to find a single song that can similarly engage all students. Though I
+had numerous German teachers, each preparing lessons on songs ranging from traditional folk to punk-
+metal, it was not until I found artists for myself that I was able to appreciate German music enough to
+voluntarily listen to and study it regularly on my own free time. Another challenge is that song lyrics can
+often be difficult to recognize accurately -- even for native speakers. Also, it can be difficult for a teacher
+to provide instruction while a song is playing. Often this requires students instead to first exclusively
+listen to a song and then switch to studying a printout of the lyrics to try to understand what they just
+heard.
+Previously, the only access students had to foreign music was often their teacher’s personal CD
+collection. Today, however, resources like MTV international, net radios and audioscrobbler allow
+learners to independently explore modern music worldwide – with services such as iTunes and Napster
+emerging to provide affordable and legal purchases. Now that most digital songs are using ID3v2 or
+higher, one feature useful for language learners is that synchronized lyrics can be embedded directly into
+MP3 files. Combined with an OCR-capable translator, this allows learners to follow along with a foreign
+song as it is playing (see Figure 10). For older songs, synchronized lyrics can easily be inserted or
+retrieved from online databases.
+Click here to listen to the movie file.
+Figure 10. A listener follows a song through syncronized lyrics and uses an OCR translator to look up
+unfamiliar words
+In an ideal world, rather than clicking each word for an electronic translation, we would simply have a bi-
+lingual friend or teacher always standing beside us whenever we wanted to listen to a foreign song --
+ready to translate any unfamiliar words for us. While always using a friend may not be so realistic, it can
+be simulated practically using 3D spatialized sound technology. By delaying the timing at which a given
+sound is delivered to each ear, insertions can be made to songs that sound as though they are coming from
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 92
+a physical location different from the ambient song. This allows educators to embed instructional content
+directly into a song (or other audio content) while still maintaining a clearly audible distinction so as not
+to detract from the main song. (see Figures 11, 12, and 13).
+(mp3) (wav)
+Click here to listen to the sound file.
+Figure 11. Example of song with spatialized translation simulating a translator standing 4 meters to the
+right of the listener (please use headphones; creation details)
+(mp3) (wav)
+Click here to listen to the sound file.
+Figure 12. Example of song with spatialized translation simulating a nearby source to the left
+Click here to listen to the movie file.
+Figure 13. Example of a music video combining both spatialized translations and captions in order to
+maximize comprehension (please use headphones)
+YOU'RE NOT STUDYING, YOU'RE JUST WALKING TO CLASS
+In recent years Simon and Schuster Corporation has been developing a language learning solution known
+as the Pimsleur series, receiving widespread popular reviews throughout the Internet. Despite the $725
+price tag, Amazon.com user surveys2 for their comprehensive Spanish series give 60 out of 72 perfect 5-
+star ratings and overall enthusiastic reviews (Amazon Reviews, 2003):
+I was a definite beginner with Spanish; now I speak more and better than my husband who took
+Spanish for years in school.
+If you enjoyed Spanish in high school, you probably won't like this course. This one is easy on
+your mind, fast, and doesn't require repetition of the same old stuff over and over ... and over. I
+used the course while commuting and was surprised at the amount of retention in just a short
+period of time.
+The comprehension level is amazing. And the one thing that is so great about it is that you don't
+need to study a book … even if you do prefer visual learning, you would benefit greatly from this
+system.
+Most distinct about this series is the exclusive use of auditory materials on cassette or CD. Personally, I
+found listening to the comprehensive German series I had loaded onto my cell phone while walking
+between classes to be a stress-free way of incorporating an hour of practice into my daily routine.
+Following these 50 hours of instruction, I felt more than comfortable enrolling in UCLA's second level
+German -- despite my previous failed attempts at first level German. Unfortunately, unlike my prior
+listening while walking, completing assigned written exercises was always in competition with studying
+my other textbooks -- rarely allowing me time to do more than temporarily memorize the contents of the
+next quiz and ultimately requiring some of the other learning strategies discussed in this paper by the time
+I finished third level German.
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 93
+In the past, written print has generally been the more practical medium for introductory level language
+homework; whereas a textbook could always be taken anywhere and studied at any time, auditory
+materials sometimes required a dedicated trip to the language lab. This partially encouraged written
+assignments to become the primary medium for practicing grammar and vocabulary -- with
+accompanying auditory material usually provided only to supplement listening practice where necessary.
+Today, however, an entire day worth of non-stop portable audio can fit on a common one inch flat
+memory chip. Furthermore, simply for entertainment purposes, portable audio players are rapidly
+becoming ubiquitous in the life of the average adolescent -- with predictions that by 2005 it will be
+possible to directly purchase, receive, and play music all by cell phone (Digital Media, 2003). As both the
+next generation grows up fully accustomed to portable media technologies and professional digital audio
+production tools become more widely available, researchers should work to find the best balance between
+auditory and written practice materials and examine the impact of providing students materials similar to
+Simon and Schuster's Pimsleur series that are synchronized with course topics and examinations.
+YOU'RE NOT STUDYING, YOU'RE JUST DOING WHAT YOU ENJOY -- WOW
+Proponents of Content Based Instruction (CBI) have done a great service to students by bringing
+authentic and personally relevant materials into the classroom. Still, when we consider the enormous
+range of media forms and different literacies present in a digital society, we really have only begun to
+explore the possibilities for how authentic materials can be used. For each learner in a given country,
+there is literally a world of different popular media items they would be exposed to had they grown up in
+the country of their L2. For those aspects of popular culture with a technology component, accessing the
+corresponding L2 versions for the different media forms in one's daily life is often easier than might be
+thought. For example, simply by changing the location setting, users of the English version of the Yahoo
+mail service can optionally access mail and receive their advertisements in 12 different languages.
+Many of the more successful CBI paradigms have been those using academic content, perhaps because
+they manage to blend so naturally into a classroom environment. For adolescent learners, however,
+academic content may not even be able to capture their attention to begin with, let alone sustain it for an
+hour of instruction in an unknown language. In this case, rather than finding what is suitable for
+classroom use and then working to capture student attention with it, we should instead begin with the
+popular media forms that students would independently be interested in had they grown up in the country
+of their L2 and then find better ways of integrating them into the language learning process. Certainly, no
+teacher could be expected to independently design lessons that provide language instruction for all their
+students' different media preferences. Rather, by devising ways to embed language instruction directly
+into popular media, curriculum designers can offer students highly adaptable learning environments to
+explore and teachers cutting edge curriculum that can be implemented as simply as assigning textbook
+pages.
+While this paper has provided examples of embedding language instruction into games, Web browsing,
+and music, the same potential is likely to be found in virtually any digital media form. Most media
+technologies include accessibility features for the blind or deaf. As demonstrated with music videos, using
+these extra modalities to include the L1 can be a powerful way to modify them for language learning.
+Advances in internationalization programming place most language data for software outside the main
+program so it can rapidly be translated to other languages. In fact, when Squaresoft entertainment
+announced their intention not to create an English translation of their popular Final Fantasy V, a group of
+volunteer fans was able to create one without assistance from Squaresoft. By understanding how to merge
+and take advantage of multilingual datasets, researchers can rapidly generate engaging learning content
+from any internationalized media. Finally, meta-description developments such as XML give us power
+and flexibility when annotating content with instructional extensions. By understanding how these and
+other upcoming innovations fit together, curriculum designers should have enough flexibility for
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 94
+embedding instructional extensions into authentic media to alleviate either extensive teacher preparation
+for using commercial media resources or the need for artificial edutainment materials.
+Often as a follow-up to content based lessons, assigning at least some explicit study of linguistic features
+can be useful. Lankshear and Knobel (2002) suggest that assignments should be evaluated within an
+economic framework of how much attention a student must invest in completing it. Within this
+perspective, we can identify two areas for improvement when assigning explicit study to adolescent
+learners: First, explicit study tends to consume 100% of a learner's attention while performing it, making
+it costly for the learner to invest more than is necessary to receive a satisfactory grade. By embedding
+language instruction into learning to type or any daily routine, students are able to make a double return
+on any attention they invest. Second, students naturally consider their free time precious, making it
+difficult for educators to persuade them to direct it towards studying. Embedded language instruction
+allows us to capitalize on moments where attention is less scarce. Similar to how a roadside billboard
+manages to attract our attention to a product we might have ignored when busy, pushing materials at
+students while waiting around for a parent's car to arrive or waiting for a Web site to load allows us to
+engage them when their attention is less valuable.
+In 1989, Brinton, Snow, & Wesche wrote, "CBI aims at eliminating the artificial separation between
+language instruction and subject matter which exist in most educational settings" (p. 5). In the past 15
+years, technology has advanced into a new epoch, requiring every academic discipline to re-evaluate its
+possibilities. By fully understanding the convergence of language instruction and digital media, we should
+now be able to eliminate the artificial separation between language instruction and everyday life --
+allowing even the world's worst language learner to enjoy learning a foreign language.
+NOTE
+1. Friends™ is a popular U.S. television show
+2. These are self-selected participants, see other amazon.com reviews for a comparison baseline.
+ABOUT THE AUTHOR
+Ravi Purushotma recently entered the Comparative Media Studies masters program at MIT. He hopes to
+explore how emerging digital media forms can be harnessed to foster learning and help dispel global
+barriers.
+E-mail: ravip@mit.edu
+Click here for updates or to read/post comments about this commentary.
+REFERENCES
+Al-Seghayer, K. (2001). The effect of multimedia annotation modes on L2 vocabulary acquisition: A
+comparative study. Language Learning & Technology, 5(1), 202-232. Retrieved October 8, 2003, from
+http://llt.msu.edu/vol5num1/alseghayer/
+Amazon Reviews (2003). Amazon.com: Customer reviews: Spanish. Retrieved March 31, 2004, from
+http://www.amazon.com/exec/obidos/tg/detail/-/0671521527/ref=cm_rev_prev/103-3935052-
+7739849?v=glance&s=books&vi=customer-reviews&show=-submittime&start-at=1,
+http://www.amazon.com/exec/obidos/tg/detail/-/0671315943/ref=cm_cr_dp_2_1/103-3935052-
+7739849?v=glance&s=books&vi=customer-reviews, and http://www.amazon.com/exec/obidos/tg/detail/-
+/0671315935/ref=cm_rev_all_1/103-3935052-7739849?v=glance&s=books&vi=customer-reviews
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 95
+Bjork, R. A., & Bjork, E. L. (1992). A new theory of disuse and an old theory of stimulus fluctuation. In
+A. Healy, S. Kosslyn, & R. Shiffrin (Eds.), From learning processes to cognitive processes: Essays in
+honor of William K. Estes, Volume 2 (pp. 35-67). Hillsdale, NJ: Erlbaum.
+Bjork, R. A. (1999). Assessing our own competence: Heuristics and illusions. In D. Gopher & A. Koriat
+(Eds.), Attention and performance XVII. Cognitive regulation of performance: Interaction of theory and
+application (pp. 435-459). Cambridge, MA: MIT Press.
+Brinton, D., Snow, M. A., & Wesche, M. (1989). Content-based second language instruction. Boston,
+MA: Heinle & Heinle.
+Coleman, D. W. (2002). On foot in SIM CITY: Using SIM COPTER as the basis for an ESL writing
+assignment. Simulation and gaming, 33(2), 217-230.
+Coleman, D. W. (2004). Langland home. Retrieved March 19, 2004, from
+http://coarts_faculty.utoledo.edu/dcoleman/Langland/
+Croal, N. (2003, November 25). Sims family values. Newsweek. Retrieved October 3, 2003, from
+http://www.msnbc.com/news/835533.asp?cp1=1
+Digital Media. (2003). Consumer Electronics Association. Retrieved October 4, 2003, from
+http://www.ce.org/publications/books_references/digital_america/audio/internet_digital_recording.asp
+Everquest or Evercrack? (2002, May 28) CBS News. Retrieved October 4, 2003, from
+http://www.cbsnews.com/stories/2002/05/28/earlyshow/living/caught/main510302.shtml
+Farrell, N. (2002, October 22). Second gamer dies after massive binge. Vnuet.com. Retrieved October 4,
+2003, from http://www.vnunet.com/News/1136154
+Forester, L. (2002). Implications of research on human memory for CALL design. Calico Journal, 20(1),
+99-126.
+Gluck, K. (2002, November 22). South Korea's gaming addicts. BBC News. Retrieved on October 4,
+2003, from http://news.bbc.co.uk/1/hi/world/asia-pacific/2499957.stm
+Hubbard, P. (2002). Interactive participatory dramas for language learning. Simulation & Gaming, 33(2),
+210-216.
+Huckin, T., & Coady, J. (1999) Incidental vocabulary acquisition in a second language. Studies in Second
+Language Acquisition, 21(2), 181-193.
+Hulstijn, J. H. (1992). Retention of inferred and given meanings: Experiments in incidental vocabulary
+learning. In P. J. L. Arnaud & H. Béjoint (Eds.), Vocabulary and applied linguistics (pp. 113-125).
+London: Macmillan.
+Lankshear, C., & Knobel, M. (2002). Do we have your attention? New literacies, digital technologies and
+the education of adolescents. In D. Alvermann (Ed.), Adolescents and literacies in a digital world (pp.
+20). New York: Peter Lang.
+Laufer, B. & Hulstjn, J. (2001). Incidental Vocabulary Acquisition in a Second Language: The Construct
+of Task-Induced Involvement. Applied Linguistics, 22(1), 1-26.
+LeLoup, J. W., & Ponterio, R. (2003). Tele-Collaborative Projects: Monsters.com? Language Learning &
+Technology, 7(2), 6-11. Retrieved October 3, 2003, from http://llt.msu.edu/vol7num2/net/
+Nikolova, O. R. (2002). Effects of students' participation in authoring of multimedia materials on student
+acquisition of vocabulary. Language Learning & Technology, 6(1), 100-122. Retrieved October 4, 2003,
+from http://llt.msu.edu/vol6num1/NIKOLOVA/
+Ravi Purushotma Commentary: You're Not Studying, You're Just…
+Language Learning & Technology 96
+Squire, K. (2003) Video games in education. International Journal of Intelligent Simulations and
+Gaming, (2)1. Retrieved October 4, 2003 from http://cms.mit.edu/games/education/pubs/IJIS.doc
+Squire, K., & Jenkins, H. (in press). Harnessing the power of games in education. Insight. Retrieved
+March 19, 2004, from http://website.education.wisc.edu/kdsquire/manuscripts/insight.pdf
+Von der Emde, S., Schneider, J., & Kotte, M. (2001). Technically speaking: Transforming language
+learning through virtual learning environments (MOOs). Modern Language Journal 85(ii), 210-225.
+Watanabe, Y. (1997). Input, intake, and retention: Effects of increased processing on incidental learning
+of foreign language vocabulary. Studies in Second Language Acquisition, 19, 287-307.
+Williams H., & Thorne D. (2000). The value of teletext subtitling as a medium for language learning.
+System, 28(2), 217-228.
+Yee N., (2002). Ariadne -- Understanding MMORPG addiction. Unpublished manuscript. Retrieved
+March 31, 2004, from http://www.nickyee.com/hub/addiction/adiction.pdf
+EXCERPTS
+Sims™ Screenshots excerpted from The Sims, Copyright 2000 Electronic Arts Inc.
+Background song from "following synched lyrics" excerpted from Die Firma -- Kein Ende in Sicht, V2
+2002
+Background song from "creating synched lyrics" excerpted from Freundeskreis -- ANNA, Sony 1997
+Spatialized sound audio excerpted from Xavier Naido -- Führ mich ans Licht, Sony 1998
+Spatialized sound video background song excerpted from Nena -- Neun und Neunzig Luftbalons, Sony
+1984
+Spatialized sound video excerpted from Pioneer Laser Karaoke, Copyright 1993 Pioneer loce ltd

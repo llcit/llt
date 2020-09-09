@@ -1,0 +1,1290 @@
+Language Learning & Technology
+http://llt.msu.edu/vol7num2/kotter/
+May 2003, Volume 7, Number 2
+pp. 145-172
+Copyright © 2003, ISSN 1094-3501 145
+NEGOTIATION OF MEANING AND CODESWITCHING
+IN ONLINE TANDEMS
+Markus Kötter
+University of Münster
+ABSTRACT
+This paper analyses negotiation of meaning and codeswitching in discourse between 29 language
+students from classes at a German and a North American university, who teamed up with their
+peers to collaborate on projects whose results they had to present to the other groups in the MOO
+during the final weeks of the project. From October to December 1998, these learners, who
+formed a total of eight groups, met twice a week for 75 minutes in MOOssiggang MOO, a text-
+based environment that can be compared to chatrooms, but which also differs from these in
+several important respects.
+The prime objective of the study was to give those students who participated in the online
+exchanges a chance to meet with native speakers of their target language in real time and to
+investigate if the concept of tandem learning as promoted by initiatives like the International
+Tandem Network could be successfully transferred from e-mail-based discourse to a format in
+which the learners could interact with each other in real time over a computer network.
+An analysis of electronic transcripts from eight successive meetings between the teams suggests
+that online tandem does indeed work even if the learners have to respond more quickly to each
+other than if they had communicated with their partners via electronic mail. Yet a comparison of
+the data (184,000 running words) with findings from research on the negotiation of meaning in
+face-to-face discourse also revealed that there was a marked difference between conversational
+repair in spoken interactions and in the MOO-based exchanges. This paper discusses potential
+reasons for these differences, investigates the learners' exploitation of the bilingual format of their
+exchange, and thereby attempts to demonstrate how online tandems can contribute to successful
+second language acquisition (SLA) and the development of learners' metalinguistic abilities.
+INTRODUCTION
+The proliferation of networked computers in schools, universities and private homes in recent years has
+prompted educators to explore telecollaboration, that is, "the application of global communication
+networks in foreign language education … embedded in different sociocultural contexts and institutional
+settings" (Belz, 2002b, p. 61), in quite a number of different frameworks, settings and constellations.
+Some researchers investigated learner discourse in web-based chat facilities (Kitade, 2000; Negretti,
+1999; Sotillo, 2000), while others compared the outcomes of network-based learner interactions to the
+results of face-to-face discussions (Kern, 1995; Sullivan & Pratt, 1996; Warschauer, 1996). There is a
+growing body of research that investigates the integration of e-mail into language classes (Barson,
+Frommer, & Schwartz, 1993; Belz, 2002b; Eck, Legenhausen, & Wolff, 1994; Müller-Hartmann, 2000;
+Van Handle & Corl, 1998), and some researchers have also explored the use of video- (Kinginger, 1998;
+Kinginger, Gouvès-Hayward, & Simpson, 1999; Zähner, Fauverge & Wong, 2000) and audio-
+conferencing systems (Hauck & Haezewindt, 1999; Kötter, Shield, & Stevens, 1999; Marsh, Arnold,
+Ellis, Halliwell, Hodgins, & Malcom, 1997) in language teaching and learning.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 146
+This study focuses on a form of tele-collaboration that has not yet attracted much attention in SLA
+research, namely, the exploitation of an Internet-based environment called MOO to allow tandem learners
+-- or students whose target language is their partners' respective native language -- to collaborate with
+each other in a synchronous fashion rather than via the exchange of a series of e-mail messages.
+Initiatives like the International Tandem Network have helped numerous learners over the last few years
+to find tandem partners with whom they could develop their linguistic and metalinguistic abilities through
+e-mail-based exchanges. In addition, research conducted at the University of Bochum and at Trinity
+College Dublin has documented the scope of e-mail-based tandem learning (see Appel, 1999; Brammerts,
+1996a, 1996b; Little, Ushioda, Appel, Moran, O'Rourke, & Schwienhorst, 1999). However, little work
+has yet been done to explore the potential benefits to tandem learners engaged in real-time interactions
+with their partners over the Internet.
+Brammerts (1996b) acknowledged already in the mid-1990s that "occasional meetings between partners
+in a MOO are obviously helpful [because] they can quickly answer questions, sort out problems and build
+on the relationships they have made" (p. 15). Yet Schwienhorst (1997) established a year later that
+research into tandem learning had "not yet been conducted for the MOO environment." This situation has
+not changed much in recent years, as there is still hardly more than a handful of publications that have
+documented and analysed the use of synchronous computer-mediated communication (CMC) in tandem
+learning enterprises.1
+This paper addresses this gap by seeking to answer the following research questions:
+1. How do students who meet in a MOO rather than in person deal with the apparent "virtuality" of
+their encounters, that is, which (MOO-specific) tools and strategies do they employ to express
+themselves and exchange information?
+2. How do the learners deal with utterances they do not understand or situations in which they find it
+difficult to express themselves in their target language, and in how far are the means they employ
+similar or different to those described in the literature on learner discourse between NSs and
+NNSs in settings other than the MOO?
+3. How do the students exploit the fact that they meet as tandem learners, that is, how (often) do
+they request assistance, correct each other, help others through the provision of lexical assistance,
+or scaffold their partners' tasks in other ways, including (deliberate) alternations between their
+native and target languages?
+4. What evidence is there that the participants in this study improved their linguistic and
+metalinguistic competence and awareness as a result of their participation in the project?
+The paper begins with an introduction to the concept of tandem learning, an overview of key features of
+text-based online interactions, and a brief review of notable aspects of MOOs as venues for language
+learning enterprises. These sections are followed by remarks about the overall format of the study and the
+data on which it is based, plus a discussion of the students' accommodations to their new learning
+environment. The remainder of the paper then discusses how the learners negotiated their ideas with each
+other and how they used the two different codes they had at their disposal to make sure that they could
+complete their projects successfully.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 147
+TANDEM LEARNING
+The concept of tandem learning on which this study is based draws predominantly on two tenets, the
+principles of reciprocity and autonomy (see also Little & Brammerts, 1996). In its simplest version, the
+principle of reciprocity dictates that all partners benefit equally from collaborating with native speakers of
+their target language, and that they spend rather equal amounts of time using each of the two languages.
+However, it is also important that each partner is prepared to act as an expert for the linguistic and cultural
+community of his or her native language. To ensure that these goals are achieved, the learners must
+negotiate when and how to help their peers, that is, how often and in how much detail they should
+comment on each other’s potentially flawed output.
+These demands can be fairly daunting for learners who have not yet received much training as language
+teachers, and who may perhaps not even aim to become a teacher. Indeed, some specialists in teacher
+education might argue that it will be almost impossible for these learners to decide whether their partner
+has just produced a systematic error or merely a slip of the tongue, pen or keyboard, as it were, and that
+they will also struggle to come up with acceptable explanations for the likely sources of these errors or
+helpful advice about how to avoid them in the future.
+It must also be borne in mind, however, that this form of collaborative learning offers students an
+opportunity to discuss their linguistic and metalinguistic difficulties in a notably less face-threatening
+context than is often the case in a formal classroom setting. Furthermore, it is likely that the fact that all of
+the participants have to adopt the roles of learner and expert will create an atmosphere of confidence and
+trust in which it may be easier for them to experiment with constructions they may have not yet fully
+mastered and appeal for -- and receive -- help in a more individualised fashion than in a larger group of
+learners.
+The success of this form of tandem learning necessitates that the learners take more responsibility for
+their own learning than in a traditional classroom. Not only is it usually the students, rather than their
+teacher, who decide how much support they are willing to provide and how much assistance they can ask
+for, but it is also essentially their responsibility to decide when to use which of the two languages at stake.
+Indeed, tandem learning means that the learners usually collaborate without the direct participation of
+their teacher, and this is where the second tenet, namely learner autonomy, comes into play. The at least
+temporary absence of a guide on the side2 and the fact that the learners have to adopt the role of peer
+teachers and scaffold their partner's task practically forces students who engage themselves in these
+collaborative enterprises to develop their ability to act autonomously in the sense of the following
+definition:
+Learner autonomy is characterized by a readiness to take charge of one's own learning in the
+service of one's needs and purposes. This entails a capacity and willingness to act independently
+and in co-operation with others, as a socially responsible person. ... It is essential that an
+autonomous learner is stimulated to evolve an awareness of the aims and processes of learning
+and is capable of the critical reflection which syllabuses and curricula frequently require but
+traditional pedagogical measures rarely achieve. An autonomous learner knows how to learn and
+can use this knowledge in any learning situation she/he may encounter at any stage in her/his life.
+(Bergen, 1990, p. 59; cited in Dam, 1995, p. 1-2).
+All participants in the exchange were informed about the demands of learner autonomy before the start of
+the project, and the topic was also discussed in class so that the students knew what was expected of them
+-- and what they could expect from their partners. Before providing more details about the format of this
+study, it seems also important, however, to discuss some general characteristics of text-based CMC and a
+few features that distinguish MOOs from other platforms that allow people to communicate via messages
+they type on their keyboards before sending/posting to others over the Internet.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 148
+KEY CHARACTERISTICS OF INTERACTIONS IN TEXT-BASED ONLINE FACILITIES
+Chat facilities (Kitade, 2000), IRCs (Sotillo, 2000; Werry, 1996), talkers (Lundstrom, 1995) and MOOs
+are usually accessed via an interface that consists of two windows of different sizes. The smaller window
+at the bottom of the screen allows people to enter and edit their own messages, while the larger area at the
+top of the screen shows what is happening in the online world. Here they can see if the program has
+processed their input correctly, read contributions from other people, and some programs also notify
+people of the arrival of new users.
+Online tools can accommodate dozens of people at a time, and it can thus become very crowded in a
+"room" and almost impossible to follow a conversation. Researchers who have studied online
+environments therefore suggest that no more than four or five people should be assembled in any virtual
+locale at one time (e.g., Kitade, 2000). Yet even discussions among small groups are not always easy to
+manage, as the absence of visual cues and other paralinguistic information in text-based CMC puts more
+pressure on people to "find the right words" than does engagement in face-to-face discourse or other
+forms of spoken interactions.
+One popular means of reducing this pressure is the use of block capitals to highlight parts of a message, or
+to enclose them in asterisks to avoid the impression that the author is "shouting" at others (Tella, 1992). In
+addition, participants in synchronous and asynchronous CMC often reduplicate letters or punctuation
+marks to imitate pitch (Maynor, 1994; Werry, 1996). Some facilities allow people to use underlining,
+italics, and bold print to emphasise important information. Online writers can also use strings of periods
+to break up long messages into shorter chunks of text (Holmevik & Haynes, 2000, p. 37). Graphical
+equivalents of facial expressions like smileys allow them to take the sting out of ironic remarks or
+communicate empathy, and the narration of (pretended) actions via emotes can likewise help to re-
+introduce at least a basic sense of place and physical interaction.
+Each of these options does, however, require deliberate action. Unlike spoken discourse, where pitch,
+smiles, laughter and other cues are often employed sub-consciously, people engaged in written CMC must
+put all their ideas and actions into words if they want to share them with their partners. Using the example
+of smileys, Marvin (1995) illustrated this problem as follows:
+In private something flowing across the computer screen might cause a participant to
+spontaneously smile, but a conscious choice must be made to type it out; a participant might
+frown at the keyboard ... but strategically decide to type a strategic smile.
+The authors of e-mail messages can deliberate the wording of their texts and reflect upon the means that
+they employ to compensate for the absence of paralinguistic information. Users of online environments,
+on the other hand, have little time to formulate their ideas and respond to input from their partners. This
+pressure of having to produce a quick response and to monitor their output closely with regard to the
+interplay between linguistic and paralinguistic information can intimidate learners and stifle a
+conversation. But it can also encourage them to take risks and to draw on all available resources to avoid
+a breakdown in the conversation, which is why I would suggest that the unique nature of real-time CMC
+(chat, IRCs, talkers, and MOOs), plus the need to keep going, can prompt learners to increase their
+awareness of communicative processes. Indeed, engagement in synchronous online discourse may well
+provide language learners with an almost ideal opportunity for the realisation of Little's (1996, p. 212)
+notion of learner autonomy in the absence of a chance to meet with others in person. He wrote,
+According to my model, the essential task of second language pedagogy is to engage learners in
+activities that will enable them to internalize those skills on which face-to-face interaction
+depends, develop those insights into linguistic form that will enable them to extend their
+linguistic skills to the performance of new tasks, and develop those insights into the learning
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 149
+process that will enable them to organize their learning to best effect and to derive maximum
+learning advantage from occasions of second language use. (p. 212)
+THE MOO: A SPECIAL CASE OF TEXT-BASED VIRTUAL REALITY
+The programs mentioned at the beginning of the last section are fairly restricted in their functionality
+because they were not designed with a specific pedagogical purpose in mind. MUDs (Multiple-User
+Domains) and their successors, object-oriented MUDs or MOOs, on the other hand, are full-fledged user-
+extendable replicas of virtual worlds rather than mere conduits for the transmission of text. Registered
+users can set up permanent profiles of their online persona, create and manipulate objects, and they have
+the chance to save them permanently in the MOO database.
+Seen from a purely technical angle it would probably suffice to say that the MOO is "simply a database
+running on a server. When users sign on to a MOO they are dropped into a text-based virtual reality; a
+database that is "divided" into many rooms or locales" (Sanchez, 1996, p. 146). However, this type of
+online environment tends to provide its users with a much stronger sense of permanence and community
+than chat facilities, and thus also a notably stronger sensation of space and proximity. People can invite
+others to join them and collaborate through "verbal" output and via shared editable notes. Educational
+MOOs also provide visitors with a host of text-based equivalents of classroom tools such as projectors,
+cameras, tapes, VCRs, and TV sets (see Schweller, 1998, p. 97ff). In addition, MOO users can even
+exchange so-called page messages with each other across virtual room boundaries to call for help or
+simply inform someone about a particular state of affairs. The (edited) screenshot in Figure 1, which
+shows what Tom, one of the participants in the study, saw on his screen when he was beginning to present
+the results of his team's project work, illustrates some of these options, including my own use of the page
+command (see the bottom of the Output Window) and the "contents" of a room in the Web Window.
+t
+Figure 1: A screenshot that illustrates some of the basic features of the MOO3
+MUDs, the predecessors of MOOs, are online worlds where people usually have to slay dragons and rise
+to other challenges to become a wizard and achieve the right to extend the database, while MOOs are
+generally visited for social or educational purposes. However, many MOO administrators deliberately
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 150
+perpetuate the use of imagery and metaphors that had been established in the early days of the MUD.
+They are still frequently known as wizards, for example, while people who hold the status of a MOO
+"citizen" are referred to as players. Most of these environments have therefore preserved at least part of
+the MUD's game-like approach to online interaction, and regular visitors of their successors -- including
+language learners -- thus still often tend to regard themselves as players or participants in a role-playing
+situation rather than simply as "users" of the environment.4
+MOOs allow people to archive permanent text-based artefacts in the database and (re-)create themselves
+via their online persona plus the actions they perform, and encounters in these environment can
+consequently contain a fairly strong element of theatricality (Burk, 1998). But Dibbell (1993) has
+demonstrated that the overwhelming majority of MOO visitors interpret the responses they receive to
+their input as feedback directed to their real person rather than to their online persona. Weininger, Shield,
+and Davies (1998) are thus right to claim that MOOs "are not 'virtual,' but 'real realities' although there is
+no physical contact involved" (p. 91; see also Turkle, 1995).
+These facets of MOO discourse are relevant to the present study for at least two reasons. First, it seems
+that the game-like history of the MOO, its potential to provide a venue for role-playing activities and the
+relative anonymity that the users enjoy -- depending, of course, on whether they are mere visitors or
+registered members of a language class -- may not only prompt learners to experiment with unfamiliar
+structures, but that it may likewise stimulate them to explore (and exploit) the connotations of the
+language they are using and encountering in more depth than in a traditional classroom or a non-
+extendable chatroom (see also Belz 2002a, 2002c). Second, it seems likely that the danger that they might
+hurt others' feelings by acting too outrageously in the virtual environment will still keep them on their
+toes while providing them with yet another incentive to reflect on their joint sense-making processes.
+DESIGN OF THE MÜNSTER-VASSAR EXCHANGE
+From October to December 1998, 14 learners of English from the University of Münster and 15  students
+of German from Jeffrey Schneider and Silke von der Emde's language class at Vassar College in North
+America met twice a week for 75 minutes in MOOssiggang MOO, where they collaborated in a total of
+eight teams, each of which consisted of three or four students, to complete projects of their own choice.5
+All learners were obliged to present the outcomes of their work to the other teams during the final
+sessions of the exchange, and they were also asked to comply with the tenets of tandem learning as spelt
+out above.
+Participation in the exchange was a mandatory part of the American learners' course work, while the
+German students formed a study group. Although they remained members of the course in applied
+linguistics for which they had enrolled, the German students’ engagement in the online project was
+largely an extra-curricular activity.6 Nearly all students involved in the project were experienced e-mail
+users, but only four of them -- two from each group of learners -- had been to a MOO prior to the
+exchange. All learners were therefore introduced to the environment through a series of practice sessions
+in the months leading up to the exchange. Moreover, the students from Vassar had already completed
+some short class assignments in MOOssiggang before they met with their German partners for the first
+time (Schneider & von der Emde, 2000).
+Most of the German students were three or four years older than their partners, and they were also often
+noticeably more proficient in their target language than their peers. Each of them had studied English for
+a minimum of 3 years at university level before the start of the project, and half of them had also worked
+abroad as a foreign language assistant or studied outside Germany for at least one term. These learners
+were thus advanced learners of their target language. In contrast, the students from Vassar were only in
+their second or third year of formal instruction in German when they registered for their course. Most of
+them were therefore classified as intermediate speakers of German.7
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 151
+Finally, it is worth mentioning that the two groups of learners accessed the MOO in slightly different
+ways. Owing to differences in the available equipment in the computer pools that were used for the study,
+the American learners accessed MOOssiggang via its Web-based enCore Xpress interface, while their
+German peers had to log on with the Pueblo client. The net effect of this difference on the students'
+interactions is probably negligible, even if the learners from Münster sometimes had to use more
+keystrokes to prompt the MOO database to process their input.8 But the use of differing client programs
+on either side of the Atlantic also meant that the learners had to record their (inter)actions in different
+ways, and that they had to archive different pieces of information. Pueblo's logging facility allowed the
+German students to record everything they did, including their partners' contributions. The American
+students, on the other hand, had to use recorders within the MOO, and these tools only capture input that
+is "audible" to everyone in a room such as Tom's room in Figure 1.9 Paged messages or the manipulation
+of MOO objects were consequently not included in these recordings, so that the American learners
+created slightly less informative accounts of their work.
+DATA
+This study relies on two sources of information, namely (a) questionnaires that the students were asked to
+return by the end of the project,10 and (b) a selection of the electronic transcripts that the students created
+of their interactions either in the shape of log files (logs) or as "recordings" in the sense of the word
+specified in the last paragraph.
+Overall, the present exchange developed in three stages: The learners formed teams and agreed on a topic
+for their projects, they worked on them, and they prepared a presentation to their fellow learners, which
+they gave during the final sessions of the encounter. This process was, however, interrupted at two points
+that correspond closely to the beginning of a new phase of the exchange. There were hardly any meetings
+during the second week of the project, because the American students had their half term break, and there
+was no session on the last Thursday in November, because the U.S. institution was not in session.
+In view of this situation, it was decided to base the analysis of students' online work on data from those
+eight successive sessions in which the learners participated between these two landmarks and to compile a
+corpus consisting of one file per team per session from this phase.11 Logs were preferred to recordings
+created with the MOO-internal devices, while a choice between identical file types from the same team
+was made depending on which of the files covered a longer period of time.
+After the choice about which files to include in the corpus had been made, the data were then edited both
+manually and automatically to make it easier to identify salient patterns and examples and to calculate the
+frequencies of occurrence for particular types of negotiation of meaning and codeswitching. The first step
+in this process was to harmonise the data and delete information such as automatically generated status
+messages (which are included in logs but not captured by the recorders) so that only "verbal"
+contributions and emotes remained in the files.
+These texts, which contain about 184,000 running words,12 were then coded with various tags that were
+developed and refined in several rounds of close readings of the data before the beginning of the coding
+process. Some tags, including those that refer to reduplications and to students' use of brackets, smileys,
+and emotes were inserted automatically with the Text Converter program of Scott's WordSmith Tools
+(1999; version 3.0). Tags that relate to students' engagement in negotiation of meaning and their
+codeswitching, on the other hand, were inserted manually into the electronic texts (see below for further
+information about the criteria that informed these coding processes).13
+STUDENTS' ACCOMMODATION TO THEIR NEW LEARNING ENVIRONMENT
+MOOs dilute the traditional boundaries between a four-walled classroom and a theatrical stage, and
+between established concepts of oral and written communication. A first crucial question for the
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 152
+assessment of the success of MOO-based language learning is therefore how well the learners adapted to
+these environments, and which strategies and (MOO-specific) features they employed to express
+themselves and their ideas.
+Almost all participants in the study complied with the task to compose profiles of themselves, and many
+of them had also begun to make themselves at home in the MOO by creating their own rooms even before
+they met with their tandem partners for the first time. Some learners had fitted these rooms with objects
+ranging from a sofa or a carpet to a piano or a refrigerator, and several students had additionally
+composed elaborate descriptions of these purely text-based locales (see Figure 1). Equally important,
+many of the remarks that the students made to each other documented that they conceptualised the MOO
+as something with a spatial dimension. One learner commented upon arrival in her partner's room that it
+"looks okay here," while another stated that she preferred her peer's room to the MOO's entrance: "Hier
+ist es wirklich gemuetlicher als im first room" (It is really much more cosy here than in the first room).14
+Moreover, many learners exploited the notion of space in the MOO by engaging with things they found in
+these rooms (e.g., Jack settles down in a comfortable chair) to create a pleasant atmosphere for their
+encounters even if they had no previous experience with MOOs. In fact, the analysis of the corpus
+ultimately revealed that as much as 5% of the turns in the corpus turned out to be emotes, even if it must
+be added that there was some variation among the use of this option to narrate physical actions between
+the individual teams. In addition, 3% of the students' contributions featured block capitals, and a similar
+amount of turns ended with two or more question or exclamation marks, because the students often used
+this strategy to recreate a sense pitch.15
+These observations illustrate that the learners accepted the MOO as a substitute for a physical location,
+and that they managed to find suitable ways of compensating for the lack of visual and aural support in
+written CMC even if many of them remarked in their feedback that it was initially difficult for them to get
+used to the speed of their interactions and to the fact that they had to think, type and read almost
+simultaneously. Indeed, their responses substantiate the findings of Tallis and Harnack (1997), who
+likewise found that learners often need a few sessions to feel fully at ease with the MOO. Most crucially,
+however, the comments from learners from both sides of the Atlantic revealed that their engagement in
+real-time CMC did really prompt them to reflect upon pragmatic and paralinguistic aspects of their
+interactions. One German wrote,
+Am Anfang war es ein seltsames Gefühl, alles, was man sonst sagen würde und vor allem das,
+was man tun würde, aufzuschreiben. Man mußte sich erst daran gewöhnen, das Geschriebene
+irgendwie zu visualisieren oder auf andere Art zu "verinnerlichen." Man muß zuerst eine
+Hemmschwelle überwinden, weil man meint, dass Kleinigkeiten zu unbedeutend sind, um sie
+umständlich aufzuschreiben.
+[At first it felt odd to write down all that I would otherwise have said, and in particular what I
+would have done. It took me some time to be able to visualise written information or find another
+way of "internalising" it. You have to overcome your inhibition not to write down minor things,
+because they appear to be too trivial to justify a long-winded transcription.]
+In addition, it is quite remarkable how often the learners apparently conceptualised their interactions as a
+written substitute for speech (see also Schwienhorst, 2000, p. 264). Some 80% of the more than 700
+implicit and explicit allusions to the "discoursal status" (Ortega, 1997, p. 87) or modality of their
+interactions that could be identified in the students' data were references to the mode of speaking rather
+than writing. The students usually referred to their discourse with the words sprechen, talk, say, tell,
+reden, sagen, speak, and erzählen, and they thus substantiate Kern's (1995) claim that synchronous online
+environments (including MOOs) lend themselves
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 153
+particularly well to "listener-related" rather than "information-related" talk. That is to say, during
+an [online] session students may operate largely within a framework that resembles that of oral
+communication, even though the medium is written. (p. 460)
+In the following section, I discuss which strategies the participants in this study employed to negotiate
+meaning according to their self-evaluations in the final questionnaire before the subsequent sections
+address the questions which strategies (other than the use of corrective feedback) they really employed to
+prevent communicative breakdowns16 and how they exploited the opportunity to interact with each other
+as tandem partners.
+Students' Self-Reports About Their Engagement in Negotiation of Meaning
+The students' ex-post evaluations of their interactions in the questionnaire suggest that several of the
+American learners preferred translations of difficult words and passages to paraphrases of those items or
+utterances that they did not understand. In fact, the data in Table 1 indicate that twice as many of them
+(84% vs. 42%) claimed that they had asked for a translation rather than a paraphrase when they
+encountered problems with their partners' contributions. But the feedback also suggests that as many as
+three quarters of them appear to have tried to guess the meaning of utterances they found difficult to
+understand rather than to ask their peers for help. Most of the American learners thus seem to have drawn
+on strategies one would typically find in a language classroom and on those that are more representative
+of interaction in authentic L2 settings.
+Table 1. Strategies the Learners Claim to Have Used When They did not Understand Their Partners17
+What did you do when you did not understand your
+partner?
+German learners
+(N=13)
+American learners
+(N=12)
+(a) ask for repetition of the utterance 6 (46%) 1 (8%)
+(b) ask for a paraphrase 8 (62%) 5 (42%)
+(c) ask for a translation 3 (23%) 10 (84%)
+(d) try to guess the meaning of the utterance 2 (15%) 9 (75%)
+(e) ignore the utterance 0 (0%) 2 (17%)
+(f) change the subject 0 (0%) 1 (8%)
+(g) other 1 (8%) 0 (0%)
+Like their non-native peers, many German students appear to have asked their partners to paraphrase
+ambiguous or unclear parts of their utterances. But the data in Table 1 also indicate that the second most
+popular strategy among these learners was to request a repetition of those messages that they could not
+understand. Translations do not seem to have played a major role, and the figures also indicate that
+notably fewer of the German learners than their American counterparts seem to have tried to guess the
+meaning of problematic contributions.18
+The wording of the item that was used to elicit this information did not specify whether the question
+referred to the students' respective L1, L2, or to both languages. Indeed, it may well have been the case
+that some learners interpreted the question as referring to utterances which were too difficult for them to
+understand because their receptive skills were not advanced enough, while others may have thought of
+turns that contained errors resulting from their partners' problems in expressing themselves in their L2.
+Yet several issues remain noteworthy even if we allow for this ambiguity. First, it is rather surprising how
+many students claim to have requested a repetition, because MOO users can always scroll back and re-
+read older contributions if they have been pushed off their screens by more recent turns. Second, it is
+interesting to note how many of the American students and how few German learners appear to have tried
+to guess the meaning of incomprehensible messages. Third, it is worth pointing out that the American
+students generally seem to have made use of considerably more strategies than their peers. On average,
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 154
+each of them ticked 2.3 different options, while the corresponding figure for their German partners was
+only 1.5.
+Some of these discrepancies can probably be accounted for, at least to a certain extent, by the fact that the
+German students were simply more proficient in their L2, and that it was accordingly easier for them to
+understand their partners. Specifically, this hypothesis could explain why so many Americans seem to
+have requested translations and why there was also such a marked difference between the apparent
+demand for translations and paraphrases. It was, however, also the case that the American students were
+specifically instructed by their teachers to try to guess as much as possible from the context of their
+partners' output (Jeffrey Schneider, personal communication), and it thus appears that proficiency-related
+and sociocultural factors are responsible for this discrepancy.
+But what did the students do when they could not express their own ideas in the target language? Tandem
+learners can often solve their communicative problems more easily than participants in classroom
+discourse or in everyday communication in an L2 community. They can, for example, borrow individual
+items or even formulate an entire turn in their L1 without having to worry too much that their partners
+will not understand them if they do so. The data in Table 2 suggest that many learners from Münster and
+Vassar did indeed use this option. Many of them also appear to have exploited the bilingual format of
+their encounters in a number of additional ways.
+Table 2. Learners' Reports About What They did When They Could not Express Their Ideas in the Target
+Language
+What did you do when you could *not* express what
+you wanted to say in the foreign language?
+German learners
+(N=13)
+American learners
+(N=12)
+(a) try to paraphrase it 10 (77%) 5 (42%)
+(b) borrow a word from my L1 4 (31%) 11 (92%)
+(c) use my L1 for the whole sentence 0 (0%) 5 (42%)
+(d) ask for a translation of the unknown word 5 (38%) 6 (50%)
+(e) ask for a translation of the whole sentence 0 (0%) 2 (17%)
+(f) other 1 (7%) 1 (8%)
+Virtually all the American learners reported that they had borrowed individual items from their L1 when
+they found it difficult to articulate an idea in their target language, and 42% of them also stated that they
+had codeswitched for the duration of an entire sentence. Moreover, not only most of the German students,
+whom one could have expected to do so, but also several of the less proficient American students claim to
+have paraphrased their ideas if they could not express what they had really wanted to say in their L2. Yet
+the most noteworthy finding with regard to the self-assessments presented in Table 2 is probably the fact
+that as many as 50% of the American students, as well as more than a third of the advanced German
+learners, asked their partners sufficiently often to translate items for them to tick this option in the
+questionnaire.19
+This feedback paints an encouraging picture of the state -- and possibly also of the development -- of
+these learners' metacommunicative skills and their language (learning) awareness because it suggests that
+many of them alternated deliberately between the use of their L1 and L2. Many students were keen to
+provide their partners with authentic input in their respective L2 and to model the use of their L1 for their
+partners, and the responses to other items in the questionnaire also revealed that several of them
+simplified their output on purpose in order to avoid communicative breakdowns. Moreover, many
+partners apparently refrained from the use of overly colloquial and informal expressions to make it easier
+for others to understand them.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 155
+The Provision of Lexical Assistance
+Not all of the claims that the students made in the questionnaire about their tandem learning practices
+were substantiated by their actual online interactions. To begin with, the students drew notably less often
+than anticipated on their partners' lexical expertise in their respective L1. On average, each learner only
+asked his or her partners once or twice per session for a translation of an unknown word or phrase. It is
+also important to note, however, that 70% of these requests were made by the less advanced American
+students. Indeed, 9 of the 10 students who most frequently requested explicit help with the target language
+belonged to this group, and the online data therefore confirm at least this aspect of the students' self-
+reports.
+Almost all appeals for help were answered within a matter of turns, which indicates that the learners were
+very co-operative in this respect. Moreover, about a third of all requests for lexical assistance led to the
+provision of additional background information about the usage of a word, or sparked a short discussion
+about the term or concept that a student had queried. The passage below illustrates how a clarification
+request and a request for lexical assistance can trigger a metalinguistic discussion (see Appendix A for an
+English translation of this passage). Nina, who also appears as "You" in this passage, is a student from
+Münster, while Helen and Kim are learners from Vassar College.
+Helen says, ein Auslaender (in Amerika) ist ein Person, die ist nicht "americanized"
+Nina [to Helen:]: Was verstehst du unter americanized?
+Kim [to Helen]: ich denke, dass ein Auslander eine Person, die liebe ein anderes kultur mehr als
+Amerikanisch Kultur, ist.
+Kim [to Nina]: how would you say "to put one culture above the other," as more important
+to them?
+Helen says, Americanized... hmmm ... ein Person traegt wie einen Amerikaner... isst wir einer
+Amerikaner... denkt wie einer Amerikaner...
+Kim says, besonders DENKT wie ein Amerikaner
+You say, Sie sehen eine Kulur als hochwertiger an, vielleicht, oder schaetzen sie mehr =
+appreciate it more?
+Kim says, danke - das ist was ich meine
+You say, kann man das so verallgemeinern, denkt wie ein Amerikaner?
+You say, In Deutschland waere das sehr problematisch, denn hier waeren sich Leute gegen solche
+Pauschalisierungen..
+Helen says, ich habe "pauschalisierungen" nicht verstanden
+You say, ... vor allem ist es wegen unserer Geschichte sehr problematisch. Ich wuerde nie sagen,
+dass ich wie eine Deutsche denke, sondern das immer genauer formulieren
+You say, das ist, wenn du das allgemein betrachtest, es als allgemein gueltig nimmst, also so,
+als ob alle das gleiche denken wuerden
+Helen says, aber ich glaube dass du eine Meinung ueber wie ein
+Helen says, ...
+Helen says, Amerikaner denkt haben
+Helen says, materialistisch...
+Helen says, ein Person, die "the American dream" suchen
+You say, das ist eine interessante These, denn ich dachte immer, dass das nicht mehr aktuell sei
+mit dem AD
+Kim says, was ist AD?
+Helen says, aber ich glaube dass nicht alle Auslaendern moechten "the american dream" suchen...
+nur die "americanized"
+You say, AD ist American Dream..
+You say, ich habe es aus Zeitgruenden schnell mal abgekuerzt. Sorry
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 156
+Kim [to Helen]: ja, ich bin der selbe meinung
+Kim [to Helen]: nur die Auslander, sie Amerikanized sind
+You say, wie wuerdet ihr AmericanDream definieren?
+Kim says, oops - die amerikanized sind
+Helen says, Die AD ist ....
+Helen says, ein Person will ein gross weiss Haus haben... viel Geld, ein gutes Besuch... ein
+Familie mit Kindern
+Helen says, stimmt das Kim?
+Kim says, ja, ein weiss Haus mit Kindern und ein weiss Zaun.
+Kim says, auch die Leute suchen Freiheit in Amerika  […]
+These lines -- as well as numerous similar passages in the corpus -- provide additional evidence that
+tandem works in the MOO because they show that the learners were apparently happy to address their
+partners' questions and that even tandem learners with differing commands of their respective target
+languages can communicate successfully with each other in an online environment. In addition, the
+excerpt might help to clarify why the students did not exploit the chance to ask their partners for lexical
+assistance more often than they did.
+One likely reason for the relative absence of requests for lexical assistance is that most students may have
+felt that they could make themselves understood even if their output was not perfect. Similarly, the
+opportunity to codeswitch, which I shall discuss in more detail below, may have encouraged the students
+to take risks - or simply to borrow an item from their L1 rather than to interrupt a discussion and ask for
+help. But it is also quite possible that many students did not request their partners' help more often
+because they may have felt that it was more important to pursue their project work or because they felt
+pressed for time. Indeed, several learners indicated in their feedback that they wished that they had had
+more time to get to know each other and engage in phatic or social maintenance conversation, and they
+may have thus behaved differently in different circumstances.
+FORMS, FREQUENCIES, AND FUNCTIONS OF SELECTED ASPECTS OF NEGOTIATION
+OF MEANING IN SPOKEN LEARNER DICOURSE AND IN MOO-BASED TANDEM
+INTERACTIONS
+Researchers working within an interactionist approach to SLA in particular agree that negotiation of
+meaning promotes understanding and that it facilitates the acquisition of a foreign language. They do,
+however, continue to debate which conversational moves are most likely to trigger learners' noticing and
+destabilise their incorrect assumptions about their L2. Varonis and Gass (1985), for example, have
+claimed that "confirmation checks in particular are both a gentle means of indicating a problem in the
+conversation, and an act to encourage the interlocutor to continue" (p. 82; see also Chun, Day,
+Chenoweth, & Luppescu, 1982, p. 544). In contrast, Long (1996) argues that confirmation checks are
+poor facilitators of negotiation of meaning, because they merely require others to confirm or deny a
+statement. Rather, he emphasises the potential of recasts, that is, of form-focused partner-related target-
+like reformulation of all or part of an incorrect utterance, to facilitate language acquisition (Long, p. 449;
+Long, Inagaki, & Ortega 1998). Pica (1988, p. 66), on the other hand, maintained that explicit requests
+and repetition signals or confirmation requests are particularly efficient means of prompting NNSs to
+adjust their utterances toward target-like use of their L2.
+Likewise, there is disagreement about the question why some types of interaction feature more negotiation
+of meaning than others. Pica and Doughty (1985), who discovered that "clarification requests,
+confirmation checks, and comprehension checks constituted only ... eight percent of the group
+productions" in the small group work among low-intermediate ESL students that they investigated (p.
+240), explained the relative absence of negotiation in their data by emphasising that the more fluent
+learners tended to monopolise the interactions they were engaged in and frequently ignored their partners'
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 157
+comments in small group work. In contrast, Long and Porter (1985), who found "no significant
+differences in the amount of repair by NSs and learners," and who also claimed that in general language
+learners "rarely ask for help, no matter who their interlocutors are" (p. 216), argued that their students
+frequently avoided repair work in class because they may have been "reluctant to indicate a lack of
+understanding in front of their teacher and an entire class of students" (p. 220). Still, Varonis and Gass
+(1985, p. 84) insist that it was precisely the "shared incompetence" of their students and the ensuing
+reduced likelihood of loss of face that encouraged their learners to ask for help.
+The amount and the quality of repair in NS-NNS and NNS-NNS interactions clearly depend on a number
+of factors. Different studies have, however, often focused on different conversational moves, and I am not
+aware of a single study that has yet addressed this issue in tandem learners' interactions. Moreover, there
+is substantial variation between the criteria that individual researchers have used to assign specific moves
+to the categories they employed to analyse their data. Porter (1986), for instance, used only four
+categories to analyse learners' repair work in task-based interactions among NNSs and between NNSs and
+NSs. She found that 50% of all repair moves in her data were confirmation checks, 18% clarification
+requests, 17% comprehension checks, and 15% requests for lexical assistance (p. 206), although the
+example that she cites to illustrate which utterances she classified as confirmation checks suggests that
+Porter also counted repetitions and possibly even recasts as instances of this repair move.
+Lee (2001, p. 238), on the other hand, studied online discourse among learners of Spanish who interacted
+with each other via a program called ParaChat on the basis of eight different categories of conversational
+moves. She gave these students "no particular instructions" other than to chat and "focus" on topics and
+questions posted on the researcher's Web page (p. 236). However, the data and figures she cites are
+likewise difficult to interpret, not least because there is substantial overlap between the definitions of
+"clarification checks" and "requests."20
+An analysis of the MOO data based on a more coherent classificatory system (see Appendix B) revealed
+the following frequencies for repair work in the tandem interactions:
+Table 3. Frequencies of Selected Repair Moves in the Tandem Corpus21
+N
+(German
+students)
+N
+(American
+students)
+N
+(all students)
+% of all
+repair
+(all students)
+% of turns
+in the entire
+corpus
+Confirmation checks 118 101 219 5.5 1.7
+Clarification requests 829 720 1549 39.2 11.9
+Comprehension checks 9 5 14 0.4 0.1
+Repetitions 0 0 0 0.0 0.0
+Recasts 28 1 29 0.8 0.2
+Overt indications of understanding 232 350 582 14.7 4.5
+Overt indications of agreement 581 732 1313 33.2 10.1
+Overt indications of non-agreement 128 117 245 6.2 1.9
+Total 1925 2026 3951 100 30.4
+The figures in Table 3 provide several insights into the tandem learners' online behaviour. They reveal,
+for example, that these learners used notably more requests for a clarification, elaboration or
+reformulation of their partners' ideas than did the learners in Long and Porter's or Pica and Doughty's
+studies into face-to-face discourse. In fact, the ratio of clarification requests to the overall number of turns
+in the tandem data is already higher than the aggregate of all the repair work that Pica and Doughty's
+learners engaged in during their face-to-face encounters (11.9% vs. approximately 8%). But the MOO
+students' behaviour also differed notably from that of the data studied by Porter. Her learners apparently
+relied very heavily on the use of indirect repair strategies such as confirmation checks, repetitions and
+recasts. The tandem students' transcripts, on the other hand, do not contain a single repetition, extremely
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 158
+few recasts, and relatively few confirmation checks.
+The complete absence of repetitions in the MOO corpus can be explained easily by the fact that it makes
+little sense to repeat an utterance or part thereof without the option to use intonation or stress to indicate
+why something "sounded" odd. Moreover, it seems that at least part of the reason why there were so few
+recasts in the tandem data was that repetitions as well as recasts are often indicative of a teacher-learner
+relationship rather than a balanced relationship between the (tandem) partners, because they imply that
+the person who uses them is more knowledgeable or more proficient than the other participants in a
+conversation. It is, however, more difficult to explain why the learners rarely checked that they or their
+partners had understood what the other tried to say via confirmation or comprehension checks.
+One sociocultural explanation for the lack of comprehension checks in the MOO data might be the
+asymmetry in students' respective levels of proficiency in their target languages. Another reason could be
+that they tried to maintain a positive face vis-à-vis their peers. In other words, they may have feared that a
+more extensive use of confirmation and comprehension checks would have made them appear as overly
+teacher-like. They may also, however, have simply relied on their partners to take the initiative if they did
+not understand them, and the fact that almost 5% of all turns in the corpus included or served as an overt
+indication of understanding offers strong support for this hypothesis. It confirms that the learners
+frequently signalled that they were able to follow their partners, and there is thus also good reason to
+speculate that the students expected a similar reaction when their partners did not do so.
+More than a third of the repair work in the corpus were clarification requests, and this move was hence
+almost a hundred times more frequent in the MOO data than comprehension checks. This move was
+almost a hundred times more frequent in the MOO data than comprehension checks. Furthermore, the
+tandem learners used clarification requests about eight times as often as confirmation checks. This ratio
+suggests two things. First, it provides us with additional evidence for the hypothesis that these learners
+had no qualms about asking their partners to modify their output. Second, it appears to confirm the
+assumption that the students usually preferred their partners to rephrase or amend their utterances, even if
+it is equally possible that the learners simply tried to deal with the issue of repair as efficiently as possible.
+In other words, they may only have prompted others to indicate that they had understood something if
+they were really worried that this might not have been the case.
+Finally, it is worth noting that the German and American students produced rather similar amounts of
+confirmation checks and clarification requests. Their self-reports and the fact that the partners usually
+differed considerably in their respective command of their L2 would have made it perfectly
+understandable if there had been considerably more clarification requests from the American rather than
+the German learners. Still, this was obviously not the case, and there is accordingly even more evidence
+that these learners had no need to feign understanding.
+These data appear to leave us with two possible interpretations of the learners' actions: Either their
+engagement in repair work was unique, or the use of an online environment, the task the students had to
+complete, and the fact that they met as tandem partners, or a combination of these factors, are responsible
+for these findings. Some support for the hypothesis that online learners generally engage in more repair
+work than those who can talk to each other in a four-walled classroom comes from a study into different
+forms of CMC by Sullivan (1998). In her analysis of online interactions between minority students in the
+US, she found that her subjects "frequently negotiated by asking for clarification of remarks" (p. 48;
+emphasis added). Likewise, there is evidence in Pellettieri (2000) to suggest that negotiation of meaning
+among students who meet online differs markedly from the sense-making processes that learners engage
+in in face-to-face conversations.22
+Pellettieri (2000), who investigated online discourse between ten dyads of English-speaking intermediate
+students of Spanish via a chat-like program called ytalk, discovered that only 7% of all negotiation
+routines between her learners did not include some form of indication that a speaker was ready to "pop
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 159
+[back] up to the main line of conversation" (p. 73; Varonis & Gass, 1985). In addition, she claimed that
+such indications are even more important in online interactions than in face-to-face discourse because
+they are one of the very few means that learners can use to signal that they agree with others, or that a
+reformulation has helped them to understand their partner in the absence of other cues.
+The MOO interactions support this assumption. Not only did the students from Münster and Vassar
+frequently emote to indicate that they agreed with their partners, but they also repeatedly verbalised this
+state of affairs in their "spoken" replies. The combined tally of their overt indications of understanding
+and agreement, plus the emotes that they used to nod, smile, grin, laugh, or agree with each other, shows
+that the function of one in six turns in the data (16.6%) was to provide others with positive feedback about
+their contributions. The words and phrases printed in bold face in the following passage from the corpus
+illustrate the relevance of this type of feedback in online interactions.
+Du sagst, I think we should combine the info
+Kim sagt, remember that we hjave to talk german  and you have to talk english
+You grin.
+Helen sagt, I mean that we can combine the info on education and immigration into a single
+report
+Kim sagt, are we goign to present that same info, just in differnet languages??
+Kim [zu Helen]: yeah thats good
+Helen sagt, achh..i forgot about the speaking german factor
+Helen sagt, where is Nina
+Kim sagt, who knows - i guess she'll be here eventually
+Helen sagt, Well i think that it wont be exactly the same just b/c the report in english would
+concern Germany and the German report would concern the US
+Kim sagt, ahhhh - okay
+Helen sagt, so Nina and Carlo will combine their infor
+Helen sagt, and we will combine ours
+You nod.
+Helen sagt, does that seem right
+Kim sagt, and will we just sit while carlo an nina present or will we read their info or what?
+Du sagst, Yeah, and give applause for us ;)
+Helen sagt, wont they be presenting their info to our class also
+Kim [zu Helen]: did you read the email about the presentation that jeff sent?
+Helen claps for Carlo
+The corpus data do not allow for any firm conclusions about the effects of the learners' engagement in
+negotiation of meaning on the development of their respective L2 competence. They demonstrate,
+however, that (MOO-based) online interactions between tandem learners are replete with comprehension
+checks and hence with a type of conversational move that promotes noticing because it usually draws
+learners' attention to gaps in their L2 command and also often triggers a discussion about the likely
+cause(s) for inaccuracies in their output. Moreover, the discussion has revealed how important it is for
+learners who communicate with each other in real time in the absence of aural, visual and tactile cues to
+identify and employ appropriate substitutes to convey this kind of information. Also, there is substantial
+evidence in the learners' feedback to suggest that their participation in the exchange did indeed prompt
+them to reflect upon the means they had at their disposal to manage a(n) (online) conversation.
+In the final section of the paper, I discuss how the students exploited the bilingual format of their
+exchanges and the fact that they met as tandem partners rather than as learners whose respective native
+languages were of little immediate interest to them or students with shared native and target languages.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 160
+CODESWITCHING
+The interplay between language learners' use of their L1 and L2 has been the subject of renewed interest
+in SLA in the 1990s not least due to the application of Vygotskian theory to processes of second language
+acquisition. Anton and DiCamilla (1998), for example, established that L1 use can play "a strategic
+cognitive role both in scaffolding and in establishing intersubjectivity" in face-to-face discourse between
+dyads of adult NSs of English who studied Spanish at the beginner level (p. 319; see also Brooks, Donato,
+& McGlone, 1997, especially p. 530), while Swain and Lapkin (1998) observed that their French
+immersion students used their L1 "to regulate their own behavior, to focus attention on specific L2
+structures, and to generate and assess alternatives" (p. 333; see also Swain & Lapkin, 2000). Still, I am
+not aware of any studies that have yet addressed the question how tandem learners use the two languages
+they have at their disposal to scaffold their own and their partners' tasks.
+All teams in the present study were free to negotiate individual solutions to the question of what language
+to use when, as long as they made sure that there was an appropriate overall balance between the use of
+their native and their target language. Similarly, they did not receive any firm instructions about how and
+when to borrow items from their L1 or L2 in spite of the fact that the different possible formats from
+which they could choose obviously have differing implications for the way in which they conduct their
+online work.23
+A framework where every student uses the target language as much as possible violates the tandem
+principle of reciprocity because it reduces the chance that the learners receive much authentic input in
+their L2 from their partners. A completely random approach to language choice, on the other hand,
+incorporates the danger that neither of the codes is used long enough to allow learners to derive sufficient
+grammatical, semantic and pragmatic information about their L2 to improve their interlanguages from
+their partners' contributions. Moreover, this format would deprive them of the chance to develop their
+skills through pushed output (Swain, 1995) as they might simply use their L1 instead of trying to stick to
+their target language.
+The members of most teams discussed the issue of language choice in the fourth or fifth meeting when
+they had found a project and got to know each other a little better. Three partnerships agreed to alternate
+between German and English from one session to another on this occasion, and the same number of teams
+settled for a format where they switched languages halfway through a session. However, the members of
+the remaining groups did not manage to find a stable format for their meetings in this respect.
+Burt (1992) warned in her analysis of students' codeswitching in NS-NNS discourse that "each choice of
+code is open to a systematic ambiguity of pragmatic interpretation" and that even "attempts at mutual
+convergence are not necessarily accommodating, if the speakers in question are both learners of each
+other's language" (p. 173, 175). Indeed, there is an "in-principle infinite number of ways in which
+language alternation may become meaningful" (Auer, 1984, p. 11), and the present study confirms that it
+is sometimes impossible to decide why someone has switched from the use of his native language to his
+L2, or vice versa. Nonetheless, most of the tandem learners' borrowings and turn-length switches appear
+to have been made for fewer than a dozen different reasons.
+A strictly linear analysis of the data in the corpus revealed that there were more than 1,400 turns in which
+students based their contributions on a language other than the one that their partners had used in the last
+visible utterance on their screens. This figure suggests that the matrix language of their interactions, that
+is, the language that contributes more morphemes than the other to a given stretch of discourse (Myers
+Scotton, 1992, p. 22), changed after an average of only nine turns. There were, however, also several
+situations where two partners in a team conversed in one code while their partners used a different
+language. Similarly, all students sometimes communicated with their NS partner(s) in German and their
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 161
+NNS partner(s) in English (or vice versa), or they even addressed their two NNS partners in different
+languages.
+These factors -- plus the specific conditions in the MOO where people can only read input from others
+after these have pressed the Enter key -- suggest that it is more realistic to assume that the learners in this
+study deviated deliberately from the code their partner had chosen on some 500 occasions, or in about 4%
+of their contributions. Three percent of all turns in the corpus contained a single borrowed item, and
+another 3% featured a switched tag, a borrowed phrase or inter-sentential codeswitching (CS), that is, the
+learners expressed a certain idea or concept in both languages within a single utterance.
+As many as 50% of the turn-length language alternations in the data must probably be classified as
+students' attempts to (re-)establish English or German as the matrix language of a conversation and hence
+to prompt others to converge on their choice of code or revert to the one that someone had used before
+another student deviated from it. This pattern was particularly noticeable towards the beginning of a
+conversation (see the turns printed in bold face in the extract below) and in the exchanges between those
+students who had not agreed on a particular format for their meetings, who ultimately had to deal with
+more than twice as many inter-turn language alternations as their peers in the other groups.
+Jack [to Maren]: es war schoen deine Telefonanrufe zu bekommen...
+Joanne [to Maren]: Ja, ich auch!
+Jack [to Maren]: dein Englisch is so gut!
+Maren [to Jack]: Yes, it was nice to talk to you! - And to Joanne as well!
+Jack [to Maren /Joanne]: Ich muss mein Lauscher finden-- moment mal
+Joanne [to Maren]: Danke!  Du sprichst gut Englisch!
+Maren [to Jack]: Thank you! - Wohin sollen wirgehen?
+Joanne [to Maren]: Sehr gut!
+Maren [to Joanne]: Thank you!
+Joanne [to Maren]: Vielleicht koennen wir zu meine Raum gehen.
+Jack [to Joanne/ Maren]: wohin gehen wir heute?
+Maren [to Jack/Joanne]: I'm sorry, we still cannot go to my room. I have no exit and I don't
+know why!
+But the data also revealed that several turn-length switches were apparently triggered by borrowed items
+the students' partners had included in their latest utterances or by intra-sentential switches in turns such as
+"No, in English it's fine. Maybe in German, du sollst langsamer tippen." to which this student's German
+partner replied "in Ordnung" before continuing in English in her next utterance. Several German students
+repeatedly switched to English because they seem to have felt that they would "lose" their partners if they
+continued to use their target language and thus to avoid a breakdown in the conversation. In contrast,
+many Americans sometimes reverted to English because they apparently felt that they were unable to
+express a certain idea in their foreign language. In fact, all participants in the project seem to have
+borrowed words or phrases from their L1 and reverted to their native language for the duration of an
+entire turn in their online interactions to compensate for their "lexical need" (Legenhausen 1991, p. 67).
+Two thirds of all single-word borrowings appeared in contributions from the less advanced American
+students. Yet the contributions below also illustrate that the learners from both sides of the Atlantic
+sometimes drew quite heavily on their L1 and their L2:
+Broke sagt, SAT's sind examens fuer intelligence. Sie sind Mathematiks und
+Literature/Grammar
+Kim [to Carlo]: die USA hatten viel "immigration" in 1920's wenn meine Grossgrossmutter hat
+"immigrated"
+Hasko [zu Jerry]: There is no test. In my case, the Klassenlehrer of the Grundschule wrote a
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 162
+Gutachten. The main decision was up to the parents, though.
+Du sagst, ich habe gerade [...] eine Note angebracht, die das Link zu unserer homepage enthaelt
+Some borrowings, including the use of Grundschule and Gutachten in Hasko's contribution, were
+probably incorporated into L2 turns because they are highly context- or culture-bound, and perhaps also
+because the students wanted to introduce each other to these items even if they were currently
+communicating in their own target language. Furthermore, the German students in particular repeatedly
+seem to have continued to use borrowed L2 items because this ensured that everyone in the team
+understood what the other was talking about and because doing so allowed them to get on with their
+work. Others probably simply occurred, however, because the respective items were more salient in a
+discussion than their translational equivalents.
+Albeit in a different sense, because Anton and DiCamilla's (1998) data stem from interactions between
+learners with shared native and target languages, these observations appear to substantiate their claim that
+learners employ language changes to scaffold their partners' task and (re-)establish and sustain mutual
+understanding and intelligibility of each others' turns. Moreover, Hasko's turn plus the following utterance
+from another learner from Münster indicate that at least some tandem learners apparently used both their
+L1 and their L2 to foreground particular structures, specifically lexical items. They tried to scaffold their
+partners' tasks and respond to their needs, but they also attempted to force their partners to return to the
+established code of a conversation to receive additional input in their L2, continue to model the usage of
+their own L1 for their partners, and sometimes also to get further opportunities to practise their own target
+language skills. The passage below demonstrates how hard some American learners (in this case, Stanley)
+tried to stick to the use of German and repel their NNS partners' temptations to revert to their native
+language in spite of their limitations in their target language. Having announced that he briefly needs to
+change to English after the learners have already communicated with each other exclusively in German
+for several minutes, Stanley then reverts to his L2 despite his German partner's suggestion to switch to
+English, and he only "yields" towards the very end of the passage:
+Stanley says, gotta do this in english. they use repetition of elements, like short film clips that will
+pop up throughout an episode, to bring attention to different parts of the elements.
+Stanley says, don't want to bore you, but such is reasonably in line with what a few frenchies are
+talking about today
+Ian [to Steffi]: Mussen jede deutsche studenten Englisch lernen?
+You say, Ja. Alle, mit zehn Jahren faengt man in der Schule an.
+You say, Aber wollen wir noch mal Englisch reden?
+Stanley says, ich rede fuer etwas dass ich nicht auf deutsch sagen kann.
+Ian [to Steffi]: Wenn du willst, ja.
+You say, Wie lange studiert ihr eigentlich schon? Wisst ihr schon was ihr hinterher machen wollt?
+Stanley slaps himself to wake up
+Ian says, Ich habe kein idee was ich machen will, nein. Vielleicht Musiker, aber...
+Stanley says, ich habe ein Jahre mehr des College, aber ich will Grad Schule gehen.
+You say, Was ist Grad Schule?
+Steffi [to Ian]: Do you play in a band?
+Stanley says, wo man kann fuer ein PhD studieren
+You say, I hope I can do my examen next year, I wonder if there is a life after university...
+Ian [to Steffi]: Manchmal. Leider nicht jetzt, aber hoffentlich fange ich bald ein neue Bande an.
+Steffi [to Ian]: Das wuerde ich ja mal gerne hoeren. Machst du auch selber Lieder?
+Stanley says, there isn't here. not for a philosphy major. that's why i need grad school.
+Stanley says, oops. auf deutsch.
+Stanley says, nichts
+You say, we really can talk english if you like...
+Ian says, OK.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 163
+Stanley says, tut mir leid. ich habe nichts heute gegessen. ich habe kein Blood Sugar
+Stanley says, danke.
+You say, Blutzucker.
+You say, What did you do yesterday?
+Stanley says, me or Ian?
+Ian [to Steffi]: I write my own songs, yes.
+Ian says, I think that's what you asked, anyway.
+CONCLUSION
+This paper has focused on two aspects of telecollaboration between tandem partners who communicated
+with each other via a MOO. To begin with, it has investigated these learners' engagement in negotiation
+of meaning, and it has revealed that there are noticeable gaps between the frequencies with which the
+tandem learners and students who interact with each other in different circumstances and constellations
+use specific moves that are typically associated with the negotiation of meaning. It has uncovered several
+possible reasons for these differences, discussed a number of medium-specific factors that may have
+contributed to the particular behaviour that the MOO learners exhibited, and it has confirmed Pellettieri's
+(2000) claim about the importance of the provision of explicit "positive feedback" in written real-time
+CMC.
+But it has also documented the ways in which teams of learners with differing L2 commands can utilise
+the bilingual format of their encounters to complete projects of their choice and benefit from their
+partners' expertise as native speakers of their respective L1s. Furthermore, it has shown that at least most
+of the participants in this study were willing to find a solution to the dilemma of wanting to use their L2,
+having to use their L1, and the challenge of having to achieve a suitable balance between these competing
+goals over the course of the project.
+Future research will have to establish whether the findings of this study can be corroborated in exchanges
+that involve tandem learners who are matched more closely with regard to their target language
+proficiency, as well as sociocultural factors like their educational backgrounds and the format of the
+courses from which they are recruited. Likewise, it remains to be seen how tandem partners engage in
+negotiation of meaning and how (often) they draw on their native and target languages if the venue of
+their collaboration is a chatroom, or if they meet in a series of audio- or videoconferences.
+Nonetheless, it is hoped that the study has demonstrated that online tandems in the MOO have just as
+much potential as other forms of telecollaboration to prompt learners to investigate ways to express
+themselves successfully in their L2, and perhaps also how this specific approach can help learners
+develop their "awareness of communication as a process, language as a system and the learning process
+itself" (Dam & Legenhausen, 1997, p. 56).
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 164
+APPENDIX A
+An Approximate English Translation of the Passage Cited in the Discussion of the Provision of
+Lexical Assistance
+Helen says, a foreigner (in America) is a person who is not "americanized"
+Nina [to Helen:]: What do you mean by americanized?
+Kim [to Helen]: I think that a foreigner is someone who loves another culture more than American
+culture.
+Kim [to Nina]: how would you say "to put one culture above the other," as more important to them?
+Helen says, Americanized... hmmm ... a person dresses like an American... eats like an American... thinks
+like an American...
+Kim says, epecially THINKS like an American
+You say, They think that one culture is of higher value than another, perhaps, oder schaetzen sie
+mehr = appreciate it more?
+Kim says, thanks - that's what I mean
+You say, can you generalize things in this way, thinks like an American?
+You say, In Germany that would be very problematic, because people would reject such
+Pauschalisierungen..
+Helen says, I don't understand "pauschalisierungen"
+You say, ... it is especially problematic because of our history. I would never say that I think like a
+German, but always put that more concisely.
+You say, that is, if you look at it in a general way, look at it as something universal, so, as if
+everyone would think the same
+Helen says, but I think that you an opinion about how an
+Helen says, ...
+Helen says, American thinks have
+Helen says, materialistic...
+Helen says, a person who seeks "the American dream"
+You say, that is an interesting hypothesis, because I have always thought that the AD is not en vogue any
+more
+Kim says, what is AD?
+Helen says, but I don't think that all foreigners want to realise "the american dream"... only those who are
+"americanized"
+You say, AD is American Dream..
+You say, I have abbreviated it to save time. Sorry
+Kim [to Helen]: yes, I think so, too
+Kim [to Helen]: only those foreigners, who are Americanized
+You say, how would you define AmericanDream?
+Kim says, oops - who are americanized
+Helen says, The AD is ....
+Helen says, someone wants to have a big white house... plenty of money, a good visit [holiday?; Mk]
+... a family with children
+Helen says, is that true Kim?
+Kim says, yes, a white house with children and a white fence.
+Kim says, people also seek freedom in America  […]
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 165
+APPENDIX B
+Repair Types That Were Analysed in This Study
+repair type gloss (plus example from the corpus, if applicable)
+Confirmation
+check
+A speaker's attempt to confirm that he has understood an utterance via the (partial)
+paraphrase (as opposed to repetition; see below) of this turn, which can simply be
+answered with Yes or No.
+Nina says, Aber ihr muesst keine Arbeit schreiben, in der ihr die Arbeit im MOO
+analysiert, sondern nur das Projekt vorstellen? Verstehe ich das richtig?
+Kim [to Nina]: ja, wir mussen die Arbeit im Moo analysieren
+Clarification
+request
+An explicit demand for an elaboration or a reformulation of an idea, which "require[s]
+a rerun of the troublesome utterance" in question (Aston, 1986, p. 136).
+Jerry [to Hasko:]: Yes, I'm going to try to find out how much the American
+government spends per student and total.
+Hasko [to Jerry]: Did you mean students or pupils?
+Hasko [to Jerry]: Or is it the same?
+Jerry [to Hasko:]: per pupil, for now.
+Comprehension
+check
+A speaker's attempt to prompt another speaker to acknowledge that he has understood
+a particular utterance (Mitchell & Myles, 1998, p. 129).
+Sonja [zu Joanne]: [...] Do you know what a "Auflauf" is?
+Joanne [zu Sonja]: No
+Sonja [zu Joanne]: It's something like a gratin. Do you understand it?
+Repetition
+The repetition, in isolation, of part of or an entire erroneous or otherwise problematic
+utterance. (Note, however, that examples such as the following were classified as
+requests for lexical assistance, because they served to indicate non-understanding
+resulting from a learner's unfamiliarity with a particular word rather than corrective
+feedback.
+Hasko [zu Jerry]: In der Grundschule gibt es aber einen festen Klassenverband, oder?
+Jerry [zu Hasko:]: Klassenverband?
+Hasko [zu Jerry]: A KLASSENVERBAND is a group of pupils who build a class.
+Recast
+(implicit error
+correction)
+A form-focused partner-related target-like reformulation of all or part of an incorrect
+utterance (Long, 1996, p. 434; Lyster & Ranta, 1997, p. 46).
+Lee says, ich bin frustreirend mit dem Moo
+Lee says, You guys need to just come over
+Dirk says, Ehrlich? Seid ihr frustriert?
+Overt
+indication of
+understanding
+Overt indication that a speaker has understood a particular message.
+Karina sagt, corinna, we don't know what orthography is...
+Dirk sagt, spelling
+Karina sagt, oh ... i see. that's not used here at all.
+Overt
+indication of
+agreement
+Overt indication that a speaker agrees with what his partner said.
+Jack sagt, We need a German version and an English version
+Joanne [zu Jack]: Das ist besser!
+Joanne [zu Jack]: Richtig.
+Overt
+indication of
+non-agreement
+Overt indication that a speaker does not agree with what his partner said.
+Hasko [to Markus]: We usually handle that as follows: Uta and me talk in English, the
+others in German.
+Uta [to Markus]: das stimmt nicht
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 166
+NOTES
+1. See Donaldson & Kötter, 1999a, 1999b; Kötter, 2001; Schwienhorst, 2000; von der Emde, Schneider,
+& Kötter, 2001; Schneider & von der Emde, 2000.
+2. Note, though, that the three coordinators of the exchange, Jeffrey Schneider, Silke von der Emde and I,
+were physically present in the computer pools from which the learners accessed the MOO throughout the
+entire project, and that we could thus always be called upon for assistance. Moreover, all learners
+received regular oral and written feedback on their work and the progress they had made.
+3. All names have been altered to protect the students' identities. Moreover, note that the learners' own
+contributions appear behind the tag "You say" on their screens, while others see these utterances behind
+"Xyz says"; "you" in this passage is thus Tom.
+4. Cherny (1995) and Schwienhorst (2000) offer detailed histories of MOOs and MUDs, while Holmevik
+and Haynes (2000, p. 165) provide a useful recent list of publicly accessible educational MOOs.
+5. The exchange consisted of a total of 16 online sessions. Most learners had formed groups consisting of
+two native speakers of German and two NS of English by the end of their second meeting when they had
+discussed their ideas and studied the profiles that all participants were asked to compose about themselves
+and save in the MOO database. However, three teams formed triads rather than "double-date" and hence
+to make sure that they could continue with their work even if a student had to miss a meeting. All
+partnerships had agreed on a project after a maximum of five sessions, and they then tackled projects
+including representations of Germans in Hollywood films, a comparison of the German and the American
+education systems, immigration and residence permits in the two countries, the mutual clichés that
+Germans and U.S. Americans have of each other, and immigrant education.
+6. They could, however, use the project data as a basis for their term papers.
+7. The differences between the cohorts mainly result from the different status that German and English
+enjoy as target languages in the two countries and from differences between the educational systems in
+Germany and the United States. Still, the evaluation questionnaire, which all learners were asked to
+complete at the end of the project, showed that the German students were just as motivated as their peers
+to improve their target language skills. They participated as enthusiastically as their partners even if their
+main motivation to participate in the project was to get some hands-on experience in the use of the new
+media in language education and in spite of the mismatch between their own and their partners' foreign
+language proficiency (see Belz, 2002b, who discusses another transatlantic project involving learners
+from Germany and North America with differing L1 and L2 proficiencies).
+8. See Holmevik & Haynes (2000) for a detailed discussion of the differences between text-based clients
+and the enCore Xpress interface.
+9. The reason for this was that the version of enCore Xpress that was available at the time did not yet
+feature an automatic logging facility.
+10. See Donaldson & Kötter (1999a) for a copy of a virtually identical questionnaire.
+11. Additional reasons for this decision were that such a sample focuses on those sessions in which the
+learners conducted the bulk of their online negotiations, and that the corpus is comprehensive enough to
+be representative of the students' online behaviour but still small enough to allow for manual coding of
+features that cannot be captured by automatic taggers or parsers.
+12. The average length of a student's turn was about 12 words, and each student contributed an average of
+about 60 utterances to each 75-minute session. However, some learners produced notably longer turns
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 167
+than others, and some also produced fewer turns than their peers, who broke up longer contributions as
+described in the section on Key Characteristics of Interactions in Text-Based Online Facilities.
+13. A full list of the tags that were used to code the data is available in Kötter (2002, p. 288), where
+interested readers can also find a more in-depth discussion of the notion of virtuality in MOO-based
+discourse and other concepts that could only be touched upon briefly in this paper.
+14. All citations from the students' data are reproduced in their original shape without corrections of
+spelling mistakes or other types of deviations from the norms of German and English. Moreover, note that
+the MOO interfaces that these learners used did not yet allow for the use of German umlauts (ä, ö, ü), and
+that they accordingly had to use their equivalents ae, oe, and ue.
+15. The amount of emotes and the frequency of block capitals in the data were calculated on the basis of
+tags that were inserted manually into the data. Other notable strategies, which were identified on the basis
+of tags inserted manually as well as automatically, include the use of reduplicated sentence-final periods,
+while reduplicated letters turned out to be another useful means for the reproduction of tone of voice.
+Smileys, on the other hand, were rarely used by the learners to clarify the illocutionary force of their
+turns.
+16. See Kötter (2001) for a discussion of the provision of corrective feedback in this exchange.
+17. The imbalance between the number of questionnaire responses and the overall amount of project
+participants is due to the fact that four students (two Germans and two Americans) did not return their
+questionnaires.
+18. Schwienhorst (2000, p. 288) found that "asking for a translation into English was slightly more
+important [to his Irish students] than paraphrasing the unknown word or phrase, whereas for German
+students the preferences were the opposite; paraphrasing was far more important than translation" when
+his learners did not understand their partners' target language contributions. Virtually the same was true
+when his students had to deal with input from their partners in their own L1. His results thus mirror the
+present findings. In contrast, a look at the data from the project reported on by Donaldson & Kötter
+(1999a, 1999b) shows that a lower percentage of their German learners appear to have asked for a
+repetition or a paraphrase, and that notably fewer of their American students tried to guess their partners'
+meanings. These differences can, however, probably be explained to a large extent by the fact that the
+members of both groups of learners in this study were less proficient in their target languages than both
+Schwienhorst's students and the learners in the present project.
+19. Schwienhorst (2000) did not request this kind of information from his students. Donaldson & Kötter's
+(1999a, 1999b) data, on the other hand, suggest that there were more German learners in their sample who
+claimed to have borrowed items from their L1, that even more of their American students had asked for
+lexical assistance, and that notably fewer of their German subjects tried to paraphrase their ideas.
+20. Lee (2001) defines the former as instances where "the listener asks wh-, uses tag questions or
+responds to the statement using 'I don't understand.'" (p. 237), while the latter are glossed as follows:
+"When receiving incomprehensible input, the learner seeks help by asking questions, such as 'What is
+this?' or 'What do you mean?' to understand the input." (p. 238).
+21. The turns in the corpus were identified and classified as instances of particular repair moves in three
+steps. First, the Concord feature of WordSmith Tools was used to identify candidates for inclusion in the
+above categories by searching the corpus for lexical items or phrases that are typically associated with
+these moves. Second, the turns that contained these words or phrases were checked with regard to their
+form and context before it was decided whether or not they were really examples of a specific move. This
+selection was then amended on the basis of several rounds of close readings of the corpus, which were
+also used to identify moves such as repetitions and recasts.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 168
+22. Lee's (2001) study is unfortunately of little help here, because she does not provide any indication
+about the overall number of turns her students exchanged with each other. Hence, it is impossibly to
+interpret or quantify the role of negotiation of meaning or the individual moves she cites in her data.
+23. Note, however, that these issues were addressed by Schneider, von der Emde, and myself both at the
+beginning of the exchange and in the regular feedback that we gave our students.
+ACKNOWLEDGMENTS
+I wish to thank Klaus Schwienhorst, Jeffrey Schneider, the co-editors of this issue, and three anonymous
+reviewers for excellent advice on earlier versions of this paper.
+ABOUT THE AUTHOR
+Markus Kötter has been involved in tandem projects since 1997. He obtained a PhD from the University
+of Münster/Germany with a dissertation on online tandems in 2001, but he has also researched and
+published about the use of audio-conferencing and graphics systems in distance language education. He
+currently teaches courses in Applied Linguistics at the English Department of the University of Münster.
+E-mail: kotterm@uni-muenster.de
+REFERENCES
+Anton, M., & DiCamilla, F. J. (1998). Socio-cognitive functions of L1 collaborative interaction in the L2
+classroom. Canadian Modern Language Review, 54, 314-342.
+Appel, M. C. (1999). Tandem language learning by e-mail: Some basic principles and a case study.
+(Occasional Paper No. 54). Dublin: Centre for Language and Communication Studies.
+Aston, G. (1986). Trouble-shooting in interaction with learners: The more the merrier? Applied
+Linguistics, 7, 128-143.
+Auer, P. (1984). Bilingual conversation. Amsterdam: Benjamins.
+Barson, J., Frommer, J., & Schwartz, M. (1993). Foreign language learning using e mail in a task-oriented
+perspective: Interuniversity experiments in communication and collaboration. Journal of Science
+Education and Technology, 2, 565-584.
+Belz, J. A. (2002a). Second language play as a representation of the multicompetent self in foreign
+language study. Journal for Language, Identity and Education, 1(1), 13-39.
+Belz, J. A. (2002b). Social dimensions of telecollaborative foreign language study. Language Learning &
+Technology, 6(1), 60-81. Retrieved May 3, 2002, from http://llt.msu.edu/vol6num1/belz/
+Belz, J. A. (2002c). The myth of the deficient communicator. Language Teaching Research, 6(1), 59-80.
+Brammerts, H. (1996a). Language learning in tandem using the Internet. In M. Warschauer (Ed.),
+Telecollaboration in foreign language learning (pp. 121-130). Honolulu: University of Hawai‘i Second
+Language Teaching and Curriculum Center.
+Brammerts, H. (1996b). Tandem language learning via the Internet and the International E-Mail Tandem
+Network. In D. Little & H. Brammerts (Eds.), A guide to language learning in tandem via the Internet
+(pp. 9-22). Dublin: Centre for Language and Communication Studies.
+Brooks, F. B., Donato, R., & McGlone, J. C. (1997). When are they going to say "it" right?
+Understanding learner talk during pair-work activity. Foreign Language Annals, 30(4), 524-541.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 169
+Burk, J. (1998). The play's the thing: Theatricality and the MOO environment. In C. Haynes & J. R.
+Holmevik (Eds.), High wired. On the design, use, and theory of educational MOOs (pp. 232-249). Ann
+Arbor: The University of Michigan Press.
+Burt, S. M. (1992). Codeswitching, convergence and compliance: The development of micro-community
+speech norms. Journal of Multilingual and Multicultural Development, 113(1&2), 169-185.
+Cherny, L. (1995). The MUD register: Conversational modes of action in a text-based virtual reality.
+Unpublished doctoral dissertation, Stanford University.
+Chun, A., Day, R., Chenoweth, A., & Luppescu, S. (1982). Errors, interaction, and correction. A study of
+native-nonnative conversations. TESOL Quarterly, 16, 537-547.
+Dam, L. (1995). Learner autonomy: From theory to practice. Dublin: Authentik.
+Dam, L., & Legenhausen, L. (1997). Developing learner autonomy: Principles -- practices -- outcomes. In
+K. Head (Ed.), ELT links. Proceedings of the British Council/IATEFL SIG symposium held at the
+University of Vienna, September 1996 (pp. 56-57). Whitstable, England: IATEFL.
+Dibbell, J. (1993, December 21). A rape in cyberspace or how an evil clown, a Haitian trickster spirit, two
+wizards, and a cast of dozens turned a database into a society. The Village Voice, pp. 36-42. Retrieved
+May 14, 2002, from http://www.levity.com/julian/bungle_vv.html
+Donaldson, R. P., & Kötter, M. (1999a). Language learning in cyberspace: Teleporting the classroom into
+the target culture. CALICO Journal, 16(4), 531-557.
+Donaldson, R. P., & Kötter, M. (1999b). Language learning in a MOO: Creating a transoceanic bilingual
+virtual community. Literary and Linguistic Computing, 14(1), 67-76.
+Eck, A., Legenhausen, L., & Wolff, D. (1994). Assessing telecommunications projects: Project types and
+their educational potential. In H. Jung & R. Vanderplank (Eds.), Barriers and bridges: Media technology
+in language learning (pp. 45-62). Frankfurt: Lang.
+Hauck, M., & Haezewindt, B. (1999). Adding a new dimension to distance (language) learning and
+teaching – the tutor’s perspective. ReCALL, 11(2), 46-54.
+Holmevik, J. R., & Haynes, C. (2000). MOOniversity. Needham Heights: Allyn and Bacon.
+Kern, R. G. (1995). Restructuring classroom interaction with network computers: Effects on quantity and
+characteristics of language production. The Modern Language Journal, 79, 457-476.
+Kinginger, C. (1998). Videoconferencing as access to spoken French. The Modern Language Journal, 82,
+502-513.
+Kinginger, C., Gouvès-Hayward, A., & Simpson, V. (1999). A tele-collaborative course on French /
+American intercultural communication. French Review, 72, 853-866.
+Kitade, K. (2000). L2 learners' discourse and SLA theories in CMC: Collaborative interaction in Internet
+chat. Computer Assisted Language Learning, 13(2), 143-166.
+Kötter, M. (2001). MOOrituri te salutant? Language learning through MOO-based synchronous
+exchanges between learner tandems. Computer Assisted Language Learning, 14(3-4), 289-304.
+Kötter, M. (2002). Tandem learning on the Internet: Learner interactions in virtual online environments
+(MOOs). Frankfurt: Lang.
+Kötter, M., Shield, L., & Stevens, A. (1999). Real-time audio and e-mail for fluency: Promoting distance
+language learners' aural and oral skills via the Internet. ReCALL, 11(2), 55-60.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 170
+Lee, L. (2001). Online interaction: negotiation of meaning and strategies used among learners of Spanish.
+ReCALL, 13(2), 232-244.
+Legenhausen, L. (1991). Code-switching in learner's discourse. International Review of Applied
+Linguistics, 29, 61-73.
+Little, D. (1996). Freedom to learn and compulsion to interact: promoting learner autonomy through the
+use of information systems and information technologies. In R. Pemberton, E. S. L. Li, W. W. F. Or, & H.
+D. Pierson (Eds.), Taking control: Autonomy in language learning (pp. 203-218). Hong Kong: Hong
+Kong University Press.
+Little, D., & Brammerts, H. (Eds.). (1996). A guide to language learning in tandem via the Internet.
+Dublin: Centre for Language and Communication Studies. [Occasional Paper No. 46].
+Little, D., Ushioda, E., Appel, M. C., Moran, J., O'Rourke, B., & Schwienhorst, K. (1999). Evaluating
+tandem language learning by e-mail: Report on a bilateral project (Occasional Paper No. 55). Dublin:
+Centre for Language and Communication Studies.
+Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. Ritchie
+& R. Bhatia (Eds.), Handbook of second language acquisition (pp. 413-468). New York: Academic.
+Long, M. H., Inagaki, S., & Ortega, L. (1998). The role of implicit negative feedback in SLA: Models and
+recasts in Japanese and Spanish. The Modern Language Journal, 82, 357-371.
+Long, M. H., & Porter, P. (1985). Group work, interlanguage talk, and second language acquisition.
+TESOL Quarterly, 19, 207-228.
+Lundstrom, P. K. M. A. (1995). Synchronous computer-mediated communication: Will Internet talkers
+improve the communicative competence of ESL/EFL students? Unpublished manuscript, University of
+Hawai‘i.
+Lyster, R., & Ranta, L. (1997). Corrective feedback and learner uptake. Negotiation of form in
+communicative classrooms. Studies in Second Language Acquisition, 19(1), 37-66.
+Marsh, D., Arnold, I., Ellis, N., Halliwell, J., Hodgins, C., & Malcom, S. (1997). Project MERLIN. A
+learning environment of the future. ReCALL, 9(1), 52-54.
+Marvin, L. E. (1995). Spoof, spam, lurk and lag: The aesthetics of text-based virtual realities. Journal of
+Computer-Mediated Communication, 1(2). Retrieved November 16, 1998, from
+http://jcmc.huji.ac.il/vol1/issue2/marvin.html
+Maynor, N. (1994). The language of electronic mail: Written speech? In G. D. Little & M. Montgomery
+(Eds.), Centennial usage studies (pp. 48-54). Tuscaloosa: Alabama University Press.
+Mitchell, R., & Myles, F. (1998). Second language learning theories. London: Arnold.
+Müller-Hartmann, A. (2000). The role of tasks in promoting intercultural learning in electronic learning
+networks. Language Learning & Technology, 4(2), 129-147. Retrieved May 03, 2002, from
+http://llt.msu.edu/vol4num2/muller/
+Myers Scotton, C. (1992). Comparing codeswitching and borrowing. In C. Eastman (Ed.), Codeswitching
+(pp. 19-41). Clevedon, England: Multiligual Matters.
+Negretti, R. (1999). Web-based activities and SLA: A conversation analysis research approach. Language
+Learning & Technology, 3(1), 75-87. Retrieved May 3, 2002, from http://llt.msu.edu/vol3num1/negretti/
+Ortega, L. (1997). Processes and outcomes in networked classroom interaction: Defining the research
+agenda for L2 computer-assisted classroom discussion. Language Learning & Technology, 1(1), 82-93.
+Retrieved February 17, 2000, from http://llt.msu.edu/vol1num1/ortega/default.html
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 171
+Pellettieri, J. (2000). Negotiation in cyberspace. The role of chatting in the development of grammatical
+competence. In M. Warschauer, & R. Kern (Eds.), Network-based language teaching: Concepts and
+practice (pp. 59-86). Cambridge, England: Cambridge University Press.
+Pica, T. (1988). Interlanguage adjustments as an outcome of NS-NNS negotiated interaction. Language
+Learning, 38, 45-73.
+Pica, T., & Doughty, C. (1985). The role of group work in classroom second language acquisition. Studies
+in Second Language Acquisition, 7, 233-248.
+Porter, P. (1986). How learners talk to each other: Input and interaction in task-centered discussions. In R.
+Day (Ed.), Talking to learn. Conversation in second language acquisition (pp. 200-222). Rowley, MA:
+Newbury House.
+Sanchez, B. (1996). MOOving to a new frontier in language learning. In M. Warschauer (Ed.),
+Telecollaboration in foreign language learning (pp. 145-163). Honolulu: University of Hawai‘i Second
+Language Teaching and Curriculum Center.
+Schneider, J., & von der Emde, S. (2000). Brave new (virtual) world: Transforming language learning
+into cultural studies through online learning environments (MOOs). ADFL Bulletin, 32(1), 18-26.
+Schweller, K. (1998). MOO educational tools. In C. Haynes & J. R. Holmevik (Eds.), High wired. On the
+design, use, and theory of educational MOOs (pp. 88-106). Ann Arbor: The University of Michigan
+Press.
+Schwienhorst, K. (1997). Talking on the MOO: Learner autonomy and language learning in tandem.
+Paper presented at the CALLMOO: Enhancing Language Learning Through Internet Technologies,
+Bergen, Norway. Retrieved December 15, 2001, from http://www.tcd.ie/CLCS/assistants/
+kschwien/Publications/CALLMOOtalk.htm
+Schwienhorst, K. (2000). Virtual reality and learner autonomy in second language acquisition.
+Unpublished doctoral dissertation, University of Dublin, Trinity College.
+Scott, M. (1999). WordSmith Tools (Version 3.0) [Computer software]. Oxford, England: Oxford
+University Press.
+Sotillo, S. M. (2000). Discourse functions and syntactic complexity in synchronous and asynchronous
+communication. Language Learning & Technology, 4(1), 82-119. Retrieved May 3, 2002, from
+http://llt.msu.edu/vol4num1/sotillo/
+Sullivan, N. (1998). Developing critical reading and writing skills: Empowering minority students in a
+networked computer classroom. In J. Swaffar, S. Romano, P. Markley, & K. Arens (Eds.), Language
+learning online. Theory and practice in the ESL and L2 Computer Classroom (pp. 41-55). Austin, TX:
+Daedalus Group.
+Sullivan, N., & Pratt, E. (1996). A comparative study of two ESL writing environments: A computer-
+assisted classroom and a traditional oral classroom. System, 29(4), 491-501.
+Swain, M. (1995). Three functions of output in second language learning. In G. Cook & G. Seidhofer
+(Eds.), Principles and practice in applied linguistics: Studies in honor of H. G. Widdowson (pp. 125-144).
+Oxford, England: Oxford University Press.
+Swain, M., & Lapkin, S. (1998). Interaction and second language learning: Two adolescent French
+immersion students working together. The Modern Language Journal, 82, 320-337.
+Swain, M. & Lapkin, S. (2000). Task-based second language learning: The uses of the first language.
+Language Teaching Research 4, 253-276.
+Markus Kötter Negotiation of Meaning and Codeswitching in Online Tandems
+Language Learning & Technology 172
+Tallis, C., & Harnack, A. (1997, April 1-3). Seven pedagogical principles for effective educational
+MOOing. Paper presented at the second annual Teaching in the Community Colleges Online Conference.
+Retrieved August 31, 2001, from http://leahi.kcc.hawaii.edu/org/tcc_conf97/pres/harnack.html/
+Tella, S. (1992). Talking shop via e-mail: A thematic and linguistic analysis of electronic mail
+communication. Helsinki: University of Helsinki, Department of Teacher Education.
+Turkle, S. (1995). Life on the Screen: Identity in the Internet. New York: Simon and Schuster.
+Van Handle, D. C., & Corl, K. A. (1998). Extending the dialogue: Using electronic mail and the Internet
+to promote conversation and writing in intermediate level German language courses. CALICO Journal,
+15(1-3), 129-143.
+Varonis, E. M., & Gass, S. M. (1985). Non-native/non-native conversations: A model for negotiation and
+meaning. Applied Linguistics, 6, 71-90.
+von der Emde, S., Schneider, J., & Kötter, M. (2001). Technically speaking: Transforming language
+learning through virtual learning environments (MOOs). The Modern Language Journal, 85, 210-225.
+Warschauer, M. (1996). Comparing face-to-face and electronic discussion in the second language
+classroom. CALICO Journal, 13(2/3), 7-26.
+Weininger, M. J., Shield, L., & Davies, L. B. (1998). A MOOving experience. In P. Lewis (Ed.), Teacher,
+learners, and computers: Exploring relationships in CALL (pp. 87-94). Nagoya: JALT CALL N-SIG.
+Werry, C. C. (1996). Linguistic and interactional features of Internet Relay Chat. In S. C. Herring (Ed.),
+Computer-mediated communication. Linguistic, social and cross-cultural perspectives (pp. 47-63).
+Amsterdam: Benjamins.
+Zähner, C., Fauverge, A., & Wong, J. (2000). Task-based language learning via audiovisual networks.
+The LEVERAGE project. In M. Warschauer & R. Kern (Eds.), Network-based language teaching:
+Concepts and practice (pp. 186-203). Cambridge, England: Cambridge University Press.

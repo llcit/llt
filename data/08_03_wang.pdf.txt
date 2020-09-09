@@ -1,0 +1,1268 @@
+Language Learning & Technology
+http://llt.msu.edu/vol8num3/wang/
+September 2004, Volume 8, Number 3
+pp. 90-121
+Copyright © 2004, ISSN 1094-3501 90
+SUPPORTING SYNCHRONOUS DISTANCE LANGUAGE LEARNING
+WITH DESKTOP VIDEOCONFERENCING
+Yuping Wang
+Griffith University
+ABSTRACT
+This study involves three dimensions: distance language education (DLE) as the context,
+videoconferencing as the technology, and the provision of synchronous oral and visual interaction
+in DLE as the core research problem. This article follows on this author's previous research in
+regard to the inclusion of oral and visual interaction in distance language learning through the use
+of Internet-based desktop videoconferencing tools. It evaluates the findings from a two-stage
+evaluation of a particular videoconferencing tool, NetMeeting. The results from this research
+confirm that the present generation of Internet-based desktop videoconferencing tools are capable
+of supporting oral and visual interaction in DLE. Recommendations are presented for future use
+of videoconferencing in DLE.
+INTRODUCTION
+This research essentially concerns itself with the provision of synchronous oral and visual interaction in a
+DLE context. Through an extensive review, Wang and Sun (2001) point out that this has been
+problematic due to the existence of a physical distance between the learner and education provider. Print
+matter and cassette-taped texts have remained as the major forms of subject matter delivery. The
+development of distance students' speaking and interactional skills has largely been left to the students
+themselves with little academic support and no spontaneous feedback. Consequently, the speaking and
+interactional skills of distance language learners have often been poor and sometimes non-existent (for
+discussions of listening and speaking problems in DLE, see Goodfellow, Manning, & Lamy, 1999;
+Hampel & Hauck, 2004; Kötter, 2001;Wang & Sun, 2000; Wong & Fauverge, 1999). The significance
+and urgency of finding a solution to this problem have led the author's research to an evaluation of the
+capabilities of CMC, and Internet-based desktop videoconferencing tools emerged as a potential solution
+to the problem. Due to technical difficulties, such as Internet bandwidth limitation and latency, few
+empirical studies have been carried out to examine the potential of Internet-based desktop
+videoconferencing in facilitating oral and visual interaction in DLE. The present study aims to fill this gap
+through a formative evaluation of one specific videoconferencing tool, NetMeeting.
+A preliminary evaluation with language teachers and computer specialists was carried out in 2001 to
+investigate the technological capabilities of four Internet-based desktop videoconferencing tools
+(CUseeMe, ICUII, Video VoxPhone Gold, and NetMeeting), and NetMeeting revealed itself as the most
+potentially appropriate tool for supporting oral and visual interaction in DLE (Wang, 2004). Following
+this preliminary study, a more in-depth two-stage evaluation of NetMeeting was conducted in both the
+intranet and Internet environments, this time involving language learners. This article will first discuss the
+importance of interaction (especially oral and visual interaction) to communicative distance language
+learning and then report the findings from the two-stage evaluation of NetMeeting concentrating on issues
+such as user friendliness, audio and video quality, reliability, and cost. Due to manuscript length
+limitations, this article will not discuss language learning outcomes as they will require much more space
+for a thorough analysis. Instead, it will concentrate on the technological capabilities of NetMeeting in
+supporting oral and visual interaction in a DLE context and the participants' perceptions of this medium.
+These capabilities will be discussed in the context of distance language learning and how they can be
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 91
+utilized to facilitate oral and visual interaction. It is hoped that this article will inform distance language
+professionals of the capabilities and limitations of the present generation of Internet-based
+videoconferencing tools and encourage them to constantly explore ways of providing oral and visual
+interaction in DLE. Recommendations for employing videoconferencing tools will be made for future
+research.
+The two-stage evaluation saw the participation of eight language learners from Griffith University in
+Australia, three on-campus and five distance students. A total of 44 videoconferencing sessions were
+carried out: 15 in Stage 1 and 29 in Stage 2. A combination of data collection methods was employed
+during the evaluation: post-installation surveys, post-session surveys and interviews, post-trial surveys,
+and interviews and personal observations by the researcher.
+INTERACTION AND LANGUAGE LEARNING
+The importance of interaction to communicative L2 learning has long been established and interaction has
+been regarded as an integral part of communicative language learning (Gass, 2003; Hall, 1995; Kitade,
+2000; Lantolf, 1994; Mitchell & Myles, 1998; Ohta, 1995; Swain & Lapkin,1995). The facilitating effect
+of interaction on L2 acquisition is best summarized by Long's (1996) iteraction hpothesis:
+negotiation for meaning, and especially negotiation work that triggers interactional adjustments
+by the NS [Native Speaker] or more competent interlocutor, facilitates acquisition because it
+connects input, internal learner capacities, particularly selective attention, and output in
+productive ways. (pp. 451-452)
+In order to provide a theoretical framework to examine the problem of lack of provision of oral and visual
+interaction in DLE, it is important to first look at what interaction entails, especially at a time when
+computer mediated communication (CMC) is gaining importance. Probing the nature of interaction, one
+cannot help but notice its complexity and hence the problem of defining it. Such complexity lies not only
+in the inclusiveness and extensiveness of interaction, but also in its evolving content and roles in a time of
+technological innovation. In other words, the concept of interaction today appears much richer in content,
+scope, and depth than it did 20 years ago. Thus, interaction will be discussed here in relation to recent
+developments in computer-assisted language learning (CALL) and CMC. A review of the literature on
+interaction reveals two major basic traits of interaction: its social nature and its individual nature. Bates
+(1997) neatly summarizes these distinctions as follows:
+the first is an individual, isolated activity, and that is the interaction of a learner with the learning
+material, be it text, television or computer program; the second is a social activity, and that is the
+interaction between two or more people about the learning material. Both kinds of interactions
+are important in learning. (emphasis in original; p. 100)
+As the focus of this article is on interaction as a social activity, the individual nature of interaction will not
+be discussed here. There is little controversy over the social nature of interaction. In fact, the word
+"interaction" itself denotes such a characteristic. In other words, interaction is a socially reciprocal action
+involving two or more people, and it can be face-to-face or technology-mediated. Twenty years ago, the
+definition of interaction was largely in the realm of a face-to-face mode. Wells (1981, pp. 46-47) used it
+interchangeably with the word "communication." He suggested firstly that "linguistic interaction is a
+collaborative activity," and then moved on to say that "linguistic communication involves the
+establishment of a triangular relationship between the sender, the receiver, and the context of situation."
+Rivers (1987) renders Wells' understanding of interaction into a verbal version, "listening to others,
+talking with others, negotiating meaning in a shared context" (p. 4). As interest in and research on
+interaction grew, scholars (e.g., Neu, 1990; Oxford, 1995) began to identify the importance of the non-
+verbal aspect of face-to-face interaction and its impact on communicative language acquisition.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 92
+The rapid development of technology has vastly enriched the content and scope of interaction. In fact, a
+new term has appeared to denote the influence of technology in interaction -- technologized interaction
+(see Hutchby, 2001). Again, this type of interaction can be individual or social. Telephone and computer
+mediated human-human interaction are two important forms of technologized social interaction offering
+various types of interaction that have not existed previously. In such interaction, the technology is seen as
+a tool to be used by the human to achieve communicative goals.
+In comparison with telephone conversation, computer-mediated human-human interaction is the most
+high-profile phenomenon at the start of the 21st century. This can happen in an oral, visual, or written
+context or a combination of the three, between the learner and instructor, among the learners, and/or even
+between native speakers in the target language speaking countries and learners in their own countries.
+Wang (2004, p. 376) reviews the capacity of CMC in the provision of interaction in distance language
+education, and proposes a new taxonomy of interaction supported by CMC: written interaction, oral
+interaction, and oral-visual interaction.
+Until the present, research in CMC for foreign language learning concentrates primarily on written
+interaction using Web-based tools such as e-mail, Internet Chat Relay, Moo, Webchat, and MSN.
+Interestingly, the potential of this type of interaction is often interpreted using theories pertaining to oral
+discourse in a face-to-face interaction, such as conversation analysis (e.g., Negretti, 1999; Kitade, 2000),
+and is regarded as a bridge to face-to-face interaction (e.g., Chun 1994; Kern 1995; Pellettieri 2000;
+Smith 2003; Sotillo 2000; Tudini, 2003).
+CMC-based oral interaction can be achieved through the use of audio conferencing tools (e.g., I-phone
+and NetMeeting). The Open University developed its own Internet-based audio conferencing tool called
+Lyceum, which has been reported in a series of articles (see Hampel & Baber, 2003; Hampel & Hauck,
+2004; Hauck & Haezewindt, 1999; Kötter, 2001; Kötter, Shield, & Stevens, 1999; Shield, Hauck, &
+Hewer, 2001).
+Oral-visual interaction represents the highest level of CMC-based interaction at the present time. It offers
+an authentic learning environment, in which language learners can orally and visually interact with
+another human being in the target language much in the same ways as in face-to-face interaction.
+However, research on oral-visual interaction in CMC has only occupied a marginal status in CMC
+research. The few earlier videoconferencing projects such as The HIPERNET, LEVERAGE, and ReLaTe
+in the 1990s have contributed to our understanding of this form of interaction, but these projects often
+involve huge up-front expenses and on-going maintenance costs (for reports and reviews of these
+projects, see Buckett & Stringer, 1997; Buckett, Stringer, & Datta, 1999; McAndrew, Foubister, &
+Mayes, 1996; Wang, 2004; Wong & Fauverge, 1999). This research attempts to bridge this gap by finding
+a technologically and economically viable videoconferencing tool for the support of oral-visual
+interaction in DLE. The constant improvement in Internet products and bandwidth promises a worthwhile
+effort.
+THE IMPORTANCE OF ORAL-VISUAL INTERACTION TO DLE
+The central debate in using videoconferencing at this point in time is probably whether video mediated
+interaction is necessary or whether audio mediated interaction itself is sufficient for task-based
+instructions. A review of the literature reveals a wealth of conflicting arguments, especially when CMC-
+based interaction becomes the focus of the debate.
+Cognitively and linguistically, it is generally maintained that paralinguistic cues such as head nods and
+facial expressions reduce ambiguity in speech and improve understanding (see Bruce, 1996, for a review).
+Sproull and Kiesler (1986) present an even stronger argument that lack of nonverbal information reduces
+social cues and impairs interaction. Boyle, Anderson, & Newlands (1994) report that when performing a
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 93
+collaborative task, subjects produced shorter exchanges of speech and less problematic dialogues when
+they could see each other, than when they could only hear each other.
+In a CMC context, the multimodal (visual, audio, and textual) nature of this environment is often regarded
+as beneficial to negotiation of meaning (see Chun & Plass, 2000). At the same time, the issue of lack of
+body language and of depersonalization of communication in text- and audio-based CMC has been
+recognized by scholars such as Lecourt (1999), Kress & van Leeuwen (2001), and Hampel & Hauck
+(2004). The findings from Hampel & Hauck support the above arguments from a participant's point of
+view. They point out that when "tutors do not receive visual clues and body language, it is easier for
+students unsure of what is going on to sit quietly without participating and without getting help or
+encouragement" (p. 78).
+From a sociocultural perspective, the impact of video on building a learning community, increasing
+confidence, and reducing isolation is also largely recognized in the literature (see Bloomfield, 2000;
+Hampel & Hauck, 2004; Lake, 1999; Stacey, 1999). These issues are especially typical of distance
+learners, who are physically isolated from one another, and video is perceived as being even more crucial
+in reducing the impact of the distance.
+In contrast to this view, some scholars believe that there are no demonstrated advantages for video-
+mediated communication vis-à-vis audio-only interaction. For example, O'Malley, Langton, Anderson,
+Doherty-Sneddon, and Bruce (1996) conducted a series of experiments in which pairs of subjects
+performed collaborative tasks at a distance via video and audio links or audio links only. Their data
+indicate that "users of video links produced longer and more interrupted dialogues than those who had
+audio links only, although there were no differences in performance" and that "performance was affected
+when the video links were of low bandwidth, resulting in transmission delays" (p. 177).
+These conflicting findings need to be further investigated through empirical studies. With the use of CMC
+in distance language learning, an important issue is whether the visual and non-verbal component should
+be sacrificed to compensate for the quality of oral interaction in view of the present constraints in Internet
+technologies.
+DEFINITION OF INTERNET-BASED DESKTOP VIDEOCONFERENCING
+A clear definition of the technology under investigation is deemed necessary at the outset of this research
+as there is a variety of videoconferencing tools used in education. Broadly speaking, from a technical
+perspective, videoconferencing can be categorized into desktop and studio-based conferencing. Studio-
+based videoconferencing can be supported by the Internet or an intranet and often involves more
+complicated set ups and technology, such as a codec, a multipoint control unit, a studio, and a visualiser.
+In an educational setting, such videoconferencing is often designed to conduct lectures across campuses
+or institutions. Obviously the initial investment and on-going maintenance costs are huge. In contrast,
+desktop videoconferencing is a more economical option with minimum initial investment and no on-
+going maintenance as some (e.g., NetMeeting) can be freely downloaded from the Internet. This option is
+also more user-friendly and less place and time dependent as the learner can use it on his or her personal
+computer (PC) at home or work. Again, desktop videoconferencing can be Internet or intranet based. In
+an intranet environment data travel between LANs (Local Area Networks) with larger bandwidth and
+minimum latency. However, Internet-based videoconferencing uses the Internet as its major data carrier,
+in which data can be delayed due to Internet congestion and latency. Thus, bandwidth and latency are two
+major problems facing Internet-based videoconferencing. This study will concentrate on the effectiveness
+and efficiency of Internet-based desktop videoconferencing in the support of oral-visual interaction in
+DLE.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 94
+THE EVALUATION OF NETMEETING
+NetMeeting 3.01 is an Internet-based videoconferencing tool developed by Microsoft. It integrates audio,
+video and data conferencing into a single package (for more information on NetMeeting 3.01, see
+http://www.microsoft.com/windows/netmeeting/).
+The evaluation of NetMeeting involved two stages. It must be pointed out at the outset that data
+presentation and discussion will concentrate heavily on the findings from Stage 2, the core stage of the
+evaluation, not only because Stage 1 was a preparatory and debugging phase, but also because Stage 2
+was conducted with the distance language learners through the Internet. Data from Stage 1 will only be
+used as a point of comparison between the two stages in order to support findings from Stage 2.
+Summary of Results from the Stage 1 Evaluation
+Stage 1 took place between November 2001 and February 2002 at Griffith University in Australia, via its
+Local Area Network (LAN) without using a modem (see Figure 1).
+Figure 1.The intranet environment in Stage 1 of the evaluation of NetMeeting
+The Intranet was chosen because it was easier to test and debug the technology in a controlled
+environment. A controlled environment is imperative when evaluating a new technology for teaching and
+learning purposes because such evaluation involves many unfamiliar factors. This is especially true when
+the investigation relies on the Internet, which has more variables and is often unpredictable. Another
+factor taken into consideration was the lack of on-site technical support for distance students.
+In the intranet environment, NetMeeting proved to have reached a sufficiently high level of quality and
+sophistication to support one-to-one interaction in real time synchronous language learning. The most
+important finding was that both the video and audio were synchronized to a real time standard with
+clarity, consistency, and minimum delays. Such a high performance standard ensures the flow and
+authenticity of oral-visual interaction in a videoconferencing-supported learning environment.
+NetMeeting proved to be pedagogically valuable and mature with the integration of the Whiteboard, File
+Transfer, Sharing, and a self-image window. The Whiteboard was especially favored by the participants
+and its importance to language learning was strongly emphasized in the interviews and surveys.
+Furthermore, NetMeeting's user friendliness offers a relaxing environment for language learning.
+NetMeeting performed exceptionally reliably with a crash rate of zero. The extremely positive results
+from this stage have profound implications for the provision of oral-visual interaction to DLE. At the very
+least, they indicate the feasibility of moving to Stage 2 of the evaluation.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 95
+Stage 2 Evaluation of NetMeeting
+The Network Environments
+Stage 2 went through three network environments with the participants in various parts of Australia and
+the author at Griffith University in Australia.
+The Modem - Internet - Modem Environment
+In this environment, both the teacher and the participants had to dial into an ISP through a modem, as
+illustrated in Figure 2.
+Figure 2. The modem - Internet - modem environment in Stage 2 of the evaluation of NetMeeting
+The LAN - Internet - Modem Environment
+On the teacher's side, the LAN was used to connect directly to the Internet without having to go through a
+modem, while the participants were still using the commercially available ISP via a modem, as
+demonstrated in Figure 3.
+Figure 3. The LAN - Internet - modem environment in Stage 2 of the evaluation of NetMeeting
+The LAN - Internet - LAN Environment
+As shown in Figure 4, no modems were used in this environment.
+Figure 4. The LAN - Internet - LAN environment in Stage 2 of the evaluation of NetMeeting
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 96
+Procedure
+This stage of the evaluation witnessed the use of NetMeeting in a real distance language learning setting:
+videoconferencing in the target language (Chinese) between the distance language students and the
+author. Five videoconferencing sessions with specific tasks to improve students' speaking skills (such as a
+telephone conversation and a job interview) were designed specifically for this evaluation and scheduled
+for each participant, who was required to complete these tasks in an oral format. The length of each
+session ranged from one to one-and-a-half hours. Due to technical difficulties, some sessions had to be
+rescheduled to make up for the unsuccessful ones. Therefore a total of 29 tutorial sessions of NetMeeting
+was attempted in this stage, with 19 successful sessions and 10 incomplete ones. The participants are
+referred to here as Participants A, B C, D, and E. Participant C completed only three sessions and
+withdrew from the trial due to personal problems. Participant C did not complete the post-trial survey.
+RESULTS AND DISCUSSION
+Findings and discussions are presented following the criteria developed by Wang (2004) which are
+summarized as follows:
+1. user friendliness,
+2. audio and video quality,
+3. other features of pedagogical value,
+4. reliability, and
+5. cost.
+(1) User Friendliness
+The main concerns in this criterion are the ease of installing a videoconferencing tool and the ease of use.
+Data presented here were obtained from two surveys -- a post-installation survey and a post-trial survey.
+Ease of Installation
+All participants set up NetMeeting following the instruction manual (see Appendix A) without requesting
+any assistance from the author. A brief post-installation survey was conducted. In regard to the level of
+difficulty of installation, participants' responses ranged from very easy to difficult. Table 1 summarizes
+the length of time for the installation by each participant:
+Table 1. Survey on Installation in Stage 2 -- Length of Time for Setting Up NetMeeting
+Participant A Participant B Participant C Participant D Participant E
+1 hour 1.5 hours 1 hour 20 minutes A few weeks*
+* Participant E had a faulty Webcam that had to be replaced.
+Ease of Use
+The participants seemed to be very confident in operating NetMeeting during the sessions, thanks to the
+simple interface design (see Figure 5).
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 97
+Figure 5. The interface of NetMeeting
+In the post-trial survey, question PTS-2.12 asked the participants to rate the ease of use of NetMeeting on
+a 10-point scale. Most of the choices concentrated on the very easy end of the scale with choices of 1, 3,
+and 4, with the exception of Participant D, who chose 5 (see Appendix B, PTS-2.12; participant D
+encountered great difficulties in the initial connections due to problems unrelated to NetMeeting itself,
+e.g., a firewall and faulty headphones). Participant A commented on her choice by saying that
+NetMeeting "was very easy to use, as the program is user friendly, and simple to follow" (see Appendix
+B, PTS-2.12).
+In conclusion, although the participants only had a basic level of computer literacy, all were able to set up
+NetMeeting. As expected, some students found it easier and others found it less easy, depending on the
+individual student's computer skills and knowledge. The user friendliness of NetMeeting was firmly
+established in both the trials with the on-campus and Open Learning participants.
+(2) The Audio and Video Quality
+Data are presented and discussed separately on each of the three network environments so that a precise
+account of what happened in each environment can be depicted and discussed.
+Audio Quality in the Modem - Internet - Modem Environment
+Personal Observation. In theory, a reduction in the audio and video quality of the conferences can be
+expected when dialling up through a modem because data can be further bottlenecked and more latency
+can be experienced. This assumption was proven to be true in this stage of the evaluation.
+A total of 9 of the 29 sessions was conducted in this network environment. On average, the sound quality
+was generally clear and continuous enough for accomplishing the planned tasks, if the timing of the
+sessions was right. However, it was still not as good as that in an Intranet environment, and a delay in lip
+synchronization was more noticeable than in an Intranet situation, but not prominent enough to interrupt
+the general flow of the interaction. A major issue in the sound quality was its instability. In some sessions,
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 98
+the sound quality was quite similar to that in an Intranet environment, but in others the sound was
+unreliable -- sometimes clear and continuous and sometimes jammed and lost. It was discovered that early
+in the morning (before 8:00am) and weekends were the best times for videoconferencing sessions. Other
+times the sound could be stuck for one or two seconds, resulting in a loss of words or unintelligible
+sounds with echoing.
+Participants' Perceptions. Participants' perceptions correspond largely to my observations -- the sound
+was clear enough for successful interaction in the target language but unstable at times (see Table 2).
+Table 2. Results From the Post-Session Interviews in Stage 2: Participants' Responses Regarding the
+Sound Quality in the Modem - Internet - Modem Environment.
+Participant
+Session A B C
+1
+WED 5:00-6:00pm
+Sometimes it was really good,
+sometimes it broke into little
+segments.
+SAT 6:50-7:20pm
+Good
+SUN 10:00-11:30am
+Very good and continuous
+with only a few occasions
+when the sound got stuck.
+2
+WED 5:00-6:00pm
+A lot better first but became a
+bit fuzzy towards the end. On
+the whole, a little bit better.
+WED 8:25-9:20pm
+Very bad, disconcerting,
+distracting.
+SAT 10:00-11:00am
+When it's running alright,
+very clear, but getting worse
+towards later in the morning.
+3
+SAT 10:30-12:00pm
+Good, definitely better than
+the previous session.
+4
+WED 7:30-8:30pm
+Quite good, better than last
+session at the start, but broken
+up a bit at the end.
+5
+SAT 9:30-11:00am
+Very good, the best out of the
+five sessions
+Note: Participants' feedback was only solicited on the successful sessions in the modem - Internet -
+modem environment.
+The following transcript of the post-session interview at the end of Session 5 provides a more detailed
+account of the participants' perceptions of the sound quality. This session was conducted 9:30-11:00am on
+a Saturday.
+Participant B: It was quite good until the end, it started to sort of break up a little bit.
+R: […] So at first it was ok, was it?
+Participant B: Yeah, it was quite good actually.
+R: […] So compared with the last session, was it getting better or worse? Or the
+same?
+Participant B: I remember our last session was not too bad either. I think the quality, if
+anything, was a bit better early on. […]
+R: Was it good enough for learning Chinese?
+Participant B: Yeah.
+To summarize, while timing was never an issue in Stage 1 in the Intranet environment, with no noticeable
+difference in audio quality between different times of the day, in the Internet environment, timing became
+a crucial factor. Internet conditions such as bandwidth and latency became decisive. In other words, the
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 99
+success of each session relied heavily on the Internet traffic conditions at the time of the session. Such a
+constraint on time may have an adverse implication for the actual implementation of videoconferencing as
+Internet off-peak time may mean that both the teacher and the learner would have to work at a time which
+may not be convenient to them.
+Audio Quality in the LAN - Internet - Modem Environment
+Personal Observation. Of the 29 attempted sessions, 13 were carried out in this environment with 5
+successful sessions. Eight sessions failed not because of this environment or NetMeeting, but because of
+such problems as a firewall and faulty equipment. In this network environment, a faster transmission was
+experienced on the teacher's side resulting in clearer and more continuous sound.
+Participants' Perceptions. In contrast to the improvement experienced by the author, the participants'
+perceptions of the sound quality were mixed (see Table 3).
+Table 3. Results From the Post-Session Interviews in Stage 2: Participants' Responses Regarding the
+Sound Quality in the LAN - Internet - Modem Environment
+Participant
+Session A B C
+1
+2
+3
+Really bad for about 20
+seconds in the beginning, but
+for the majority of the lesson,
+it was very good.
+Really good and clear. Better
+than before.
+4
+Very good, but a little bit
+worse than normal.
+5
+Good, same as the last
+session.
+Quite good
+It crackled a bit. A little bit
+delayed.
+Note: Participants' feedback was only solicited on the successful sessions in the LAN-Internet-modem
+environment.
+Table 3 indicates that Participant A did not notice an obvious improvement on her side when commenting
+on the sound quality of Sessions 3, 4, and 5. In contrast, Participant C observed better sound quality even
+at 3:00 on a Friday afternoon, a comparatively busy Internet time, compared with her two previous
+sessions on weekends.
+The difference between the sound quality experienced by Participants A and C may be caused by the
+different quality of the sound cards on their computers. The improved sound quality on my side indicates
+the importance of a broader bandwidth for quality videoconferencing.
+Audio Quality in the LAN - Internet - LAN environment
+Personal Observation. In such an environment, with the exception of the Internet section in the middle,
+data travelled through a much wider bandwidth (LAN) at both the teacher's and the participant's ends
+without using a modem. The seven sessions with Participant E were conducted in this environment on
+weekdays between 2:00pm and 6:00pm, a peak period for Internet traffic. Of seven sessions, two failed
+because of the existence of a firewall in her school's ISP. During the two failed sessions, I could see and
+hear her with the best clarity among all the sessions in this stage of the trial. Unfortunately, she could not
+hear and see me. To avoid the firewall, Participant E had to use the computer lab at another university. It
+was observed that the audio, on my side, was consistently clear and continuous with delays less than one
+second, similar to the sound quality in the intranet. In fact, I had the best audio quality of the 19
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 100
+successful sessions. My observation suggests that the audio quality was not much affected by Internet
+traffic when using a LAN - Internet - LAN connection, even at peak Internet times.
+Participant's perceptions. Contrary to my expectation, the sound quality on the Participant's side was
+not reported to be as good as it should be (see Table 4).
+Table 4. Results From the Post-Session Interviews in Stage 2: Participant's Responses Regarding the
+Sound Quality in the LAN - Internet - LAN Environment
+Participant Session 1 Session 2 Session 3 Session 4 Session 5
+E
+Good, but with
+crackly
+interference.
+Not so good.
+Fading in and
+out.
+Much better
+than the
+previous two
+sessions.
+Sometimes it
+was good,
+sometimes it
+was worse.
+Second best .
+Same as
+Session 4.
+Note: Participants' feedback was only solicited about the successful sessions.
+The following excerpt from the post-session interview at the completion of Session 4 further explains the
+participant's perception of the sound quality.
+Participant E: Ok. Well it wasn't wonderful quality.
+R: So you heard some crackling sound?
+Participant E: I did.
+R: Apart from that, what else did you ...
+Participant E: Apart from that, it wasn't bad. It was, the major thing that happens is when you
+are saying a sentence, I get crackles that have the effect of stopping me from
+hearing a few of the words in the sentence.
+[…]
+Participant E: …. But sometimes it's good, sometimes it's worse. It varies a lot in the course.
+The computing power of her laptop may have been a determining factor affecting the audio quality,
+because many functions of laptops are compressed, limiting their power to support good audio or video
+quality.
+To summarize the findings in relation to audio quality in the three network environments, the best audio
+quality was achieved in the LAN-Internet-LAN environment and the most uncontrollable environment
+was the modem-Internet-modem. The main problem in sound quality lies in its instability. However, 19
+videoconferencing sessions with the prescribed tasks were successfully completed and the participants
+were all very positive about the potential of videoconferencing in supporting oral-visual interaction in
+DLE. In particular, the high quality sound in the LAN-Internet-LAN environment indicates the immense
+potential of videoconferencing tools once the Internet bandwidth is improved.
+The Video Quality in the Modem - Internet - Modem Environment
+Personal Observation. The video was mainly used by both parties to assist interaction during task
+completion, through observing each other's facial expressions and body movements above the shoulders,
+and demonstrating items to the other party, much like face-to-face interaction. For example, through the
+video, the author demonstrated how to pronounce certain words or how to position the tongue when
+pronouncing a word. The video on the teacher's side, though not as clear as in the Intranet environment
+and often more delayed, was usually continuous and presented paralinguistic cues accurately and with
+hardly any delay. Signs of comprehension, frustration, nervousness, and enjoyment were all evident in
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 101
+real time. Delays in transmission were not as obvious during continuous speech but became noticeable
+during turn taking, sometimes causing start up collisions or false starts. A major problem with the video
+was the freezing of images caused either by congested Internet traffic or the limited capacity of
+participants' computers. The length of the freezing varied from 1 second to 10 seconds with the exception
+of Session 2, in which the image of Participant B was frozen for the entire session.
+Participants' Prceptions. Again, the perceptions of the video quality varied from participant to
+participant and from session to session, although the participants were generally positive as far as the
+pedagogical values of the video were concerned (See Table 5).
+Table 5. Results From the Post-Session Interviews in Stage 2: Participants' Responses Regarding the
+Video Quality in the Modem - Internet - Modem Environment.
+Participant
+Session A B C
+1
+Ok. Sometimes there was a
+delay.
+Quite good. Good.
+2
+Good.
+Better than last session with
+fewer delays and less
+freezing.
+Better than last session. Most of the time, it's very
+good.
+3 Quite good.
+4
+Very good at the beginning
+but the image broke up a bit
+towards the end of the
+session.
+5 Very good.
+Note: Participants' feedback was only solicited on the successful sessions in the modem - Internet -
+modem environment.
+When asked to compare the video quality in Session 3 (which he said was quite good) and Session 4,
+Participant B offered the following comments:
+Participant B: It [Session 4] was better actually initially, and again towards the end, I guess the
+Net gets busier, it started to sort of you know break up the image. But in, in the
+beginning, it was very good, very good quality I feel.
+R: So when I showed you how to write the character with my finger, could you see
+it clearly?
+Participant B: Yes.
+R: Good enough for learning Chinese?
+Participant B: Yes, definitely.
+Again, although the video quality was not ideal in this environment, all participants perceived it to be
+adequate for language learning.
+Video Quality in LAN - Internet - Modem
+Personal Observation. Similar to the sound quality, the video quality was noticeably better on the
+author's side with clearer and more continuous images and less delays.
+Participants' Perceptions. Again, the participants offered diverse opinions on the improvement of the
+video quality (see Table 6).
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 102
+Table 6. Results From the Post-Session Interviews in Stage 2 -- Participants' Responses Regarding the
+Video Quality in the LAN - Internet - Modem Environment
+Participant
+Session A C D
+1
+2
+3
+Fine. It was probably better
+than previous sessions. Quite
+continuous.
+Very good. Much better than
+the last session.
+4
+Good. A few little delays. A
+little bit worse than previous
+sessions.
+5
+Good. Just a delay in the first
+20 seconds.
+Very good. Sometimes it
+froze for half a second.
+Note: Participants' feedback was only solicited on the successful sessions in the LAN-Internet-modem
+environment.
+Participant C also verified the capability of the video in supporting distance language learning by saying
+that she could see the movements of my lips and so on when she needed to.
+Video Quality in LAN - Internet - LAN
+Personal Observations. On my side, I enjoyed the highest and most consistent quality of the video
+among the sessions with the distance participants, similar to that in the Intranet environment with the on-
+campus students. The video was synchronized with good clarity, high resolution, and continuity
+throughout all the sessions in this network environment.
+Participants' Perceptions. However, the video quality on the participants' side was not reported to be as
+satisfactory. In comparison with the feedback from other participants, Participant E seemed to have
+experienced the worst video quality (see Table 7).
+Table 7. Results From the Post-Session Interviews in Stage 2: Participant's Responses Regarding the
+Video Quality in the LAN - Internet - LAN Environment
+Participant Session 1 Session 2 Session 3 Session 4 Session 5
+E
+Very good, but
+could not see
+facial
+expressions
+clearly.
+Not clear at all.
+Blurred and
+pixilated but
+continuous.
+A bit better than
+last session but
+still blurred and
+pixilated.
+Occasionally
+clear.
+Similar to the
+previous
+session, still
+blurred and
+pixilated.
+Sometimes
+clear but
+blurred 55% of
+the time.
+Participant E further commented at the completion of Session 3:
+It [the video quality], it still wasn't good. It's still I call pixelated. Sometimes it's clear and I can
+see quite well. I could see that you had your hair tied back today, and you had black and white on.
+But a lot of times it was still not that clear. Not as clear as I see myself in that corner box [the
+"My Video" window].
+This poor video quality on the participant's side was probably caused by the lower processing power of
+her laptop. Thus a powerful desktop computer can be a crucial factor in supporting a quality video image.
+In summary, despite the fact that the video quality in the three network environments varied from one
+another, it was observed and perceived to have reached a satisfactory level of performance for distance
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 103
+language learning. The distance group highly valued the visual contact facilitated by videoconferencing.
+Consequently they were more receptive of the video quality than the on-campus group. It was observed
+that the distance participants were genuinely delighted to see me, especially on the first occasion, and they
+watched the video much more constantly than the on-campus students. All of them believed that the video
+was very important in reducing their sense of isolation and increasing their confidence in learning. After
+confirming the quality of the video for learning Chinese, Participant A commented that "it's good to see
+facial expressions" and "have that facial contact."
+(3) Other Features of Pedagogical Value
+Under discussion here are features of NetMeeting other than its video and audio functions. This includes
+features such as the Whiteboard, Sharing, File Transfer, and My Video. As I discusses their pedagogical
+values in detail elsewhere (Wang, 2004), this article will concentrate on the problems encountered in this
+stage given the understanding that both the on-campus and distance participants unanimously confirmed
+the pedagogical values of these features.
+The Whiteboard
+The on-screen Whiteboard is a pedagogically valuable feature offered by NetMeeting, which was mostly
+used in this trial for character writing, linguistic explanations, and showing directions during task
+completions (see Figure 6). It was perceived by all participants to be of great importance to language
+learning. It was used frequently in each session and often activated by the participants.
+Figure 6. Whiteboard contents in Session 2 with Participant A
+It was generally reliable with only two crashes. One crash happened when, as soon as the Whiteboard was
+clicked on, NetMeeting crashed. Another happened when the two parties were moving the Whiteboard at
+the same time. In one session, the Whiteboard could not be started at all. These problems had never
+happened in Stage 1, and may have been caused by the low capacity of the participants' computers.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 104
+Sharing
+The Sharing function enables the users to share with other parties multiple programs opened on the
+computer desktop during a NetMeeting conference. For the NetMeeting sessions under discussion, it was
+planned to use this feature for two purposes: to share a menu and to view a digital personal photo during
+task completion. With some participants, the sharing of the menu (a 32 kB Word document) appeared on
+the participants' screen almost instantly with excellent quality. With others, it took somewhat longer to
+share a document. For example, it took about one minute to load onto Participant B's computer screen.
+However, the photo (240 kB) could not be shared successfully and only a frame of the photo could be
+seen on the participant's screen. This failure may have been caused by the slow Internet transmission or
+the limited capacity of the participant's computer because in Stage 1 in the Intranet environment the
+sharing of the same documents was instant with the same quality as in the original documents. To rectify
+this situation, the photo was replaced by a family photo of a much smaller size (32KB) and was shared
+with the participants with success. Thus in the Internet environment, the success of sharing a document
+largely depends on the Internet traffic conditions, the size of the document and the capacity of the other
+party's computer. In other words, the bigger the document is, the more the bandwidth it will take and the
+slower the transmission will be. It is thus recommended that small sized documents be used for effective
+document sharing.
+File Transfer
+Unlike in the function Sharing, documents sent through File Transfer can be viewed on the spot or kept
+by the other party for future reference. The use of this function was planned for two occasions for each
+participant -- the transfer of a video clip with a speech in Chinese and transfer of a word document. It was
+the same 2.41MB video clip, which was transferred instantly in Stage 1. However, in this phase of the
+evaluation the size of the video clip was too large for the Internet to transfer within a reasonable time
+frame. For example, in one session, the transfer was still going when the session concluded. To further
+test the function of File Transfer, a digital family photo of 32KB was transferred through this function to
+the participant and the transfer was found to be much quicker, varying from one to three minutes. Thus it
+can be concluded that this function was useful for transferring small sized documents, be it a Word
+document or a photo. Similar to Sharing, its transmission speed was subject to the Internet traffic
+conditions, latency, and the individual's computer power.
+My Video
+My Video is a picture-in-picture self-image window on the computer screen where one can see oneself
+while watching the video of the other party. This function was utilized constantly in every session to
+ensure that my image on the other side of the conference was still on the screen and, more importantly, to
+adjust paralinguistic cues to assist the flow of interaction and negotiation of meaning. For example, a
+quick glance at the My Video image of myself would remind me of the appropriate expression needed for
+encouraging participants to produce output. Participant A also used it to adjust the photos she wanted to
+show the teacher through the Webcam. Furthermore, the function of My Video is also an important source
+of information when using a recording device (e.g., Camtasia) to capture the screen activities of both
+parties.
+(4) Reliability
+Reliability here refers to the stability of NetMeeting in terms of its crash rate during a videoconferencing
+session. Wang (2004) maintains that "more than one crash during a videoconferencing session will deter
+students from using it" (p. 383). The reliability of NetMeeting had been established in Stage 1 in the
+intranet environment, where NetMeeting never crashed. However, in Stage 2, NetMeeting crashed 5 times
+among the 19 successful sessions, resulting in an average of 0.26 crashes per session. One of the crashes
+happened in Session 4, when Participant E attempted to enlarge her video size. This action exceeded the
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 105
+capacity of her laptop and caused the crash. In Session 3, when Participant B tried to use My Video while
+I was clicking on the Whiteboard, NetMeeting froze. Despite these crashes, participants, except
+Participant D, who encountered a number of problems such as a firewall and faulty equipment, were all
+very positive about the reliability of NetMeeting (see Appendix B, PTS-2.4). Although the issue of
+reliability only concerns the stability of NetMeeting, the examination of the causes for these crashes led
+this investigation to the discovery of factors other than NetMeeting itself, factors such as the participants'
+limited computer power and a congested Internet transmission. In other words, the NetMeeting program
+itself is reliable, but when used in an Internet environment, its reliability may be affected by factors other
+than those in the program itself.
+(5) Cost
+The issue of cost has been discussed by Wang (2004). To summarize, NetMeeting is freely downloadable
+from the Internet, and the only cost involved is the purchase of a Webcam (approximately US$50) and the
+fee for an Internet connection. This research recognizes that the issue of affordability is of no less
+importance than technological and pedagogical issues in distance language learning. In fact, affordability
+is the foundation of any innovative attempt in teaching. Internet-based desktop videoconferencing offers a
+low-cost alternative in comparison to studio-based videoconferencing.
+SUMMARY
+This stage of the evaluation reveals that Internet bandwidth and latency are two critical factors affecting
+the consistency and reliability of audio and videoconferencing. The limitation of Internet bandwidth has
+long been recognized as a major detrimental factor affecting videoconferencing (see Buckett & Stringer,
+1999; Chou, 2001; Kötter, et al. 1999; McAndrew et al., 1996; Wong & Fauverge, 1999). Results from
+this research show that, with the present generation of the Internet bandwidth, choosing a less congested
+Internet time was crucial to the success of videoconferencing sessions. Presently, Internet bandwidth can
+only comfortably accommodate one-to-one videoconferencing, while many-to-many videoconferencing
+requires more complicated Internet technologies. Moreover, the findings from this research also direct our
+attention to the existence and impact of communication latency. Communication latency is the time
+interval for a message to travel from the source machine to the destination machine.
+Having discussed these problems, I do not suggest that language professionals wait for the improvement
+of the technology. Rather, language professionals should be informed of these problems and work to
+maximize the potential of videoconferencing and minimize the effect of the bandwidth and latency.
+Fortunately, with the rapid development in computer technology, more advanced videoconferencing tools,
+improved Internet bandwidth, and reduced latency will be a reality in the near future.
+RECOMMENDATIONS FOR EMPLOYING INTERNET-BASED DESKTOP
+VIDEOCONFERENCING TOOLS IN DISTANCE LANGUAGE LEARNING
+During the course of this evaluation, a number of issues emerged that can be valuable references for
+future users or researchers of Internet-based desktop videoconferencing tools.
+1. An appropriate timetable needs to be negotiated with the learner in order to avoid Internet congestion.
+Early mornings before eight o'clock or weekends appear to be better times for videoconferencing.
+2. To receive the best audio quality, it is suggested that users wear headphones instead of using the
+speakers of the computer. The use of speakers can produce feedback and echoes of one's own voice,
+thus frustrating the other party.
+3. If the Webcam has been used (e.g., to take a photo, to make a video clip) before videoconferencing, it
+often takes the video away from NetMeeting. Restarting the computer before NetMeeting sessions
+will reconfigure the video to NetMeeting.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 106
+4. It is also recommended that too many or too quick movements in front of the Webcam be avoided
+because the video image may become blurred.
+5. Future researchers should be aware of the issue of firewalls when using a LAN or ISP to connect to
+the Internet. Institutions or ISPs may erect firewalls in their network to block videoconferencing for
+security reasons or in order to reduce cost.
+6. Last but not least, before using NetMeeting, it is recommended that other applications on the desktop
+be closed in order to save computer power for running NetMeeting. Too many applications will take
+up too much computer power resulting in poor video and sound quality, slow program response, or
+even crashes of NetMeeting or its functions.
+7. Derived from the positive findings of this research are a number of implications for the design of a
+distance language-learning program with oral-visual interaction as its component. Although the
+distance Chinese language program at Griffith University was employed as a case study, NetMeeting
+can be used to facilitate oral-visual interaction by any other distance language learning program
+because it is a generic tool.
+Firstly, it is proposed that the use of videoconferencing be incorporated into the course as an assessable
+item. This is to avoid the pitfall that learners treat it as peripheral. For example, assessable speaking tasks
+can be designed in such a way that they require the use of videoconferencing tools to cooperate and
+communicate among learners. Advanced learners can be encouraged to use videoconferencing to
+complete role-plays and so forth among themselves or with a native speaker on a regular basis. Students
+can videotape their videoconferencing activities and send the videotapes to the instructor for grading. At
+the same time, videoconferencing can help the distance learners build a learning community, an essential
+social environment for effective language learning.
+Videoconferencing tools can also be employed to provide regular speaking tutorials similar to the sessions
+conducted in this research when the number of students is not too large. Tasks with clearly established
+and achievable goals for each videoconferencing session should be set beforehand and carried out in these
+tutorials.
+Moreover, one-to-one videoconferencing can add a new dimension to distance language testing in that
+speaking tests can be conducted in real time through NetMeetinig. More authentic and cheating-proof
+than the telephone, videoconferencing supports interaction between the student and instructor in much the
+same way as in face-to-face interaction. However, the occasionally inconsistent audio and video quality
+should be taken into consideration when grading students' performance.
+Videoconferencing-based student consultation can be a more academically and economically viable
+option compared with telephone consultation. Instead of picking up a phone, the student can invite their
+teacher online to answer their questions more effectively with built-in conferencing functions such as the
+Whiteboard, Sharing, and File Transfer.
+However, videoconferencing is only one of the tools to provide oral-visual interaction in distance
+education. It thus should be used in combination with other forms of technologies and methods to
+promote maximum language learning, as Kaye (1989) points out,
+These technologies [CMC and other on-line services] should not be considered as a substitute for
+existing media and methods which have already proved their worth for distance education. CMC
+will not in every case replace teachers, texts, telephone tuition, or residential seminars -- for the
+majority of learners it will complement these earlier technologies, and in so doing vastly enrich
+the distance education experience. (p. 9)
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 107
+CONCLUSION
+The two-stage evaluation of NetMeeting yielded a wealth of data strongly supporting the use of
+videoconferencing in DLE for the provision of oral-visual interaction. This evaluation of NetMeeting
+contributes, in many ways, to our understanding of the capabilities of the present generation of Internet-
+based desktop videoconferencing. The ease of installation and use makes NetMeeting a user-friendly
+videoconferencing tool, a merit that was unanimously agreed upon by both the on-campus and distance
+participants. While acknowledging three major constraints (Internet bandwidth, latency, and the
+computing power of the individual PC) on the quality of a videoconference, this research has successfully
+confirmed the capability of NetMeeting in providing reliable and acceptable audio and video quality. This
+finding is a major contribution of this research to the study of Internet-based desktop videoconferencing
+because without good audio and video quality, videoconferencing would be impossible. Video has been
+greatly appreciated by the distance participants and its pedagogical values are indispensable to language
+learning at a distance. Particularly significant is the high performance standard of NetMeeting in the
+LAN-Internet-LAN environment, which indicates that with improved Internet bandwidth, quality
+videoconferences at a distance will be easily attainable.
+In contrast to some commercially available videoconferencing tools (see Wang, 2004, for an evaluation of
+some other videoconferencing tools), NetMeeting lends itself well to supporting interactive distance
+language learning by offering features of great pedagogical value such as the Whiteboard, Sharing, and
+File Transfer. As far as its reliability is concerned, NetMeeting itself proved to be reliable despite the fact
+that the Internet could pose potential problems due to limited bandwidth and latency. In addition, the fact
+the NetMeeting can be freely downloaded from the Internet and that there is no maintenance cost
+involved effectively reduces the cost to both educational institutions and the learner, making it a more
+economically viable and sustainable option. Even though the length of this article does not allow a
+detailed discussion of the learning outcomes of the participants, data from the evaluation of NetMeeting
+have confirmed the potential of videoconferencing in supporting interactive and communicative language
+learning at a distance. Many specific pedagogical issues have emerged during this research and need to be
+investigated in the future, issues such as videoconferencing-based learning task design, performance and
+evaluation, and the positive impact of the video and videoconferencing on distance language learners'
+confidence building and acquisition of communicative competence.
+The issue of obsolescence of technology was recognized early in this research. However, the scope of this
+research only allows for the examination of the capabilities of one videoconferencing tool. NetMeeting
+was selected not only for its state-of-the art quality and capability, but also because it represents the future
+of the technology of its kind. In fact, the basic technology of all desktop videoconferencing tools is quite
+similar. The differences lie primarily in the video and audio quality, interface design, and built-in features
+such as File Transfer, the Whiteboard, and Sharing. The author acknowledges the possibility that more
+advanced desktop videoconferencing tools might be emerging to replace NetMeeting. However, the basic
+characteristics and capabilities of videoconferencing tools discussed here should still be applicable. More
+importantly, there is a crucial pedagogical concern at the heart of this research, that is, for distance
+language professionals to be open to the use of whatever technology available to maximize the level and
+quality of oral-visual interaction, and in so doing, create a more effective and efficient learning
+environment for distance language learners. Although the technology is changing rapidly, the larger
+pedagogical issue contained in this research is unlimited and beyond obsolescence.
+In summary, this research has addressed a real need in distance language learning: providing oral-visual
+interaction. Despite the relatively small number of participants, through 34 videoconferencing sessions,
+this research has examined the capabilities of videoconferencing and participants' perceptions of this new
+medium. Abundant data have been collected to establish that the present generation of Internet based
+desktop videoconferencing tools will emerge as a cost-effective solution to the problem of lack of oral-
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 108
+visual interaction in distance language learning, and that videoconferencing was extremely well received
+by the distance participants. With the employment of videoconferencing tools, distance language learning
+can be transformed from asynchronous and non-real time to orally and visually synchronous and real
+time. It is not an exaggeration to say that Internet-based real time technology is changing distance
+education quantitatively as well as qualitatively, and this research represents only the beginning of the
+important effort to make distance language learning a more effective endeavor.
+To the knowledge of this author, there has been no empirical report in the literature which evaluates the
+use of NetMeeting in the context of DLE. Findings from this research have therefore extended our
+knowledge of the capabilities of Internet-based desktop videoconferencing tools and broadened our
+horizons by opening up new possibilities for interactive language learning at a distance. Another major
+significance of this study lies in its confirmation that the technology is in place and capable, and is
+improving with the advancement of Internet technology. It is hoped that this research will provoke a
+change in thinking that language professionals should utilize what is available to maximize the potential
+of distance language learning.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 109
+APPENDIX A.
+Installation Manual for NetMeeting
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 110
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 111
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 112
+APPENDIX B
+Questions and Summary of Results of the Post Trial Survey
+Student Evaluation
+N = 4 (Participant C did not complete the Post Trial Survey due to her withdrawal.)
+Part One -- Background Information
+1. How long have you been learning Chinese? PTS - 1.1
+_________________________________________________________________________________
+2. Apart from the Open Learning Chinese program you are now enrolled in, at what other
+places have you studied Chinese? Please indicate the appropriate bracket (s) with an X.
+You may select more than one. PTS - 1.2
+(a) None ( )
+(b) An institution in China ( )
+(c) An institution in Australia ( )
+(d) An institution in Taiwan ( )
+(e) Other (please specify) ____________________ ( )
+3. How did you practice your speaking skills before this trial? Please indicate the
+appropriate bracket (s) with an X. You may select more than one. PTS - 1.3
+(a) Never practiced ( )
+(b) With Chinese friends ( )
+(c) With my neighbours ( )
+(d) With tapes ( )
+(e) With my colleagues ( )
+(f) With people in my family ( )
+(g) Other (please specify) ____________________ ( )
+Participants
+Q1: Length of
+learning Chinese
+Q2: Other places of
+study
+Ways of practicing speaking Chinese
+before this trial
+Participant A 10 months none Never practised
+Participant B A few years Taiwan and Germany With tapes, Rosetta Stone (an online
+course)
+Participant C 10 months none With tapes
+Participant D 10 months none With tapes and Chinese speakers
+Participant E 2 years Anther institution in
+Australia
+With tapes and colleagues
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 113
+Part Two - Evaluation of NetMeeting
+1. Please rank the following features of NetMeeting according to their usefulness in
+learning Chinese. Number 1 represents most useful and Number 5 least useful. Please
+put an number in each bracket. PTS - 2.1
+(a) Video (the image) ( )
+(b) Audio (the sound) ( )
+(c) File Transfer ( )
+(d) Sharing (sharing document on your desktop ( )
+(e) the Whiteboard ( )
+(f) My Video (the self image window)
+No.1 No.2 No.3 No.4 No.5 No.6
+audio 4
+video 3 1
+File Transfer 1 1 2
+Sharing 2
+Whiteboard 1 3
+My Video 2 2
+Note: Participant E put number 1 for both audio and the Whiteboard. Sharing was not rated by Participant
+D and E.
+2. Below is a list of possible strengths of NetMeeting for language learning. Please put
+an X in the appropriate bracket (s) when NetMeeting helped you. You may select more
+than one: PTS - 2.2
+Strengths Results
+(a) Building my confidence in speaking Chinese (4)
+(b) Reducing my anxiety in learning Chinese (3)
+(c) Reducing isolation in learning in distance mode (3)
+(d) Increasing my motivation in learning the language (3)
+(e) Seeing the person I am talking to (3)
+(f) Allowing instant feedback from the teacher (4)
+(g) Allowing mistakes to be corrected on the spot (4)
+(h) Providing me the opportunity to interact spontaneously with someone (4)
+(i) Negotiating for meaning using Chinese (3)
+(j) Allowing me to ask for more information using Chinese (4)
+(k) Allowing me to clarify meaning using Chinese (4)
+(l) Inferring meaning according to the context (3)
+(m) Improving my listening skill (4)
+(n) Other (please specify) __ having fun
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 114
+3. Below is a list of possible weakness of NetMeeting for language learning. Please put
+an X in the appropriate bracket (s). You may select more than one PTS - 2.3
+(a) It's too difficult to use (0)
+(b) It's too difficult to set up (1)
+(c) It's one-to-one mode only (1)
+(d) The quality of the video is not good enough for language learning (1)
+(e) The quality of the audio is not good enough for language learning (0)
+(f) It lacks support for group discussion (0)
+(g) The Internet transmission was not reliable (3)
+(h) NetMeeting was not reliable (1)
+(i) You have to do it at certain times because of Internet congestion (3)
+(j) Other (please specify) _____________________ (0)
+4. How reliable was NetMeeting? Please indicate on the diagram below with an X.
+(Please Note: reliable here refers whether or how often NetMeeting crashed) PTS - 2.4
+Very reliable Not reliable
+1 2 3 4 5 6 7 8 9 10
+(2) (1) (1)
+Please explain why
+• I have marked 2, basically very reliable, as even though the system froze a couple of times, it was
+quickly remedied by either inviting the person to netmeet again, or a quick restart of the
+computer. As I say, it only happened a few times, but was easily fixed.
+• The problems I experienced were not due to the Netmeeting program itself, but more to the
+connection between my school and Griffith University. Once we had established successful
+contact the meetings were very smooth.
+• Seemed quite reliable in terms of program stability, I can only remember having to re-boot it once
+or twice during the sessions
+• My net meeting [NetMeeting] trial had a lot of problems. Beyond the hardware problems, there
+was difficulty with the internet connection and its speed, the netmeeting application. We tried to
+achieve success many times, and only had one successful attempt.
+5. Please write down what you liked when using NetMeeting for learning Chinese and
+why. PTS - 2.5
+• It was just so nice as a distant student learning a difficult language to have face to face tutor
+contact. Distance students normally are studying via distance ed because they are busy- so it was
+a bonus to be able to practice speaking Chinese with my tutor in my own home! Before the
+sessions, I used to freeze when I tried to string a sentence together spontaneously! Netmeeting has
+enabled me to overcome that initial fear of being asked a question in Chinese, to only feel
+embarrassed that I cannot think of a response, even though I have learned the words! I am not
+quite fluent yet (ha ha!), but I definitely have the confidence now to take on further challenges in
+Chinese conversation! I also really liked putting a face to my tutor's name, which I have not been
+able to do in any other open learning units.
+• I liked the one on one nature of the medium which provided for very intensive lessons. Plus the
+features of Netmeeting that allowed for instant feedback (e.g. whiteboard), and introduction of
+other materials e.g.: documents (sharing) and video [sending a video clip] (although it did not
+work in my case) relevant to the context of the face to face dialogue.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 115
+• Although not related to the program per se, the difficulties encountered with unreliable internet
+transmission was a real nuisance, particularly when then sound broke up or was not transmitted at
+all. These problems do not seem to be insurmountable with e.g. faster internet connections on
+both ends and judicious timing of link-up.
+• I really liked being able to converse face to face. With no other Chinese speakers to converse
+with, this was of immense benefit. I was able to ask questions and receive immediate answers,
+was able to practice speaking and gain confidence, and was able to 'humanise' what had
+previously been an isolated academic experience.
+6. Please write down what you did not like when using NetMeeting for learning
+Chinese and why. PTS - 2.6
+• The first 20 seconds or so, the video and sound sticks, freezes and delays, but it seemed to go
+alright after that. Occasionally during the session the video and sound would freeze again. This,
+when it happened, made listening a little difficult, and the delays meant not being able to equate
+the sound with facial expressions etc. But compared to the hundreds of positives I experienced
+with netmeeting, this is really just a very minor inconvenience, and will only get better as
+technology improves- which is very rapid these days! To put it this way, if it was not for having
+the opportunity of these netmeeting sessions, I would be 500% worse at speaking and
+understanding Chinese than I am now! So in the big scheme of things, these minor delays were
+really not an issue.
+• It was very difficult to attain success. A lot of the time, we did not know what was going wrong,
+so perhaps more technical support would be of benefit. It was quite a difficult exercise. Other
+than that, I found the whiteboard difficult to use in that the Chinese characters were difficult to
+decipher. I don't think my character recognition was helped by netmeet [NetMeeting].
+• Although not related to the program per se, the difficulties encountered with unreliable internet
+transmission was a real nuisance, particularly when then sound broke up or was not transmitted at
+all. These problems do not seem to be insurmountable with e.g. faster internet connections on
+both ends and judicious timing of link-up.
+7. Through the five NetMeeting sessions, what aspects of Chinese language learning did
+you feel improved? Please put an X in the appropriate bracket (s) below that best
+describe your own experience. You may select more than one. PTS - 2.7
+(a) My fluency (3)
+(b) My pronunciation (3)
+(c) My listening ability (4)
+(d) My vocabulary (3)
+(e) My grammar and structures (3)
+(f) My reading (0)
+(g) My writing (0)
+(h) My speaking ability (4)
+(i) My conversational tactics (e.g., asking in Chinese for repetition and clarification of
+meaning, inferring meaning from the context, etc.)
+(3)
+(j) Spontaneous replies (0)
+(k) Other (please specify) ____________________
+8. How important do you believe is the video in NetMeeting to the improvement of
+listening and speaking skills? Please indicate on the diagram below. PTS - 2.8
+Important Not important
+1 2 3 4 5 6 7 8 9 10
+(1) (1) (1) (1)
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 116
+Please explain why
+• The video is very important, because it is more personal to speak to each other face to face than
+on the phone. Silence is not a problem while you think of a response, because your tutor can see
+that you are thinking (very hard!). You can see facial expressions which is very important to try
+and guess what on earth your tutor just said when you can't understand any of the words! And
+again it is nice to have that face to face contact, and put a face to the name, both for student and
+teacher. The video can be a little scary at first, especially if you have not used netmeeting before
+in other situations. But like any new technology, it is also exciting, and any nerves of using the
+video quickly disappear!
+• The importance of the video image lies in the fact that one gets the dialogue with the appropriate
+body language and facial expression, which do not only aid in understanding meaning but are part
+of the message itself. More specifically it seems to me that to achieve accurate pronunciation the
+opportunity of seeing the actual sound being formed by a native speaker is very helpful. It also
+would allow the teacher to do on the spot correction of mistakes through sound and visual
+demonstration.
+• The video quality I experienced was never good enough to allow me to see my tutor's lips clearly,
+but I still got a lot from my sessions. I would love to experience the difference a good picture
+could make. [Because she used a laptop, the video quality was affected by the limited power of
+her computer]
+• I think it is important, because it is helpful to 'see' your teacher. To have a telephone conference
+would not be as good. Seeing your teacher is more personal, and it makes you more comfortable,
+which assists with learning. Of course video is not as important as audio, but it is still significant.
+9. If you were given a choice between one-to-one and many-to-many interaction (i.e. a
+group discussion) supported by a videoconferencing tool, which one would you
+choose? Please explain why PTS - 2.9
+• I think for beginners, one to one maybe better, to give them the confidence and practice. Then
+maybe for advanced students with a wider vocab, a group chat session would be better. I found
+that when I did not understand something, my tutor had to keep asking me again and again until I
+worked out the meaning. This is the best way to help a beginner like myself get used to hearing
+and understanding, but I think other students would get a little bored of waiting! Group discussion
+would be great for more experienced students, but I have never been involved in one, so I do not
+know how the technology would cope, ie. delays etc.
+• In an ideal world I would like to experience both, but if asked to choose, I would definitely
+choose the one-to-one option because it provides more efficient communication in the short time
+available. However, many-to-many would probably allow more variety of communication.
+• I would choose one-to-one, because I feel a videoconference [with more than one person] would
+be very difficult to learn and contribute to. I have been part of a video conference before, and I
+did not find it to be beneficial. I would love to take part in a group that was face-to-face, but with
+netmeet [NetMeeting], I would prefer to speak with just one other person.
+• [one-to-one interaction is] particularly useful, because it allows for an intensity of interaction
+which one rarely gets in the regular classroom setting.
+10. Are there any other feature(s) do you think important for language learning? (other
+features include File Transfer, the Whiteboard, Sharing Document, My Video and
+audio.) PTS - 2.10
+• Yeah the whiteboard helped heaps. When I could not understand a word my tutor could write it
+on the board. (Well at first the character, which I was none the wiser with!), but writing the
+pinyin was good, as sometimes I thought I was hearing a totally different sound. The more this
+happened though, the more I got used to the way my tutor pronounced the words. (the correct
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 117
+way as opposed to my incorrect way!). We used the sharing files feature was to talk about family
+photos. But this feature could be used for endless conversation possibilities.
+• We used all those features at time and they were largely useful of specific purposes e.g. video in
+conjunction with audio gives the opportunity to see body language and facial expressions which
+contribute to the communication process.
+• The whiteboard proved useful for instant demonstration of written language w.o. [without]
+Having to go to cumbersome keyboard input methods [the use of the mouse to write characters].
+• Perhaps more phone support at times could be helpful in order to motivate and reduceisolation.
+11. How important do you believe is the oral-visual interaction provided by
+NetMeeting to your learning of Chinese? Please indicate on the diagram below with
+an X. PTS - 2.11
+Important Not important
+1 2 3 4 5 6 7 8 9 10
+(1) (3)
+Please explain why
+• I think I have covered this response in my comments above.
+• important in providing visual cues to involved in the communication process useful also for
+demonstrating and correcting sound formation in establishing correct Pronunciation.
+• If you cannot speak with and see anyone while you are learning a language, it is very difficult to
+improve and to become fluent. It is integral that a student be able to practice what they are
+learning.
+• It creates more of a classroom feeling which is a useful adjunct to all of the individual study that
+must be done by a distance education student".
+12. How easy was it to use NetMeeting? Please indicate on the diagram below with an
+X. PTS - 2.12
+Very easy Very difficult
+1 2 3 4 5 6 7 8 9 10
+(1) (1) (1) (1)
+Please explain why
+• Netmeeting was very easy to use, as the program is user friendly, and simple to follow.
+• Because of technical difficulties I did not find the Netmeeting program easy to use - that is I
+experienced difficulties making connection, but this was a problem with firewalls. Once these
+technical difficulties were fixed, the actual Netmeeting program is very user friendly, and easy to
+operate. My low rating is due to the initial connection difficulties.
+• There were many problems in my trial. NetMeeting seemed to have a lot of unexplainable
+technical problems that we were largely unable to rectify.
+• The visual layout of the program window and the conveniently arranged buttons for the ancillary
+features (whiteboard, file share etc) were not too numerous and complex. Plus in case of
+difficulties the person experienced with the program was able to give immediate face to face help.
+The big bugbear was the reliability of the connection.
+13. Do you think that NetMeeting should be incorporated into the Open Learning
+Chinese Program after the trial? Why? PTS - 2.13
+• Yes I do think that netmeeting should be incorporated into the OLA Chinese Program, because of
+all the reasons above! The trial has been a great opportunity for me to improve my Chinese, and
+therefore using netmeeting as a set part of the course would obviously be nothing but
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 118
+advantageous for students and their results, and most importantly their enthusiasm and motivation
+by having fun learning Chinese!
+• Yes, I do. Although my trial had a lot of technical problems, I can certainly see the immense
+benefit in having NetMeeting in the Open Learning Chinese Program. Without it, Chinese is
+extremely difficult to learn without any other support. I think Netmeeting is almost a necessity.
+• Provided the technical problems related to unreliable and slow connection can be at least
+minimized, I would strongly support the incorporation of NetMeeting into the Chinese program.
+All the features of the program provide useful aids for the language learner, e.g.: sharing, video,
+whiteboard. Initially one might consider using NetMeeting as the preferred form of liaising with
+the tutor during the regular time slot provided for the purpose.
+• I rarely found the quality of the picture really sharp, so it didn't really assist my learning to see
+my tutor. However I absolutely loved having the opportunity to converse with someone in
+Chinese. Apart from being exciting, it motivated me to continue studying, and gave me some
+much needed contact with someone. Therefore I think some kind of video conferencing should be
+used. The very best thing would be for some opportunity to speak with small groups including
+other students on some occasions, and the opportunity to speak only with the tutor on other
+occasions. I think I learned a lot in a short time while talking with my tutor, and would like to see
+continued opportunity to develop spontaneous conversation skills in this way.
+14. Other comments PTS - 2.14
+• Thank you for the opportunity, I have appreciated it very much!
+• The trial really showed me that it is possible to learn a language through distance education.
+Although it is still difficult, and there are a range of technical problems, it is a great idea, and I
+would recommend it as a significant educative tool.
+• In my view, it is difficult to learn Chinese by distance education unless there is a component of
+conversation included. Netmeeting could be an effective way to build some regular conversation
+practice into Chinese studies. (Participant E)
+This is the end of the questionnaire.
+Thank you very much for helping me with this project.
+ACKNOWLEDGMENT
+I would like to thank Associate Professor Mary Farquhar, Professor Chengzheng Sun, Professor Nick
+Knight and Associate Professor Mike Levy for their valuable comments, which in many ways helped
+shape this article. My gratitude also goes to the editor, Professor Dorothy Chun, and the anonymous
+reviewers of LLT for their constructive and insightful comments on the earlier manuscripts. I am
+extremely grateful to the reviewer of the revised draft of this article for his/her thorough review and
+helpful criticism.
+ABOUT THE AUTHOR
+Yuping Wang is Lecturer of Chinese language at Griffith University, Australia. Her research interests are
+the use of CMC in teaching Chinese language, Internet-based language teaching, distance education,
+Chinese language software development and second language teaching methodologies.
+E-mail: y.wang@griffith.edu.au
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 119
+REFERENCES
+Bates, A. W. (1997). The impact of technological changes on open and distance learning. Distance
+Education, 18(1), 93-109.
+Bloomfield, D. (2000). Voices on the Web: Student teachers negotiating identity. Asia-Pacific Journal of
+Teacher Education, 28(3), 199-212.
+Boyle, E., Anderson, A., & Newlands, A. (1994). The effects of visibility on dialogue and performance in
+a cooperative problem-solving task. Language and Speech, 37(1), 1-20.
+Bruce, V. (1996). The role of face in communication: implications for videophone design. Interacting
+with Computers, 8(2), 166-176.
+Buckett, J., & Stringer, G. (1997). ReLaTe (Remote Language Teaching): Progress, problems and
+potential. Paper presented at CALL'97, London.
+Buckett, J. & Stringer, G. (1999) Internet Videoconferencing's 3Ms: Multiway, Multimedia, Multicast.
+Retrieved November 28, 2001, from http://www.ex.ac.uk/pallas/relate/papers/peg99/stringer.htm
+Buckett, J., Stringer, G. & Datta, J. (1999). Life after ReLaTe: Internet videoconferencing's growing
+pains. In K. Cameron (Ed.), CALL and the learning community (pp. 31-38). Exeter, England: Elm Bank
+Publications.
+Chou, C. C. (2001). Formative evaluation of synchronous CMC systems for a learner-centered online
+course. Journal of Interactive Learning Research, Summer-Fall, 173-187.
+Chun, D. (1994). Using computer networks to facilitate the acquisition of interactive competence. System,
+22(1), 17-31.
+Chun, D., & Plass, J. (2000). Networked multimedia environments for second language acquisition. In M.
+Warschauer & R. Kern (Eds.), Network-based language teaching: Concepts and practice (pp. 151-170).
+Cambridge, England: Cambridge University Press
+Gass, S. M. (2003). Input and interaction. In C. J. Doughty & M. H. Long (Eds.), The handbook of second
+language acquisition (pp. 224-255). Malden, MA: Blackwell Publishing Ltd.
+Goodfellow, R., Manning, P., & Lamy, M. (1999). Building an online open and distance language
+learning environment. In R. Debski & M. Levy (Eds.), WORDCALL: Global perspective on computer-
+assissted language learning (pp. 267-286). Lisse, The Netherlands: Swets & Zeitlinger.
+Hall, J. K. (1995). "Aw, man, Where you goin'?": Classroom interaction and the development of L2
+interactional competence. Issues in Applied Linguistics, 6(2), 37-62.
+Hampel, R., & Baber, E. (2003). Using Internet-based audio-graphic and video conferencing for language
+learning. In U. Felix (Ed.), Language learning on-line: Towards best practice (pp. 171-191). Lisse, The
+Netherlands: Swets & Zeitlinger.
+Hampel, R., & Hauck, M. (2004). Towards an effective use of audio conferencing in distance language
+courses. Language Learning & Technology, 8(1), 66-82. Retrieved June 7, 2004, from
+http://llt.msu.edu/vol8num1/hampel/
+Hauck M., & Haezewindt, B. (1999). Adding a new perspective to distance (language) learning and
+teaching -- the tutor's perspective. ReCALL, 11(2), 46-54.
+Hutchby, I. (2001). Conversation and technology: From the telephone to the Internet. Malden, MA:
+Blackwell Publishers Inc.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 120
+Kaye, A. (1989). Computer-mediated communication and distance education. In R. Mason & A. Kaye
+(Eds.), Mindweave: Communication, computers and distance education (pp. 3-21). Oxford, England:
+Perganmon Press.
+Kern, R. (1996). Computer-mediated communication: Using e-mail exchanges to explore personal
+histories in two cultures. In M. Warschauer (Ed.), Telecollaboration in foreign language learning (pp.
+105-119). Honolulu: University of Hawaii, Second Language Teaching & Curriculum Centre.
+Kitade, K. (2000). L2 learners' discourse and SLA theories in CMC: Collaborative interaction in Internet
+chat. Computer Assisted Language Learning, 13(2), 143-166.
+Kötter, M., Shield, L., & Stevens, A. (1999). Real-time audio and email for fluency: Promoting distance
+language learners' aural and oral skills via the Internet. ReCALL, 11(2), 55-60.
+Kötter, M. (2001). Developing distance language learners' interactive competence -- Can synchronous
+audio do the trick? International Journal of Educational Telecommunications, 7(4), 327-353.
+Kress, G., & van Leeuwen, T. (2001). Multimodal discourse: The modes and media of contemporary
+communication. London: Arnold.
+Lake, D. (1999). Reducing isolation for distance students: An on-line initiative. Open Learning, 14(3),
+14-23.
+Lantolf, J.P. (1994). Sociocultural theory and second language learning: Introduction to the special issue.
+Modern Language Journal, 78(4), 418-420.
+Lecourt, D. (1999). The ideological consequences of technology and education: The case for critical
+pedagogy. In M. Selinger & J. Pearson (Eds.), Telematics in education: Trends and issues (pp. 51-75).
+Amsterdam: Pergamon.
+Long, M. H. (1996). The role of the linguistic environment in second language acquisition. In W. C.
+Ritchie & T. K. Bhatia (Eds.), Handbook of research on language acquisition. Vol .2: Second language
+acquisition (pp. 413-468). New York: Academic Press.
+McAndrew, P., Foubister, S. P., & Mayes, T. (1996). Videoconferencing in a language learning
+application. Interacting with computers, 8(2), 207-217.
+Mitchell, R., & Myles, F. (1998). Second language learning theories. London: Arnold.
+Negretti, R. (1999). Web-based activities and SLA: A conversation analysis research approach. Language
+Learning & Technology, 13(1), 75-87. Retrieved June 6, 2004, from http://llt.msu.edu/vol3num1/negretti/
+Neu, J. (1990).Assessing the role of nonverbal communication in the acquisition of communicative
+competence in L2. In R. C. Scarcella & E. S. Anderson (Eds.), Developing communicative competence in
+a second language (pp. 121-138). New York: Newbury House/Harper & Row.
+Ohta, A. S (1995). Applying sociocultural theory to an analysis of learner discourse: Learner-learner
+collaborative interaction in the zone of proximal development. Issues in Applied Linguistics 6(2), 93-121.
+O'Malley, C., Langton, S., Anderson, A., Doherty-Sneddon, G. & Bruce, V. (1996). Comparison of face-
+to-face and video-mediated interaction. Interacting with Computers, 8(2), 177-192.
+Oxford, R. L. (1995). Patterns of cultural identity. Boston: Heinle
+Pellettieri, J. (2000). Negotiation in cyberspace: The role of chatting in the development of grammatical
+competence. In M. Warschauer & R. Kern (Eds.), Network-based language teaching: Concepts and
+practice (pp. 59-86). Cambridge, England: Cambridge University Press.
+Yuping Wang Supporting Synchronous Distance Language …
+Language Learning & Technology 121
+Rivers, W. M. (1987). Interaction as the key to teaching language for communication. In W. M. Rivers
+(Ed.), Interactive language learning (pp. 3-16). Cambridge, England: Cambridge University Press,
+Shield, L., Hauck, M., & Hewer, S. (2001) Talking to strangers -- the role of the tutor in developing target
+language speaking skills at a distance. Proceedings of UNTELE 2000, volume II. Retrieved August 18,
+2003, from http://fels-staff.open.ac.uk/lesley-shield/webbed/untele/shieldhauckhewer/
+talkingtostrangers.html PDF available at http://www.utc.fr/~untele/volume2.pdf.
+Smith, B. (2003). Computer-mediated negotiated interaction: An expanded model. The Modern Language
+Journal, 87(1), 38-57.
+Sotillo, S. M. (2000). Discourse functions and syntactic complexity in synchronous and asynchronous
+communication. Language Learning and Technology, 4 (1), 82-119. Retrieved June 6, 2004, from
+http://llt.msu.edu/vol4num1/sotillo/
+Sproull, L., & Kiesler, S. (1986). Reducing social context cues: Electronic mail in organizational
+communications. Management Science, 32, 1492-1512.
+Stacey, E. (1999). Collaborative learning in an online environment. Distance Education, 43(2), 14-33.
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step
+towards second language learning. Applied Linguistics, 16, 371-391.
+Tudini, V. (2003). Using native speakers in chat. Language Learning and Technology, 7(3), 141-159.
+Retrieved June 6, 2004, from http://llt.msu.edu/vol7num3/tudini/
+Wang, Y., & Sun, C. (2000). Synchronous distance education: Enhancing speaking skills via Internet-
+based real time technology. In X. Zhou, J. Fong, X. Jia, Y. Kambayashi, & Y. Zhang (Eds.), Proceedings
+of the first international conference on Web information systems engineering (pp. 168-172). Los
+Alamitos, CA: IEE Computer Society.
+Wang, Y., & Sun, C. (2001). Internet-based real time language education: Towards a fourth generation
+distance education. CALICO Journal, 18(3), 539-561.
+Wang, Y. (2004). Distance language learning: Interactivity and fourth generation Internet-based
+videoconferencing. CALICO Journal, 21(2), 373-395.
+Wells, G. (1981). Language as interaction. In G. Wells (Ed.), Learning through interaction: The study of
+language development (pp. 22-72). Cambridge, England: Cambridge University Press.
+Wong, J., & Fauverge, A. (1999). LEVERAGE -- Reciprocal peer tutoring over broadband networks.
+ReCALL, 11(1), 33-142.

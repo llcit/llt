@@ -1,0 +1,909 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol12num1/smith/ 
+February 2008, Volume 12, Number 1 
+pp. 85-103 
+ 
+Copyright © 2008, ISSN 1094-3501 85 
+METHODOLOGICAL HURDLES IN CAPTURING CMC DATA: THE 
+CASE OF THE MISSING SELF-REPAIR 
+Bryan Smith 
+Arizona State University 
+This paper reports on a study of the use of self-repair among learners of German in a task-
+based CMC environment. The purpose of the study was two-fold. The first goal sought to 
+establish how potential interpretations of CMC data may be very different depending on 
+the method of data collection and evaluation employed. The second goal was to explicitly 
+examine the nature of CMC self-repair in the task-based foreign language CALL 
+classroom. Paired participants (n=46) engaged in six jigsaw tasks over the course of one 
+university semester via the chat function in Blackboard. Chat data were evaluated first by 
+using only the chat log file and second by examining a video file of the screen capture of 
+the entire interaction. Results show a fundamental difference in the interpretation of the 
+chat interaction which varies as a function of the data collection and evaluation methods 
+employed. The findings also suggest a possible difference in the nature of self-repair 
+across face-to-face and SCMC environments. In view of the results, this paper calls for 
+CALL researchers to abandon the reliance on printed chat log files when attempting to 
+interpret SCMC interactional data. 
+INTRODUCTION 
+Though the field of computer-assisted language learning (CALL) is a rapidly emerging area within 
+applied linguistics, the amount of CALL research on many current SLA topics is relatively modest. 
+Though computer-mediated communication is fundamentally different than face-to-face communication, 
+CALL/SLA studies often do not adequately ground their inquiry in existing "traditional" SLA research. 
+Further, many CALL studies do not make use of existing technology in their data collection and analysis 
+methods, which can severely limit the impact and relevance of their findings. This is unfortunate because 
+CALL can be a powerful vehicle for exploring many of the core elements of current SLA theory. One of 
+these core areas is the role of self-repair in L2 development. The present study explores self-repair in a 
+task-based synchronous computer-mediated communicative (SCMC) environment and employs video 
+screen capture software to evaluate the amount and nature of self-initiated self-repair (SISR) in an SCMC 
+context. In this paper I will first establish the relevance of self-repair to SLA in both traditional and CMC 
+environments. Then, through the discussion of a classroom-based empirical L2 study I will point out how 
+using video screen capture technology yields a markedly different and more precise picture of the nature 
+of SISR in an SCMC environment.  
+Self-repair in SLA 
+Learner self-repair or self-correction has been explored in a variety of educational contexts from various 
+theoretical perspectives and with a focus on both native speakers and second/foreign language learners1. 
+Self-repairs are seen as important from an SLA perspective because they provide us insights into a 
+learner's interlanguage (IL) development. Indeed, self-repair is viewed by many as evidence of noticing 
+an observable behavior from which we can infer that a learner has engaged in some monitoring strategy 
+or has noticed a production error (Kormos, 1999).   
+Self-repair occurs when speakers detect that their output is faulty or inappropriate in some way. The 
+speech flow is halted and a self-correction is executed. Foster & Ohta (2005) define self-correction as 
+"self-initiated, self-repair, [which] occurs when a learner corrects his or her own utterance without being 
+prompted to do so by another person" (p.420). Wouk (2005) makes the distinction between same turn 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 86 
+self-repair in which a speaker, in the process of producing an utterance, stops that utterance before 
+completion and continues it in some way that involves alteration of the syntactic structure that is being 
+produced. The speaker may abort the utterance in progress and begin a completely new structure or 
+change the syntactic framework of the utterance, utilizing lexical elements of the old syntax in a new 
+syntactic frame. Buckwalter (2001) notes that the SLA literature normally equates repair with correction. 
+This view precludes any investigation of difficulty that occurs in the absence of observable error such as a 
+learner's preemptive action when anticipating difficulty. Kormos (2000) labels such occurrences as covert 
+self-repair, whereby a learner notices an error prior to articulation and repairs it. Most of the SLA 
+research on self-repair involves the overt variety since the phenomenon of covert self-repair can only be 
+explored in highly controlled experimental settings or through the use of verbal reports or stimulated 
+recall (Gass & Mackey, 2000).  
+Output 
+Self-repair is a type of modified output first argued by Swain (1985) to be key in SLA and is now 
+considered to be a fundamental construct in current SLA theory (Izumi, 2003; Shehadeh, 1999, 2002; 
+Swain & Lapkin, 1995). Modified or "pushed" output refers to corrections or rephrasings that are elicited 
+by the L2 learner's interlocutor. Swain's (1985; 2005) comprehensible output hypothesis argues for the 
+importance of learner output in terms of enhancing the noticing of one's own errors and states that the role 
+of output is, at a minimum, "to provide opportunities for contextualized, meaningful use, to test out 
+hypotheses about the target language, and to move the learner from a purely semantic analysis of the 
+language to a syntactic analysis of it" (p. 252). Swain & Lapkin (1995) argue that when learners produce 
+the target language, external or internal feedback leads them to notice a gap in their existing (IL) 
+knowledge. This noticing pushes them to consciously reprocess their utterances to produce modified 
+output. Research also suggests that learning depends partly on learners' ability to focus on form when they 
+notice such a gap in their IL and also on the extent to which noticing is learner-initiated (Doughty & 
+Williams, 1998; Long & Robinson, 1998).  
+The benefits of pushed output have also been discussed in terms of learner collaboration, which results in 
+language related episodes "where students reflect consciously on the language they are producing" (Swain 
+2001:53). Though much of the interactionist research to date suggest that language related episodes are 
+often triggered by lexis, there is also evidence that a great deal of learner collaboration is related to form 
+(Ohta, 2001; Swain, 2001). 
+Though technically different from pushed output, self-initiated self-repairs are functionally similar to 
+pushed output in that they serve to test hypotheses about the target language, trigger creative solutions to 
+problems, and expand the learner's existing resources (Kormos, 1999). Self-repair, therefore, occupies an 
+important position in SLA theory. 
+Research on Self–repair 
+Self-correction data have been collected through a variety of means in L2 research, including picture 
+description, spatial description, interviews, storytelling, open narration, and information gap activities 
+(Camps, 2003; Fathman, 1980; Kormos, 2000; Lennon, 1990; van Hest, 1996; Verhoeven, 1989). 
+Generally speaking, the research to date on self-repair suggests that language learners tend to prefer self- 
+over other-repair (Buckwalter, 2001; Foster & Ohta, 2005; van Lier, 1988); that L2 speakers self-repair 
+more often than native speakers (Kormos, 2000; van Hest, 1996); and that self-repair more often leads to 
+modified output than does other-initiated repair. Researchers have also explored various types of self-
+repairs such as repairs of the message conveyed, repairs in the manner of expression (or appropriateness 
+repairs), and error repairs, which have included lexical, phonetic, and grammatical repairs. Out of this 
+work emerge trends in the type of SISR that occurs during learner interaction as well as several key 
+variables that affect the nature and amount of self-repair, including learner preferences, developmental 
+factors, and task type.   
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 87 
+Types of self-repair 
+In most of the SLA research on self-repair, researchers have generally concentrated on the focus and 
+structure of self-repair. Kormos (2000) found that lexical errors were repaired considerably more 
+frequently than grammatical errors in the L2. This is in line with a general assumption by researchers of 
+L2 production that L2 learners pay considerably more attention to lexical appropriateness than to 
+grammatical accuracy. Kormos also found that the distribution of self-repairs shows no considerable 
+difference between L1 and L2 data in the frequency of the various types of self-repairs. In contrast, 
+Lennon (1990) found relatively little self-correction among his university level L1 German L2 English 
+speakers, though when they did self-correct they most often focused on lexical items. Fathman (1980) 
+found that 50% of all repairs were lexical in nature. 
+Van Hest (1996) discusses self-repair structure in terms of three components: 1) a reparandum, which is 
+either an error or an inappropriate expression; 2) an editing phase, which occurs immediately following 
+the interruption of the flow of speech; and 3) a reparatum, which is the actual correction or change of the 
+problematic item. Much of this work is based on research from L1 psycholinguistics and Levelt's (1983) 
+repair classification system (Kormos, 2000; van Hest, 1996). This work makes a distinction between overt 
+and covert repair. From this perspective, covert repairs (those made before articulation) proceed the same 
+way as overt repairs. One must infer covert repair through indirect evidence such as word or phrase 
+repetitions, syllabic repetition, silent pauses, etc. (Postma & Kolk, 1992). Van Hest proposes the model 
+below for classifying overt self-repair. The present study adapts this model for classifying instances of 
+SISR. The reasons for choosing the model proposed in van Hest (1996) for the current study were that 
+this model is based largely on Levelt (1983), which has been applied widely in the in the literature on 
+self-repair (Kormos, 2000).  Further, this model is quite systematic and reliable, emerging out of a corpus 
+of almost 5,000 self-repairs produced by Dutch speakers in their L1 and L2 across various task types. 
+Finally, adapting such a strong existing taxonomy allows for more powerful comparisons of results across 
+related studies.  
+Overt Self-Repairs 
+• Error repair (E-repair): Those repairs made because the speaker has made an error. 
+• Appropriateness repair (A-repair): Those repairs made because the speaker thinks the original 
+message is inappropriate in some way. For example, a message may be perceived as not having been 
+specific enough.  
+• Different repair (D-repair): Those repairs in which the speaker interrupts his current message to 
+introduce a new, totally different topic. 
+• Rest repair (R-repair): All other types of overt self-repair. 
+Covert Self-Repairs 
+• Those cases whereby the speaker discovers imminent trouble in his/her message and “interrupts” 
+him/herself before the troublesome item is uttered. 
+In this work van Hest (1996) found that appropriateness repairs accounted for 39.7% of self-repairs, with 
+error repairs making up 22.4%, different repairs 10.1%, with 12.3% of self-repairs remaining unclassified. 
+Covert repairs made up 15.5% of all L2 self-corrections. Interestingly, Levelt's model does not explain 
+where errors of morphology should go, though some researchers have collapsed syntactic and 
+morphological errors together in a broader category of "grammatical" errors (Lai & Zhao, 2006).  
+Developmental factors in self-repair 
+Both age and L2 proficiency level seem to affect the amount and nature of self-repair (Camps, 2003; 
+Fathman 1980; Kormos, 1999; van Hest, 1996; Verhoeven, 1989). Of these factors, proficiency-related 
+variables in self-repair are particularly relevant to the current study. Camps (2003) suggests that learners 
+who make a large number of errors possess a more limited knowledge of the target language, and 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 88 
+therefore are not as well prepared to notice errors and correct them. They may be unaware of errors 
+because either they do not know what a correct form would look like or they are too busy attending to 
+other elements in their production (like finding suitable lexical items to express their ideas).  
+In contrast, van Hest (1996) found that advanced learners correct themselves less frequently than lower 
+level learners. Additionally, beginning and intermediate L2 speakers produced significantly more self-
+repairs of lexical errors and significantly fewer repairs of lexical appropriateness than the advanced L2 
+speakers. Likewise, Kormos (1999) found that participants at a higher level of proficiency self-corrected 
+linguistic errors significantly less frequently than learners at the pre-intermediate level, whereas they 
+repaired the appropriateness of informational content more frequently than pre-intermediate students did.  
+Task type as a variable in self-repair 
+L2 self-repair research also reveals that the frequency of repairs concerning the information content of the 
+message varies across tasks (Poulisse, 1997; van Hest, 1996). Van Hest, for example, suggests an effect 
+for task type, concluding that tasks requiring more precise expression will result in more appropriateness 
+repairs than in tasks with less-rigid structure. Kormos (2000) also suggests that the frequency of 
+appropriateness repairs both in L1 and L2 is affected by task characteristics and the situational variables 
+of the interaction. 
+Self-Repair in a CALL Context 
+Self-repair has been accepted by many as evidence of noticing (Lai & Zhao, 2006), which has been 
+argued to be fundamental to the SLA process (Schmidt, 1993). Text-based chat has been argued to be a 
+good venue for exploring self-repair, since it seems to provide an increase in processing time and 
+opportunity for learners to focus on form (Pellettieri, 1999; Shehadeh, 2001; Smith, 2004), which may 
+lead to a heightened potential for noticing one's own errors. Indeed, Yuan (2003) suggests that the nature 
+of SCMC requires learners to attend to both linguistic forms as well as the meaning of their 
+communication. 
+The printed text may also add to the salience of input and output in general and the noticing of non-target-
+like input and output in particular (Izumi, 2002; Salaberry, 2000; Smith, 2004). Smith has also argued that 
+a heightened saliency of linguistic input and output is a favorable byproduct of the CMC interface, with 
+increased saliency due largely to the permanence of the message. This notion of permanence has also 
+been used to explain the lack of learner uptake in a synchronous computer-mediated communication 
+(SCMC) environment (Smith, 2005). Kitade (2000) suggests that internet chat provides opportunities for 
+learners to self correct both grammatical and pragmatic errors in their own linguistic output for essentially 
+two reasons: first, there is no turn-taking competition and, second, there is more time for things like self-
+monitoring. Also, there are few paralinguistic cues available in text-based chat, which might reduce the 
+sense of urgency to respond, and this, in turn, might facilitate learners' ability to monitor their language 
+output more closely.  SCMC texts are not ephemeral like oral/aural input and learners can scroll up/down 
+to access an earlier message quite easily. Whether they in fact do this is an empirical question. Taken 
+together, these features may positively influence a learner's ability to notice and subsequently correct non-
+target like language (Lai & Zhao, 2006; Smith & Gorsuch, 2004).  
+Recent studies on CMC self repair 
+Studies of self-repair in a CMC context are few. Those that do exist tend not to build on the existing work 
+on self-repair (from the non-CMC applied linguistics literature) and take a limited view of the types of 
+self-repair investigated. These studies are often stifled by a failure to employ existing technology in the 
+data collection and evaluation phases of the research.  
+Jepson (2005) found that though both voice and text chats contained various types of repair moves, self-
+correction was not among them. He suggests that self-correction in an SCMC context may be rare 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 89 
+because speakers do not notice their errors or because the non-native speaker – non-native speaker SCMC 
+context is not conducive to self-correction. Lee (2002) considered self-corrections in the framework of a 
+broader study on the nature of modification devices in a CMC environment and categorized them as 
+belonging to one of two categories, lexical or grammatical. Though no statistical data were provided, Lee 
+reports that most of the self-corrections made by her intermediate-level L2 learners of Spanish were made 
+on the "concordance of gender and number" (p. 284), and only occasionally was incorrect usage of lexical 
+items recognized and self-corrected. She suggests that learner keyboarding skills, language proficiency, 
+and attention to linguistic aspects might contribute to a high number of errors in (written) production.  
+Yuan (2003) found that of 512 errors in his CMC data, only 44 or 8.59% of them were self-repaired. Over 
+43% of the self-repairs were grammatical in nature (sentence structure, agreement, noun/article, and 
+preposition), though errors of nouns/articles and prepositions were only very rarely self-corrected. Errors 
+of verb tense, modals, and adjective-noun sequences were never self-corrected. Lexical self-repairs 
+accounted for almost 30% of the self-repairs. Yuan also counted self-repairs of spelling errors (25%).  
+Most notable is the fact that although learners made 57 verb tense errors (exactly as many as sentence 
+structure errors), none of these errors were self-corrected. Yuan argues that evaluating such CMC chat 
+logs allows one the advantage of seeing certain processes that the learner undergoes while trying to 
+construct meaning in their L2, arguing that they provide "real, recorded examples of errors (repaired or 
+unrepaired) learners made while trying to achieve certain communicative goals" (p. 204). 
+One of the very few studies to employ screen capture technology in an SLA/CALL study is Lai & Zhao's 
+(2006) study which examines the capacity of text-based chat to promote learners' noticing of their own 
+problematic production. In this study instances of learner self-correction are viewed as evidence of 
+noticing. Lai & Zhao found that online chat was superior to face-to-face interaction for promoting 
+noticing of mistakes even after controlling for differences in the amount of language output produced in 
+each condition.  
+As we can see from these few studies, using printed chat logs in the evaluation of SCMC data is the 
+methodological "industry standard" (with the notable exception of Lai & Zhao). Though chat logs 
+certainly do have value for interpreting SCMC interaction, they fail to capture a significant portion of the 
+data. It is precisely these "missing data" that may provide the most insight into the potential roles of 
+monitoring, attention and noticing, and pushed output in interlanguage development within a CMC 
+context. In order to gain a more complete view of learner CMC interaction, especially that which involves 
+learner self-repair, use of a dynamic screen capture record is required. Relying on a static artifact to make 
+claims about a dynamic process requires an uncomfortably wide and unnecessary leap of faith. 
+For example, Jepson (2005) reports that there were absolutely no self-correction moves in his data, 
+claiming that the SCMC environment is perhaps not conducive to self-correction. This seems unlikely 
+since there is ample research that strongly suggests a heightened degree of attention to form in a CMC 
+context. More likely is the possibility that significant self-repair did occur, but the data collection 
+methodology employed was not sensitive enough to detect it. Jepson (2005) suggests employing 
+technology that records each keystroke in an effort to uncover what he calls "hidden" self-correction. He 
+comments that in his study it was not possible to observe if participants edited their own messages before 
+they sent them and acknowledges that some self-correction repair moves may not have been measurable. 
+This is an important point of which some CALL researchers have taken note (see, for example, 
+Pellettieri's, 1999, use of YTalk). However, this approach is not only cumbersome when it comes to data 
+analysis; it also obscures other potentially interesting elements of online interaction such as scrolling as a 
+strategy to "recapture" previous content. Due to this limitation, Smith & Gorsuch (2004) suggest that 
+claims about the occurrence of certain interactional moves and strategies largely require one to infer too 
+much in those studies that use only a hard copy transcript of the interaction.  
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 90 
+It seems, then, that if there are instances of self-repair that appear on the chat logs, there must be many 
+more that are attempted, but edited out before the message is sent to the interlocutor. It is important to 
+note that from an interactionist perspective on SLA, the potential value of this output in the form of self-
+repairs is not diminished by the fact that they may be subsequently edited out by the learner.  
+CMCovert repair 
+In an SCMC context a unique type of self-repair is possible that may be considered a CMC-specific form 
+of self-repair. In this case a message is typed, but a self-initiated correction or rephrasing is executed 
+before the message is sent to the interlocutor. The self-repair is certainly overt from a psychological 
+perspective, but essentially "covert" from the interlocutor's perspective in that there is never any evidence 
+of there having been a self-repair or rephrasing. Further, such repair is often not immediate and regularly 
+contains several "embedded" self-repairs in the same evolving message. The proposed methodology 
+allows an examination of this type of self-repair, heretofore lost to methodological limitations of the 
+research design.  
+This type of self-repair is different from true covert repair since, in the latter, we may not expect the same 
+output-related benefit that may only be present upon actually producing the target language. Of course, 
+some of the argued benefits of pushed output for the speaker are obtained only once the interlocutor reacts 
+to a speaker's productive output. In an SCMC environment, these conditions will be the same, as will 
+possible benefits achieved when one engages in truly covert self-repair2.  
+However, what I term here as "CMCovert" self-repair is an interesting and largely unexplored 
+phenomenon that may provide us valuable insights into the nature of such self-repair as well as the effect 
+of CMCovert self-repair on SLA. Given the pervasiveness of such repairs I argue that any examination of 
+the occurrence and possible effects of SCMC self-repair from the repairer’s point of view  simply must 
+include this CMCovert self-repair. To do this one must abandon the practice of simply using printed chat 
+logs to analyze CMC interactional data and employ more dynamic means such as screen capture 
+technology. This does not only apply to investigations of self-repair, but to CMC learner interaction in 
+general as suggested by Smith & Gorsuch (2004).  
+THE CURRENT STUDY 
+The purpose of the current study is two-fold. First, I wish to establish empirically just how misguided it 
+would be for CALL researchers to continue to rely on printed chat logs alone when making SLA-related 
+claims about SCMC interaction. This inadequacy is revealed by comparing two types of data from the 
+same task-based interaction sessions: the printed chat log and the Camtasia screen capture video record of 
+the same session for the same participants (hereafter chatscript). The amount of SISR, then, is the 
+dependent variable in this study with the learners in this study serving as their own control group. Data 
+collection/evaluation methodology is the independent variable. Second, the nature of learner self-repair in 
+this SCMC context will be explored. Though there is considerable research on face-to-face self-repair, 
+there is very little CALL work on this topic.  
+Research Questions 
+This study explores what Buckwalter (2001) has described as self-initiated self-repair, albeit in a SCMC 
+environment. Following Lai & Zhao (2006), self-repairs were defined as episodes where the participants 
+immediately corrected their own production without prompts from their interlocutors. Some of these 
+episodes are visible on the final chat logs of each session and, as we will see, some are not. All SISR 
+episodes, however, are visible on the video file of the relevant chat session.  
+The research questions are as follows: 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 91 
+• Does the hard copy transcript of chat interactions differ from that which is available using a screen 
+capture program in terms of the amount of SISR that is evident? 
+• What is the nature of CMCovert self-repair?  
+In order to answer these questions, hard copies of all the chat logs for all participants across all tasks were 
+analyzed and coded for instances of SISR. Hypothesis 1 predicts that evidence of a significantly higher 
+amount of SISR will be found in the screen capture condition. This prediction is based largely on Smith & 
+Gorsuch (2004), who found that a similar method of data collection captured a much richer picture of the 
+CMC interaction of the participants in their study. Drawing from previous research on self-correction as 
+well as CALL, a substantial amount of CMCovert self-repair is expected (Hypothesis 2a). More 
+pronounced attention to form manifested in a higher number of grammatical self-repairs than lexical self-
+repairs are expected due to the increased planning/monitoring, and processing time afforded by the CMC 
+medium (compared to a face-to-face setting). Also, because of the relatively low proficiency level of the 
+participants (Novice-High), more self-correction of grammar-related problems is expected (Hypothesis 
+2b). It is also expected that few appropriateness (A) self-repairs relative to the number of error (E) self-
+repairs will be found also due mostly to the relatively low proficiency level of the participants 
+(Hypothesis 2c). A summary of the four directional hypotheses follows below: 
+• Hypothesis 1: A significantly higher amount of SISR will be found in the screen capture condition 
+than in the hard copy transcript condition. 
+• Hypothesis 2a: A substantial amount of CMCovert self-repair is expected. 
+• Hypothesis 2b: More SISR of grammar-related problems than lexical ones are expected.  
+• Hypothesis 2c: Few appropriateness (A) SISRs relative to the number of error (E) SISRs will be 
+found. 
+Methodology 
+Participants 
+Forty-six beginner-high proficiency level students participated in this study as part of their regularly 
+scheduled German language course at a major southwestern university in the United States. Students were 
+required to meet once every other week in the foreign language micro-computing lab. Six CMC sessions 
+were scheduled over the course of the semester. All students were either sophomore or junior 
+undergraduates and all were native speakers of English. None were German majors. Their proficiency 
+level and placement in the German sequence was determined by an in-house online placement test. All 
+participants in the present study were characterized by the instructor of record as roughly at the ACTFL 
+Novice-High proficiency level and were familiar with the chat function in Blackboard. All participants 
+did complete one training session prior to data collection to ensure they were familiar with the general 
+task and procedures since they were not necessarily accustomed to performing similar task-based CMC 
+activities in their German class. Though there was some evidence of target cultural materials and short 
+samples of authentic literature, the core textbook and instruction were largely organized along a 
+grammatical syllabus.  
+Materials  
+Paired participants completed one jigsaw task per session over the course of the semester, which resulted 
+in a potential total of six tasks per student (assuming perfect attendance). This task type was chosen 
+because of its structural requirement of two-way information exchange by participants who are striving to 
+reach a convergent goal. Pairs were not necessarily matched from week to week. Though each task was 
+slightly different, they all follow Pica, Kanagy, and Falondon's (1993) task features for jigsaw tasks. Four 
+of the six tasks were video-based, whereby one learner (learner A) would view a two-minute dramatic 
+video clip that corresponded to the week's assigned course content. The other learner (learner B) would 
+not view this clip but would study a series of eight stills from the same video clip, randomly arranged. 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 92 
+The stills were such that a logical order was not discernable simply by examining the photos alone but 
+quickly and easily sequenced upon viewing the clip from which they were taken. The remaining two tasks 
+were standard sequential ordering tasks, where learners each held three out-of-sequence pictures which 
+when put together made up a logical story sequence.  The video-based tasks were directly tied to the core 
+content and textbook of the course and came from the ancillary DVD and workbook accompanying the 
+main course textbook. Participants interacted with one another via the chat function in Blackboard and 
+were assigned to one of various paired "groups" under Blackboard's Communication tool, Virtual 
+Classroom. Following Smith & Gorsuch (2004) and Lai & Zhao (2006), the dynamic screen capture 
+software Camtasia was employed to record exactly what appeared on each participant's computer screen 
+in real time. Camtasia has the capability of recording and creating a movie file of each participant's 
+computer screen, allowing one to play back the chat session in its entirety.   
+Procedures  
+Participants were required to attend and participate in each session since these were built into the syllabus 
+of the course. Participation in the study was voluntary and followed the university's prescribed IRB 
+protocol. The six CALL tasks described above were completed every other week during the middle part 
+of the semester (over 12 weeks). Each class lasted approximately one hour. The average amount of time it 
+took pairs to complete each task was just over 25.5 minutes as measured by the time stamp on the chat 
+logs of the interactions. No specific time limit was placed on students once they began the task; however, 
+given the length of the class, participants realistically had about 40 minutes to complete each task.  
+All students worked collaboratively online with a partner. Each participant was given task sheet A or B. 
+All of those holding task sheet A were grouped together and separate from those students in group B. This 
+was done in order to reduce the chance that any participant would gain visual access to their interlocutor’s 
+(partner’s) task sheet/video clip. For the video-based tasks, the clip for that session was made available to 
+group A in each dyad. These students viewed the clip with headphones on while their partner studied the 
+still images of various scenes from the same video clip (group B). Once the video clip had played through 
+one time, participants were directed to interact with their assigned chat partner and decide the proper 
+order of the pictures held by student B. In order to successfully complete this task, learner A had to 
+describe in detail the events in the short video clip (in the target language) while learner B attempted to 
+place the pictures in order based on these descriptions. Likewise, learner B was told to describe each 
+picture to learner A in order to facilitate this ordering. Learners were instructed to interact using the target 
+language with the goal of agreeing on a likely order to the still images held by learner B. Once this order 
+was agreed on learners were to declare the task completed by typing the proposed order of the pictures 
+and writing "finished". Upon task completion, Camtasia was stopped and the video record of the 
+interaction saved to a removable storage drive. The chat logs of these interactions were saved 
+automatically in Blackboard.  
+Data analysis  
+Following Kormos (2000), truly covert repairs were not considered in the data since one can only infer 
+these occurrences. Rather, CMCovert self-repairs (those that are recorded, but which do not appear on the 
+chat logs), as well as those which are truly overt (appearing on the chat logs), were considered. Following 
+Lai & Zhao (2006) and Lee (2002), spelling mistakes/corrections were not counted in the data. Errors in 
+the obligatory capitalization of German nouns and subsequent self-corrections were counted and coded as 
+lexical errors (EL). Since the first research question sought to compare the amount of self-repair evident 
+when employing two data collection methodologies in a paired groups fashion, only those participants 
+whose chat records showed evidence of self-repair across both of these methodologies were candidates 
+for inclusion in these data. To this end, all printed chat logs (n=94) of pair interaction were evaluated and 
+coded for instances of self correction (method A) using the coding scheme below (see Table 1), which is 
+adapted from van Hest (1996). Table 2 shows examples of each of these categories from the data. 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 93 
+Table 1. Description of Types of Self-Repair. 
+Type of self-repair Description 
+Lexical (EL) 
+The learner has selected the wrong word and substitutes the 
+correct one for it. 
+ 
+Morphological (EM) The learner corrects a morphological error. Error 
+Syntactic (ES) 
+The learner produces a grammatical construction which 
+cannot be finished without violating the grammar of the 
+target language. 
+Lexical (AL) 
+The learner replaces one term with another, usually more 
+precise, term which better fits the concept s/he wishes to 
+express. 
+Syntactic (AS) The learner replaces the original syntactic construction with a construction which, in his/her opinion, is more appropriate. 
+ 
+Appropriateness 
+Insertion (AI) The speaker repeats part of the original utterance and inserts one or more words to specify his/her message. 
+Different (D) The speaker interrupts his/her current message to introduce a new, totally different topic. Abandonments. 
+Rest (R) All other self-repairs that do not fit cleanly into any of the other categories. 
+Note: Other categories discussed in van Hest (1996) were either not appropriate for the CMC context, for 
+example, phonological errors, or were not present in the data and, therefore, are not included in these 
+tables. 
+This resulted in a total of eight chatlogs. That is, out of the transcripts of the twenty-eight students 
+completing the tasks described above, there was evidence of self-repair on only eight of the 94 chatlog 
+transcripts, or 8.5%. This resulted in a total of 9 instances of self-repair (see Table 3). Next, the 
+corresponding Camtasia file was viewed in its entirety (method B) for each corresponding transcript 
+(n=8). Each video file was coded for instances of SISR according to the same coding scheme (Table 1).  
+Table 2. Examples of Self-repair Types 
+Type of self-repair Camtasia Chatlog 
+Lexical (EL) …ist hat auch… …hat auch… 
+Morphological (EM) …welche Buchstaben ist… …welche Buchstab ist … Error 
+Syntactic (ES) …weil er dieas maädchen… …weil er das mädchen… 
+Lexical (AL) …bitte Wurst und S Schnitzel. …bitte Schnitzel. 
+Syntactic (AS) …wann er mit sein freundin… …wann er sein freundin… Appropriateness 
+Insertion (AI) Drei Leute sind [im Morgen] im Restaurant. [+] 
+Drei Leaute sind im Morgen 
+im Restaurant. 
+Different (D) die männer  sind look▌ wie sagt man looking to look at? wie sagt man to look at? 
+Note: A coding scheme adapted from Smith & Gorsuch (2004) is shown in the Appendix. 
+Results 
+The chat data for the target learners yielded a total of 1,464 words. The number of words produced by 
+these learners on the tasks considered ranged from 101 to 398 (M=183, SD=93). As can be seen from 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 94 
+Table 3 below, there were many more instances of self-repair evident when using method B. A Wilcoxon 
+Signed Ranks Test shows that significantly more instances of learner self-repair were captured using 
+method B than method A (z = 2.53, p =. 01, r = .79; see Table 4). To allow for a clearer comparison to 
+previous studies, "standardized scores" for instances of self-correction relative to the quantity of discourse 
+produced by each participant were calculated.  As can be seen from Table 5, the Wilcoxon Signed Ranks 
+Test yielded very similar results (z = 2.52, p = .01, r = .88). Viewed another way, learners who engaged in 
+task-based CMC interaction with a partner actually self-repaired about six times per one hundred words 
+(of printed transcript), whereas they appear to have self-repaired less than once per one hundred words 
+based on the hard copies of the chat logs alone3.  
+Table 3. Self-repairs by Type, Across Method of Data Collection 
+Method Type of Self-Repair Chat log Camtasia Totals 
+Lexical (EL) 3 23 26 
+Morphological (EM) 2 29 31 
+Syntactic (ES) 4 16 20 
+Error 
+Total (E) 9 68 77 
+Lexical (AL) 0 5 5 
+Syntactic (AS) 0 9 9 
+Insertion (AI) 0 3 3 
+Appropriateness 
+Total (A) 0 17 17 
+Different D 0 1 1 
+Rest R 0 0 0 
+ 
+Table 4. Comparison of Self-repairs in chat logs vs. Camtasia 
+Method N M SD z p effect-size r 
+A (Chat log) 8 1.13 .35  
+B (Camtasia) 8 10.75 5.31 2.53 .01 .79 
+ 
+Figure 1 below shows two transcript versions of the same chat interaction. The left column is the 
+"Camtasia-enhanced" chatscript, which was transcribed while viewing the video screen capture file. The 
+column on the right shows a traditional chat log of the same segment without the benefit of the Camtasia 
+file. In column B only one instance of SISR is evident (lines 6b-7b) whereas column A shows at least 
+three non-spelling self-repairs (lines 5a, 6a-7a, and 8a). The SISR in lines 5a and 8a go undetected when 
+relying on printed chat logs alone. The appendix shows the coding scheme employed in evaluating the 
+Camtasia data.  
+Table 6 shows the data realigned to collapse the categories of morphological and syntactic self-
+corrections together into the broader category of "grammatical" self-repair. This will allow for an easier 
+comparison with data reported in previous studies discussed earlier. Although there were almost twice as 
+many grammatical self-repairs as lexical self-repairs, this difference was not statistically significant. 
+Finally, when we compare the differences in self-corrections of errors with self-corrections of 
+appropriateness issues, we find that learners self-repaired significantly more errors (z = 2.53, p =. 01, r 
+= .68; see Table 7). In order to see if there were any differences in which types of self-repairs learners 
+engaged in within the error (EL, EM, ES) and appropriateness (AL, AS, AI) categories (see Table 3) a 
+Friedman test was performed. Differences within each category were not statistically significant.  
+ 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 95 
+SCMC Chatscript 
+Column A 
+Hard copy of transcript 
+Column B 
+1a. Pierre: er hat seine geschaft 
+aufgeraumt  12:59:43  
+2a. Pierre: bildung C er geht nach hause 
+und seine garge ist nicht sauber  1:00:08  
+3a. Daniel: D-Der man ging ins [2a] garage 
+und es ist sehr schmustivg  1:00:29  
+4a. Daniel: E-er gi heht raus deines  
+zimmem er r  1:00:54  
+5a. Daniel: F-ErDas Garage ist sauber und 
+er hat eine hacke im hand  1:01:15  
+6a. Daniel: **in deiner hand  1:01:26   
+7a. Daniel: seiner*  1:01:31  
+8a. Daniel: meine ist def  seine 
+geschaftrft?  1:02:19 
+9a. Daniel: ich habe kaein geschaft nur ein 
+garage und ein Bettzimmer.  1:02:36  
+1b. Pierre: er hat seine geschaft 
+aufgeraumt  12:59:43  
+2b. Pierre: bildung C er geht nach hause 
+und seine garge ist nicht sauber  1:00:08  
+3b. Daniel: D-Der man ging ins garage und 
+es ist sehr schmustig  1:00:29  
+4b. Daniel: E-er geht raus deines 
+zimmer  1:00:54  
+5b. Daniel: F-Das Garage ist sauber und er 
+hat eine hacke im hand  1:01:15  
+6b. Daniel: **in deiner hand  1:01:26   
+7b. Daniel: seiner*  1:01:31  
+8b. Daniel: seine geschaft?  1:02:19 
+ 
+9b. Daniel: ich habe kein geschaft nur ein 
+garage und ein Bettzimmer.  1:02:36 
+Figure 1. Camtasia enabled chatscript and printed chat log comparison. Click the following link to view 
+this actual segment from the data (link to Camtasia Example Flash file) 
+ 
+Table 5. Self-Repairs Per Word Across the Two Data Collection Methods 
+Method N M SD z P effect-size r 
+A (Chat log) 8 .007 .003  
+B (Camtasia) 8 .061 .020 2.52 .01 .88 
+ 
+Table 6. Percentage of the Total Number of Self-Repairs (Grammatical vs. Lexical) 
+Method Grammatical self-repairs Lexical self-repairs Other self-repairs (AI & D) 
+A (Chat log) 6 (67%) 3 (33%) 0 (0%) 
+B (Camtasia) 54 (63%) 28 (33%) 4 (5%) 
+Note: Morphological and syntactic categories were collapsed together into a larger grammatical category 
+ 
+Table 7. Method B Error and Appropriateness Self-Repairs 
+Self-repair type N M SD z P effect-size r 
+Errors 8 8.50 4.63  
+Appropriateness 8 2.13 1.36 2.53 .01 .68 
+ 
+In sum, the data suggest that the Camtasia screen capture method (method B) of data collection and 
+analysis yields significantly more evidence of SISR than does the chat log method (method A). There are 
+also significantly more SISRs of errors than appropriateness points. In all cases the effects were of a 
+strong magnitude as indicated by the high effect-size r measure. No differences across sub-types of error 
+and appropriateness SISRs were found. 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 96 
+The degree of support for the specific hypotheses presented in the previous section is listed below: 
+• Hypothesis 1: A significantly higher amount of SISR will be found in the screen capture condition 
+than in the hard copy transcript condition. 
+Result: Strongly supported 
+• Hypothesis 2a: A substantial amount of CMCovert self-repair is expected. 
+Result: Strongly supported 
+• Hypothesis 2b: More SISR of grammar-related problems than lexical ones are expected.  
+Result: Partially supported 
+• Hypothesis 2c: Few appropriateness (A) SISRs relative to the number of error (E) SISRs will be 
+found. 
+Result: Strongly supported 
+DISCUSSION 
+The data suggest that relying on printed transcripts alone may create the impression that learners do not 
+self-correct very often in an SCMC environment – clearly a faulty conclusion. Indeed, these numbers 
+show that evaluating instances of self-correction on the basis of printed chat logs alone leads to an 
+underestimation by over eight-fold of the amount of self correction that actually occurred. In fact, the 
+present data may be a conservative estimate of this difference since Lai & Zhao's (2006) data show an 
+even higher rate of self-correction in an SCMC setting (29 self-corrections per one hundred words). Such 
+a pronounced and fundamental mis-characterization of the nature of SCMC interaction can help explain 
+conclusions such as those in Jepson (2005) who, finding little self-repair in his CMC data, stated that 
+though both voice and text chats contained various types of repair moves, self-correction was not among 
+them. Jepson also suggests that self-correction in an SCMC context may be rare because speakers do not 
+notice their errors, and thus would not need to correct them. Alternatively, he suggests that since self-
+correction is very dependent on the social context of the interaction (Kormos, 1999), it may be that the 
+non-native speaker – non-native speaker SCMC context is somehow not conducive to self-correction. For 
+example, learners may not see the need for accuracy or may perceive self-correction as face threatening. 
+This rationale, however, contradicts much of the recent CMC interactionist research which suggests that 
+the CMC environment most likely enhances noticing (Lai & Zhao, 2006; Smith, 2004). 
+The results from the current study are similar in some ways to previous findings and quite different in 
+other ways. Yuan (2003) found that learners corrected under 9% of their errors in a CMC environment. 
+His data, which includes self-repair of spelling errors, suggests that the CMC environment does not 
+always make errors more salient to learners, at least not verb tense and modal errors, which were never 
+self-repaired. In order to make Yuan's data more comparable to this study, the spelling self-corrections in 
+his data need to be removed. This results in a new number of 33 self-repaired errors (down from 44) of 
+which 20 were grammatical (61%) and 13 were lexical (39%). These numbers are quite similar to those 
+found in the present study (63% and 33% respectively). It is also interesting to note that the method of 
+data collection does not seem to influence the relative amount of each type of self-correction recorded 
+(Table 6). This point is reinforced when we consider that Yuan's data were based on printed transcripts of 
+the chat interaction. 
+In terms of which types of SISR learners engage in, it seems the results are largely in conflict with the 
+existing self-repair literature, which is largely limited to face-to-face studies. Van Hest (1996), for 
+example, found that almost 40% of SISR were appropriateness repairs compared with 22% of error SISRs. 
+Kormos (2000) reports that almost 39% of all SISRs were error repairs compared with almost 23% 
+appropriateness SISRs. This study found a relatively high percentage of "different" repairs (almost 22%) 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 97 
+as well. Kormos also found little difference in grammatical and lexical error self-repairs (16.9% and 
+14.2% respectively), which is similar in some ways to the findings in the present study.  
+The little data available that specifically focuses on learner self-correction in a CMC environment 
+suggests that learners do self-correct in an SCMC task-based setting, perhaps due to a heightened degree 
+of noticing, which is fostered by the SCMC environment itself. Second, learners tend to focus on errors 
+rather than appropriateness issues when engaged in SISR and virtually no "different" and "rest" points. 
+Third, learners seem to correct grammatical points more often than lexical points, though this difference 
+was not statistically significant.  
+Though it is normally of little value to compare CALL with face-to-face studies, it is interesting to note 
+the pronounced differences in what learners seem to self-correct across the two environments. Taken 
+together, the face-to-face self-repair literature seems to show a clear preference for lexical self-repairs 
+over grammatical self-repairs, precisely the opposite of that found in most of the SCMC studies. The 
+question, then, is why this may be so. 
+Written communication normally affords more opportunity for attention to form, whereas spoken 
+language often occurs under more time pressure to achieve fluency (Chapelle, 2003). The SCMC 
+interaction allows for more processing time, which is conducive to focusing on form. The visual saliency 
+of the text as well as the permanency of the written word, which enables one to review the previous 
+"utterances," allows learners to focus their attention on the formal aspects of their output without 
+disrupting the flow of communication.  
+Context Influencing the Nature of Self-Correction 
+Linguistic context 
+It is not surprising that self-repair of grammar-related problems is so common in the data given the 
+relatively high percentage of morphological errors made by the learners. Aside from the noted potential 
+for the CMC environment to enhance a focus on form, it may also be that errors that do not require a 
+major restructuring of the utterance, but rather merely need to apply simple rules of grammar (as do 
+morphological errors) are more likely to be self-corrected by L2 speakers (Kormos, 2000). In the SCMC 
+environment this condition may be enhanced as these relatively "minor" morphological errors are 
+rendered more salient due largely to their "permanence" on the screen. This may help explain why Table 
+3 shows nearly a 2:1 ratio of the number of morphological errors self-repaired to the number of syntactic 
+errors repaired in the Camtasia condition.  
+Classroom Context 
+The nature of the language instruction that the learners are used to may influence what they choose to 
+self-correct. For example, if learners receive instruction that stresses the importance of grammatical 
+accuracy in successful communication and students regard grammatical errors as serious flaws in their 
+performance, they may make an effort to correct their grammatical errors. This notion is supported by 
+Bardovi-Harlig and Dörnyei (1998), who found that grammatical errors were more salient for L2 speakers 
+in a foreign language setting than for L2 learners in a naturalistic environment. The students in the present 
+study fall clearly into the former category. 
+There may also be a complex combination of L1 and L2 linguistic, classroom, and cultural influences that 
+come together to influence the nature of SISR. Shonerd (1994) notes the seeming selectivity of learner 
+self-repair and suggests the nature of self-repair may be culturally bound. His Japanese L1 speakers made 
+more morphological and syntactic self-repairs of their English usage and fewer lexical and pronunciation 
+repairs than did other L1 groups. In terms of the present data, there were numerous SISRs that involved 
+the capitalization of German nouns. As mentioned, these SISRs were coded as lexical errors. The 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 98 
+interaction of German and English linguistic factors and the classroom cultural context may have come 
+together to influence the nature of SISRs in this study.  
+Limitations of the Current Study 
+Perhaps the clearest limitation of the current findings is the small sample size (n=8) from which the data 
+are drawn. Thus, it is hard to generalize from these data. However, the choice was made from the outset 
+to include only those chat records which contained hard copy evidence of SISR. This resulted in a low 
+pool of participants (much lower than actually took part in the study) from which the self-repair data was 
+drawn. Indeed, this is the only way to really make the comparisons needed to answer research question 1, 
+which asked whether the hard copy transcript of chat interactions would differ significantly from a 
+Camtasia-enabled transcript. 
+Perhaps another limitation was that the interaction was not anonymous. The role of anonymity in CMC 
+interaction is well established (Zhao, 1998). It could be that knowing who one's interlocutor is has some 
+effect on the amount and nature of one's SISR. For example, it could be that knowing the identity of one's 
+interlocutor may affect whether or not one self corrects depending on the learner's relationship to that 
+interlocutor. This is an empirical question that could be taken up in future research. 
+Another limitation is that the tasks learners completed each week, while conforming broadly to Pica, 
+Kanagy, and Falondon's (1993) jigsaw task type, were slightly different, which may have influenced the 
+nature of the SISRs. In addition to the large body of literature on the effect of task type on learner 
+interaction, the self-repair literature also suggests that the frequency and type of self-repair is affected by 
+the task structure (see, for example, van Lier, 1988). It would be interesting to test van Hest's (1996) 
+assertion that those tasks requiring more precise expression will result in more A-repair. A first step in 
+this work would be to establish what exactly draws out "more precise" expression in an SCMC context 
+that goes beyond the "precision" elicited by the CMC medium itself. 
+CONCLUSION AND FUTURE DIRECTIONS  
+The results of this study suggest that relying on printed chat logs alone when analyzing SCMC data is a 
+very tenuous undertaking. The recommendation here is to abandon this practice in CMC research in favor 
+of one similar to that presented in this study, at least when data salient to the specific area of inquiry may 
+be lost. 
+Future inquiry using this methodology may include exploring the influence of classroom context on the 
+type of self-correction. It would be interesting to see if, for example, learners accustomed to a 
+communicative classroom context engage in a different type of SISR than those learners who are used to 
+more structure-oriented contexts. Second, because there seems to be a trend toward learners self-repairing 
+grammatical points rather than lexical ones in a SCMC environment, it would be interesting to explore 
+this notion further with larger numbers of students perhaps across various target languages. As it stands, 
+there is a theoretical rationale to explain this occurrence as well as some empirical evidence to support it, 
+but the data are far from conclusive. Third, the SCMC medium may itself influence the nature of SISR. 
+One artifact of this medium is the ability learners have of scrolling back in the chat text to review 
+previous messages. Indeed, Lai & Zhao (2006) base some of their predictions on this assumption. Though 
+such occurrences in an SCMC setting are well established, the influence of this feature of SCMC 
+interaction has not specifically been shown to directly impact the nature or amount of SISR. Future 
+research may wish to explore this idea more explicitly. Finally, it seems that existing models of SISR are 
+insufficient to account for what occurs in an SCMC context. A model of SISR specific to the SCMC 
+context would be helpful for future inquiry into this important area of applied linguistics. 
+ 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 99 
+NOTES 
+1. Self-repair in this paper is considered synonymous with self-initiated self-completed correction. Self 
+repair and self-correction are used interchangeably. 
+2. As one reviewer points out, in true covert repair learners may engage in hypothesis testing in their 
+minds as evidenced in some think aloud protocols. However, I argue that CMCovert self-repair is indeed 
+unique in that in an SCMC environment we often see many lengthy and embedded self-repairs, whereas 
+in a face-to-face environment these are often shorter, more direct, and immediate. 
+3. The number of words produced by each individual was used when calculating this figure and not the 
+total words produced by the dyad. 
+ 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 100 
+APPENDIX 
+SCMC Coding Scheme 
+Coding symbol Meaning Explanation 
+ 
+strikethrough 
+Indicates text that has been 
+typed and subsequently 
+deleted before message is 
+sent. 
+Strikethrough shows messages or parts of messages 
+that a learner has typed but deleted before sending 
+the final message. None of the strikethrough text 
+appears on the screen of the interlocutor nor on the 
+hard copy of the chat log. 
+ 
+Black bar + 
+underline ▌ 
+ 
+Indicates text with embedded 
+deletion has been deleted. 
+Black vertical bar indicates 
+where deletion begins. 
+Deleted text is underlined to 
+the left of the bar. 
+Black bar + underline is used when a message or 
+part of a message which already has some deleted 
+sections is subsequently deleted in its entirety. This 
+coding allows the acknowledgment of deletions of 
+text with embedded deletions.  
+ 
+ 
+[post-hoc inserted 
+text] 
+ 
+Indicates that the text within 
+the brackets has been 
+inserted at a later point in the 
+message. 
+Note: A second, third, etc. occurrence of post-hoc 
+inserted text is signified with double/triple brackets 
+respectively [[text]], [[[text]]].   
+ 
+[post-hoc deleted 
+text] 
+Indicates that the deleted text 
+within the brackets was 
+deleted at a later point in the 
+message. 
+Note: A second, third, etc. occurrence of post-hoc 
+deleted text is signified with double/triple brackets 
+respectively [[text]], [[[text]]].   
+ 
+[+] 
+Indicates the point in the 
+message at which the [post-
+hoc inserted text] was 
+inserted.  
+Note: The point in the message at which a second, 
+third, etc. post-hoc insertion is made is signified 
+with double/triple brackets respectively [[+]], 
+[[[+]]].  
+ 
+[-] 
+Indicates the point in the 
+message at which the [post-
+hoc deleted text] was 
+deleted. 
+Note: The point in the message at which a second, 
+third, etc. post-hoc deletion is made is signified with 
+double/triple brackets respectively [[-]], [[[-]]]. 
+ 
+[+/-] 
+Indicates the point in the 
+message at which a correction 
+was made. 
+This code is used for short one or two character 
+corrections such as for capitalization, spelling, typos, etc. 
+This code eliminates the need for using the more lengthy 
+[-][+] in sequence.  
+ 
+ 
+[line number] 
+ 
+Example: [3] 
+Indicates the point in text 
+currently being typed but not 
+yet sent where a new line 
+from the interlocutor appears 
+on the screen of the target 
+participant.  
+Often a line from the interlocutor will appear on the 
+screen mid-way through a message which is in the 
+process of being typed. This code indicates both the 
+point at which this new message appears and its line 
+number on the chat log/chatscript. For example in 
+the chat text below Jordan's line 3 appears while 
+Katarina is typing line 6. Specifically, it occurs 
+immediately after Katarina types the word "nimmt". 
+ 
+ 
+ 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 101 
+ACKNOWLEDGMENTS 
+The author wishes to thank the following people (in alphabetical order). Shana Bell, Jamison Gray, Peter 
+Lafford, and, of course, the participants in the study. Also, many thanks go out to the reviewers and those 
+at LLT for such insightful suggestions and close reading of the manuscript. 
+ 
+ABOUT THE AUTHOR 
+Bryan Smith is Assistant Professor of Educational Linguistics at Arizona State University. His research 
+interests include language learner interaction and computer-mediated communication in the 
+second/foreign language classroom. 
+Email: bryansmith@asu.edu 
+ 
+REFERENCES 
+Bardovi-Harlig, K., & Dornyei, Z. (1998). Do language learners recognize pragmatic violations? 
+Pragmatic versus grammatical awareness in instructed L2 learning. TESOL Quarterly, 32, 233-262.  
+Buckwalter, P. (2001). Repair sequences in Spanish L2 dyadic discourse: A descriptive study. The 
+Modern Language Journal, 85, 380-397.  
+Camps, J. (2003). The analysis of oral self-correction as a window into the development of past time 
+reference in Spanish. Foreign Language Annals, 36, 233-242.  
+Chapelle, C. (2003). English language learning and technology: Lectures on applied linguistics in the age 
+of information and communication technology. Philadelphia: John Benjamins.  
+Doughty, C., & J. Williams. (Eds.). (1998). Focus on form in classroom second language acquisition. 
+Cambridge: Cambridge University Press. 
+Fathman, A. (1980). Repetition and correction as an indication of speech planning and execution 
+processes among second language learners. In H. Dechert, & M. Raupach (Eds.), Towards a cross-
+linguistic assessment of speech production (pp. 77-85). Frankfurt: Lang. 
+Foster, P., & Ohta, A. S. (2005). Negotiation for meaning and peer assistance in second language 
+classrooms. Applied Linguistics, 26, 402-430. 
+Gass, S. M., & Mackey, A. (2000). Stimulated recall methodology in second language research. Mahwah, 
+NJ: Erlbaum Associates. 
+Izumi, S. (2003). Comprehension and production processes in second language learning: In search of the 
+psycholinguistic rationale of the output hypothesis. Applied Linguistics, 24, 168-196.  
+Jepson, K. (2005). Conversations and negotiated interaction in text and voice chatrooms. Language 
+Learning & Technology, 9(3), 79-98.  
+Kormos, J. (1999). Monitoring and self-repair in L2. Language Learning, 49, 303-342.  
+Kormos, J. (2000). The role of attention in monitoring second language speech production. Language 
+Learning, 50, 343-384.  
+Lai, C., & Zhao, Y. (2006). Noticing and text-based chat. Language Learning & Technology, 10(3), 102-
+120.  
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 102 
+Lee, L. (2002). Synchronous online exchanges: A study of modification devices on non-native discourse. 
+System, 30, 275-288.  
+Lennon, P. (1990). Investigating fluency in EFL: A quantitative approach. Language Learning, 40, 387-
+417. 
+Levelt, W. (1983). Monitoring and self-repair in speech. Cognition, 14, 41-104. 
+Long, M.H., & Robinson, P. (1998). Focus on form: Theory, research, and practice. In C. Doughty & J. 
+Williams (Eds.), Focus on form in classroom SLA (pp. 15-41). New York: Cambridge University Press. 
+Ohta, A. S. (2001). Second language acquisition processes in the classroom setting. Learning Japanese. 
+Mahweh, NJ: Erlbaum Associates. 
+Pellettieri, J. (1999). Why-talk? Investigating the role of task-based interaction through synchronous 
+network-based communication among classroom learners of Spanish. Unpublished doctoral dissertation, 
+University of California, Davis. 
+Pica, T., Kanagy, R., & Falodun, J. (1993). Choosing and using communication tasks for second language  
+research and instruction. In G. Crookes & S. M. Gass (Eds.), Tasks and second language learning (pp. 9–
+34). Clevedon, UK: Multilingual Matters. 
+Postma, A., & Kolk, H. (1992). The effects of noise masking and required accuracy on speech errors, 
+disfluencies, and self-repairs. Journal of Speech and Hearing Research, 35, 537-544.  
+Poulisse, N. (1997). Compensatory strategies and the principles of clarity and economy. In G. Kasper & E. 
+Kellerman, Communication strategies: Psycholinguistic and sociolinguistic perspectives (pp. 49-64). 
+London: Longman. 
+Schmidt, R. (1993). Awareness and second language acquisition. Annual Review of Applied Linguistics, 
+13, 206–226. 
+Shehadeh, A. (2002). Comprehensible output, from occurrence to acquisition: An agenda for acquisitional 
+research. Language Learning, 52, 597-647. 
+Shehadeh, A. (2001). Self-and other-initiated modified output during task-based interaction. TESOL 
+Quarterly, 35, 433-457.  
+Shehadeh, A. (1999). Non-native speakers' production of modified comprehensible output and second 
+language learning. Language Learning, 49, 627-675. 
+Shonerd, H. (1994). Repair in spontaneous speech: A window on second language development. In V. 
+John-Steiner, C. Panofsky & L. W. Smith, (Eds.) Sociocultural approaches to language and literacy: An 
+interactionist perspective (pp. 82-108). Cambridge: Cambridge University Press.  
+Smith, B. (2004). Computer-mediated negotiated interaction and lexical acquisition. Studies in Second 
+Language Acquisition, 26, 365-398. 
+Smith, B. (2005). The relationship between negotiated interaction, learner uptake, and lexical acquisition 
+in task-based computer-mediated communication. TESOL Quarterly, 39, 33-58.  
+Smith, B., & Gorsuch, G. J. (2004). Synchronous computer mediated communication captured by 
+usability lab technologies: New interpretations. System, 32, 553-575.  
+Swain, M. K. (1985). Communicative competence: Some roles of comprehensible input and 
+comprehensible output in its development. In S. M. Gass & C. G. Madden (Eds.), Input in second 
+language acquisition (pp. 235–253). Rowley, MA: Newbury House. 
+Bryan Smith Methodological Hurdles in Capturing CMC Data 
+ 
+Language Learning & Technology 103 
+Swain, M. (2001). Integrating language and content teaching through collaborative tasks. Canadian 
+Modern Language Review, 58, 44-63.  
+Swain, M. (2005). The output hypothesis: Theory and research. In E. Hinkel (Ed.), Handbook on research 
+in second language teaching and learning (pp. 471-484). Mahwah, NJ: Lawrence Erlbaum.  
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step 
+towards second language learning. Applied Linguistics, 16, 371-391.  
+van Hest, E. (1996). Self-repair in L1 and L2 production. Tilburg: Tilburg University Press. 
+van Lier, L. (1988). The classroom and the language learner. New York: Longman. 
+Verhoeven, L. T. (1989). Monitoring in children's second language speech. Second Language Research, 5, 
+141-155.  
+Wouk, F. (2005). The syntax of repair in Indonesian. Discourse Studies, 7, 237-258.  
+Zhao, Y. (1998). The effects of anonymity on peer review. International Journal of Educational 
+Telecommunication, 4, 311-346. 
+ 

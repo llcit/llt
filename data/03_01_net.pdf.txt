@@ -1,0 +1,225 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol3num1/net/index.html 
+July 1999, Volume 3 Number 1 
+pp. 3-11 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 1999, ISSN 1094-3501 3 
+ON THE NET 
+Interactive Language Exercises on the Web: 
+An Exemplar 
+Jean W. LeLoup  
+SUNY Cortland  
+Robert Ponterio 
+SUNY Cortland  
+ 
+In an earlier column of LL&T, we discussed the rationale for using the World Wide Web (WWW) and 
+multimedia materials (cf. Using WWW Multimedia in the Foreign Language Classroom: Is This for 
+Me?).  For those who wish to undertake the development of multimedia materials, instructions can be 
+found in many places on the Web, and the references in the latter article are a good starting place. But for 
+those foreign language (FL) teachers who agree with the idea of using interactive materials and the Web 
+to enhance their FL instruction but have neither the time nor the inclination to delve into materials 
+development, take heart. Other FL educators have, indeed, made this a priority and many do share their 
+creations on the Web. 
+The WWW provides a wonderful venue for interactive language learning activities that can serve 
+instructional, enrichment, and review purposes. The present column will describe in detail one such site as 
+an exemplar of different types of interactive activities that language learners can use to assist them in 
+learning the target language (TL).  A discussion of some of the technical aspects of this site is also 
+included so that the reader can better appreciate what goes on "behind the scenes" of many Web pages. 
+ 
+ 
+ 
+The site is hosted by Ursinus College and begins with an introduction and statement of purpose by the 
+author, Juan Ramón de Arana. His main purpose is to provide a variety of "language exercises for the 
+purpose of facilitating the learning and teaching of Spanish in the Internet environment" and to present 
+"different approaches to common language challenges for the foreign student of Spanish." Nevertheless, 
+this site serves as an example to all FL educators for WWW interactivity and language instruction and 
+learning. 
+The site contains seven different sections: Introduction, News, Instructor check exercises, Self check 
+exercises, FAQs, Comments, and a Copyright proviso.  These sections are indicated by and accesible via 
+the menu bar at the bottom of the initial frame:  
+ 
+ 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 4 
+The author has made a conscientious effort to illustrate his purpose, outline the steps he has taken in 
+constructing this site, justify his choice of activities and subject areas, answer commonly asked questions, 
+provide access to as many learners and instructors as possible, and solicit input in order to improve the 
+site. 
+ 
+In this section, the author ennumerates the many updates and corrections that have been made to the site 
+during its existence.  Many of the changes are due to comments submitted by on-line users.  The 
+chronological order of the improvements is helpful to a frequent user, who can readily identify a new 
+addition to the site by the date listed.  
+ 
+The Instructor Check Exercises are extensive, covering 27 different grammar points and vocabulary items 
+in a variety of formats.  The language points are presented in a table format that indicates the title of the 
+activity, the language area treated, and a description of the activity, including the number of external links 
+present to aid in completing the activity. 
+ 
+The exercises use a wide range of formats (please see the section on "The Technology" for a more 
+detailed explanation of several of these formats): cloze for production of vocabulary and verb 
+conjugations; pull-down menus for recognition of grammar points, dialogues and short stories with fill-in 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 5 
+blanks; authentic materials (texts, maps, audio files); and a PowerPoint presentation on the seasons. 
+Students are asked to understand TL texts and their content, identify and produce corrrect grammatical 
+answers, compose letters and valentines and short stories.  Each of the activities has a provision for 
+students to send their work to the particular professor assigning the task for correction. Students can also 
+receive a copy of their own  responses for later verification and correction.  
+ 
+This section is meant mainly for self-review. The user may choose from a straight Web page format or 
+from a frames configuration that lists the grammar points and subject matter in a menu tree along the left 
+hand side of the page. The straight Web page format provides a table with title, directory and language 
+area, and description of the activity (similar to the Instructor check exercises): 
+ 
+ 
+ 
+The frame option provides a menu tree that lists the various topics, grammatical points, and vocabulary 
+exercises:  
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 6 
+ 
+ 
+This section also offers some activities incorporating art and literature. Notably, Goya, Picasso, Sorolla, 
+and Velázquez are treated in the portion on art. In the literature section, a sonnet by Garcilaso de la Vega 
+is featured, along with interpretive exercises and a syllabification task. Lazarillo de Tormes is the subject 
+of another series of activities.  
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 7 
+ 
+ 
+ 
+The FAQ (Frequently Asked Questions) section is a helpful addition to the site and will answer most 
+queries a user might have. As always, the author has included an additional provision for contacting him 
+with any other questions that might arise:  
+ 
+ 
+ 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 8 
+ 
+The final portion of the site is a section on copyright. This is particularly important as the Internet has 
+made it even easier for people to "borrow" large portions of others' work and labors and present it without 
+proper documentation or credit. The author here is merely requesting that users abide by fair use 
+practices, give credit where credit is due, and adhere to the spirit in which these pages were created: 
+educational enhancement, improvement to FL instruction and learning, and no commercial use. The 
+copyright notice on this site was adapted from that of Institute for Learning Technologies at Columbia 
+University. 
+The Technology Behind the Site  
+Sites like this one require a considerable amount of time and effort on the part of the creator. Designing a 
+site, making it freely available, and maintaining it represents a very generous contribution to the 
+profession.  To give the reader an introductory idea of the work involved behind the scenes, we offer the 
+following brief description of some of the technical aspects of these pages. 
+The self-check exercises, touching on a wide range of grammatical topics, make good use of simple 
+Javascript utilities to go beyond the basic HTML format to integrate interactive components in pages and 
+allow students to receive immediate feedback. Several different types of Javascript procedures are used in 
+the site, some created by the author and others borrowed from sites and software that support interactive 
+WWW development. 
+In many of these self-check exercises, each question uses a drop down box to give the student several 
+possible choices. The Javascript utility verifies the student's selection and then tells the student the answer 
+is right or explains why the answer is wrong. 
+ 
+Although the multiple choice format of this activity, http://mld.ursinus.edu/~jarana/Ejercicios/Self-
+Check/AR-verbs.html, does not permit the inclusion of open ended questions (such as those in the 
+instructor-check exercises) that are much better for checking the students' ability to use the language, it 
+makes excellent use of the current state of the technology and recognizes the limits of that technology for 
+language teaching activities. The simple Javascript utilities are well suited to multiple choice verification, 
+whereas analysis of open-ended natural language responses is more appropriately done by the teacher 
+because a program capable of accomplishing this task satisfactorily (if one could even be written) would 
+by its very nature be an enormous undertaking. 
+The fill-in-the-blank activities make use of exact pattern matching in their Javascript infrastructure to 
+determine whether or not the student's response is exactly the same as the expected answer. 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 9 
+ 
+Even such elementary pattern matching demands a significant amount of programming to produce the 
+required functionality. In the case of the sample shown above, 
+http://mld.ursinus.edu/~jarana/Ejercicios/Self-Check/Prejava2.html, the Javascript program represents 
+about 90% of the actual WWW page. For example, the script behind the single blank for fuimos in the 
+example above is:  
+function checkAnswer1(respuesta) {  
+if (respuesta != "") {  
+if (respuesta == "íbamos") {  
+alert ("\nNo, es Pretérito: acción concluida.")  
+document.forms[0].Ir.focus()  
+document.forms[0].Ir.select()  
+}   
+else {  
+if (respuesta == "fuimos") {  
+alert ("\nMuy bien. Continúa.")  
+document.forms[0].Salir.focus()  
+}   
+else {  
+if (respuesta == "fui") {  
+alert ('\nNo, el sujeto es "nosotros".')  
+document.forms[0].Ir.focus()  
+document.forms[0].Ir.select()  
+}   
+else {  
+alert ("\nComprueba la conjugación y/o la ortografía.")  
+document.forms[0].Ir.focus()  
+document.forms[0].Ir.select()  
+                       }  
+                }  
+        }  
+}  
+else {  
+alert ("\nCompleta este espacio.")  
+document.forms[0].Ir.focus()  
+        }  
+} 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 10 
+Thus, one might say that 90% of the effort the author put into developing the page is completely hidden 
+from the user.  
+In a few of these activities, the Javascript utilities used to animate the pages were provided by 
+Macromedia Dreamweaver. Such is the case for a relative pronoun activity, 
+http://mld.ursinus.edu/~jarana/Ejercicios/Self-Check/relativos1.html, in which sentence parts move 
+around the screen to illustrate pronoun placement in relative clauses. http://www.developer.com was the 
+source of scripts used to animate several hangman games used for vocabulary practice, as in, for instance, 
+a dentist vocabulary activity, http://mld.ursinus.edu/~jarana/Ejercicios/Self-Check/Horca1/dentista.html. 
+In addition to the grammar activities, a few of these activities present literature topics, notably Lazarillo 
+de Tormes,  http://mld.ursinus.edu/~jarana/Ejercicios/Self-Check/Lazarillo/, and a sonnet by Garcilaso de 
+la Vega,  http://mld.ursinus.edu/~jarana/Ejercicios/Self-Check/Garcilaso/ . These pages make use of 
+Dynamic HTML, primarily Layers and Cascading Style Sheets, to enhance the presentation of the text 
+and an interactive vocabulary gloss.  DHTML Layers allow an area of a page to be positioned or moved 
+as desired and make it possible to easily place one area of a page behind another.  In this case, the text 
+scrolls across the screen from the left. Although this does not seem to be very important, it does allow 
+different texts to move into one place on the page as appropriate. This may sometimes be a neater solution 
+than placing text in a long page or in several smaller pages. In this way it can be easier for the student to 
+navigate through a text without losing his or her place.  In addition, it allows quick changes to parts of a 
+text, such as a change of color at the ends of lines of the Garcilaso verse to highlight the rhyme scheme.  
+ 
+  
+ 
+The use of Cascading Style Sheets (CSS) makes it possible to define the format for a particular type of 
+text throughout a page.  In this case, the author has been able to format links to vocabulary glosses so the 
+characters in the text do not appear underlined or colored as is usually the case for hyperlinks.  This is an 
+advantage because the normal hyperlink format alters the appearance of a text and focuses too much 
+attention on the link.  This may not be a problem in a text whose purpose is primarily to convey 
+information, but such distractions detract from the normal process of reading a work of literature.  The 
+CSS allows the links to be discreet and so not interfere with the reading of the text.  The student can find 
+out if a word is glossed by passing the cursor over the word.  If the cursor changes to a hand, a gloss is 
+available by clicking the mouse. 
+In his site, Spanish Language Exercises, Juan Ramón de Arana has provided a creative and useful set of 
+language exercises that can be used by instructors and learners alike.  He has paid attention to the current 
+tenets of second language acquisition in constructing activities using authentic materials, TL input, and 
+language in context.  Grammar and vocabulary are clearly at the fore, but cultural information, art, and 
+literature are also present in severals activities. 
+This site serves a dual purpose for FL educators.  First,  it offers ready-made activities that can be used in 
+Spanish language learning by a wide variety of language learners at many different levels.  Second, it 
+serves as an excellent model for those FL educators who wish to delve more into the realm of interactive 
+Jean W. LeLoup and Robert Ponterio On the Net: Interactive Language Exercises on the Web:… 
+ 
+Language Learning & Technology Journal 11 
+materials development for use on the web.  We hope that Professor de Arana continues to share his efforts 
+and that others follow his lead in developing similar sites on the WWW for other FLs. 
+ 

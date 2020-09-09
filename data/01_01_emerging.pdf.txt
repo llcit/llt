@@ -1,0 +1,234 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol1num1/emerging.html 
+July 1997, Volume 1, Number 1 
+pp. 5-8 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 1997, ISSN 1094-3501 7 
+EMERGING TECHNOLOGIES 
+Real-time Audio and Video Playback on the Web 
+Bob Godwin-Jones  
+Virginia Commonwealth University 
+ 
+Contents: 
+ From Downloading to Streaming 
+ Standards and Players 
+ Language Sites 
+ Instructional Uses 
+ Resource List 
+o Streaming Formats and Sample Sites 
+o Developer's Corner 
+From Downloading to Streaming 
+For many of us interested in language teaching and technology, our first visit to the Web back in the 
+pioneer days of 1993-94 was a revelation, even with the painfully slow rendering of pages supplied 
+by early Mosaic. Here was a networked medium which displayed not only text with accented 
+characters (unlike e-mail) but also graphics, and--so crucial to our needs--even allowed incorporation 
+of audio and video files. And it did so in a non-proprietary, cross-platform format! This seems so 
+commonplace to us today that it's hard to realize how tremendous a benefit the standards-based, 
+multi-platform compatibility of the Web has been to us in language and technology. It has largely 
+made our platform wars and battles over authoring tools irrelevant, while providing a means to reach 
+out to everyone, not just the chosen few who share our cyber-religious platform convictions. 
+At that time and until recently, the only way to access audio and video files on the Web was to 
+download them temporarily to the local computer, a process which could take some time depending 
+on the size of the file. Of course, this process is handled transparently by the browser: a helper 
+application or the browser itself plays back the file once it has been received in its entirety. Web 
+delivery of multimedia files solved a problem for our language lab at VCU and undoubtedly for 
+others as well, namely that of how to store digital audio and video clips temporarily on users' 
+machines, without having to manually delete or replace them before each new group of students 
+comes in for Spanish, French, or German class. 
+"What once were virtues now are vices." Today this feature of the Web--the ability to access 
+downloadable multimedia files--is seen as problematic. Our give-it-to-me-now mentality needs the 
+audio and video to play immediately, not to download first and then play. In fact, Web technology has 
+evolved to the point that this kind of real-time delivery (called "streaming") of audio is a reality, even 
+over a modem connection. Initial audio quality was that of a cheap AM radio, but the latest players 
+feature near CD-qualitystereo (over a fast connection). A number of radio stations, both in the U.S. 
+and abroad are now "web-casting" their programs. Many special events and conference presentations 
+are being delivered live over the Web in streaming format. 
+Video streaming has not yet reached the same level of maturity and performance. Real-time video 
+provides a small playback window and delivery tends to be choppy and erratic and especially painful 
+over a modem connection. Given the enormous volume of visual and graphic information needed to 
+Roberrt Godwin-Jones Emerging Technologies: Real-time Audio and Video … 
+ 
+Language Learning & Technology 8 
+transmit and synchronize video, it's not surprising that reliable streaming video over the congested 
+Internet is a tremendous technical challenge. Progressive Networks recently introduced 
+their RealVideo streaming technology, which offers a significant improvement in quality. As 
+compression technologies evolve and network bandwidth increases (for example through the new 56k 
+modems), video broadcasting over the Web should steadily improve in quality and performance. 
+Standards and Players  
+There is not yet a single standard for delivery of streaming audio and video over the Web. Currently 
+the major formats are StreamWorks, Vivo, VDO, and RealAudio/RealVideo, the latter being the most 
+widely used standard. With all available standards, the quality of the delivered files varies 
+considerably and is dependent on such factors as the speed of your Internet connection, the capability 
+of your computer and the location of and traffic to the site where the file is located. Even under 
+optimal conditions, playback is not instantaneous. Typically there is a short "buffering" process 
+before playback during which enough of the file is downloaded for it to begin playing. While that 
+section is playing, the rest of the file is downloaded in the background in order to allow for 
+continuous play. Techniques have been developed to allow a kind of pseudo-streaming of formats that 
+normally require initial downloading before playback; this is now possible with QuickTime audio and 
+video. 
+How the audio or video file is delivered to you on the Web varies with each product, but the basic 
+approach is the same. You download the player software to your computer from the company making 
+the player (it's best to go direct to the source and get the latest version), run the installation program 
+(or follow the instructions to install the player manually), and then re-start your Web browser. The 
+streaming formats listed here all come with free players for both Windows and Macintosh computers. 
+Some Mac players are for PowerPC Macs only; some Windows players are for Windows95 only. 
+They typically require Netscape Navigator 2.0 or higher or Microsoft Internet Explorer 3.0 or higher. 
+Most players work as external "helper applications" to your Web browser, but some also can function 
+as "plug-in" applications, in which the controls (and in the case of video, the picture) are seamlessly 
+integrated into your browser window, rather than being displayed in an external window. 
+The player (or plug-in controls) allow the user to play, stop and pause the file, and in most cases also 
+jump ahead or back. With streaming formats it is possible to have usable audio files which are quite 
+long in length--some on the Web are an hour or longer--and still have it possible for the user to 
+navigate through the file asdesired. With downloaded audio files (in au, aiff, or wav formats), that 
+kind of length would not be practical since it would take too long to download over the Internet and 
+would also require too much temporary storage space on the local PC. Streaming formats are 
+compressed much more than other sound or video formats and thus are easier to receive and to store. 
+Language Sites 
+There is a wealth of streaming audio materials available on the Web in a great variety of languages. 
+Unfortunately, not all sites use the same streaming technology; this makes it necessary to make sure 
+you have the appropriate player for the site you are visiting. Most will let you know what technology 
+they are using and will offer some assistance, but this varies greatly from site to site. The links to sites 
+in the Resource List below are intended as examples, they do not represent by any means the full 
+extent of offerings in any language. Only technologies for which they are a good number of sites 
+offering audio or video in languages other than English are listed. Some sites now offer files in more 
+than one streaming standard. 
+Roberrt Godwin-Jones Emerging Technologies: Real-time Audio and Video … 
+ 
+Language Learning & Technology 9 
+The major European languages offer the richest variety of streaming audio and video. For French 
+there is access to radio stations such as Europe 1 or RTL (FranceLink) as well as to news 
+from Canada or Tunisia; Regional French news broadcasts are also available, offering a different 
+perspective from the national services. Germany's ARD re-broadcasts on the Web its most popular 
+TV news shows and the Deutsche Welle service offers a variety of radio 
+transmissions; Swiss and Austrian programs are also available. Spanish speakers can tune in to radio 
+broadcasts and news from a great diversity of countries including Spain, Mexico, and a number of 
+South American countries (including Colombia, Guatemala, Peru, Chile, Ecuador, Uruguay, 
+and Venezuela). News is available in streaming format for Italian and Portuguese 
+(from Portugal and Brazil). 
+Swedish news is available, as is Norwegian, Icelandic, and Finnish. Live radio is being Web-cast 
+from Romania, the Czech Republic, and Hungary. You can tune in to Polish broadcasts from Chicago 
+(also Bulgarian, Serbian and Russian). Non-European languages are represented as well, with news 
+broadcasts from countries such as Israel, Taiwan, Ind ia, Korea, Indonesia, and Japan. The Web offers 
+a compelling showcase for regional languages to reach a wider audience--streaming audio is 
+available, for example, for Catalan and Cornish. For ESL students, the Timecast server features a 
+wide range of sites of potential interest and also allows subscription to a "daily briefing" in user-
+selected areas. 
+Instructional Uses 
+What does this technology offer us as language teachers? The most obvious and direct benefit is the 
+availability of authentic language materials in a multimedia format. For language teachers, audio and 
+video are not fancy add-ons but provide direct access to the discipline's "content"--human 
+communication in all its linguistic and cultural diversity. Streaming technologies provide up-to-date, 
+even live, information in an on-demand, easy-to-use format. It's not difficult to imagine building 
+lesson plans on the basis of student visits to some of the sites listed above. An interesting benefit is 
+that while many sites have alternative English versions of their Web pages, most have only target 
+language audio and video (an exception is the current Web hit Calling Bill Gates from Germany). 
+One practical concern about basing assignments on such sites is whether the targeted links will still be 
+active when students visit the sites. Most of the streaming files can not be cached locally, as is the 
+case with HTML files or graphics (or traditional audio). In the case of RealAudio, there is a 
+commercial version of the player (RealPlayer Plus) which allows saving and local playback of "real" 
+audio and video files. 
+Besides having students use language material from target cultures, it is also possible for instructors 
+to put their own audio or video materials in streaming format on the Web. How this is done depends 
+on the particular product used. For most, it is necessary to save the audio or video file in a proprietary 
+format and then upload it to a Web server or to a proprietary media server. For RealAudio, for 
+example, an already digitized sound file in au, aiff or wav format is "encoded" into Progressive 
+Networks' "ra" (RealAudio) format using either a (free) stand-alone encoder or a plug-in to programs 
+such as SoundEdit 16 (Mac) or SoundForge (Windows). In the case of some streaming formats, users 
+then link directly to that new sound file. In the case of RealAudio, the user links instead to a "meta" 
+file which contains a pointer to the sound file, which is typically delivered from a proprietary 
+RealAudio server. Alternatively, RealAudio files can also be streamed from a standard Web server. 
+An interesting instructional possibility with RealAudio or RealVideo is "synchronized multimedia." 
+While a sound or video file is played, a kind of slide show is shown in the browser window, 
+displaying a series of Web pages containing text and/or graphics which complement or illustrate the 
+Roberrt Godwin-Jones Emerging Technologies: Real-time Audio and Video … 
+ 
+Language Learning & Technology 10 
+audio content. In fact, entire lectures, complete with lecture notes or slides, can be delivered in this 
+way. This kind of presentation is also possible through Macromedia's Shockwave plug-in technology. 
+For content developers, there are in fact a variety of interesting approaches to incorporating real-time 
+audio or video with interactive Web functionality through JavaScript or Java. 
+ 
+Resource List 
+Streaming Formats and Sample Sites  
+StreamWorks  
+Player and info: Xing Technology 
+Directory of sites: StreamWorks Sites 
+  
+Sample sites: 
+FranceLink - Links to a number of French radio programs 
+La Megaestacion - A San Juan, Puerto Rico radio station (Spanish) 
+Yonhap Television News - Korean news 
+ 
+Vivo 
+Player and info: Vivo Software 
+Directory of sites: VivoActive Video Gallery 
+  
+Sample sites: 
+Italia on-line (Italian) 
+Tokyo Broadcasting system (Japanese) 
+ONTV-sverige (Swedish) 
+ 
+VDO 
+Player and info: VDOnet Corporation 
+Directory of sites: VDOGuide 
+ 
+Sample sites: 
+ARD - Erstes Deutsche Fernsehen (German) 
+Polish news from Chicago - Also links to Bulgarian, Serbian and Russian broadcasts 
+FR3 - Regional TV newscasts (French) 
+ 
+RealAudio and RealVideo 
+Player and info: Progressive Networks 
+Directory of sites: Site Guide 
+ 
+Sample sites: 
+Radio-Canada Nouvelles - All-news Web site in French from the CBC 
+Tunisia National Radio (ERTT) - News, music and sports in French and Arabic 
+Der Spiegel - Links to German multimedia resources 
+Deutsche Welle - Rich source of news in German 
+Swiss info - In German 
+Portugal - Live radio programming in Portuguese from Lisbon 
+Brazil - News in Portuguese from Rio de Janeiro 
+Roberrt Godwin-Jones Emerging Technologies: Real-time Audio and Video … 
+ 
+Language Learning & Technology 11 
+Radio COPE From Madrid (Spanish) 
+Colombia - From Bogota (Spanish) 
+Uruguay - News and information from Montevideo (Spanish) 
+Radiodifusion Argentina al Exterior - From Buenos Aires (Spanish) 
+Segundo Informe de Gobierno - From Mexico City (Spanish) 
+Venezuela - News and music from Caracas (Spanish) 
+Latin News - From Chile, Ecuador and Peru (Spanish) 
+Emisoras Unidas - News, sports and entertainment radio station in Spanish from Guatemala 
+Hungary - Live news, talk and music programming from Budapest (Hungarian) 
+Czech Republic - Multilingual daily news and information about the Czech people 
+Croatia - News in Croatian 
+Romania - Live radio broadcasts from Bucharest (Romanian) 
+RADIO X 97.7 - In Icelandic from Reykjavik 
+Swedish Radio - From Stockholm 
+Norway - News and information in Norwegian from Oslo 
+YLE Radionews - Hourly news broadcasts in Finnish (Helsinki, Finland) 
+Taiwan - Music and news in Chinese 
+Syahreza's Radio Station - Pop music and news from Jakarta, Indonesia (Indonesian) 
+All India Internet radio - Music and news 
+Israel - News broadcasts in Hebrew and English 
+Ad Newodhow: The Cornish News Service - News from Cornwall (Cornish) 
+Catalan - News and talk show programming from Barcelona (Catalan) 
+ 
+Developer's Corner 
+  
+RealAudio Content Creation Guide - Getting started with RealAudio file creation 
+Synchronized multimedia - Sending audio or video with timed slide show 
+R ealAudio and JavaScript - Controlling playback of audio (or video) with JavaScript 
+Educational Resources - Some sites using RealAudio and RealVideo in instruction 
+VivoActive Producer 2.0 - Information on creating Vivo audio or video streaming 
+StreamWorks Server FAQ - Frequently asked questions about using the StreamWorks server 
+VDOLive Tools - How to create VDO files from QuickTime 
+ 
+Shockwave Director - Pointers to information on streaming with Shockwave 
+QuickTime - Information on pseudo-streaming QuickTime movies 
+ 
+SoundForge - Commercial sound editor for Windows 
+SoundEdit 16 - Commercial sound editor for Mac 
+ 

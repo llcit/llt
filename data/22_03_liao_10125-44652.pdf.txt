@@ -1,0 +1,606 @@
+Language Learning & Technology 
+ISSN 1094-3501 
+October 2018, Volume 22, Issue 3 
+pp. 20–32 
+LANGUAGE TEACHING AND TECHNOLOGY FORUM  
+ 
+ 
+Copyright © 2018 Jian Liao & Xiaofei Lu 
+ 
+ 
+Exploring the affordances of telepresence robots 
+in foreign language learning 
+Jian Liao, The Pennsylvania State University and Southwest University 
+Xiaofei Lu, The Pennsylvania State University 
+Abstract 
+The importance of authentic communicative practices in foreign language (FL) learning has long been 
+recognized. However, most FL learners lack adequate access to authentic communicative environments in 
+the target language. In this article, we propose the use of telepresence robots as a potential solution to 
+bridge this gap. Telepresence robots can be controlled by remote language learners online, enabling them 
+to gain virtual access to authentic environments in the target language and to interact with native speakers 
+in those environments in real time. In this exploratory study, three English learners and a native-speaker 
+of American English participated in a campus tour activity using a telepresence robot. We examined the 
+experience of our participants and the conversational features of their telepresence interactions through 
+analyses of the interview data, field notes, and transcripts of conversations captured on video. Our findings 
+show that telepresence robots have substantial potential for promoting FL learning by providing authentic 
+communicative practice for remote language learners. The findings have useful implications for informing 
+future research design. 
+Keywords: Computer-Mediated Communication, Language Learning Strategies, Distance and Open 
+Learning and Teaching, Telecollaboration 
+Language(s) Learned in This Study: English 
+APA Citation: Liao, J., & Lu, X. (2018). Exploring the affordances of telepresence robots in foreign 
+language learning. Language Learning & Technology, 22(3), 20–32. https://doi.org/10125/44652 
+Introduction 
+The importance of authentic communicative practices in foreign language (FL) learning has long been 
+recognized. Authentic communicative practices provide meaningful contexts that motivate learners and 
+assist them in understanding the meaning of knowledge (Edelson & Reiser, 2006). In the absence of such 
+practices, learners demonstrating adequate language skills in standardized testing situations may not be able 
+to successfully apply those skills in authentic communicative situations (Larsen-Freeman, 2013). 
+Unfortunately, most FL learners lack adequate access to authentic communicative environments in the 
+target language. Researchers have used various virtual presence technologies to facilitate interaction 
+between FL learners and speakers in target language communities, such as video conferencing systems 
+(e.g., Yen, Hou, & Chang, 2015) and virtual reality (VR) environments (e.g., Lan, 2015). However, these 
+technologies fall short in enabling learners to feel physically present in and to explore diverse real-world 
+environments of target language use. To bridge this gap, we propose a solution that uses a telepresence 
+robot—a remote-controlled, wheeled device with a display and camera—to enable FL learners to gain 
+virtual access to authentic communicative environments in the target language and engage in real-time 
+interaction with speakers in those environments. 
+The term telepresence, first coined by Minsky (1980), refers to a set of technologies that give remote 
+participants the feeling of being present at a different location. Compared to other robots, telepresence 
+robots provide opportunities for interpersonal communication with people at different places, rather than 
+interaction between humans and robots with artificial intelligence. Telepresence robots have been used in 
+Jian Liao and Xiaofei Lu 21 
+ 
+various domains, such as providing home care assistance for elderly people (Michaud et al., 2007), changing 
+the dynamics of a blended learning design studio class (Bell, Cain, Peterson, & Cheng, 2016) and 
+facilitating virtual school attendance by students with physical disabilities (Newhart & Olson, 2017). In the 
+field of FL learning, a few studies reported that the application of telepresence robots in classroom settings 
+significantly improved learner interest, confidence, and motivation (e.g., Kwon, Koo, Kim, & Kwon, 2010; 
+Tanaka, Takahashi, Matsuzoe, Tazawa, & Morita, 2014). Research into the application of telepresence 
+robots in FL learning in real-life settings, however, has not yet emerged. As a first step toward 
+understanding the potential of using telepresence robots for providing authentic communicative practices 
+for FL learners, this exploratory study examines the experiences of four participants in a campus tour 
+activity facilitated by a telepresence robot and the features of their telepresence interactions. 
+Theoretical Background 
+Communicative Practices 
+From the dialogic view of language and learning (Bakhtin, 1981), language is organized dialogically at the 
+level of utterance, which is both context shaped and context renewing (Goodwin & Heritage, 1990). As 
+Volosinov (1973) put it, “the real unit in language that is implemented in speech … is not the individual, 
+isolated monologic utterance, but the interaction of at least two utterances—in a word, dialogue” (p. 117). 
+He further argued that “language acquires life and historically evolves precisely here, in concrete verbal 
+communication, and not in the abstract linguistic system of language forms, nor in the individual psyche of 
+speakers” (p. 95). Based on this view, communicative practices play a critical role in language learning, as 
+it is through engagement in such practices that learners acquire the meanings and functions of language 
+forms in context. In reality, however, most FL learners have few opportunities to engage in communicative 
+practices with speakers in the target language community. According to the International Association of 
+Language Centers, only 0.25% of FL learners are able to travel to target-language countries for educational 
+purposes (International Association of Languages Centres, 2016). It is thus important to find alternative 
+ways to provide communicative practices for FL learners. 
+Authenticity in Language Learning 
+Authenticity in language learning refers to the resemblance between what learners are exposed to in learning 
+and what their future language use practices will be like (Gilmore, 2007). Taylor (1994) distinguished three 
+facets of authenticity (i.e., authenticity of language, task, and situation), which were subsequently 
+elaborated on by other researchers. In general, authentic language, tasks, and situations refer to language 
+input that serves real-life communicative purposes (Lee, 1995), tasks that bear real-world relevance and 
+reflect professional skills students will need after graduation (Strobel, Wang, Weber, & Dyehouse, 2013), 
+and situations that resemble real situations of social interaction in daily life (Strobel et al., 2013), 
+respectively. These facets should not be viewed in isolation, as authenticity is a function of many factors 
+all at once, including not only the language but also “the participants, the use to which language is put, the 
+setting, the nature of the interaction, and the interpretation the participants bring to both the setting and the 
+activity” (Taylor, 1994, p. 4). 
+Virtual Presence Technologies and Computer-Assisted Language Learning 
+Technologies that can create virtual presence or experiences, including video conferencing systems, VR 
+environments, and telepresence robots, have been utilized to support FL learning. For example, Lan (2015) 
+found that the usage of virtually immersive contexts in English as a foreign language (EFL) learning 
+provided ubiquitous learning opportunities and game-like scenarios and led to enhanced learner 
+performances. Jauregi and Bañados (2008) employed Adobe Connect to enable virtual interaction between 
+Spanish as a foreign language learners and native-speaker Spanish teachers and identified positive impacts 
+on learning outcome, learner motivation, and cultural understanding. Yen et al. (2015) reported that using 
+Skype to facilitate the application of role-playing strategy significantly enhanced EFL learners’ speaking 
+skills. A few studies applied telepresence robots in FL classrooms and observed significant improvement 
+22 Language Learning & Technology 
+ 
+in learner interest, confidence, and motivation (Kwon et al., 2010; Tanaka et al., 2014). 
+Despite the reported benefits, current applications of virtual presence technologies have their drawbacks 
+when it comes to providing learners with authentic communicative practices. Falconer (2013) reported that 
+characters in VR learning environments are typically depicted in an unrealistic cartoonish style, that the 
+physical environments lack details, and that tasks are designed artificially. Research on language learning 
+via video conferencing systems and telepresence robots has to date been restricted to classroom, office, or 
+home settings (e.g., Kwon et al., 2010; Tanaka et al., 2014; Yen et al., 2015). This limits the types of real-
+world environments learners are exposed to and the conversational topics that could have naturally arisen 
+from more diverse contexts. Collectively, these drawbacks result in the lack of authenticity. In our view, 
+telepresence robots have the potential to bring about a greater degree of authenticity in all three facets 
+discussed above if used to allow leaners to interact with speakers in the target language community in more 
+diverse real-world environments for genuine communicative purposes. 
+Research Questions 
+This exploratory study constitutes a first step toward understanding the potential of using telepresence 
+robots to provide authentic communicative practices for remote FL learners. The specific research questions 
+addressed are as follows: 
+1. What are the perceived benefits of using telepresence robots in FL learning outdoors? 
+2. What are the perceived challenges of using telepresence robots in FL learning outdoors? 
+3. How can we refine the design of tasks to address the perceived challenges? 
+Methodology 
+Participants 
+The data in this study were collected over one week in April 2015. The purposeful sampling strategy was 
+adopted to select adult EFL learners with the plan to study overseas and with no prior experience in living 
+abroad, as the campus tour activity (described below) would be directly relevant to them. Three Chinese 
+EFL learners residing in China (Xiu, Xian, and Gou) were recruited as remote participants (see Table 1); 
+Coleman, a male native speaker of American English enrolled in a graduate program at the university 
+chosen as the research site, was recruited as the local participant (all names are pseudonyms). 
+Table 1. Demographic Information of Remote Participants 
+Pseudonym Gender Age Occupation English Proficiency Years Studying English 
+Gou Male 24 Graduate student Intermediate 12 
+Xian Female 28 Government employee Intermediate 9 
+Xiu Female 24 Graduate student Advanced 12 
+Technical Settings 
+Romo, a small telepresence robot,1 was used in this study. Despite its relatively small size, Romo has most 
+functionalities that other telepresence robots have. Romo allows learners to control its movement via a 
+mobile app, to adjust the view angle of its camera by tilting the smartphone, to see what it captures on the 
+screen of the smartphone, and to start a live video chat with the camera. We used the 4G network on an 
+iPhone to connect Romo to the Internet. 
+Procedure 
+The research site was the campus of a large public university in the Eastern United States. The general goal 
+Jian Liao and Xiaofei Lu 23 
+ 
+of the activity was to have the native speaker participant introduce the buildings, history, and culture of the 
+campus to the remote EFL learners as a campus tour guide; the EFL learners would then report what they 
+learned at the end of the activity. The actual activity consisted of three phases: pre-task, task, and review. 
+Each learner completed the task with the native speaker one-on-one in approximately two hours. In the pre-
+task, the native speaker and the learner spent half an hour video-chatting on QQ, a popular chat app, to get 
+familiar with each other; the native speaker also oriented the learner to the whole task. In the task phase, 
+the learner controlled Romo to participate in a 1-hour campus tour guided by the native speaker, who 
+introduced the history and culture of the buildings along the tour route. Figure 1 and Figure 2 demonstrate 
+the robot interface and the mode of communication between the native speaker and the learner. Figure 3 
+shows the campus tour route. In the last phase, the learners orally reported what they had learned at the end 
+of the tour. They were then interviewed about their experiences with the task. The native speaker participant 
+was interviewed after all three learners had completed the task. 
+ 
+Figure 1. Communication via a telepresence robot. 
+ 
+Figure 2. The Interface on the screen of the robot. 
+24 Language Learning & Technology 
+ 
+ 
+Figure 3. The route of the activity. 
+Data Collection and Analysis 
+Throughout the data collection period, four interviews (see Appendix) were conducted, recorded, and 
+transcribed by the first author: three with the EFL learners in Chinese and one with the native speaker in 
+English. The interviews with the learners were translated into English and the translations were 
+crosschecked by the two authors to ensure accuracy. Ten pages of field notes were taken by the first author 
+to document researcher observation of the benefits and challenges manifested in the activity and to 
+triangulate the interview data. The interview transcripts and field notes were analyzed qualitatively by the 
+two authors using Atlas.ti, following the method McMillan (2012) describes. Specifically, the transcripts 
+and notes were read through and words, phrases, or sentences relevant to the research questions were 
+marked up as codes. The coding scheme went through several iterations of merging and splitting, until we 
+were confident that each code could not be further split or merged with other codes. Finally, all codes were 
+categorized into different themes. 
+In addition, six hours of video interactions were recorded, among which three hours were interactions 
+between the EFL learners and the native speaker via the telepresence robot during the campus tour task. 
+The telepresence conversations were transcribed and analyzed by the first author using the Computerized 
+Language Analysis programs (MacWhinney, 2000). The results of this analysis were used to triangulate 
+those from the coded data. 
+Findings 
+Five themes emerged from the 21 codes identified in the field notes and interview transcripts, as shown in 
+Table 2.  
+Jian Liao and Xiaofei Lu 25 
+ 
+Table 2. Themes and Codes 
+Theme Code Description Example 
+Emotions Exciting Participants feeling 
+excited 
+The real cool thing is obviously the interaction 
+and the use of technology to actually experience 
+real things. 
+Gaming Participants feeling 
+game-like experiences 
+This robot makes me feel like manipulating a 
+virtual person walking in a virtual world. This is 
+somewhat similar to manipulating a character in 
+a game hanging around in a virtual world. 
+Relaxing Participants feeling 
+relaxed 
+I feel the way we used it today is more relaxing... 
+Challenging Participants feeling 
+challenged 
+I feel it is more challenging considering my 
+English ability. 
+Authentic 
+Learning 
+Experience 
+Real 
+environment 
+Experiencing another 
+real world via the robot 
+Meanwhile, I know the world where the robot is 
+walking is a real world. 
+Social 
+presence 
+Feeling present in a 
+remote place 
+I feel as if I was hiding in a corner watching the 
+foreigners and experiencing many things. 
+Emerging 
+topics 
+Naturally emerged 
+topics 
+I feel that there are more topics to talk about when 
+immersed in the environment. 
+Cultural 
+learning 
+Learning about another 
+culture 
+(Learning in this way) provides an opportunity to 
+learn something about foreign culture. 
+Learner-
+Centered 
+Activities 
+Learner 
+agency 
+Learning in an active 
+way 
+When watching the introduction videos or 
+photographs of campuses online, I can only 
+receive information passively. With the robot, I 
+can explore the campus actively… 
+Self-impact The activity is related 
+to students’ personal 
+experience 
+Especially for college students, it will be very 
+attractive to know something about the lives of 
+students of their age abroad or something related 
+to their majors. 
+Learner 
+difference 
+Inter-learner differences The first student seemed more interested in seeing 
+the campus …, and the other two students seemed 
+really enjoying driving around by themselves. 
+Disorientatio
+n 
+Difficulty in locating 
+position  
+When I was operating the robot, it was hard for 
+me to find the destination since I’m not familiar 
+with the campus. 
+Technical 
+Issues 
+Network 
+connection 
+Issues caused by poor 
+network connection 
+Also I mean the lag is there, right? It’s a bit of a 
+problem… 
+Robot size Small size of the robot Colman had to crouch down to talk to Xiu. 
+Robot speed Slow speed of the robot As the robot walks slower than human beings, 
+Colman had to hold the robot while we were 
+heading there. 
+Robot sound 
+volume 
+Low sound volume of 
+the robot 
+There were times in the tour when I had to talk 
+pretty loudly to make sure the student can hear 
+me. 
+26 Language Learning & Technology 
+ 
+Reflections 
+on the screen 
+Display issue caused by 
+strong sunlight  
+When the robot is being ridden in strong sunlight, 
+it is a little hard to see Xiu’s face on the screen. 
+Body 
+language 
+Difficulty to convey 
+body language 
+I could use gesture and body language when I talk 
+to other foreigners face-to-face. I feel it lacks a 
+way to communicate. 
+Practical 
+Concerns 
+Privacy 
+issues 
+Concern for privacy 
+issues 
+If you don’t videotape, you can conduct this study 
+indoors or in a lot of places outdoors. 
+Teacher 
+resource 
+Concern for the lack of 
+native-speaker teachers 
+The first issue is if there are enough native-
+speaker teachers. 
+Difference 
+from 
+classroom 
+learning 
+Comparison to learning 
+in the classroom 
+When listening to a lesson in the classroom, I 
+focus on something else, like grammar or 
+vocabulary. When using the robot, I need to focus 
+on how to express my ideas more accurately. 
+Emotions and Motivation 
+The EFL learners and the native speaker experienced positive emotions, as expressed using such words as 
+excited, cool, and interesting during the activities. Coleman noted the following in his interview: 
+It was really cool to see the students’ reactions… Students’ reactions were really impressive. I think all 
+three of them. There were moments that they just seemed really excited to interact with me or just 
+interact with the environment. And it really shocked me that their interaction with the environment 
+made it really interesting. 
+Gou explained the reason he experienced positive emotion from the perspective of gaming in his interview. 
+This robot makes me feel like manipulating a virtual person walking in a virtual world. This is 
+somewhat similar to manipulating a character in a game hanging around in a virtual world. 
+Meanwhile, I know the world where the robot is walking is a real world. It feels like a game experience 
+but what I am experiencing is a real world. This makes me excited. 
+Nevertheless, some learners experienced some stress during the activity. For example, Xian mentioned that 
+she felt her English ability was not good enough to communicate with the native speaker fluently. However, 
+both Xian and the native speaker indicated that this challenge could be alleviated by better preparing 
+learners before the activity (e.g., by having them watch some introductory videos about the campus). 
+Authentic Learning Experience 
+Authentic learning experiences were created by making learners feel they engaged in the activity as if they 
+were physically on campus. Xian indicated in her interview that she felt as if she were physically present 
+on campus as a student talking to Coleman. 
+When he (Coleman) took me around, it felt like a teacher guiding a student, and I paid attention to 
+everything he said. 
+Gou mentioned a similar experience in his interview. 
+As for my other experiences, the most interesting thing is to see the real environment abroad, which is 
+very different from what we have experienced domestically. 
+In terms of the benefits of learning in an authentic environment, Xiu’s comment in her interview below 
+illustrates how the environment provided a rich and unique language context to facilitate her acquisition of 
+the precise meaning of a culture-related word. 
+Xiu: In our English class at school, we also have a native speaker teacher here, but in China, it’s more 
+difficult to come up with examples to illustrate the meaning of something specific to her culture. For 
+Jian Liao and Xiaofei Lu 27 
+ 
+example, when Coleman told me something about the word quod? I forgot the exact word… 
+Interviewer: Quad? 
+Xiu: When he wanted to introduce something like that, he would say, “see it’s over there”. It was more 
+situated and more precise. Because of the large cultural gap, it’s just more difficult to explain things 
+like this in China. 
+The following exchange between Xiu and Coleman (transcribed from the video interactions) can triangulate 
+Xiu’ points mentioned above (see Figure 4). Jefferson’s (2004) transcription system is used here to mark 
+pauses, voice pitch, and non-verbal gestures. 
+1  COL*: so:,(.){what can you see there = can you see: 
+2                           {((RH points at the quad and then gazes at XIU))  
+3  XIU*: a v.. a a: (1.1) a plaza↑ or a square?  
+4          >plaza↑, square?< 
+5  COL*: yeah, yeah, that’s a good way >to describe it<,  
+6          a pla:za or square like what i said  
+7  we we usually call this a qua:d right? kweu yew ey dee= 
+8  XIU*:   =oh↑, [quad 
+9  COL*:             [yeah, i told you >about this before<  
+10  so, this is uhm this is really normal for: university  
+11  campuses right? 
+ 
+Figure 4. Learning the meaning of the word quad. 
+Xiu’s example of the word quad explicates her view on the usefulness of the physical context for the 
+acquisition of the precise meaning of this word, which could be harder to learn in the traditional classroom 
+setting. Therefore, the physical context around the telepresence robot is not just the background of the 
+conversation, but provides a way to help learners understand the precise meaning of culture-specific 
+idiomatic expressions in the target language. 
+Another finding is that, along with the learning activities, the authentic environment around the telepresence 
+robot triggered more natural conversational topics and helped the interlocutors organize the topics, as 
+Coleman observed in his interview: 
+I feel like the tour itself was pretty straightforward. When we were talking about doing this, I was 
+28 Language Learning & Technology 
+ 
+worried that the students would need like metrics or a worksheet or something to engage them in the 
+tour, but actually it turned out it’s not necessary at all. Once we were moving around, it was very easy 
+to have a conversation. 
+Coleman’s comment indicates that the authentic physical environment, including the buildings and other 
+objects encountered on the campus tour, allowed for conversational topics to emerge naturally as they 
+moved along the route, making the activity more natural and closer to real-life communication than 
+conversations in formal learning settings, where the conversational topics are often prescribed. 
+Learner-Centered Activities 
+The learning activities were largely learner-centered, as the telepresence robot allowed learners to decide 
+how they wanted the activities to proceed and what they wanted to talk and learn about. Gou’s comment in 
+his interview below illustrates how he could actively choose the learning content. 
+The most impressive part of the experience was that I could control the robot myself. I could find a lot 
+of videos and photos about university campuses online, but this project provides a robot that I can 
+control, which gave me the freedom to see what I wanted to see. It is highly autonomous. When watching 
+the introduction videos or photographs of campuses online, I can only receive information passively. 
+With the robot, I can explore the campus actively, and that’s the most fun part of today’s activity. 
+Gou’s comment shows that the ability to control the movement and view angle of the robot allowed him to 
+actively explore the environment and choose conversational topics that he was interested in, making the 
+learning process highly engaging. Gou’s interview transcript indicates how the match between the learning 
+scenario and his personal interests was a motivating factor for him. 
+Seeing how foreign college students of our age live, where they live, how they study, and how they eat, 
+I feel as if I was hiding in a corner watching the foreigners and experiencing many things. … Especially 
+for college students, it will be very attractive to know something about the lives of students of their age 
+abroad or something related to their majors. 
+Coleman also commented on the match between the activity and the learners’ interests and the importance 
+of taking learners’ background and interests into account in activity design. 
+It was a really good match between their background and interests and what we showed them today. 
+But I think that would really depend on who you’re taking around. 
+A drawback of the activity was that learners might feel disoriented when exposed to authentic learning 
+environments without adequate guidance, as illustrated by Xiu’s comment below. 
+When I was operating the robot, it was hard for me to find the destination since I’m not familiar with 
+the campus. 
+Technical Issues 
+The learning activity generally proceeded smoothly, but there were a few minor issues caused by technical 
+limitations. The most salient one was the occasional lags in streaming video and audio caused by unstable 
+network connection, as observed by Gou in his interview: 
+As for future improvement, the only thing I can think of is the Internet speed. I don’t know if it was 
+because of the Internet connection on my side. The whole activity was well-organized, but due to the 
+lag, I had some problems hearing the teacher, and occasionally the delay was severe. Other than that, 
+the tour was really interesting. 
+Other issues noted by the participants included the size, speed, sound volume, and the screen of the robot, 
+largely due to Romo’s relatively small size. Most participants hoped the robots used for future studies could 
+be taller and faster, with higher volume and a clearer display screen. 
+A special issue caused by the size of the display screen was about the conveyance of body language. In 
+Jian Liao and Xiaofei Lu 29 
+ 
+particular, the small size of the screen made it difficult to see the gestures and body language of the 
+interlocutor clearly, as illustrated by Xian’s comment in his interview below: 
+The communication in our activity lacks one thing. I could use gesture and body language when I talk 
+to other foreigners face-to-face. I feel it lacks a way to communicate [while using the telepresence 
+robot]. 
+Practical Concerns 
+The participants also reported a few practical concerns regarding the use of telepresence robots for FL 
+learning, including the privacy of other people who may be captured by the camera, limited availability of 
+native speaker interlocutors, and the integration of this technology in traditional classroom settings. These 
+concerns are discussed in the next section. 
+Discussion 
+The findings from our analyses of the field notes, interview transcripts, and telepresence conversations have 
+well answered our research questions. 
+Perceived Benefits of Using Telepresence Robots in Foreign Language Learning Outdoors 
+Our results show that the telepresence robot provided a more authentic and interactive environment for 
+communicative practices than other researched technologies such as VR environments (Falconer, 2013). 
+Such an authentic conversational environment provided multiple benefits to the learners. First, exposing 
+learners to and engaging them in such an authentic conversational environment facilitated their acquisition 
+of the precise meanings of culture-related expressions in the language. Second, this environment allowed 
+for conversational topics to emerge naturally, making the flow of the learning activity easy to organize for 
+the participants. Third, the use of the telepresence robot motivated the learners by providing them with a 
+game-like experience and learner-centered activities. As such, the learners all experienced positive 
+emotions during the activities. Finally, the ability to control the movement of the robot and select learning 
+content based on their own interests and learning needs allowed the learners to align the learning activity 
+with their own zone of proximal development (ZPD; Lantolf & Thorne, 2006; Vygotsky, 1978), that is, the 
+area between what they are able to do with and without expert guidance. 
+Perceived Challenges of Using Telepresence Robots in Foreign Language Learning 
+Outdoors 
+The learners reported two major challenges posed by the outdoors activity with the telepresence robot. One 
+challenge was the disorientation experienced by some learners in the new, open environment, and the other 
+was the stress felt by some learners when communicating about certain impromptu topics that they felt they 
+lacked the language skills to handle. On the one hand, these challenges can be seen as useful learning 
+opportunities brought about by the activity. Authentic contexts of language use will necessarily include 
+new environments, in which impromptu conversational topics will naturally emerge. Authentic 
+communicative practices should thus ideally provide opportunities for exposing learners to such 
+environments and impromptu topics. On the other hand, it is also important to help learners learn within 
+their ZPD (Lantolf & Thorne, 2006). Giving learners the ability to control the movement and view angle of 
+the telepresence robot and to self-select the learning content helped address some of the disorientation and 
+stress. More importantly, the mediation (Lantolf & Thorne, 2006) or assistance the learners received from 
+the native speaker supported both their learning about the new environment and their learning of new 
+culture-specific expressions that were useful for talking in and about the environment. 
+In terms of technical limitations, issues such as coverage and speed of wireless Internet connection and the 
+size, speed, sound volume, and display quality of the telepresence robot could be largely resolved in the 
+near future, considering the continued development of communication technology. Additionally, in cases 
+where intrusion of other people’s privacy is of major concern, sites with active pedestrian traffic could be 
+30 Language Learning & Technology 
+ 
+avoided, more contained sites could be used and permission from those present could be sought, and the 
+video capturing and recording function of the telepresence could be disabled. In this last case, observations 
+or audio recording of participant interactions could be used as alternative data collection methods for 
+research purposes. 
+Implications for Future Research Design 
+The findings of this study have useful implications for informing the design principles for future research 
+on using telepresence robots for language learning, some of which we summarize tentatively below. 
+• The activity site should be chosen based on instructional goals and student interest, with attention 
+to privacy concerns. 
+• To the extent possible, language learning activities should involve authentic tasks that happen 
+naturally in actual environments of language use and that meet students’ learning needs. 
+• A pre-task activity should be included to orient learners to the features of the telepresence robot 
+and expectations of the language learning task and to build rapport between the learners and activity 
+facilitators. 
+• Activity facilitators should be aware of the instructional goals and students’ learning needs in 
+choosing to maintain or change conversational topics during the activities. They should also be 
+trained to pay attention to learner abilities and difficulties and to offer appropriate support to the 
+leaners when difficulties arise. 
+• The learning activity may be gamified to maximize learning motivation and engagement. 
+Conclusion 
+As an emerging technology, telepresence robots have substantial potential for promoting FL learning by 
+providing remote language learners with virtual access to authentic physical and sociocultural contexts in 
+a target language community. This study constitutes the first step toward understanding the ways in which 
+authentic communicative practices facilitated by telepresence interaction may enhance or hinder language 
+learners’ learning experiences. Our findings provide useful information for future designs of language 
+learning activities that integrate telepresence interaction to promote FL learning. As a small-scale 
+exploratory study, the number of participants was small. In own future work, we will conduct larger-scale 
+studies to more systematically examine the affordances of telepresence interaction to support FL learning 
+with more participants, more diverse environments and tasks, and richer data on learner perceptions and 
+learning outcomes. 
+Acknowledgements 
+We wish to thank the participants of this study for their contribution and the anonymous reviewers of the 
+manuscript for their helpful comments. Special thanks go to Zhi Zhou, who helped us recruit participants 
+and videotape the activities. 
+Notes 
+1. For an introduction to Romo, see its Kickstarter page. 
+References 
+Bakhtin, M. M. (1981). The dialogic imagination: Four essays. Austin, TX: University of Texas Press. 
+Bell, J., Cain, W., Peterson, A., & Cheng, C. (2016). From 2D to Kubi to Doubles: Designs for student 
+telepresence in synchronous hybrid classrooms. International Journal of Designs for Learning, 7(3), 
+19–33. 
+Jian Liao and Xiaofei Lu 31 
+ 
+Edelson, D. C., & Reiser, B. J. (2006). Making authentic practices accessible to learners: Design 
+challenges and strategies. In R. K. Sawyer (Ed.), The Cambridge handbook of the learning sciences 
+(pp. 335–354). New York, NY: Cambridge University Press. 
+Falconer, L. (2013). Situated learning in virtual simulations: Researching the authentic dimension in 
+virtual worlds. Journal of Interactive Learning Research, 24(3), 285–300. 
+Gilmore, A. (2007). Authentic materials and authenticity in foreign language learning. Language 
+Teaching, 40(2), 97–118. 
+Goodwin, C., & Heritage, J. (1990). Conversation analysis. Annual Review of Anthropology, 19, 283–307. 
+International Association of Languages Centres. (2016). Trends in the demand for foreign languages. 
+Retrieved from https://www.ialc.org/ialc-study-travel-research-reports/2016-report/ 
+Jauregi, K., & Bañados, E. (2008). Virtual interaction through video-web communication: A step towards 
+enriching and internationalizing language learning programs. ReCALL, 20(2), 183–207. 
+Jefferson, G. (2004). Glossary of transcript symbols with an introduction. In G. H. Lerner (Ed.), 
+Conversation analysis: Studies from the first generation (pp. 13–31). Amsterdam, Netherlands: John 
+Benjamins. 
+Kwon, O. H., Koo, S. Y., Kim, Y. G., & Kwon, D. S. (2010). Telepresence robot system for English 
+tutoring. In Proceedings of the 2010 IEEE workshop on advanced robotics and its social impacts (pp. 
+152–155). New York, NY: IEEE. 
+Lan, Y. J. (2015). Contextual EFL learning in a 3D virtual environment. Language Learning & 
+Technology, 19(2), 16–31. 
+Lantolf, J. P., & Thorne, S. L. (2006). Sociocultural theory and the genesis of second language 
+development. Oxford, UK: Oxford University Press. 
+Larsen-Freeman, D. (2013). Transfer of learning transformed. Language Learning, 63(S1), 107–129. 
+Lee, W. Y. C. (1995). Authenticity revisited: Text authenticity and learner authenticity. ELT Journal, 
+49(4), 323–328. 
+MacWhinney, B. (2000). The CHILDES project: Tools for analyzing talk. Mahwah, NJ: Erlbaum. 
+McMillan, J. H. (2012). Educational research: Fundamentals for the consumer (6th ed.). New York, NY: 
+Harper Collins College Publishers. 
+Michaud, F., Boissy, P., Labonte, D., Corriveau, H., Grant, A., Lauria, M., Cloutier, R., Roux, M.-A., 
+Iannuzzi, D., & Royer, M.-P. (2007). Telepresence robot for home care assistance. In Proceedings of 
+the 2007 AAAI spring symposium on multidisciplinary collaboration for socially assistive robotics 
+(pp. 50–55). Palo Alto, CA: AAAI. 
+Minsky, M. (1980). Telepresence. Omni, 45–51. Retrieved from https://web.media.mit.edu/~minsky/ 
+papers/Telepresence.html 
+Newhart, V. A., & Olson, J. S. (2017). My student is a robot: How schools manage telepresence 
+experiences for students. In Proceedings of the 2017 CHI conference on human factors in computing 
+systems (pp. 342–347). New York, NY: ACM. 
+Strobel, J., Wang, J., Weber, N. R., & Dyehouse, M. (2013). The role of authenticity in design-based 
+learning environments: The case of engineering education. Computers & Education, 64, 143–152. 
+Tanaka, F., Takahashi, T., Matsuzoe, S., Tazawa, N., & Morita, M. (2014). Telepresence robot helps 
+children in communicating with teachers who speak a different language. In Proceedings of the 2014 
+ACM/IEEE international conference on human-robot interaction (pp. 399–406). New York, NY: 
+ACM. 
+32 Language Learning & Technology 
+ 
+Taylor, D. (1994). Inauthentic authenticity or authentic inauthenticity. TESL-EJ, 1(2), 1–11. 
+Volosinov, V. N. (1973). Marxism and the philosophy of language. Cambridge, MA: Harvard University 
+Press. 
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge, 
+MA: Harvard University Press. 
+Yen, Y. C., Hou, H. T., & Chang, K. E. (2015). Applying role-playing strategy to enhance learners’ 
+writing and speaking skills in EFL courses using Facebook and Skype as learning tools: A case study 
+in Taiwan. Computer Assisted Language Learning, 28(5), 383–406. 
+Appendix. Interview Questions 
+Interview Questions (Language Learner) 
+1. How do you feel about the procedure of the activity? 
+2. How do you feel about the interaction between you and the native speaker? 
+3. How do you feel about the site of the activity? 
+4. What are the differences between talking to others via a telepresence robot outdoors and face-to-
+face interaction? 
+5. What are the differences between talking to others via a telepresence robot outdoors and talking to 
+others via other technology, such as Skype? 
+6. Have you imagined yourself as an international student at an American university before? How 
+about now? 
+7. Did you feel any cultural differences between China and the US during the activities? 
+8. Do you have any suggestions for improving the system? 
+Interview Questions (Native Speaker) 
+1. Do you have any experience in teaching English as a second language? 
+2. Have you used any technology to improve you English before? 
+3. How do you feel about the process of communication with others via this robot? 
+4. What are the differences between talking to others via a telepresence robot outdoors and talking to 
+others via Skype at home? 
+5. Do you feel the telepresence robot is helpful for teaching a foreign language or not? 
+6. Do you have any suggestions for improving the system? 
+About the Authors 
+Jian Liao is a doctoral candidate in the Department of Learning and Performance Systems at The 
+Pennsylvania State University. He is also a software engineer in the College of Online and Continuing 
+Education at Southwest University, China. His research interests include computer-assisted language 
+learning, emerging technologies, and informal learning. 
+E-mail: jxl1089@psu.edu 
+Xiaofei Lu is Associate Professor of Applied Linguistics and Asian Studies at The Pennsylvania State 
+University, where he directs the graduate programs in the Department of Applied Linguistics. His research 
+interests include computational linguistics, corpus linguistics, and intelligent computer-assisted language 
+learning. He is the author of Computational methods for corpus annotation and analysis (2014, Springer). 
+E-mail: xxl13@psu.edu 

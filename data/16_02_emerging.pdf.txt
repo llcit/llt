@@ -1,0 +1,442 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/june2012/emerging.pdf 
+June 2012, Volume 16, Number 2 
+pp. 4–13 
+ 
+Copyright © 2012, ISSN 1094-3501 4 
+EMERGING TECHNOLOGIES 
+CHALLENGING HEGEMONIES IN ONLINE LEARNING 
+Robert Godwin-Jones 
+Virginia Commonwealth University 
+In Western countries today, instructed language learning in higher education normally includes use of the 
+Web: as a resource in face-to-face classes, as an equal partner in instructional delivery in hybrid courses, 
+or as the primary teaching and learning environment in distance learning. Most often today this is enabled 
+through use of a learning management system (LMS, also known as a VLE or virtual learning 
+environment) such as Blackboard Learn or Moodle. The use of these systems makes setting up a course 
+Web site quick and easy, while offering an array of course management and teaching tools. At the same 
+time, however, these systems embed pedagogical and cultural values which raise questions about learning 
+design, instructional choice, and computer literacy. In this column we will look at these issues against the 
+backdrop of recent changes in the LMS industry, emerging standards in content packaging, and new 
+trends in open access online learning. 
+BOXED-IN PEDAGOGY 
+The core design of most LMS in use today has not changed much from their origins in the mid 1990s. The 
+model places heavy emphasis on course management and administration, through an online gradebook, 
+posted syllabus, assignment tracking, and linked/uploaded course materials. Initially, interactivity and 
+collaboration consisted almost exclusively of threaded discussion boards and fixed-format assessments 
+(mostly multiple choice). These were the principal features of an LMS a colleague and I created at VCU, 
+Web Course in a Box (WCB), mostly known now as having been the first competing LMS absorbed by 
+Blackboard in 1999. WCB was typical of early LMS such as CourseInfo (USA), WebCT (Canada), and 
+TopClass (Ireland), all developed in the Anglo-American sphere. WCB focused on providing an 
+individual student learning experience. It included student pictures with forum messages and encouraged 
+students to create individual home pages. Assessment was based on performance on online quizzes, 
+assignments, and forum postings. Other early systems had a different mix of features, but were similar in 
+design and basic functionality. The pedagogical model used here mimics a traditional classroom with a 
+top-down, instructor-delivered learning environment with emphasis on linear learning through instructor-
+provided or linked materials and assessments based on answering questions testing discrete chunks of 
+knowledge. In large part, the pedagogical dimensions of the original LMS design were a reflection of 
+what early Web technology enabled developers to do, particularly as a result of bandwidth limitations (no 
+streaming video, limited synchronous functionality) and the static Web browsing environment (no client-
+side scripting or local data storage). But this initial design, as happens often in technology, remains 
+largely intact, despite a dramatically changed Web environment. 
+In the years since, many interactive, collaborative, and synchronous functions have found their way into 
+mainstream LMS. Despite these additions the default settings and overall design of the most widely used 
+LMS (Blackboard Learn) still tend to lead instructors towards a particular pedagogical approach. The 
+essential model is a closed, self-contained system using cognitive-behavioral learning, with emphasis on 
+information presentation and measureable performance assessment. The instructor is guided through the 
+process of building a course through the default course menu appearing in the sidebar (i.e., 
+Announcements, Course Content, Discussions, etc.). Content and services are added through the “control 
+panel,” available only to instructors. In turn, the students follow the guided learning path the instructor 
+has established. Most instructors beginning to use an LMS choose the most familiar and easy-to-use 
+functions such as posting a syllabus, uploading presentations, providing course materials/media, and 
+creating Web links. Many faculty do not move beyond this basic functionality, despite the extensive 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 5 
+customizability and rich additional tools and functions available. It’s likely that the initial training 
+instructors receive in using an LMS also contributes to this situation. I suspect that the training courses at 
+VCU are typical. They focus primarily on the mechanisms of how the basic functions are used, with the 
+goal of enabling instructors to get their course sites up and running quickly. I recall hearing from a 
+colleague who had taken an introduction to Blackboard course that his main take-away from the session 
+was the ability to create a course banner for display on the announcements page, hardly a great enabler of 
+student learning. 
+For language faculty using the Web as an adjunct to face-to-face classes, the basic, built-in functionality 
+of an LMS may be sufficient. Oral practice and small group work can be done in class, while the course 
+Web site can be used for grammar tutorials and drills, vocabulary practice, online readings, listening 
+comprehension exercises, and Web-based explorations. In a distance learning course, on the other hand, 
+the course Web site will need to offer much more in terms of oral work and collaboration. Add-ons, plug-
+ins, and link-outs enable quite a lot of what may be needed. Most LMS have built-in group functionality 
+and have added blogs and wikis. Synchronous communication, text, audio, and/or video is enabled 
+through services such as Wimba Classroom, Adobe Connect, Elluminate (now Blackboard Collaborate), 
+or Skype. Audio/video recording/submission is possible through VoiceThread, Wimba Voice Tools or 
+Audio Dropboxes. Many of these services are commercial and may not be part of a campus LMS due to 
+cost or technology/bandwidth factors. Sometimes the additional services are seamlessly integrated into 
+the LMS, but that is frequently not the case. They may require an additional log-in and may not provide 
+access to the gradebook or group functions of the LMS. 
+EXPANDING PEDAGOGY AND TECHNOLOGY MODELS 
+There have been countless LMS developed and deployed, not only for use in tertiary institutions but also 
+targeting primary/secondary schools, and corporate/military training. While Blackboard Learn is used 
+primarily in higher education, the second most widely used LMS world-wide, Moodle, is used in a great 
+variety of educational and training contexts across the globe. First released in 2002, Moodle differed from 
+other systems in a number of ways. It is written in PhP (rather than Perl or Java) and runs on a variety of 
+platforms, with relatively minor technical requirements. The low technical hurdles have been an 
+important factor in Moodle’s wide-spread adoption, but even more important has been its cost: free. 
+Moodle is an open source project that relies on a large number of developers who have contributed and 
+refined code, as well as created plug-ins for added features. From its early days, Moodle has featured a 
+modular approach, both in terms of tools and services (modules, blocks) and in respect to its user 
+interface. According to its initial developer, Martin Dougiamas, Moodle was developed around a social 
+constructivist learning model. When creating a Moodle course site, instructors are not presented with a 
+default course menu, as in Blackboard Learn but rather choose the content, activities, and tools to add, 
+typically to a course calendar. The core of Moodle is the ability to add any number of available activities 
+and resources (forums, glossaries, wikis, assignments, uploaded handouts, etc.) in a unique arrangement. 
+Of course, as with all systems, just because a rich set of services is available doesn’t necessarily mean 
+they will be used. More fundamentally, it is still the instructor who constructs the learning environment. 
+Student voices of course contribute to the learning environment in multiple ways, through contributions to 
+wikis, blogs, forums, and group projects, but the structure still comes from the teacher alone. 
+Moodle has been widely used for language learning. It is easily localizable, having been translated into 82 
+languages. The no-cost availability and the flexible installation requirements have resulted in Moodle 
+being installed locally in language departments or learning centers, where it can be customized to serve 
+the needs of language learners. Carleton College in Minnesota, for example, has created a “Moodle 
+Language Lab,” which features access to audio and video recording from within a Moodle page. Moodle 
+has been used in delivering basic language instruction, by the Open University, for example, or in the 
+“Arabic Without Walls” program. The Critical Language Center from the University of Arizona uses 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 6 
+Moodle enhanced through Flash and JavaScript interactivity to teach a number of their online language 
+courses. Robert O’Dowd (2009) has discussed the use of Moodle in Spain and has interesting 
+observations on the pedagogical possibilities of Moodle. There are a number of suggestions for using 
+Moodle in language learning that Claire Siskin has collected. A recent review in this journal of Moodle 
+2.0 highlights the additions and changes in the most recent version of the software that may be of interest 
+to language educators, principally the enhanced flexibility and redesigned assessment features. Another 
+open source LMS, Sakai, has seen use in language learning settings as well. Gouveia and Reis (2008) 
+have written about the advantages of using Sakai for collaborative student work in a Portuguese 
+university. The Stanford University Language Center has customized Sakai for delivery of oral diagnostic 
+assessments that formerly were done in class. The University of California system will be using Sakai in 
+upcoming distant delivery language courses. Like Moodle, Sakai has a dedicated set of volunteer 
+developers and is among the first LMS to adopt new standards for content exchange and other areas. The 
+technical requirements for Sakai are considerably higher than for Moodle. 
+Both commercial and open source LMS offer to instructors and students a reliable and familiar interface, 
+much appreciated by IT support administrators. Blackboard Learn sites, for example, look very similar 
+across disciplines, so students have little trouble with course navigation. This uniformity and 
+predictability, however, has its disadvantages. The spoon-fed content delivery and closed environment of 
+the LMS is far removed from the vibrant, ever-changing online world in which our students are fully 
+engaged. Many of today’s students are likely heavy users of social networking sites, multi-player gaming, 
+and media mashups. The static and controlled environment of an LMS is unlikely to either attract or 
+stimulate such students. For those students less experienced in online activities, an LMS contributes little 
+to the kind of technology literacy they will need for their personal and work lives. The importance of 
+preparing our students for the workplace of tomorrow was recognized recently by my own Virginia state 
+legislature, a body hardly known for its progressive views, which this last legislative session passed a law 
+requiring high school students to take at least one totally online course before they graduate. The need for 
+language learning to reflect the technology needs of today is demonstrated in the ACTFL frameworks for 
+21st century learning, which include information, media, and technology literacies. 
+In view of students’ need for technology literacy, the use of an LMS raises some critical questions. Are 
+we doing a disservice to our students through use of a pre-built, fixed online environment rather than 
+exposing them to the variety of possible approaches and designs? In so doing are we failing to develop in 
+our students the wherewithal to find tools and services that might best fit their own needs or interests? Is 
+this problematic in preparing students for life-long learning and for becoming empowered autonomous 
+language learners? Are we doing enough to help students critically sift through the information overload 
+of today’s Internet? Of course, one could argue that using an LMS does not preclude addressing these 
+issues. Yet the medium is the message, as we all know, and the message being sent by most cookie-cutter 
+course sites hardly models or encourages autonomous learning or critical analysis. At the least we need to 
+find means to make our students informed consumers of technology. That kind of knowledge is as 
+important to language learners today as is meta-knowledge of how language and language learning work. 
+They will need both the technology know-how and the awareness of their own language learning 
+styles/aptitudes to function fully in a multicultural, multilingual world. 
+EXPANDING CULTURAL DIMENSIONS 
+The vast majority of the early LMS were developed in the Anglophone world and reflect to a large extent 
+that cultural environment. Despite popular beliefs to the contrary, it is now generally accepted that 
+technology tools are not culturally neutral. Claire Kramsch and Steve Thorne (2002) have convincingly 
+argued that case for computer-mediated communication. If the pedagogical model inherent in the basic 
+LMS design is transmission of knowledge, the cultural orientation is that of individualism, emphasizing 
+the centrality of linear, rationalist reasoning and open, frank communication. Many in Western countries 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 7 
+may assume these are universally accepted cultural norms, but that’s a decidedly ethnocentric view. 
+Learners from collectivist societies may well have a different orientation towards expectations that they 
+distinguish themselves through peer-review, critical analysis, and individualized differentiation. Of 
+course, in today’s world, with rapid globalization and online mixing of roles and identities, these 
+generalizations themselves can be questioned, as the contributions in Goodfellow and Lamy’s (2009) 
+collection on culture in online education show. Young people in particular tend to have multiple online 
+roles and identities. In this fluid intercultural world the one-size-fits-all design of mainstream LMS can be 
+a poor fit. 
+Moodle reports that it is has users in 215 countries. It is likely to continue to be widely used, given its 
+versatility and active developer community throughout the world. In the last decade there have been a 
+good many other systems developed in a variety of countries, many of them also open source. In language 
+learning methodology, there have been calls (from Sandra Savignon, for example, see Savignon, 2007) to 
+adapt the teaching approach used to local conditions and needs; this is also generally part of ecological 
+approaches to language learning. The advice to think local may hold true for instructional technologies as 
+well. Charles Ess (2009) discusses the ineffectiveness of Western-style, computer-based literacy training 
+in South African townships using an individualized “quiet library” mode with a population accustomed to 
+learning accompanied by music and body movement. While alternative LMS are not likely to offer that 
+degree of flexibility, they do provide additional possible perspectives on organizing Web-based teaching 
+and learning. Chamilo, out of Belgium, for example, boasts a user interface intuitive enough to be used in 
+a primary school in Uruguay (YouTube video) on OLPC computers (One Laptop Per Child). Chamilo is 
+actually a fork of another European, open source LMS, Dokeos (itself derived from Claroline). Christine 
+Develotte (2009) discusses using Dokeos in the context of an online French teachers training course as 
+does Ferit Kilickaya in teaching English in Turkey. 
+Other free or low cost LMS include OLAT (Switzerland), Its Learning (Norway), and ILIAS (Germany). 
+I’m not aware, unfortunately, of any LMS outside Europe or Anglophone countries. One open source 
+LMS of interest, from a different perspective, is ATutor (Canada) which has designed its LMS from the 
+ground up to be as accessible as possible to learners with disabilities. Indeed, with the concern to 
+accommodate student diversity as widely as possible, accessibility in software design should be a 
+requirement for any kind of software project today. The current interest in the principal of universal 
+design for software development in fact points in this direction. Universal design calls for consideration in 
+all steps of development of the variety of users who might use the product. This is normally directed at 
+users with disabilities but certainly should apply to cultural and linguistic diversity as well. In an 
+increasingly globalized and shrinking world, supporting diversity of all types will be an ever-growing 
+concern. Modern browsers and operating systems have added much better support both for disabilities 
+(easy magnification) and for a variety of writing systems. LMS pages can be retrofitted to offer additional 
+support, such as allowing Web pages to be sent to a voice synthesizer and read back to the student 
+(through ReadSpeaker, for example). The same is true for clickable dictionary look-ups. Ucompass’s 
+Octane, recently adopted by the Florida Virtual School, offers an interesting expansion of this. It features 
+a set of tools that can be added to any Web page by putting a link in the HTML to a server-based 
+JavaScript file which inserts a set of buttons for the added functions. Another aspect of universal design 
+today should be the consideration of how content displays on mobile devices, a growing concern in many 
+educational environments. 
+LIBERATING TRAPPED CONTENT 
+One of the principal uses of an LMS has been for instructors to upload learning materials for easy online 
+access by students. All systems enable this functionality, most as well adding the ability to upload and 
+unzip file archives containing multiple files. Many systems include some kind of content authoring 
+ability, which may be very basic (such as a WYSIWYG editor) or quite elaborate (ability to incorporate 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 8 
+interactive elements). Most LMS are based on a course structure, so that uploaded or created content is 
+available for a specific course only and has to be copied over or re-created for access from a different 
+course. Many systems have a way to export (and import) assessments such as quiz questions, but other 
+content tends to be stuck in the LMS. This leads to vendor lock-in, as schools and individual faculty are 
+loathe to go through the process of re-creating Web course sites. Some LMS conversion tools are 
+available. I worked for Blackboard for a short time creating such a tool to move content from Web Course 
+in a Box into Blackboard. Netspot (recently acquired by Blackboard) has a Blackboard to Moodle 
+convertor. From my experience these tools only do a partial conversion and often don’t stay current.  
+One of the attempted solutions to this problem was the development of SCORM. The concept of SCORM 
+is that content is created outside of an LMS and imported in. Creating SCORM-compatible content 
+involves packaging content in a standard zip archive which includes a manifest file detailing the content 
+as well as setting out its structure. It includes as well the ability to integrate scored items into an LMS 
+gradebook. SCORM packages are designed to be uploaded and played in any compliant LMS in the same 
+way. Unfortunately, LMS display of SCORM-compatible content has not been consistent across 
+platforms, while the JavaScript based connection with the LMS has created security and permission 
+issues. SCORM development recently has taken a new direction with the Tin Can project. The recently 
+released first version of the Tin Can API is designed to be a successor to SCORM and allows for more 
+tracking information to be recorded as well a more secure environment. The API is based on the simple 
+idea of triples (i.e., a set of three variables), familiar to anyone acquainted with specifications such as 
+RDF (resource description framework), important in the Semantic Web. The three values specify who 
+accomplished what tasks, along the lines of “I did this,” more familiar to many of us as S-V-O (subject-
+verb-object). The API is capable of scaling up from a small, discrete bit of information, such as a single 
+quiz question, to a much larger record of achievement, such as an entire unit. It is still too early to tell if 
+Tin Can will be embraced by LMS vendors and the educational community. 
+Meanwhile, a new common content packaging standard has emerged from a different standards body and 
+is being widely supported in LMS, namely the Common Cartridge (CC) from IMS Global. In a sense, CC 
+is also a successor to SCORM, but it expands on the individualized self-paced learning model. It too 
+packages content in a zip archive with a manifest file. However, content is not displayed in a special 
+content player, as is the case with SCORM, rather it is integrated into the native content or assessment 
+models used by the LMS, making for a more seamless integration. For example, assessments included in 
+the CC (specified in the manifest) will be delivered through the same mechanism as are assessments 
+created by the system’s authoring tool. A CC manifest might also specify that a particular piece of content 
+be associated with a discussion forum. Upon receipt of the CC and reading of the manifest, the LMS 
+creates in its discussion forum area (or in a content area, if so specified), a forum with the title, parameters 
+and description contained in the manifest file. 
+The most recent version of the Common Cartridge (1.2), includes the ability to link to tools or services 
+outside of the LMS using a specification called LTI, for Learning Tools Interoperability. This is another 
+recent development that contributes to opening up closed LMS environments. LTI allows tools and 
+services from outside the LMS to be integrated in flexible ways into course sites. This includes options 
+for enabling secure single sign-on (LMS sends identity info) and back and forth communication between 
+the external tool and the LMS (allowing integration of graded items into the LMS gradebook, for 
+example). This makes adding features to an LMS much easier. To add, for example, a “building block” to 
+Blackboard Learn or a module to Moodle requires use of the proprietary method established by the LMS, 
+coded in the programming language prescribed by the vendor. External services linked through LTI, on 
+the other hand, can be universally deployed across the large number of systems now supporting LTI. This 
+also enables sharing and collaboration between LMS’s, something that was not possible before. 
+Publishers are beginning to make electronic textbooks available, using LTI and CC. This is a big step 
+forward from the days when publishers only made materials available in proprietary “course packs” 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 9 
+which played only in a specific LMS. This standard has been embraced as well by the open access 
+community, with the Open University making some 400 of its courses available in this format. Moodle 
+2.2 incorporates LTI through a feature known as “External Tool”. IMS hosts a list of LTI tools and LTI-
+ready systems. Among the LTI tools of potential interest to language educators are assessment and 
+voice/audio tools such as WebPA or Wimba, the Tegrity recording system, Slideshare, Quizlet, Merlot, 
+Wikispaces. As LTI 1.0 was only finalized last fall, we are likely to see more tools emerge. 
+OUTLOOK 
+Typically, an LMS will be installed locally, on servers operated by the school using the system. 
+Depending on the LMS, this can be relatively quick and easy or complicated and expensive. It requires at 
+any rate knowledgeable support IT professionals. In the last year, however, we have seen LMS beginning 
+to be offered as a cloud service, that is to say hosted on central servers run by the company. Pearson 
+Publishing released OpenClass, a system hosted on Google Apps for Education and freely available to 
+educators and students. Instructure created a stir with its Canvas LMS, which features a quite different 
+user interface, borrowing a number of features from Facebook. Blackboard itself created a freely available 
+cloud version of its Blackboard Learn 9.1 system, called Blackboard Coursesites. This trend seems likely 
+to accelerate, although many schools will not be eager to give up the control and systems integration they 
+have with their locally installed software. The outsourced delivery system for online learning may be of 
+particular interest in settings where IT professionals or funding for hardware are hard to come by. A 
+cloud-based LMS can also be used by an individual instructor who does not have a school-supported 
+system or is dissatisfied with the system in use. 
+The trend towards open source systems also seems likely to accelerate. Blackboard has seen its share of 
+the market decrease in recent years as Moodle and Sakai have picked up steam. In fact, Blackboard has 
+reacted to this trend recently by deciding to buy two Moodle hosting companies, Moodlerooms and 
+Netspot. It has also brought on board Chuck Severance as “Chief Sakai Strategist”. At the same time, 
+Blackboard announced that it would continue to support the quite popular Angel LMS (acquired in 2009) 
+for three more years. Rather than controlling the market with a single product, as had seemed to be 
+Blackboard’s corporate strategy, it has now realigned to the awareness that the LMS market is likely to 
+remain diversified. 
+Schools tend to invest heavily in an LMS and are likely to support only that one platform. If faculty 
+choose not to use that software, they are on their own. Nevertheless, some faculty, dissatisfied with their 
+LMS experience, are opting out of using such a pre-built comprehensive solution to creating a Web 
+presence for their classes. I wrote a while back in this column about language teachers using Personal 
+Learning Environments (PLE) such as iGoogle or Netvibes to create modular pages, which students are 
+also able to customize. Other faculty have built Web resources around blogs created with a service such 
+as WordPress. WordPress is popular in part because of the large number of plug-ins available, which 
+allow services such as spam filtering, enhanced editing, better navigational tools, or easy linking to social 
+networks. A variety of widgets can also be plugged into WordPress blogs. Frequently used in education 
+are plug-ins for discussion forums such as Mingle Forums or bbPress. A collection of the top 25 language 
+learning blogs for 2011 shows a variety of approaches to enabling language learning on a blog. Other 
+language faculty are using WikiSpaces or PBWorks in similar ways.  
+File sharing, a much-used feature of LMS, can be done by using Dropbox or other similar free services. 
+Google Docs offer a variety of free editing and collaborating options. While this approach allows for a 
+much higher degree of flexibility and personal choice, it also requires considerably more effort on the part 
+of instructors. It has the added potential benefit of exposing students to a the tools and services that are 
+available and important today for technology literacy. It’s not likely that knowing one’s way around 
+Blackboard will be helpful in life after college, whereas knowing how to use online collaborative and 
+writing tools could be advantageous. The non-LMS route is most often chosen by faculty who are quite 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 10 
+savvy technologically. This approach has the downside of lacking built-in connectivity to student and 
+administrative systems, to allow for automatically populated course rosters, gradebook integration, and 
+other administrative tie-ins. Doing this manually would not be a pleasant undertaking, although one might 
+create a course shell in the campus LMS, from which students could jump out to the real Web content. 
+Another issue that may arise is the possibility of free services going away or becoming commercial. This 
+has unfortunately been the trend in recent years, as services put constraints on free accounts or move to a 
+solely commercial model. 
+The breaking of the LMS hegemony seems to be echoed recently in terms of instructional delivery. There 
+has been growing interest in OER, open educational resources. In the US, a number of states have set up 
+sharing sites for educational resources, where instructors may post and retrieve learning activities. 
+Language faculty have been active in this area, contributing, for example to Merlot, a peer-reviewed 
+referatory, COERLL, the Center for Open Educational Resources and Language Learning at the 
+University of Texas, or LORO, a British site that collects language learning resources. At the same time, a 
+number of tertiary institutions have decided to make entire course materials freely available online. MIT 
+(Opencourseware) and the Open University (OpenLearn) have been in the forefront of this movement, 
+which has added a number of other countries in recent years through the OpenCourseWare Consortium. 
+Recently, there has been an additional step forward in OER, with several universities not just sharing 
+materials, but opening up online courses for students world-wide. These are sometimes referred to as 
+Massive Open Online Courses (MOOC). In this model, external students do not receive credit or a grade, 
+but they may participate in all course activities, including in some cases getting feedback on assignments. 
+A pair of Stanford University faculty members made a splash in 2011 with a course on Artificial 
+Intelligence which had over 100,000 students, of which about 20,000 completed the course. Recently 
+Stanford and a number of other U.S. universities announced they will create many more open access 
+courses, which will be available through a newly created company, Coursera. While assignments for the 
+Artificial Intelligence course were assessed using analysis and feedback generated by sophisticated AI 
+programs, for the variety of new courses Coursera will be hosting, including poetry, history, and 
+mythology courses, a different approach will be used. Coursera has indicated that it plans to rely heavily 
+on peer-to-peer networking to help with dealing with the large number of students likely to take the 
+courses.  
+Before language faculty throw themselves into this movement, there are a number of logistic, pedagogical 
+and professional issues that would need to be addressed. Most of the recent courses are in computer 
+science related topics and do not feature the kind of interactivity and peer-to-peer collaboration needed 
+for language learning. Having such large numbers in an online language course would be a daunting task 
+indeed. However, opening up a language course to participation from students outside the institution (in 
+limited numbers) would be of interest from a cultural perspective. This is done today, usually on a formal, 
+group basis though class exchanges or teletandem arrangements. An online language learning model that 
+moves in the opposite direction, away from open access, is being tried out by my fellow Virginian 
+colleagues at James Madison University. They are experimenting with outsourcing to a commercial 
+entity, by offering a much debated option for elementary Spanish that uses Rosetta Stone exclusively. A 
+group of community colleges in Kansas (EduKan) has actually been offering online Spanish courses using 
+Rosetta Stone for several years. Liberty university, also in Virginia, will begin offering in 2012 online 
+courses in ESL, German, and Spanish, all “powered by Rosetta Stone.” With the popularity of Rosetta 
+Stone and of services such as LiveMocha or Babble it will be interesting to see whether other schools 
+look to outsource basic language instruction as well. I look forward to seeing studies which analyze not 
+only the learning value of this approach, but also what it means in terms of students’ culture of learning. 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 11 
+REFERENCES 
+Develotte, C. (2009). From face-to-face to distance learning: The online learner’s emerging identity. In R. 
+Goodfellow, & M. Lamy, M. (Eds.) Learning Cultures in Online Education (pp. 71–92). London, UK: 
+Continuum.  
+Ess, C. (2009). When the solution becomes the problem: Cultures and individuals as obstacles to online 
+learning. In R. Goodfellow, & M. Lamy, M. (Eds.) Learning Cultures in Online Education (pp. 15–29). 
+London, UK: Continuum. 
+Goodfellow, R. & Lamy, M. (2009). Learning Cultures in Online Education. London, UK: Continuum.  
+Gouveia, L. & Reis, L. (2008). The Sakai Collaborative Learning Environment: current experience. 
+Revista da FCHS, 5, 96–104.  
+Kramsch, C. & Thorne (2002), Foreign language learning as global communicative practice. In D. Block, 
+D. Cameron (Eds.). Globalization and Language Learning (pp. 83–100). London, UK: Routledge  
+O’Dowd, R. (2009). Entering the world of online foreign language education: Challenging and 
+developing teacher identities. In R. Goodfellow, & M. Lamy, M. (Eds.) Learning Cultures in Online 
+Education (pp. 52–70). London, UK: Continuum. 
+Savignon, S. (2007). Beyond communicative language teaching: What’s ahead? Journal of Pragmatics, 
+39(1), 207–220. 
+ 
+RESOURCE LIST 
+Use of Learning Management Systems: Cultural and Pedagogical Issues 
+• Bridging The Gap Between Teaching Styles And Learning Styles: A Cross-Cultural Perspective 
+TESL-EJ  
+• ESL School: Collectivist and individualist cultures 
+• The Role of the Individualism-Collectivism Dimension in Distance Learning Environments: An 
+Empirical Study  
+• Customizing Moodle for Language Learning  
+• Moodle Makeover presentation  
+• Open-Source LMS: Beyond Moodle  
+• Survey LMS eLearning  
+• Why are So Many LMS Buyers Dissatisfied? aLearning Blog  
+• LMS Satisfaction Features and Barriers elearningTech  
+• State of the LMS 2012 E-Learning 24/7 Blog  
+• Instructure’s Canvas LMS: 7 Cheers Inside Higher Ed  
+• There are alternatives to Blackboard and Moodle: Instructure Canvas goes open source ZDNet  
+• Moodle Pros and Cons BlenderWiki  
+• Insidious pedagogy: How course management systems impact teaching First Monday (good analysis)  
+• Moodle and Social Constructionism: Looking for the Individual in the Community Academic 
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 12 
+Commons  
+• Pearson and Google Jump Into Learning Management With a New, Free System The Chronicle of 
+Higher Education  
+• Sakai in Language Courses Slide show  
+• Language learning using the Sakai collaborative learning environment  
+• How to Wiki in Moodle or Sakai: Collaboration for Online Language Learning IALLT 
+Alternatives to LMS use 
+• 7 things you should know about LMS Alternatives.pdf Educause (very informative)  
+• Using a Blog to Run Your Courses? Why You Might Consider WPMU The Chronicle of Higher 
+Education  
+• Open Source LMS - 10 Alternatives to Moodle Barry Sampson  
+• Learning Management Systems: Disruptive Developments, Alternative Options and the Implications 
+for Teaching and Learning  
+• Ucompass.com Unveils Octane – A Revolutionary System to Enrich Legacy Learning Content with 
+Interactive Tools and Functionality  
+• Blog Tool and Publishing Platform For WordPress  
+• WordPress a Better LMS The Chronicle of Higher Education  
+• 5 Tools for Building a Next-Generation ‘Hybrid’ Class Website The Chronicle of Higher Education  
+• Lane blog Good comments on using LMS alternatives  
+Open Educational Resources and Massive Open Access Courses 
+• Evolution Unbound: Blackboard embraces open source Ray Henderson’s blog (Blackboard CEO)  
+• COERLL Center for Open Educational Resources and Language Learning (University of Texas)  
+• LORO Language learning repository  
+• Open Source e-Learning from Open Elms  
+• Top Schools from Berkeley to Yale Now Offer Free Online Courses  
+• Virtual and Artificial, but 58,000 Want Course New York Times  
+• Udacity MOOC accululator  
+• MITx MIT’s new online learning initiative  
+• Learning from MOOCs Inside Higher Ed  
+• MOOC reflections Learnlets  
+• MOOCs: Massive Open Online Courses or Massive and Often Obtuse Courses? elearn Magazine  
+• A complete list of free online courses offered by Stanford’s Coursera, MIT’s MITx, and Udacity 
+Class Central  
+• MOOCs for the win! elearnspace (good analysis)  
+• MOOCs, Large Courses Open to All, Topple Campus Walls New York Times  
+Robert Godwin-Jones Emerging Technologies: Challenging Hegemonies 
+ 
+Language Learning & Technology 13 
+• George Siemens on Massive Open Online Courses (MOOCs) - YouTube Nice interview with George 
+Siemens  
+Content Exchange and Interoperability 
+• Moodle 2.2 supports connecting to IMS LTI tools Some Random Thoughts blog  
+• Review: LTI Provider for Moodle 2.2 Some Random Thoughts blog  
+• Getting to Know Project Tin Can (Next Generation SCORM)  
+• IMS GLC: All Basic LTI Tools  
+• LTI Tools and Examples : Canvas Help Center  
+• LTI Integrations  
+• IMS GLC Learning Tools Interoperability Implementation Guide Version 1.1  
+• From SCORM to Common Cartridge: A step forward  

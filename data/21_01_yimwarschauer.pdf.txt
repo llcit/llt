@@ -1,0 +1,1008 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2017/yimwarschauer.pdf 
+February 2017, Volume 21, Number 1 
+pp. 146–165 
+ 
+Copyright © 2017, ISSN 1094-3501 146 
+WEB-BASED COLLABORATIVE WRITING IN L2 CONTEXTS: 
+METHODOLOGICAL INSIGHTS FROM TEXT MINING 
+Soobin Yim, University of California at Irvine 
+Mark Warschauer, University of California at Irvine 
+The increasingly widespread use of social software (e.g., Wikis, Google Docs) in second 
+language (L2) settings has brought a renewed attention to collaborative writing. Although 
+the current methodological approaches to examining collaborative writing are valuable to 
+understand L2 students’ interactional patterns or perceived experiences, they can be 
+insufficient to capture the quantity and quality of writing in networked online 
+environments. Recently, the evolution of techniques for analyzing big data has 
+transformed many areas of life, from information search to marketing. However, the use of 
+data and text mining for understanding writing processes in language learning contexts is 
+largely underexplored. In this article, we synthesize the current methodological 
+approaches to researching collaborative writing and discuss how new text mining tools can 
+enhance research capacity. These advanced methods can help researchers to elucidate 
+collaboration processes by analyzing user behaviors (e.g., amount of editing, participation 
+equality) and their link to writing outcomes across large numbers of exemplars. We 
+introduce key research examples to illustrate this potential and discuss the implications of 
+integrating the tools for L2 collaborative writing research and pedagogy. 
+Language(s) Learned in this Study: English  
+Keywords: Collaborative Learning, Writing, Digital Literacies, Research Methods 
+APA Citation: Yim, S., & Warschauer, M. (2017). Web-based collaborative writing in L2 
+contexts: Methodological insights from text mining. Language Learning & Technology, 
+21(1), 146–165. Retrieved from http://llt.msu.edu/issues/february2017/yimwarschauer.pdf 
+Received: November 2, 2015; Accepted: September 19, 2016; Published: February 1, 2017 
+Copyright: © Soobin Yim & Mark Warschauer 
+INTRODUCTION 
+Developing collaborative writing skills is an important prerequisite for the extensive coauthoring that 
+occurs in most academic and career settings. In the fast-paced knowledge economy, collaborative writing 
+tasks are increasingly popular due to the practical benefits of task efficiency and productivity (Jones, 
+2007). Collaborative writing skills are particularly important in academic settings: they are essential, both 
+in accessing and participating in an academic community and in contributing to the knowledge-building 
+process in scholarly disciplines. To equip students with collaboration skills essential for academic and 
+career excellence in the 21st century, educators have integrated collaborative group work as a core 
+component of instructional strategies and curriculum standards across multiple disciplines (e.g., Bunch, 
+Kibler, & Pimentel, 2012; Koehler, Bloom, & Milner, 2015). 
+Recently, the widespread availability of technology-enhanced writing platforms, such as wikis, blogs, or 
+Google Docs, has expanded the range, scope, and pattern of collaboration even more dramatically. 
+Research suggests that collaborative online writing can be particularly beneficial for second language 
+(L2) learners because it can provide them with communicative opportunities to practice English in a non-
+threatening and engaging environment with little restriction on time and space (Sun & Chang, 2012; 
+Warschauer, 1997). Drawing from sociocultural theories of L2 learning, several studies have discussed 
+the positive impacts of L2 collaborative writing, such as enhanced writing quality (Storch, 2005), 
+increased writing fluency (Bloch, 2007), a sense of audience (Sun & Chang, 2012), the pooling of 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 147 
+knowledge and ideas (Donato, 1994), and socialization opportunities with specific discourse communities 
+(Yang, 2014). 
+The language learning benefits of collaborative writing, as well as the practical needs to prepare students 
+to keep up with the essential 21st century literacy demands, continue to draw a great deal of research 
+attention. However, as most studies have used qualitative methods using a small sample size (e.g., Li & 
+Zhu, 2013), they can be insufficient to capture the quantity and quality of writing in collaborative 
+environments, particularly those involving large student populations or extended periods. This challenge, 
+in turn, makes it difficult to compare and synthesize findings and to explore how students’ collaborative 
+behaviors may relate to writing outcomes or perceptions. To better understand the characteristics of 
+collaborative scaffolding and mediation, the field may benefit from quantifiable information that can 
+provide a layer of data triangulation to the qualitative evidence. 
+Recent advances in text mining, which refers to the technique of converting text into data for measurable 
+analysis (Srivastava & Sahami, 2009), can provide a viable methodological alternative for researching 
+collaborative writing. Text mining encompasses a wide range of data mining techniques, which include 
+text categorization, information extraction, and visualization (Feldman & Sanger, 2006). Although text 
+mining has been widely utilized for analyzing data in diverse fields including information search, 
+marketing, and bioinformatics, we have seen little use of text mining for understanding learning processes 
+in education. Particularly, the potential of using text mining as a research tool for L2 collaborative writing 
+research is still largely underexplored. 
+In this article, we first synthesize the current methodological approaches to investigating collaborative 
+writing based on major research strands. Then we discuss how new text mining tools specifically 
+designed to analyze writers’ collaboration patterns in a cloud-based writing system (i.e., Google Docs) 
+can expand the research capacity. Particularly, we introduce research examples to illustrate the potential 
+of using text mining to advance the field by (a) extracting collaboration-related variables from large 
+datasets, (b) visualizing collaboration patterns of emerging documents, and (c) facilitating reflective 
+discussion on collaborative writing process through a stimulated recall. We will also discuss the 
+implications of integrating the tools for collaborative writing research and pedagogy. 
+MAJOR RESEARCH STRANDS AND METHODOLOGICAL APPROACHES 
+Research from a sociocultural perspective of L2 acquisition suggests that collaborative writing involving 
+two or more writers working together (Ede & Lunsford, 1990) pushes learners to reflect on their language 
+use and solve their language-related problems (Swain, 2000). Recent advancements in collaborative 
+technology, such as computer-mediated communication and social software, have expanded the forms and 
+patterns of collaborative group work. This technology has the potential to render human interaction as 
+something easily transmitted, archived, reevaluated, and edited (Warschauer, 1997), all of which lead to 
+new discourse practices, norms, and communicative processes (Dobson & Willinsky, 2009). In 
+educational settings, the value of technology-based collaborative writing has been increasingly recognized 
+as a way to apprentice L2 learners into new literacies practices (Thorne & Black, 2007), or the 
+transformation of literacy practices through the affordances of new media technology (Lankshear & 
+Knobel, 2007). 
+Drawing from these sociocultural views, L2 researchers have examined the affordances of technology-
+based collaborative writing, mainly in three research strands. These include studies that focus on (a) 
+collaborative writing processes, (b) collaborative writing outcomes, and (c) perceptions of collaborative 
+writing. In this review, relevant studies published between 2000 and 2015 were selected via keyword 
+search using major databases (e.g., ProQuest, Google Scholar, ERIC, JSTOR Education) and fourteen 
+journals in the fields of computer-assisted language learning (CALL) and applied linguistics (e.g., 
+CALICO Journal, Computer Assisted Language Learning, Language Learning & Technology, System, 
+Journal of Second Language Writing, Language Learning; selection of journals guided by Smith & 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 148 
+Lafford, 2009). 
+Guided by Chapelle’s (1997) CALL evaluation principles, we included studies that address either (a) the 
+descriptive nature of the language learning process during computer mediated collaboration or (b) the 
+effect of collaboration on L2 learning. Using a grounded approach, we identified the major research 
+strands and limited the review to include empirical studies. Where applicable, we included L1 studies, as 
+well as studies on face-to-face collaboration, in order to diversify the review base and gain a 
+comprehensive understanding of available methodological approaches that can be incorporated in L2 
+settings. The Appendix summarizes the key information about the representative studies for each strand, 
+including their research contexts and methods. This review is not intended to be a comprehensive 
+literature review, but rather to selectively discuss research examples that represent specific 
+methodological approaches. 
+Collaborative Writing Processes 
+Studies that analyze collaborative writing processes usually focus on the strategies, behaviors, roles, and 
+responsibilities of collaborators, as well as the collaborative structure underlying writing tasks. In an 
+attempt to capture the diverse types of collaboration, these studies are often carried out in naturalistic 
+settings by observing how writers collaborate or by using self-reported data (e.g., interview, survey) from 
+writers engaged in collaborative writing. Studies examining collaborative writing processes can be 
+divided into two categories: (a) patterns of collaboration and (b) phases of collaboration. 
+Patterns of Collaboration  
+The term patterns of collaboration refers to the ways students negotiate the writing tasks and jointly 
+construct text to convey their negotiated meaning (Li & Zhu, 2013). Most common methods include 
+qualitative observation and analysis of participants’ group behaviors based on oral (peer talk) and written 
+(comments, chats, documents) interaction data (Storch, 2002), interviews (Posner & Baecker, 1993), and 
+surveys (Noël & Robert, 2004). For example, Noël & Robert (2004) analyzed survey data from 42 
+professionals who undertook collaborative writing projects online, and identified three distinct patterns 
+with differing levels of collaboration: sequential writing (i.e., frequent exchange of ideas and co-
+construction of texts), parallel writing (i.e., cooperative text construction by individuals working in a 
+parallel fashion), and single author writing with peer feedback. 
+In an L2 context, several studies examined interactional patterns in collaborative writing tasks using 
+transcribed peer talk and observations. For example, Storch (2002) identified four patterns of face-to-face 
+interactions in her longitudinal case study of ESL pair writing work: collaborative, dominant–dominant, 
+dominant–passive, and expert–novice. In the collaborative pattern, pairs work in a mutually supportive 
+manner, whereas in the dominant–dominant pattern, pairs contribute equally to the task, yet with little 
+signs of interaction. The dominant–passive pattern is characterized by an authoritarian–subservient role, 
+but in expert–novice pattern, a higher ability peer supports and facilitates the participation of a less-able 
+peer. By relating the interactional patterns to writing outcomes (i.e., analysis of instances suggesting the 
+take-up of language learning opportunities in a subsequent task), she concluded that students in the 
+collaborative pattern and expert–novice pattern performed better in writing tasks than pairs observed in 
+the other patterns. 
+Using a small group case study, Li and Zhu (2013) found similar patterns of group dynamics in wiki-
+based essay composition. Their analysis of data from the wiki modules and interviews suggested that in 
+each pattern (i.e., collectively contributing or mutually supportive, authoritative–responsive, and 
+dominant–withdrawn), L2 group members exhibited differences in their roles and task approaches, which 
+in turn influenced their perceived learning experiences. Although the results provide valuable insights into 
+the scaffolding benefits as posited in the sociocultural learning theory, they contain limited 
+generalizability due to their small sample sizes. 
+Other studies noted a distinct pattern of online collaboration, potentially due to the availability of web 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 149 
+features that allowed both synchronous and asynchronous collaboration. For example, Lund (2008) 
+examined high school EFL learners’ wiki-based collaborative writing process using a videotaped corpus 
+of group interaction and wiki activity logs. He also analyzed two types of collaborative activity that differ 
+in terms of the level and scope of the collaboration: local collaborative mode (i.e., members working to 
+develop topics in an autonomous mode) and distributed collective mode (i.e., jointly constructing new 
+information in a synchronous, interdependent mode). The findings suggest that the cloud-based features 
+helped students easily transition from local collaboration to collective networked production, and also 
+from consecutive to mixed activity mode, which implied the fluid and flexible nature of knowledge co-
+construction processes in online contexts. 
+Phases of Collaboration  
+Researchers have emphasized the importance of considering the developmental phases in collaborative 
+writing research, arguing that the sub-processes of writing place different demands on the writers (Hayes 
+& Flower, 1980) and may involve different interactional patterns for each sub-process (Onrubia & Engel, 
+2009). Several studies report the existence of distinct phases in technology-based collaboration. For 
+example, based on the qualitative analysis of wiki revision histories, the L2 study by Kessler and 
+Bikowski (2010) identified three consecutive phases of collaboration during a group essay composition: 
+build and destroy (i.e., initial content constantly being deleted and rebuilt), full collaboration (i.e., 
+iterative revision of content, yet without a large-scale deletion), and informal reflection (i.e., exchanging 
+personal reflections using the commenting function). These phases are characterized by wiki 
+functionalities that allow iterative revision and commenting. Student interviews and analysis of wiki 
+archives revealed an increasing participation rate and students’ growing comfort as the phases progressed. 
+In another study on collaborative writing in a virtual class taught through Moodle, Onrubia and Engel 
+(2009) analyzed multiple data sources, including chats, comments, group documents, interviews, and self-
+reflections, and found four distinct stages of L1 collaborative writing processes (i.e., initiation, 
+exploration, negotiation, and co-construction). The results suggest that the groups tended to stay at the 
+second of the four established phases, exploration, with few reaching the highest phase of co-
+construction. The authors explain that this was partly due to the collaborative writing strategies 
+implemented in phases. Most groups utilized the cooperative strategy (i.e., division of labor) in the 
+exploration phase and settled with a summative product, whereas only a few groups moved forward to the 
+more advanced phases of collaborative knowledge construction, where they employed mutually-
+supportive strategies for group revision of the document. 
+Other studies on face-to-face collaboration raised similar concerns, reporting the complexity and 
+difficulty in transitioning from the initial phases to more advanced phases of collaborative knowledge 
+construction (Dillenbourg, 2002). The results also align with Storch’s (2005) claim that collaborative 
+writing tends to occur only within a limited range of writing processes, rather than across all writing 
+processes. Collaborative scaffolding tends to be limited to the brainstorming or to the final stages of 
+writing—the peer review stage when students review each other’s written texts and make suggestions on 
+how they could be improved. 
+Unlike previous findings that identified the distinct phases of collaborative writing in a wiki, Strobl 
+(2014) reported that the collaborative writing stages in Google Docs are hardly distinguishable. Using the 
+Google Docs revision history function, she found that the group writing process was characterized by a 
+constant intertwining of writing and revising (e.g., deleting, rewriting, reshuffling) activities, potentially 
+because of the synchronous writing and editing functionality of Google Docs. The results indicate that the 
+technological characteristics of a collaborative platform can bring about new forms of collaboration, 
+which illustrates the point that technology tools do not merely serve as a medium for collaboration, but as 
+an integral part of collaboration (Thorne, 2003; Brodahl, Hadjerrouit, & Hansen, 2011). 
+The new patterns and processes of collaborative writing brought by increasingly widespread use of 
+synchronous interaction can be arduous and insufficient to interpret with qualitative text analysis (e.g., 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 150 
+analysis of written interaction, final text) alone. Although several studies have provided descriptive data 
+on collaborative behavior by analyzing data archives in wikis or blogs (e.g., Arnold, Ducate, & Kost, 
+2012), these studies carry low statistical power due to their small sample sizes. This is understandable 
+given how manual coding of group interactions can be intensive and time-consuming. When triangulated 
+with a computational technique that automatically generates usage statistics related to collaborative 
+writing and revision behaviors, the insightful results from qualitative approaches can be enhanced to gain 
+greater reliability and interpretive power. 
+Collaborative Writing Outcomes 
+Previous research has long highlighted the benefits of collaboration in terms of both L2 learning and text 
+quality (e.g., Elola & Oskoz, 2010; Kost, 2011; Storch, 2005). When it comes to online collaboration, 
+empirical studies on the effects of the collaboration process on writing products are scarce (Wang & 
+Vásquez, 2012). Existing studies typically utilized descriptive textual (e.g., Elola & Oskoz, 2010; Mak & 
+Coniam, 2008) or quasi-experimental analyses (e.g., Strobl, 2014; Wichadee, 2011) of small samples, 
+with few studies involving a control condition (see Appendix). 
+Mak and Coniam (2008) authored one of the earliest studies that examined the textual quality of 
+technology-based collaborative products. In their study of ESL secondary students’ wiki-based 
+collaborative writing, they traced textual changes in the amount and the types of writing (e.g., word count, 
+t-unit, purpose of revision) that one group produced across multiple phases of collaboration. Using both 
+descriptive textual analysis and qualitative analysis, the authors suggested that the students produced 
+increasingly complex and coherent texts in greater quantity due to the collaborative nature of the task and 
+the presence of authentic purpose. 
+Other studies adopted quasi-experimental designs to understand the differences between individual and 
+collaborative writing outcomes. Findings from these studies suggest that the strength of collaborative 
+writing primarily lies in improving content and organization. For example, using a quasi-experimental 
+design, Arslan and Şahin-Kizil (2010) examined how blog-based writing instruction affects EFL students’ 
+writing performance, controlling for participants’ age, educational background, and baseline language 
+proficiency. Compared to the control group, the blog intervention group displayed greater improvement in 
+content and organization, but not in other areas such as vocabulary and grammar. Findings from other 
+studies (e.g., Wichadee, 2011) suggest that using collaborative online platforms may heighten students’ 
+awareness of audience, which helps them focus on the clarity of their message and organization. 
+Kuteeva’s (2011) discourse analysis study conducted in an English for Academic Purposes setting also 
+advocates for a stronger reader–writer relationship in collaborative environments. She employed meta-
+discourse textual analysis to compare the use of reader-oriented features and interactional meta-discourse 
+markers in individual and collaborative corpora (i.e., compilation of collaboratively-written texts). The 
+results that revealed a higher use of engagement markers (i.e., personal pronouns, questions) in the wiki-
+based argumentative texts, combined with participants’ questionnaire responses, suggested that writing on 
+the wiki can contribute to raising students’ audience awareness, resulting in more reader-oriented texts. 
+In addition to examining the differences in the outcome texts, several studies indicated how writing 
+processes or behaviors during collaboration could be related to writing outcomes. For example, Strobl 
+(2014) used a quasi-experimental design to examine the processes and outcomes of individual versus 
+collaborative writing. Using taxonomy-based analysis of revision histories and peer discussion produced 
+by L2 undergraduate students, the researcher suggested that the in-depth discussions that typically occur 
+during the planning phase of collaboration might have led to an improvement in content and organization 
+of the group documents. This aligns with previous findings that suggest the important role of the planning 
+phase as a predictor of writing quality (e.g., Saddler et al., 2004), and also as the most time-consuming 
+and valued activity during the collaborative writing process (Storch, 2005). 
+Elola and Oskoz (2010) raised a similar point in a L2 wiki-based study that compared writing outcomes 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 151 
+between individual and collaborative modes. Although they did not find notable differences in writing 
+outcomes (i.e., fluency, complexity, accuracy)—admittedly due to a small sample size (N = 8)—their in-
+depth qualitative analysis of wiki drafts and chats noted the differences in the participants’ strategies for 
+producing a text between the two modes. When working individually, learners tended to wait until the 
+final drafts for close editing of grammar and vocabulary, whereas such adjustments appeared at multiple 
+points in the collaborative writing process. This difference in the correction pattern could have been due 
+to the presence of readers in the collaborative mode, which may have encouraged writers to pay attention 
+to grammatical accuracy throughout the process of composing multiple drafts. 
+The diversity and complexity of collaboration context (e.g., task type, students’ language proficiency), as 
+well as the different outcome measures used across the studies, may account for the mixed results on 
+collaborative writing outcomes. Moreover, the lack of measurable data on writers’ collaborative behavior 
+(e.g., the amount of writing, revision, feedback) makes it challenging to understand how these 
+characteristics may contribute to writing outcomes. This calls for the need to implement more objective 
+measurements of writers’ collaborative behaviors. For example, as we possess little empirical data about 
+how much—and in what ways—diverse students collaboratively write and revise their work, it is unclear 
+how these collaborative behaviors may contribute to students’ writing outcomes (Olson, Wang, Zhang, & 
+Olson, 2017). 
+Perceptions of Collaborative Writing 
+Researchers have examined L2 students’ perceptions of collaborative writing through surveys, interviews, 
+and observations primarily using qualitative approaches (see Appendix), producing evidence both for and 
+against the pedagogical argument for utilizing collaborative technology. A salient characteristic of social 
+media that L2 learners perceive as beneficial is the presence of a real audience. For example, Turgut’s 
+(2009) analysis of EFL students’ wiki posts, interviews, and reflective journals revealed that students 
+found the presence of a real audience to be helpful to improve their writing skills by raising their 
+awareness of local issues, such as word choice. Students also claimed that the wiki was a generative 
+source for creative ideas, helping them gain more confidence in experimenting with their writing. 
+Students’ positive perceptions toward web-based collaborative writing were also noted in Kessler, 
+Bikowski, and Boggs’ (2012) study on the use of Google Docs in an L2 academic context. Content 
+analysis of participants’ in-text communication showed that students maximized the collaborative space 
+for a wide range of purposes, such as planning logistics and sharing strategies in handling writing 
+concerns, which the students perceived to make the writing process more effective. Sun and Chang (2012) 
+similarly argued for the potential of web-based collaboration for developing academic literacy skills. 
+Based on content analysis of blog pages produced by L2 graduate students, they suggested that informal 
+writing practices provide a non-threatening environment where L2 students experiment with the academic 
+genre and bridge the gap between their home languages and academic English.  
+Despite the overall positive attitudes toward technology-based collaborative writing, there are several 
+noteworthy cautions in using collaborative technology for writing. Based on the analysis of a videotaped 
+corpus of student face-to-face interactions and interviews, Lund (2008) has suggested that students 
+express reluctance towards having their unfinished work seen by others and editing others’ work due to 
+concerns regarding their own editing inexperience. Other L2 studies suggest the psychological ownership 
+of a text might lead to hesitancy to change another writer’s contribution, particularly in content revision 
+(e.g., Arnold et al., 2012), thus displaying more of a cooperative work pattern (i.e., editing one’s own 
+text) than a collaborative pattern (i.e., editing others’ texts). One of the students’ major concerns centered 
+around the overriding of each other’s ideas, as the networked online tools permit more than one person to 
+edit the same text simultaneously (Lee, 2010). 
+The lack of student accountability and unequal contributions to the collective product has also been raised 
+as an issue. In Strobl’s (2014) study based on survey and document analysis, collaboration failed in one 
+group due to some free riders. Given that accountability is an important prerequisite for successful 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 152 
+collaboration, it is important to design tasks and evaluation strategies that encourage balanced 
+participation (Hew & Brush, 2007). 
+METHODOLOGICAL CHALLENGES 
+The reviewed studies suggest important implications on the affordances of technology-based 
+collaborative writing in three different, yet related, areas: writing processes, outcomes, and perceptions. 
+The Appendix shows that most studies have typically analyzed student interaction (e.g., comments, chats, 
+discussions), text (student-produced documents), interviews, and surveys to qualitatively examine 
+collaborative writing processes or perceptions in small group settings. The role of in-depth, qualitative 
+studies will continue to be important in understanding how L2 learners negotiate meaning and scaffold 
+each other in collaborative online contexts. This is especially so as ecological approaches that value the 
+particularities of contexts and the social embeddedness of technology (van Lier, 2000; Warschauer, 1997) 
+are generally deemed more appropriate than experimental studies that test the efficacy of integrating tools 
+(Chapelle, 2009). 
+Yet, the use of quantifiable data on writers’ collaborative behavior as a triangulation source is valuable. 
+For example, since there is lack of measurable data available about how much, and in what ways, diverse 
+students collaboratively write and revise their work, how these collaborative behaviors may contribute to 
+students’ writing development and learning outcomes remains unclear (Olson et al., 2017). Several 
+studies have provided measurable data on students’ revision behaviors or quantity of contribution (e.g., 
+Arnold et al., 2012) with manual coding of data archives in wikis or blogs; however this in-depth text 
+analysis may be challenging with large-scale datasets. 
+Research in L1 contexts has also underscored the need to monitor groups’ actual usage of Google Docs 
+and measure writers’ collaborative behavior in order to better capture collaborative writing processes 
+(Zhou, Simpson, & Domizi, 2012) or the conditions affecting writers’ perceptions (Birnholtz, Steinhardt, 
+& Pavese, 2013). For example, the recent experimental study by Birnholtz et al. (2013) on L1 learners’ 
+synchronous collaborative writing on Google Docs suggests that the quantity of collaboration (e.g., 
+number of comments, edits) may affect writers’ perceived ownership of the document and attractiveness 
+of the group task. The findings suggest that the amount of total editing positively affected participants’ 
+perceptions of group ownership. However, the amount of peer edits negatively affected one’s perceived 
+attraction to the task, which may indicate some perceived invasiveness of edits directly done by others. 
+Next, increasingly diversifying types and capacities of collaborative technologies also presents challenges 
+in collaborative writing research. For example, the use of simultaneous writing and editing features in 
+cloud-based systems, such as Google Docs, often leads to new ways of collaborative writing, 
+characterized by non-linear interaction. Such iterative practices often involve mixed modes of 
+collaboration and coordination, therefore making it difficult to identify patterns in these practices. These 
+challenges call for alternative sources of data for triangulating the qualitative evidence typically seen in 
+collaborative writing research. 
+Insights from Text Mining Approach 
+Recent advances in text mining techniques can provide a viable methodological option to address the 
+aforementioned challenges. In collaborative writing research, new text mining tools specifically designed 
+to extract information on writers’ collaboration patterns can help elucidate processes of collaboration by 
+quantifying or visually representing the collaborative writing patterns, particularly across large numbers 
+of exemplars. Several text mining tools have been widely integrated and researched in the fields of 
+computer science and engineering to improve the design and support features utilized in collaborative 
+writing systems (Olson et al., 1993). For example, visualization programs have been developed to 
+understand the evolution of software code (i.e., CVSscan; for more details, see Voinea, Telea, & Van 
+Wijk, 2005) and collaborative revision in Wikipedia (i.e., HistoryFlow; for more details, see Viégas, 
+Wattenberg, & Dave, 2004). Yet collaborative writing research that has integrated text mining systems in 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 153 
+educational contexts has only recently emerged. Below we introduce three prominent research examples 
+of integrating text mining tools that are specifically designed for analyzing group documents in Google 
+Docs, one of the most widely applied collaborative writing tools. 
+Example 1: Quantifying the Amount of Collaboration 
+An open source text mining tool called SCAPES1 (Studying Collaborative Authoring Practices in 
+Educational Settings) possesses the capacity to download and analyze revision history on Google Docs up 
+to 100 documents at a single run. This tool automatically produces revision history spreadsheets reporting 
+the version, date and time, authors, word count, words added, and words deleted (see Figure 1). Based on 
+these data, researchers can extract collaboration-related variables such as the number of contributors, 
+editing sessions (i.e., how many times authors made changes to a document), and edits (i.e., how many 
+times a specific document was edited), as well as the number of words individuals added, deleted, or 
+moved. These variables can be utilized to examine the characteristics of writers’ collaborative behaviors 
+and how their writing and revision may relate to their writing outcomes. 
+ 
+Figure 1. SCAPES’ revision history spreadsheets report version, date and time, authors, word count, 
+words added, and words deleted. 
+Using these variables available in SCAPES, Zheng, Lawrence, Warschauer, and Lin (2015) analyzed 
+3,537 Google documents collaboratively written by 257 sixth-grade L1 students for an academic year. As 
+the first attempt to use large-scale datasets to empirically examine students’ long-term engagement with 
+collaborative writing, this study revealed several key aspects of collaboration that would have been hard 
+to track with qualitative data analysis or observations that typically involve small sample sizes or short-
+term, experimental tasks. For example, the authors found that during an academic year, an average of 1.4 
+co-authors and a maximum of six co-authors, collaborated on the document of various genres in English 
+Language Arts classes. Student writers produced an average of 13.76 documents averaging 248 to 430 
+words, and 67.84 edits (i.e., adding, deleting, moving) per document, working on each document for an 
+average of 15 days during the school year. These extensive writing practices suggest a significant 
+improvement from the typical literacy practices in middle schools, where students produce a page or less 
+of text during a nine-week period (Applebee & Langer, 2011). The findings imply the potential of cloud-
+based technology in supporting the continuity of writing and revision due to its accessible and interactive 
+features. 
+Using longitudinal growth models, Zheng et al. also examined writing growth trajectories across edit 
+sessions and found that documents with multiple contributors were drafted more slowly and had fewer 
+words added during each editing session than did single-authored documents. In addition to the text 
+mining results on the quantity of writing and revision, the researchers manually coded the types of 
+feedback using the revision histories (e.g., comment, direct edit, compliment). These data were then 
+related to students’ standardized writing achievement, but there was no significant correlation. Instead of 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 154 
+using standardized test scores alone, future studies may use more robust measures of writing outcomes, 
+such as individual or group essay grades with analytic rubrics. These detailed measures can reveal which 
+components of writing are affected by certain collaborative behavior. 
+In L2 learning contexts, the quantifiable information about collaborative writing and revision both at the 
+individual and document level can help researchers empirically understand the contextual factors of 
+collaboration, an important consideration in sociocultural views of second language acquisition (SLA). 
+For example, the variables extracted from text mining tools can help us understand more specifically what 
+factors or conditions (e.g., group size, group members’ language proficiency, task types) may facilitate or 
+constrain L2 students’ collaborative writing behaviors, subsequently affecting their writing quality. 
+Particularly given that text mining tools can handle large samples, integrating the tools may enhance the 
+explanatory power of the suggested benefits of technology-based collaboration for L2 learners. 
+Example 2: Visualizing the Collaborative Writing Patterns 
+Another text mining tool that can help address the methodological challenges in collaborative writing 
+research is a document visualization tool called DocuViz.2 Using information from the revision histories 
+and tracking changes on Google Docs, this tool produces a visual history chart across different time 
+points, indicating the authors, their portion of writing, and time (Wang, Olson, Zhang, Nguyen, & Olson, 
+2015). This data enable researchers to examine how simultaneous editing and writing may affect the 
+patterns of collaboration in an emerging document, and their subsequent effect on document quality 
+(Wang et al., 2015). This is particularly helpful in understanding both simultaneous and developmental 
+collaborative writing processes, as it provides multiple views of the emerging document (see Figure 2) 
+across different time points. Because DocuViz provides usage statistics (e.g., sources, amount, and timing 
+of revision), researchers can track the intensity of simultaneous editing activities at a certain phase of the 
+collaborative writing process or how patterns of revision activities may change over time. 
+ 
+Figure 2. Views of participation in co-authoring a document. Vertical bars are the slices with authors 
+noted in colors; the size of their contribution is the size of the bar. (a) shows the slices in order of 
+appearance; (b) shows the slices on a timeline, where one can see bursts of activity and then delays. The 
+key at the bottom shows which person corresponds to which color and how many characters in the final 
+document they contributed (Olson et al., 2017; author permission granted). 
+The developers of DocuViz (Olson et al., 2017) analyzed collaborative writing patterns and outcomes of 
+96 Google Docs written by engineering undergraduate majors. Using a combination of DocuViz and 
+qualitative coding of in-text communication, they found six different patterns of collaboration (i.e., from 
+scratch, outline, assignment, example, assign people, and informal discussion; see Figure 3), which 
+otherwise would have been difficult to analyze due to iterative revisions and edits. What is also 
+noteworthy is that DocuViz assists in extracting variables that might be hard to identify without 
+visualizing or quantifying these patterns and thus enables researchers to examine the link between the 
+writing patterns and the writing quality. For example, Olson et al. utilized DocuViz data to develop a 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 155 
+variable called evenness of participation, which measures the degree to which the group work is 
+collaboratively distributed. The evenness of participation is also visualized in DocuViz and can be 
+calculated using a researcher-developed measure (i.e., the proportion of the final document produced by 
+each team member and the variance of the proportions). Using hierarchical linear regression, the 
+researchers found that the evenness of participation is positively associated with the writing quality. 
+ 
+Figure 3. Outline (a) and Example (b) pattern. In (a), the leader (in blue) wrote a short chunk in the first 
+slice, an outline of the document. Then all of the co-authors (other colors) wrote separate sections of the 
+document. In (b), students pasted an example text (starting document, in blue) and then shortened and 
+modified it (Olson et al., 2017; author permission granted). 
+The mixed-methods study by Yim, Wang, Olson, Vu, and Warschauer (in press) extended this line of 
+inquiry by examining how collaboration-related behaviors (e.g., the evenness of participation, editing 
+quantity) in a synchronous, collocated setting may relate to writing quality and quantity. Using multiple 
+methods including document visualization (i.e., DocuViz), computational text analysis (i.e., Coh-Metrix), 
+and rubric-guided quality assessment, this study examined L1 undergraduates’ in-class synchronous 
+writing processes and outcomes in Google Docs. The authors found that balanced participation and 
+amount of editing led to longer texts with higher quality scores for content and evidence, as well as more 
+diverse use of vocabulary in group texts. Unlike previous findings on asynchronous feedback that 
+supported the benefits of collaboration on organization (e.g., Arslan & Şahin-Kizil, 2010), however, Yim 
+et al. (in press) found that the synchronous collaboration practices did not enhance organization. The 
+results suggest that balanced pooling of ideas from multiple authors may enhance the diversity of content 
+and vocabulary, but that careful attention is needed to polish the structure for improved organization, 
+particularly in synchronous modes of collaboration. 
+The use of visualization tools is critical to understand the emerging document development processes and 
+outcomes in cloud-based platforms such as Google Docs, particularly those that evolve over extended 
+periods. In L2 contexts where issues such as mutuality and equality affect group dynamics (see discussion 
+in Storch, 2002, 2005), balance in contribution and participation carries even greater weight and thus 
+needs a special attention and emphasis. Inspecting the collaboration process using visualization tools can 
+help identify and examine such patterns, thus informing the design of instructional tasks and strategies to 
+accommodate L2 writers with diverse capacities and backgrounds. 
+Example 3: Stimulated Recall on the Collaborative Writing Processes 
+Document visualization tools can also be effective instruments for stimulated recall, which refers to a 
+subset of retrospective research methods that accesses participants’ reflections on mental processes 
+(Lindgren, Sullivan, & Stevenson, 2008). Traditionally, the writing process has been examined using 
+think-aloud protocol, direct observations, text analysis, stimulated recalls with both audio and video 
+recording, or photography (Stapleton, 2010). More modern methods include keystroke logging software 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 156 
+(Lindgren et al., 2008), but it is often difficult to sift through the fine-grained, disconnected data 
+generated by keystroke logging to interpret complex writing processes, especially with long-term projects 
+involving multiple authors. 
+DocuViz can be a user-friendly instrument for stimulated recall on collaborative writing behaviors or 
+processes. In particular, its pop-up feature allows the users to view actual revision histories to track the 
+changes when they hover their mouse over a portion of a column slice. In a stimulated recall interview 
+using DocuViz, one L2 undergraduate student provided a detailed explanation on her groups’ 
+collaboration process during an academic essay task (Yim & Warschauer, 2016). Looking at the 
+visualization chart (Figure 4) that marks a simultaneous expansion and subsequent reduction of the size of 
+different bars, she discussed how her group members practiced the divide-and-conquer strategy (e.g., each 
+member writing one paragraph) and then revised the completed essay together to make it succinct and 
+coherent. Another participant discussed the value of using DocuViz for reflecting upon her collaboration 
+process: “I didn’t realize how much of a contribution people had on the groups. I kind of knew as we 
+were typing, but just seeing it here like this helps me to understand what changes we’ve made and why.” 
+ 
+Figure 4. Simultaneous writing and revising of paragraphs by six group members indicated by expansion 
+(blue arrow: the size of each bar simultaneously expanding) and reduction (red arrow: the size of each bar 
+simultaneously reducing) of bars of six different colors (Yim & Warschauer, 2016; author permission 
+granted). 
+Another open-source visualization tool called AuthorViz3 can also be useful for stimulated reflection on 
+L2 collaborative writing. As this tool color-codes sections written by each author in the final document in 
+Google Docs (Wang, 2016), it is helpful to identify writers’ different linguistic contributions. In the study 
+by Yim and Warschauer (2016), an undergraduate student noticed the colorful mark-up of sentences in 
+AuthorViz, and discussed how her group did not divide any roles or sections, but spontaneously began to 
+write sentences together and to build off in a synchronous hands-on pattern (see Figure 5). Looking at the 
+AuthorViz view of her group document, she also discussed how her group members, including an L2 
+student, provided editing support for each other regardless of their writing capacities. She added that these 
+direct edits did not come across as offensive because the group members had an intuitive consensus that 
+they were building the sentences together. In L2 research, integration of these visualization tools can be 
+particularly valuable not only for stimulated reflection, but also for tracking and analyzing writers’ 
+language use (e.g., language related episodes; Swain & Lapkin, 1995) in group documents with multiple 
+revisions. 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 157 
+ 
+Figure 5. AuthorViz view of a collaboratively written paragraph in Google Docs. Different colors denote 
+writing and revision made by each contributor. One sentence written by an L2 student (noted in red) is 
+edited by three other native-speaking peers (noted in green, orange, and blue) for grammar. In the 
+following sentence, the L2 student edits her native-speaking peer’s text (Yim & Warschauer, 2016; author 
+permission granted). 
+DISCUSSION AND FUTURE DIRECTIONS 
+Text mining provides fine-grain analysis of collaborative writing processes that were once hidden in 
+research that relies mainly on traditional methods of observation, survey, or qualitative document 
+analysis. For example, cloud-based text mining tools can provide important usage statistics at the 
+individual and group level, such as amount of writing and revision and number of edit sessions. These 
+usage statistics can also be studied over the course of time, providing rich insights about L2 students’ 
+participation or writing trajectories. Access to additional sources of data on learners’ technology use not 
+only feeds back into enhancing pedagogy but also contributes to SLA theories (Garrett, 1991). 
+Using the additional layer of information available from text mining, future studies may better examine 
+the specific mechanisms through which technology-based collaboration affects language development and 
+the implications of these relationships for SLA. For example, sociocultural theories of SLA underscore 
+the importance of contextual factors that influence the affordances and constraints of mediating 
+technologies (Chapelle, 2009; Warschauer, 1997). Previous research suggests that factors such as 
+members’ language proficiency (Wigglesworth & Storch, 2012) or task type (Aydin & Yildiz, 2014) may 
+impact the degree and level of collaboration. The impacts of these factors on social interaction processes 
+or outcomes, particularly with large datasets, will be better understood when in-depth qualitative analyses 
+are supported by quantification and visualization of collaboration using text mining techniques. These 
+investigations will help researchers identify the role of diverse socio-emotional or environmental 
+characteristics (e.g., efficacy, aptitude, anxiety, strategy, technology skills, curriculum)—critical factors 
+in L2 acquisition (Skehan, 1991; Ellis, 1994)—in mediating their quality and quantity of peer 
+collaboration, writing, and subsequent language development. 
+It should be noted, however, that text mining alone may not be sufficient to provide insights into complex 
+collaborative writing behavior and development. Researchers have warned that carefully controlled 
+studies of language learning driven by quantitative analysis do not align with the ecological approach of 
+CALL (van Lier, 2000) which values the particularities of technology use in contextually rich and 
+naturalistic environments (Warschauer, 1997). Therefore, balanced use of qualitative as well as 
+quantitative evidence made available by integrating text mining tools is necessary to investigate multiple 
+aspects of social interaction and language learning processes including the collaboration trajectories, such 
+as changes in written participation (e.g., amount of writing, revision) across different phases of 
+collaboration, and how students’ scaffolding and mediation in oral discussion may impact the amount of 
+their written contribution. 
+Careful triangulation of multiple sources is particularly desired in using text mining, as its current form 
+provides statistics based on the amount of written interaction—only one of the dimensions of 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 158 
+collaboration. Given that one of the critical concerns in SLA is the role of linguistic input, we need to 
+understand how learners explore the different processing conditions of interactions (e.g., written vs. 
+spoken, synchronous vs. asynchronous), whether these conditions modify linguistic input differently, and 
+to what extent they subsequently affect language development (Chapelle, 2009). Therefore, diverse 
+channels of student collaboration (e.g., verbal discussion, commenting, chat) and the context-specific 
+factors (e.g., participant background, curriculum context, teacher role) should be taken into account when 
+examining student participation and collaboration using text mining. 
+The pedagogical implications of using text mining tools in collaborative writing instruction are also 
+significant. For example, text mining tools can help instructors monitor how much each author 
+contributed to the final version of the writing as well as any changes made throughout the composing 
+process. The multiple aspects of usage information gathered from these tools can be exercised as rich 
+sources for evaluating collaborative group works. For students, incorporating these tools into reflective 
+group activities can help alleviate students’ concerns about accountability, a primary concern about 
+collaborative writing as revealed in previous studies (e.g., Strobl, 2014). 
+Integrating text mining can also help increase students’ collaboration awareness—that is, the awareness of 
+what each group member is doing or has done so they can better coordinate (see Wang et al., 2015). For 
+example, the use of DocuViz during collaborative group work can help group members to identify the 
+parts of the document with the most revisions for reaching consensus or restructuring ideas (Olson et al., 
+2017). Research indicated that collaboration awareness helps reduce co-authors’ frustrations, which leads 
+to an improvement in writing efficiency and quality (e.g., Olson & Olson, 1995). Considering that 
+balanced participation tends to be associated with higher textual quality, particularly in content and 
+evidence (Yim et al., in press), future tools can provide a dashboard or a summary table that helps to raise 
+awareness of participation equality by visualizing each member’s amount of writing and editing in real-
+time. 
+Furthermore, advances in text mining can contribute to the development of instructional tools that support 
+collaborative writing. A recent example is iWrite, a cloud-based academic writing tool designed for 
+engineering students. Using text mining techniques, this tool provides support for assigning topic-specific 
+writing tasks, as well as analyzing group revision behaviors and patterns of collaboration through 
+functions such as revision maps and topic evaluation charts (Calvo, O'Rourke, Jones, Yacef, & Reimann, 
+2011). In addition to promoting students’ self-and group-reflection on their collaboration, the use of these 
+features provides a valuable assessment resource because student progress and quality of collaborative 
+work can be tracked across time through students’ compilation of works. Future text mining tools may 
+also integrate computational text analysis tools such as Text Easability Assessor, which calculates the 
+textual characteristics of a given text and compares them to large corpora means. Collaborators can use 
+this information to reflect on multiple aspects of their joint texts (e.g., by identifying weak areas of text) 
+and plan for further revisions. 
+In the 21st century, the ability to communicate through mediating technologies is an integral part of 
+collaboration, as well as of communicative competence (Chapelle, 2009). L2 students engage in a variety 
+of digital genres and new forms of discourse, which demands appropriate support for coping with new 
+communicative processes, as well as new ways of participating in knowledge and identity construction 
+(Thorne & Black, 2007). The rapid changes in L2 literacy practices in collaborative digital environments 
+also require methodological innovations in research. Careful integration of advanced technology tools 
+such as text mining will help us better understand these evolving L2 literacy experiences in networked 
+environments and their impacts on language development. 
+ 
+ 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 159 
+APPENDIX. 
+The studies with an asterisk mark had multiple research questions that were addressed using either a qualitative or quantitative method within a 
+mixed-methods approach. In this review, we focus on the methodological approach employed in addressing each research question within the 
+study. 
+Research 
+Strand  
+Study  Theoretical 
+Framework  
+Technology 
+Type  
+Key Research Question  Participants  Research 
+Design  
+Methods   
+Collaborative 
+Writing 
+Outcomes  
+Strobl (2014)* Not specified  Google Docs  Differences in writing 
+quality between 
+collaborative and individual 
+documents 
+49 university 
+students of German 
+L2 learners 
+Quasi-
+experimental 
+T-test on text quality measures 
+(i.e., complexity, accuracy, 
+fluency, holistic score) 
+ Wichadee (2011) Not specified  Wiki Writing improvement after 
+a wiki-based group work 
+35 Thai ESL 
+university students  
+Quasi-
+experimental  
+T-test on single group pre- and 
+post- test 
+ Mak and Coniam 
+(2008) 
+Not specified  Wiki  Changes in writing quantity 
+and quality in a wiki-based 
+group document 
+4 Hong Kong ESL 
+secondary students 
+(1 group) 
+Descriptive, 
+qualitative  
+Descriptive report on the proxy 
+measures of quantity, 
+complexity, and coherence 
+ Arslan and Sahin-
+Kizil (2010) 
+Not specified  Blog  Differences in writing 
+improvement between blog 
+and non-blog group  
+50 Turkish EFL 
+university students 
+Quasi-
+experimental  
+T-test on experiment/control 
+groups’ pre- and post-test and 
+ANOVA 
+ Kuteeva (2011) Not specified  Wiki Difference in metadiscourse 
+features in collaborative 
+versus individual corpora 
+14 EFL Stockholm 
+university students  
+Descriptive 
+text analysis  
+Metadiscourse analysis based 
+on coding taxonomy 
+Collaborative 
+Writing 
+Process 
+Li and Zhu 
+(2013) 
+Sociocultural  Wiki Patterns of group 
+interaction 
+9 EFL Chinese 
+university students 
+(3 groups) 
+Qualitative  Text analysis based on coding 
+taxonomy and interviews 
+ Lund (2008)  Sociocultural  Wiki Types of collaborative 
+activity 
+31 high school EFL 
+students (use of 
+class wiki)  
+Qualitative Content analysis of videotaped 
+interactions and wiki logs 
+based on coding taxonomy 
+ Strobl (2014)* Socio-
+constructivist 
+Google Docs  Differences in writing 
+process between 
+collaborative and individual 
+composition  
+49 university 
+students of German 
+L2 learners 
+Qualitative   Qualitative analysis using 
+Google Docs revision histories 
+ Kessler and 
+Bikowski (2010) 
+Not specified  Wiki  Collaborative writing 
+process and group behavior 
+in wiki 
+40 non-native pre-
+service EFL 
+teachers 
+Qualitative  Qualitative analysis using wiki 
+revision history function 
+        
+        
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 160 
+        
+Research 
+Strand 
+Study Theoretical 
+Framework 
+Technology 
+Type 
+Key Research Question Participants Research 
+Design 
+Methods  
+Perceptions of 
+Collaborative 
+Writing  
+Turgut (2009) Socio-
+constructivist  
+Wiki  Student perceptions of wiki 
+use for writing 
+77 EFL college prep 
+students 
+Qualitative  Text analysis using wiki 
+revision history function, 
+interviews  
+ Sun and Chang 
+(2012) 
+Socio-
+constructivist  
+Blog  The role of collaborative 
+dialogues in facilitating 
+academic writing skills and 
+authorship 
+7 international 
+graduate students 
+Qualitative  Content analysis of interviews, 
+blog pages  
+ Kessler et al. 
+(2012)* 
+Sociocultural  Google Docs  Student perceptions of 
+collaborative writing using 
+Google Docs 
+38 international 
+graduate students 
+Descriptive, 
+qualitative 
+(content 
+analysis) 
+Survey, in-text communication 
+ Lund (2008) Sociocultural  Wiki Student perceptions of 
+collaboration using wiki 
+31 high school EFL 
+students 
+Qualitative Content analysis of interviews  
+ Lee (2010) Socio-
+constructivist  
+Wiki  Student perceptions of the 
+effectiveness of wiki use 
+for writing 
+35 university 
+students of Spanish 
+L2 learners 
+Descriptive, 
+qualitative 
+Content analysis of interviews, 
+surveys, wiki pages  
+ Arnold et al. 
+(2012) 
+Socio-
+contructivist 
+Wiki  Group work mode 
+(collaboration vs. 
+cooperation) and student 
+perceptions 
+53 university 
+students of German 
+L2 learners 
+Descriptive, 
+qualitative 
+Content analysis of wiki text, 
+revision histories, surveys 
+ Strobl (2014)* Socio-
+contructivist 
+Google Docs  Student perceptions of 
+strengths and weaknesses 
+of collaborative writing 
+49 university 
+students of German 
+L2 learners 
+Descriptive, 
+qualitative  
+Text analysis of revision 
+history, surveys 
+ Wang (2014) Socio-
+constructivist  
+Wiki  Types of revision (peer vs. 
+self-edit) 
+42 EFL college 
+students 
+Qualitative  Content analysis of interviews, 
+surveys  
+ 
+ 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 161 
+NOTES 
+1. SCAPES is available here. This tool was developed by the SCAPES research team at the School of 
+Education at UC Irvine. 
+2. DocuViz is available here. This open-source tool is developed by Hana Research Group at the School 
+of Informatics at UC Irvine. It is also available as a Chrome application. 
+3. AuthorViz is available here. This open-source tool was developed by Hana Research Group at the 
+School of Informatics at UC Irvine. 
+ 
+ACKNOWLEDGEMENTS 
+The authors would like to thank the LLT editors and anonymous reviewers for their suggestions and 
+comments on improving this article. We would also like to thank Dr. Judith Olson and Dr. Dakuo Wang 
+for their feedback on an earlier draft of this article. 
+ 
+ABOUT THE AUTHORS 
+Soobin Yim is a doctoral student in the School of Education at the University of California, Irvine 
+specializing in language, literacy, and technology. Her research interests include technology-based 
+collaboration, digital literacy development, and second language writing. 
+E-mail: soobiny@uci.edu 
+Mark Warschauer is a Professor of Education and Informatics, and Director of the Digital Learning Lab 
+and the Teaching and Learning Research Center at the University of California, Irvine. His research 
+focuses on digital media and literacy development. 
+E-mail: markw@uci.edu 
+ 
+REFERENCES 
+Applebee, A., & Langer, J. (2011). The national study of writing instruction: Methods and procedures. 
+Albany, NY: Center on English Learning & Achievement. 
+Arnold, N., Ducate, L., & Kost, C. (2012). Collaboration or cooperation? Analyzing group dynamics and 
+revision processes in wikis. CALICO Journal, 29(3), 431–448. 
+Arslan, R. Ş., & Şahin-Kizil, A. (2010). How can the use of blog software facilitate the writing process of 
+English language learners? Computer Assisted Language Learning, 23(3), 183–197. 
+Aydin, Z., & Yildiz, S. (2014). Using Wikis to promote collaborative EFL writing. Language Learning & 
+Technology, 18(1), 160–180. Retireved from http://llt.msu.edu/issues/february2014/aydinyildiz.pdf 
+Birnholtz, J., Steinhardt, S. B., & Pavese, A. (2013). Write here, write now! An experimental study of 
+group maintenance in collaborative writing. Paper presented at the CHI 2013, New York, NY. 
+Bloch, J. (2007). Abdullah’s blogging: A generation 1.5 student enters the blogosphere. Language 
+Learning & Technology, 11(2), 128–141. Retrieved from http://llt.msu.edu/vol11num2/pdf/bloch.pdf 
+Brodahl, C., Hadjerrouit, S., & Hansen, N. K. (2011). Collaborative writing with web 2.0 technologies: 
+education students' perceptions. Journal of Information Technology Education, 10, 73–103. 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 162 
+Bunch, G. C., Kibler, A., & Pimentel, S. (2012). Realizing opportunities for English learners in the 
+common core English language arts and disciplinary literacy standards. Stanford, CA: Understanding 
+Language Initiative. 
+Calvo, R., O'Rourke, S. T., Jones, J., Yacef, K., & Reimann, P. (2011). Collaborative writing support 
+tools on the cloud. IEEE Transactions on Learning Technologies, 4(1), 88–97. 
+Chapelle, C. (1997). CALL in the year 2000: Still in search of research paradigms? Language Learning & 
+Technology, 1(1), 19–43. Retrieved from http://llt.msu.edu/vol1num1/chapelle/default.html 
+Chapelle, C. (2009). The relationship between second language acquisition theory and computer‐ assisted 
+language learning. Modern Language Journal, 93(S1), 741–753. 
+Dillenbourg, P. (2002). Over-scripting CSCL: The risks of blending collaborative learning with 
+instructional design. In P. A. Kirschner (Ed.), Three worlds of CSCL. Can we support CSCL? (pp. 61–
+91). Heerlen, Netherlands: Open Universiteit Nederland. 
+Dobson, T., & Willinsky, J. (2009). Digital literacy. In D. R. Olson & N. Torrance (Eds.), The Cambridge 
+handbook of literacy (pp. 286–312). Cambridge, UK: Cambridge University Press. 
+Donato, R. (1994). Collective scaffolding in second language learning. In J. P. Lantolf & G. Appel (Eds.), 
+Vygotskian approaches to second language research (pp. 33–56). Norwood, NJ: Ablex. 
+Ede, L. S., & Lunsford, A. A. (1990). Singular texts/plural authors: Perspectives on collaborative 
+writing. Carbondale, IL: SIU Press. 
+Ellis, R. (1994). The study of second language acquisition. Oxford, UK: Oxford University Press. 
+Elola, I., & Oskoz, A. (2010). Collaborative writing: Fostering foreign language and writing conventions 
+development. Language Learning & Technology, 14(3), 51–71. Retrieved from 
+http://llt.msu.edu/issues/october2010/elolaoskoz.pdf 
+Feldman, R., & Sanger, J. (2006). The text mining handbook. New York, NY: Cambridge University 
+Press. 
+Garrett, N. (1991). Technology in the service of language learning: Trends and issues. Modern Language 
+Journal, 75(1), 74–101. 
+Hayes, J. R., & Flower, L. S. (1980). Identifying the organization of writing processes. In L. W. Gregg & 
+E. R. Steinberg (Eds.), Cognitive processes in writing (pp. 3–30). Mahwah, NJ: Lawrence Erlbaum. 
+Hew, K. F., & Brush, T. (2007). Integrating technology into K–12 teaching and learning: Current 
+knowledge gaps and recommendations for future research. Educational Technology Research and 
+Development, 55(3), 223–252. 
+Jones, R. W. (2007). Learning and teaching in small groups: Characteristics, benefits, problems, and 
+approaches. Anaesthesia and intensive care, 35(4), 587. 
+Kessler, G., & Bikowski, D. (2010). Developing collaborative autonomous learning abilities in computer 
+mediated language learning: Attention to meaning among students in wiki space. Computer Assisted 
+Language Learning, 23(1), 41–58. 
+Kessler, G., Bikowski, D., & Boggs, J. (2012). Collaborative writing among second language learners in 
+academic web-based projects. Language Learning & Technology, 16(1), 91–109. Retrieved from 
+http://llt.msu.edu/issues/february2012/kesslerbikowskiboggs.pdf 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 163 
+Koehler, C., Bloom, M. A., & Milner, A. R. (2015). The STEM Road Map for Grades K–2. In C. C. 
+Johnson, E. E. Peters-Burton, & T. J. Moore (Eds.), STEM road map: A framework for integrated STEM 
+education (pp. 41–59). New York, NY: Routledge. 
+Kost, C. (2011). Investigating writing strategies and revision behavior in collaborative wiki projects. 
+CALICO Journal, 28(3), 606–620. 
+Kuteeva, M. (2011). Wikis and academic writing: Changing the writer–reader relationship. English for 
+Specific Purposes, 30(1), 44–57. 
+Lankshear, C., & Knobel, M. (2007). Sampling “the new” in new literacies. A New Literacies Sampler, 
+29, 1–24. 
+Lee, L. (2010). Exploring wiki-media collaborative writing: A case study in an elementary Spanish 
+course. CALICO Journal, 27(2), 260–276. 
+Li, M., & Zhu, W. (2013). Patterns of computer-mediated interaction in small writing groups using wikis. 
+Computer Assisted Language Learning, 26(1), 61–82. 
+Lindgren, E., Sullivan, K. P. H., & Stevenson, M. (2008). Supporting the reflective language learner with 
+computer keystroke logging. In F. Zhang & B. Barber (Eds.), Handbook of research on computer 
+enhanced language acquisition and learning (pp. 189–204). Hershey, PA: IGI Global. 
+Lund, A. (2008). Wikis: A collective approach to language production. ReCALL, 20(1), 35–54. 
+Mak, B., & Coniam, D. (2008). Using wikis to enhance and develop writing skills among secondary 
+school students in Hong Kong. System, 36(3), 437–455. 
+Noël, S., & Robert, J. M. (2004). Empirical study on collaborative writing: What do co-authors do, use, 
+and like? Computer Supported Cooperative Work (CSCW), 13(1), 63–89. 
+Olson, G. M., & Olson, J. S. (1995). The effectiveness of simple shared electronic workspaces. In S. 
+Greenberg, S. Hayne, & R. Rada (Eds.), Real time group drawing and writing tools (pp. 105–126). 
+London, UK: McGraw Hill. 
+Olson, J. S., Olson, G. M., Storrøsten, M., & Carter, M. (1993). Groupwork close up: A comparison of 
+the group design process with and without a simple group editor. ACM Transactions on Information 
+Systems (TOIS), 11(4), 321–348. 
+Olson, J. S., Wang, D., Zhang, J., & Olson, G. M. (2017). How people write together now: Beginning the 
+investigation with advanced undergraduates in a project course. ACM Transactions on Computer-Human 
+Interaction (TOCHI), 24(1). 
+Onrubia, J., & Engel, A. (2009). Strategies for collaborative writing and phases of knowledge 
+construction in CSCL environments. Computers & Education, 53(4), 1256–1265. 
+Posner, I. R., & Baecker, R. M. (1993). How people write together. In Proceedings of the 25th Hawai‘i 
+International Conference on System Sciences (pp. 127–138). Washington DC: IEEE Computer Sciences. 
+Saddler, B., Moran, S., Graham, S., & Harris, K. R. (2004). Preventing writing difficulties: The effects of 
+planning strategy instruction on the writing performance of struggling writers. Exceptionality, 12(1), 
+3–17. 
+Skehan, P. (1991). Individual differences in second language learning. Studies in Second Language 
+Acquisition, 13(2), 275–298. 
+Smith, B., & Lafford, B. A. (2009). The evaluation of scholarly activity in computer‐ assisted language 
+learning. Modern Language Journal, 93(S1), 868–883. 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 164 
+Srivastava, A., & Sahami. M. (2009). Text mining: Classification, clustering, and applications. Boca 
+Raton, FL: CRC Press. 
+Stapleton, P. (2010). Writing in an electronic age: A case study of L2 composing processes. Journal of 
+English for Academic Purposes, 9(4), 295–307. 
+Storch, N. (2002). Relationships formed in dyadic interaction and opportunity for learning. International 
+Journal of Educational Research, 37(3), 305–322. 
+Storch, N. (2005). Collaborative writing: Product, process, and students’ reflections. Journal of Second 
+Language Writing, 14(3), 153–173. 
+Strobl, C. (2014). Affordances of web 2.0 technologies for collaborative advanced writing in a foreign 
+language. CALICO Journal, 31(1), 1–18. 
+Sun, Y. C., & Chang, Y. J. (2012). Blogging to learn: Becoming EFL academic writers through 
+collaborative dialogues. Language Learning & Technology, 16(1), 43-61. Retrieved from 
+http://llt.msu.edu/issues/february2012/sunchang.pdf 
+Swain, M. (2000). The output hypothesis and beyond: Mediating acquisition through collaborative 
+dialogue. In J. P. Lantolf (Ed.), Sociocultural theory and second language learning (pp. 97–114). Oxford, 
+UK: Oxford University Press. 
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step 
+towards second language learning. Applied linguistics, 16(3), 371–391. 
+Thorne, S.L. (2003). Artifacts and Cultures-of-use in Intercultural Communication. Language Learning & 
+Technology, 7(2), 38–67. Retrieved from http://llt.msu.edu/vol7num2/pdf/thorne.pdf 
+Thorne, S. L., & Black, R. W. (2007). Language and literacy development in computer-mediated contexts 
+and communities. Annual Review of Applied Linguistics, 27, 133–160. 
+Turgut, Y. (2009). EFL learners’ experience of online writing by PBWiki. In G. Siemens & C. Fulford 
+(Eds.), ED-MEDIA 2009–World conference on educational multimedia, hypermedia, & 
+telecommunications (pp. 3838–3847). Waynesville, NC: AACE. 
+van Lier, L. (2000). From input to affordance: Social-interactive learning from an ecological perspective. 
+In J. P. Lantolf (Ed.), Sociocultural theory and second language learning (pp. 245–259). Oxford, UK: 
+Oxford University Press. 
+Voinea, L., Telea, A., & Van Wijk, J. J. (2005). CVSscan: Visualization of code evolution. In T. Naps & 
+W. De Pauw (Eds.), Proceedings of the 2005 ACM symposium on software visualization (pp. 47–56). 
+New York, NY: ACM. 
+Viégas, F. B., Wattenberg, M., & Dave, K. (2004). Studying cooperation and conflict between authors 
+with history flow visualizations. In E. Dykstra-Erickson & M. Tscheligi (Eds.), Proceedings of the 
+SIGCHI conference on human factors in computing systems (pp. 575–582). New York, NY: ACM. 
+Wang, D. (2016). Exploring and Supporting Today's Collaborative Writing. In J. Kaye, A. Druin, C. 
+Lampe, D. Morris, & J. P. Hourcade (Eds.), Proceedings of the 2016 CHI conference extended abstracts 
+on human factors in computing systems (pp. 255–259). New York, NY: ACM. 
+Wang, D., Olson, J.S., Zhang, J., Nguyen, T., Olson, G.M. (2015). How students collaboratively write 
+using Google Docs. Paper presented at iConference 2015, Newport Beach, CA. 
+Wang, S., & Vasquez, C. (2012). Web 2.0 and second language learning: What does the research tell us? 
+CALICO Journal, 29(3), 412–430. 
+Soobin Yim and Mark Warschauer  Collaborative Writing and Text Mining 
+ 
+Language Learning & Technology 165 
+Wang, Y. C. (2014). Using wikis to facilitate interaction and collaboration among EFL learners: A social 
+constructivist approach to language teaching. System, 42, 383–390. 
+Warschauer, M. (1997). Computer-mediated collaborative learning: Theory and practice. Modern 
+Language Journal, 81(4), 470–481. 
+Wichadee, S. (2011). Using wikis to develop summary writing abilities of students in an EFL class. 
+Journal of College Teaching & Learning, 7(12), 5–10. 
+Wigglesworth, G., & Storch, N. (2012). What role for collaboration in writing and writing feedback. 
+Journal of Second Language Writing, 21(4), 364–374. 
+Yang, L. (2014). Examining the mediational means in collaborative writing: Case studies of 
+undergraduate ESL students in business courses. Journal of Second Language Writing, 23, 74–89. 
+Yim, S., & Warschauer, M. (2016). Challenges or opportunities? A case study of L2 undergraduates’ 
+synchronous collaborative writing. Unpublished manuscript. 
+Yim, S., Wang, D., Olson, J., Vu, V., & Warschauer, M (in press). Synchronous writing in the classroom: 
+Undergraduates’ collaboration practices and their impact on text quality, quantity, and style. In 
+Proceedings of the 20th ACM conference on computer-supported cooperative work and social computing. 
+Zheng, B., Lawrence, J. F., Warschauer, M., & Lin, C.-H. (2015). Middle school students’ writing and 
+feedback in a cloud-based classroom environment. Technology, Knowledge, and Learning, 20, 201–229. 
+Zhou, W., Simpson, E., & Domizi, D. P. (2012). Google Docs in an out-of-class collaborative writing 
+activity. International Journal of Teaching and Learning in Higher Education, 24(3), 359–375. 

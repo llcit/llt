@@ -1,0 +1,272 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol4num1/emerging/default.html 
+May 2000, Volume 4, Number 1 
+pp. 6-10 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 2000, ISSN 1094-3501   6 
+EMERGING TECHNOLOGIES 
+ 
+Web Browser Trends and Technologies 
+Robert Godwin-Jones 
+Virginia Comonwealth University 
+Contents:  
+ • Introduction: Fundamental Changes on the Way  
+ • Browser Options: Expanding or Coalescing?  
+ • Beyond HTML: More Power, More Complexity  
+ • The Holy Grail: Compatibility  
+• Conclusion: More Services, Fewer Developers? 
+• Resource List 
+   
+Introduction: Fundamental Changes on the Way  
+ 
+In the course of the past few years, the Web has become the platform of choice for delivery of educational 
+content, including language learning applications. As the Web has moved from interesting novelty to 
+indispensable tool, Web browsers have expanded dramatically their capabilities, adding the ability to 
+incorporate seamlessly audio/video or "plug-in" applications, to display content in sophisticated layouts, 
+and to interact with the user through client-side scriptability. Through this process of development, the 
+fundamental browsing interface (dedicated browser on a desktop operating system) has remained largely 
+unchanged, as has the page encoding system (various versions of HTML). Now, however, there is change 
+on the horizon in both areas: support for Web browsing on different devices (cell phones, palmtop 
+computers, TV sets) and browser support for the next-generation Web authoring language, XML 
+("extensible markup language"). For developers of Web-based language learning materials, new access 
+pathways and encoding systems will provide significant opportunities as well as technical challenges.  
+ 
+Browser Options: Expanding or Coalescing?  
+ 
+It wasn't long ago that Web aficionados waited impatiently for the next beta release of Netscape's 
+Navigator and were more than willing to live with the bugs and crashes for the newly enhanced browsing 
+experience the latest version provided. The recent release of a preliminary ("Preview Release 1") version 
+of Netscape's version 6 browser (download) has not generated anything like that level of interest. The 
+explanation is not hard to find. Netscape is no longer the dominant browser, defining the cutting edge of 
+the Web experience. Microsoft's Internet Explorer has emerged the winner of the "browser wars" (with up 
+to 75% of the market share, according to a recent survey), so hyped in the media and refreshed through 
+the Department of Justice action against Microsoft. In part this is due to Netscape's abdication from 
+competition. Rather than release a new version of its browser, Netscape continued to upgrade its version 4 
+browser for more than a year.  
+ 
+Meanwhile, rival Microsoft delivered a considerably enhanced version 5 browser (download) with 
+support for emerging Internet standards. Netscape's browser development efforts have centered on the 
+open-source Mozilla project, which has developed its own browser (download) and is the basis for 
+Netscape 6 (the "Navigator" and "Communicator" names have been dropped). Although no longer the 
+industry leader, Netscape continues to have a loyal following and significant market share. It also 
+continues to innovate, largely through Mozilla, which, contrary to previous Netscape tendencies, has 
+pursued a standards-based approach to new development. Following one of the emerging trends on the 
+Internet, Mozilla has been coding its browser development whenever possible in XML (rather than one of 
+Robert Godwin-Jones Emerging Technologies Web Browser Trends and ... 
+ 
+Language Learning & Technology        7 
+the traditional languages for creating user interfaces such as C). This allows for the use of cross-platform 
+standards while minimizing the need for platform-specific code. One of the results is the customizability 
+of Netscape 6 created through the use of XUL, "extensible user interface language," a user interface 
+builder based on XML. This allows for the use of different user interfaces or "skins" for a browser. This 
+enables, for example, a customized browser to be developed for a school or departmental learning lab. A 
+toolkit is available from Mozilla for this purpose.  
+ 
+While Internet Explorer has been the dominant browser in terms of market share, the options for finding a 
+viable alternative browser have actually grown recently. A popular alternative for Windows user is Opera, 
+while Icab has attracted a following among Macintosh users. Both are trimmed-down browsers which 
+offer support for a broad range of Web functions, although not duplicating the functionality available in 
+main-stream browsers. They do offer support for some standards, such as CSS 1 (well-supported in 
+Opera) and JavaScript (supported in iCab and Opera). There has also been considerable development of 
+Web browsers for devices other than main-stream operating systems. This method of Web access is 
+expected to increase dramatically in the near future. Assuming audio playback capability in such devices, 
+the potential for mobile language learning is significant. While Microsoft offers a leaner version of 
+Internet Explorer for Windows CE and the recently introduced Pocket PC hand-helds, most browsers for 
+smaller devices are not modified versions of the big browsers. Most such devices have neither the 
+processing power nor the screen real estate to display adequately Web pages designed for normal PC 
+monitors. As a consequence, recent wireless Web access for devices such as cell phones provides limited 
+Web access for selected Web sites in formats modified from normal display. Palm's Web clippings use 
+this approach, providing tools and guidance for Web site developers who want to provide modified 
+versions of their pages for Palm users. WML or Wireless Markup Language is an effort to provide a 
+standardized method for providing selected Web access for small wireless devices.  
+ 
+Beyond HTML: More Power, More Complexity  
+ 
+Of significant interest in Internet Explorer 5 and Netscape 6 is the support for directly displaying 
+documents written in XML, an encoding system both people and machines can read. The XML support in 
+both browsers is not yet complete, but is a significant development in supporting the emerging standard 
+for Web documents. In fact, HTML, as we have known it since the early 90's, is giving way to an XML 
+version of the Web encoding system.  
+ 
+Instead of the present HTML 4 standard being followed by a version 5, the W3 Corporation, the 
+standards-setting body for the Web, has endorsed XHTML as the new standard. XHTML (extensible 
+hypertext markup language) is, as one might expect, based on XML; in fact, it is a reformulation of 
+HTML 4 as an application of XML. It was released January 26, 2000 as a "recommendation" by the 
+W3C. XHTML offers the advantages of modularity and extensibility, allowing richer content and display 
+for full-featured browsers and slimmed down versions for mobile devices or set-top boxes (or "smart" 
+refrigerators). What makes this flexibility possible without the necessity of providing individually coded 
+pages for different modes of access is the use of style sheets coupled with a protocol under development 
+called CC/PP or "Composite Coupling/Preferences Profiles," which allows for description of both user 
+preferences and device capabilities. The idea is that for each Internet-capable device there be a "device 
+profile" on the Web (written in XML meta-data using RDF or "Resource Description Framework"). When 
+a page is requested by a browser, the profile is retrieved along with the contents of the page. The browser 
+then checks the encoding (assuming it is XML) looking for directions or alternative style sheets (indicated 
+in a "document profile") for devices fitting the profile (for example in the case of the Palm, to fit a 160 by 
+160 pixel screen, probably not in color) and customizing the format of the content (reducing graphic sizes 
+or eliminating them, breaking up pages, etc.) for the device. If no such directions are present, then a 
+default format is used.  
+ 
+Robert Godwin-Jones Emerging Technologies Web Browser Trends and ... 
+ 
+Language Learning & Technology        8 
+Much of the interactivity on the Web comes from the use of Web forms and a recently released 
+recommendation that is part of XHTML provides enhanced forms functionality. It is called Xforms and 
+incorporates into form fields some of the functionality added to forms through JavaScript, for example, 
+the ability to validate a form type (to check to see if a user has typed in a number, for example). One of 
+the goals is to make Web forms device independent so that the enhanced functionality of Xforms will 
+work on any Internet device (such as on hand-held browsers not supporting JavaScript). Of course, the 
+form fields will also be fully scriptable, making on the fly transformation of fields more powerful (see 
+example of language toggling in pull-down keyword list within a search page). For Web authors familiar 
+with HTML, XHTML will not represent a significant learning curve. Major differences include a 
+mandatory "doctype" tag, using lower case for all tags, and the insistence on end tags (i.e., line breaks 
+<br> becomes <br/>). In most cases, Web page editors will automatically rewrite tags to be compatible 
+with XHTML.  
+ 
+There are several other XML developments of potential interest to language learning 
+educators/developers. RSS or "Rich Site Summary" allows for development of standardized XML 
+descriptions of Web resources, which then can become content channels, with information provided in 
+standardized ways. This is how My Netscape is implemented. There are several efforts underway to 
+provide application sharing over the Internet in XML: RPC ("remote procedure call"), developed by Dave 
+Winer (creator of the Frontier scripting language) and WDDX, or "Web Distributed Data eXchange" by 
+Allaire Corporation. There is considerable interest currently as well in XML-based voice Web browsing. 
+Several companies are gearing up to provide extensive services through a phone interface for retrieving 
+Web pages.  
+ 
+The Holy Grail: Compatibility  
+ 
+What Web developers have been hoping for more than any fancy new features, is a standardized way to 
+develop additional Web-based interactivity, which works across different browsers and operating 
+systems. Currently, there is often not even compatibility among versions of the same browser for different 
+operating systems. Microsoft, for example, has added a number of proprietary elements to Internet 
+Explorer 5, some of which are Windows only, such as HTA ("HTML Applications") and HTL ("HTML 
+Components"). Web developers have to consider very different browser compatibility as illustrated in 
+resources such as the browser compatibility chart or user services such as Bobby, an HTML validator 
+which also highlights compatibility issues on Web pages. Browser companies don't make it any easier on 
+developers. Netscape, for example, no longer supports in Netscape 6 its loudly trumpeted "layer" tag and 
+certain other proprietary tags. This is, of course, a positive development (unless you've made heavy use of 
+the layer tag), since it signals the adoption of a standards approach.  
+ 
+The degree of standards support in Netscape 6 preview and Internet Explorer 5 is much improved over the 
+version 4 browsers. Support is provided in both (although not always complete) for HTML 4.0, CSS 1 
+(Cascading Style Sheets, level 1) and the DOM 1 (Document Object Model, level 1). One caveat for 
+language use, is the continued lack of support for bi-directional text layout called for in HTML 4.0 and 
+needed for display of Hebrew and Arabic. Support for Internet standards, along with a common set of 
+browser scripting functions (both browsers are moving toward support of ECMAScript edition 3, the 
+standardized version of JavaScript 1.5) is important in creating universally accessible pages but also is 
+crucial for the further development of "dynamic HTML" (DHTML), the ability to change elements of a 
+page on the fly through client-side scripting. For use in version 4 browsers this kind of interactivity had to 
+be separately coded for Netscape and Internet Explorer browsers. DHTML has become a popular method 
+for creating interactive content for language learning. Tools such as the Interactive Exercise Makers from 
+Dan Beeby of Swarthmore College or WebAuthor by Vasu Renganathan of the University of 
+Pennsylvania make use of DHTML to provide browser-based interactivity. The "document object model" 
+upon which DHTML is based is now also accessible from XML, which means even more powerful 
+Robert Godwin-Jones Emerging Technologies Web Browser Trends and ... 
+ 
+Language Learning & Technology        9 
+dynamic page activity are possible, as illustrated by sample Mozilla and Microsoft pages. (Note: these 
+pages are encoded in XML and require use of Internet Explorer 5, Mozilla, or Netscape 6.)  
+ 
+Conclusion: More Services, Fewer Developers?  
+ 
+Language learning developers don't have the leisure to work on technologies which have a short shelf life. 
+Some Web-based technologies have been red hot, only to fade away, as in the case of "push" 
+technologies. "Instant messaging" is hot now, and holds considerable promise for user-to-user contact and 
+communication but suffers from compatibility issues. XML-based applications, on the other hand, seem 
+to be a wise technology to consider, given its current wide support. Of course many new technologies are 
+developed for commercial reasons and are probably of limited interest for language learning, such as 
+"electronic wallets" or yellow-page style "directory services." One exception may be so-called Web 
+"intermediaries." These are programs residing on the Web, similar to proxy servers. They can take content 
+from Web pages and re-format them or adapt them in various ways. Babelfish (from AltaVista), for 
+example, is such a service which provides on-the-fly translation. Another possible use is to add 
+annotations to a document residing on another server.  
+ 
+As the Web platform develops greater sophistication and power in its core languages, new opportunities 
+emerge for developers. Another result, however, is that the growing complexity of developing Web 
+resources may exclude many teachers from the chance of participating creatively in Web authoring (rather 
+than just using authoring templates). The danger inherent in this process is to remove those with 
+pedagogical experience one step away from the technology. We need to have teachers directly involved in 
+pushing the boundaries of the technologies in order to help search out new methods to enhance student 
+learning. As yet, there are few resources which make it very inviting to work with XML. Dreamweaver 3 
+offers some support and there are other commercial products emerging. For now, however, most XML 
+encoding is done by hand or with Unix-based tools. We can only hope for good, easy-to-use authoring 
+tools for XML which will bring this powerful new technology within reach of language teachers. Several 
+such projects are underway from language professionals. Henry Thompson (of the Language Technology 
+Group of the University of Edinburgh) is developing XML Tools and has several XML tutorials 
+available. Robert Bigler (of the Institute for Advanced Technology in the Humanities of the University of 
+Virginia) is developing iBabble, an XML text tool using Unicode and capable of displaying multiple texts 
+in parallel windows.  
+ 
+Resource List 
+Browser Information  
+ 
+What's New in Internet Explorer 5 From Microsoft  
+Document Object Model Overview From Microsoft  
+IE5 Sample pages From Microsoft, illustrating new features of Internet Explorer 5  
+Mozilla Open source broswer development project spearheaded by Netscape  
+Gecko Layout Engine Information about Mozilla's new browser engine  
+Netscape 6 Preview Release information and download  
+Netscape 6 FAQ Information about what's new in Netscape 6  
+Web Clipping Development Info from Palm Computing about developing Web clippings for Palm use  
+Windows CE browsers From cnet  
+Palm browsers From cnet  
+Rebel Browsers Alternatives to Netscape or Microsoft's browsers (from cnet)  
+Opera Home of the alternative browser  
+Review of Opera From cnet  
+Icab Alterative browser for the MacOS  
+ 
+Robert Godwin-Jones Emerging Technologies Web Browser Trends and ... 
+ 
+Language Learning & Technology        10 
+Varieties of XML  
+ 
+HTML - The Next Generation From Zdnet Developer  
+How XH TML Will Reduce Your Coding Tasks Today From Zdnet Developer  
+XHTML protocol gets thumbs up from Net group From cnet news  
+XHTML.ORG News about XHTML  
+XML Tools From Henry Thompson (University of Edinburgh)  
+XML Tutorials From Henry Thompson (University of Edinburgh)  
+NGLayout and XML XML Examples From Mozilla  
+Matt Neuburg Explains XML RPC Information about "Remote Procedure Call," an application sharing 
+technology using XML  
+WDDX Home Page for "Web Distributed Data eXchange," an XML-based application and data sharing 
+system  
+Extensible User Interface Langauge Information and Links about XUL (interface builder from Mozilla)  
+RSS Delivers the XML Promise Information about "Rich Site Summary," XML-based site sharing facility  
+Quickstart Guide for My Netscape Network Information on creating a "channel" using RSS  
+ 
+Internet Standards and Compatibility  
+ 
+The Cross-platform Browser Blues  
+Figuring Out Browser Compatibility From Webreview  
+Browser Comptability Chart From Webreview  
+Browser Compatibility Comparison of support for style sheets in browsers (from Style Master)  
+Transitioning from Proprietary DOMs and Markup to W3C Standards Use of layer and other proprietary 
+tags  
+Netscape Standards Challenge Comparison (from Netscape) of IE5 and NS6 support of Internet standards  
+A Reply to Readers' Concerns about Standards Compliance in Internet Explorer 5.5 From Microsoft  
+Bobby HTML validator and accessibility checker  
+Browser Stats  
+Xforms Home Page From W3 Corporation  
+Document Object Model From W3 Corporation  
+Style Sheets From W3 Corporation  
+Mobile Access From W3 Corporation  
+Television and the Web From W3 Corporation  
+Synchronized Multimedia: SMIL From W3 Corporation  
+Voice Browser From W3 Corporation  
+CC/PP Reading Materials From W3 Corporation  
+ECMA-262 Specification for ECMAScript, the standardized version of JavaScript  
+WML Brief discription of "Wireless markup Language"  
+ 
+Language Learning and Internationlization  
+ 
+Dynamically Manipulating HTML Elements With Dom Level 1 From Mozilla  
+iBabble Unicode XML Browser (from Robert Bingler of the University of Virginia)  
+Unicode and the Web  
+What is XML and Why Should Humanists Care? From C.M. Sperberg-McQueen (one of the architects of 
+XML)  
+Interactive Exercise Makers From Dan Beeby (Swarthmore College)  
+WebAuthor From Vasu Renganathan (University of Pennsylvania)  
+Internationalization From W3 Corporation  
+Unicode in XML and other Markup Languages From W3 Corporation  
+Weaving the Multilingual Web: Standards and their Implementations Tutorial/Presentation 

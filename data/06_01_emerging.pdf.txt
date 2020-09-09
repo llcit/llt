@@ -1,0 +1,252 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol6num1/emerging/ 
+January 2002, Vol. 6, Num. 1 
+pp. 6-10 
+ 
+Copyright © 2002, ISSN 1094-3501 
+EMERGING TECHNOLOGIES 
+ 
+Wireless Networks  
+One of the most striking changes in the use of technology in the last year or so has been the explosive growth in the 
+use of wireless networks for Internet and local network access. We will be looking in this column at the varieties of 
+wireless connectivity now in use, including infrared, cellular, and Wi-Fi (802.11b), as well as those just now 
+arriving on the scene, such as Bluetooth and 3G. The promise of ubiquitous wireless networks dramatically 
+enhances the usefulness of small Internet-capable devices.  
+Infrared  
+Infrared (IR) ports have been standard on most laptops and PDA's ("personal digital assistants") for quite some time. 
+Some printers and cell phones come equipped with infrared ports as well. The principal use has been to provide a 
+communication channel between devices for synchronization, backup, or file transfer. The transfer rate is not as fast 
+(4 Mbps or megabits per second) as wired connections (such as USB), although now some IR ports can transfer at a 
+zippier 16 Mbps. IR ports are also used to transfer contact information or calendar entries between hand-held 
+devices. This use is quite popular in Japan and Europe, particularly for exchanging business cards and downloading 
+short messages. Utilities are available which allow for IR interoperability among Palms, WindowsCE/PocketPC 
+devices, and even older Newton Messagepads (JetSend, Peacemaker, BackTalk). While IR is the granddaddy of 
+wireless protocols, new applications continue to be developed for the its use, including InfoPort, a product for 
+beaming large documents to Palm devices from kiosks or other public terminals (being used at the University of 
+South Dakota for transferring documents to students), and Infrared Financial Messaging (IrFM), a new "point and 
+pay" wireless payment standard. Financial transactions, in fact, are seen as a major future use of IR, as it is a more 
+secure means of communication than other wireless protocols, since devices have to be lined up in close proximity 
+to one another.  
+What allows communication among digital devices through infrared is a common set of specifications developed by 
+the Infrared Data Association (IrDA) and first published in 1994, the most significant of which is the Object 
+Exchange protocol or OBEX. A project is underway at the University of Tromsø (Norway) to develop an open 
+source implementation of OBEX which promises to make available OBEX functionality without license fees (to 
+Extended Systems ). In a rare example of not re-inventing the wheel with each new technological advance, OBEX 
+has been selected as the standard for file exchange on the new Bluetooth wireless protocol. IrDA capability is built 
+into mainstream operating systems including MS Windows, Linux, and MacOS. But IrDA compatible ports are also 
+being added to devices such as cameras (the Casio WQV3 cameras) and scanners (Hewlett-Packard CapShare and 
+the QuickLink Pen from WizCom). Scanning text or images into a hand-held scanner, which can then be beamed 
+and stored on a hand-held computer offers interesting possibilities for collecting such materials as newspaper 
+clippings or realia for language learning purposes.  
+Bluetooth  
+A wireless protocol which has been highly touted in the last several years is Bluetooth, developed originally by 
+Ericsson in Sweden in 1994 and named for Harald Bluetooth, the Viking king who united Denmark and Norway in 
+the 10th century. Bluetooth uses a short-wave, always-on radio signal that lets devices of all kinds communicate 
+with one another, including cell phones, printers, laptops, and hand-held computers. Since it uses RF (radio 
+frequency) waves, communication does not require a line-of-sight connection between devices, as does IR. Like IR, 
+Bluetooth is short range (the normal limit is 10 meters) but is also omnidirectional and can travel through non-metal 
+obstructions (clothes, furniture, walls). Longer range transmitters, capable of sending signals up to 100 meters, are 
+also being developed. Bluetooth transmits at a maximum rate of 1 Mbps.  
+There has been quite a buzz about Bluetooth and the era of "personal area networks" (also being called "piconets") 
+or "information clouds" this wireless technology promises to create. The idea is that once Bluetooth components 
+become inexpensive enough (from the current US $20 to US $5), they will become embedded in all kinds of 
+Bob Godwin-Jones Emerging Technologies 
+ 
+Language Learning & Technology 7 
+machines, including VCRs, washer-dryers, stoves, microwaves, and CD-players, all of which could be monitored 
+and controlled by Bluetooth. Ericsson envisions a scenario in which mall shoppers would access sales information 
+on their PDAs as they stroll, or cameras might send instantly pictures to relatives as they are taken. For some, this 
+kind of all-encompassing network is more threatening than enticing. Of interest to language teachers is the fact that 
+Bluetooth supports voice as well as data.  
+Others see a more modest role for Bluetooth principally as a cable replacement technology, taking over the role of 
+wired serial or USB connections. In contrast to IR, Bluetooth allows point-to-multi-point connections, thus creating 
+an ad-hoc wireless connection of "master" and (up to seven) "slaves." Also, as opposed to IR, Bluetooth 
+communication can be initiated by the devices themselves, allowing for self-monitoring and automated interactions. 
+Given the proliferation of cell phones in Europe, Bluetooth is expected to gain a foothold there first. It is already 
+incorporated into a variety of phones available in Europe.  
+Wi-Fi  
+If Bluetooth is being promoted as a cable replacement technology, Wi-Fi is seen widely as a replacement of wired 
+Ethernet. Actually wireless LAN (local area network) technology has been around since the late 1980's. However, 
+different proprietary approaches were used, and the networks operated at low-speed (1-2 Mbps). In 1997, the 
+standards setting body, IEEE, released the 802.11 standard for wireless local area networking using the unlicensed 
+2.4 GHz frequency band (as opposed to the 900 MHz band used previously). This standard was later updated to 
+802.11b, which raised the transmission speed from 2 to 11 Mbps, or approximately the same transmission speed as 
+traditional wired Ethernet connections. This is the standard generally referred to today as Wi-Fi ("wireless fidelity") 
+or wireless LAN. As opposed to Bluetooth, Wi-Fi requires use of a "base station" or "access point" for transmitting 
+signals to clients, which generally use Wi-Fi PC cards or desktop adapters to connect to the base station. Like 
+Bluetooth (which also transmits at 2.4 GHz), Wi-Fi signals can travel through solid objects, although they traverse 
+better through wood or drywall than through stone and brick. Transmission distances vary from 50 to 300 feet, 
+depending on equipment and configuration, and can be extended up to 20 miles through the use of high gain 
+antennas.  
+Wi-Fi began to be widely used when in 1999 Apple introduced its "Airport" wireless networking technology which 
+uses the 802.11b standard. Apple integrated antennas for Wi-Fi into all of its laptops and offered an attractively 
+priced base station capable of communicating with up to 10 clients (the latest version serves 50 clients). Today many 
+Wi-Fi base stations and adapters are available from a variety of vendors. As prices have dropped and vendors 
+multiplied in the past year, wireless networks have sprouted throughout the US in homes, schools, and offices. The 
+home growth in the US has been driven in part by the increasing popularity of higher-speed Internet access through 
+cable and DSL ("digital subscriber line") modems. Base stations such as Apple's Airport allow sharing of an Internet 
+line by multiple users. Since DHCP ("dynamic host configuration protocol") is built into the Airport hub, all devices 
+can share just one IP number. The base station can be connected to a dial-up or Ethernet Internet connection. Some 
+base stations (such as those from D-Link, Linksys or Nokia) incorporate firewall support.  
+Mixed networks of Windows, Mac and/or Linux computers can co-exist quite comfortably and easily on the same 
+Wi-Fi network, along with network-capable printers and mobile devices equipped with Wi-Fi cards. Individual 
+configuration of Wi-Fi connections is not difficult; MacOS and WindowsXP automatically detect the presence of 
+Wi-Fi signals (assuming a Wi-Fi client card is installed) and walk the user through set-up of the network for Internet 
+access. Some Wi-Fi enthusiasts have taken to trolling urban areas for available Wi-Fi networks (comprehensive 
+world-wide guides are also available). In fact, the ease and power of Wi-Fi networks has led to the establishment of 
+wireless freenets in several urban areas in North American and elsewhere. With a series of base stations and 
+antennae, it is not difficult to set up such a network, which some dub "parasitic grids." In the aftermath of the 
+September 11 tragedy several such networks were quickly established in Manhattan (such as NYCWireless). Others 
+see such " renegade wlans" as a way to bridge the "digital divide", bringing Internet access to the inner city. 
+Commercial Internet providers are also now beginning to offer Internet access (for a fee) through Wi-Fi, especially 
+in smaller communities. Wi-Fi connections are also showing up in public and commercial spaces such as airports or 
+coffee shops, where connections are available for a fee.  
+Bob Godwin-Jones Emerging Technologies 
+ 
+Language Learning & Technology 8 
+Despite Wi-Fi's popularity there are several concerns in its use voiced by users and system administrators, namely 
+limited bandwidth, radio interference from other devices, and security. A revision of the specification called 802.11a 
+addresses these issues, at least in part. Although Wi-Fi runs at about the same speed as 10 Mbps wired Ethernet, 
+configuration and security concerns usually reduce throughput to something more like 5-7 Mbps. 802.11a runs at the 
+higher speed of 54 Mbps, although real-world use will be lower. This is still a significant increase for applications 
+needing higher bandwidth such as streaming media. Wi-Fi runs on a radio frequency (2.4 GHz) shared by 
+microwave ovens, most cordless phones, and Bluetooth devices, creating the potential for serious interference 
+problems. 802.11a runs at 5.4 GHz, thus avoiding that conflict. Both wireless standards have a built-in security 
+protocol called WEP ("Wireless Encryption Protocol") which allows for encrypted transmissions. Often, however, 
+WEP has not been used on Wi-Fi networks out of concern that throughput will be negatively effected. The higher 
+bandwidth of 802.11a may encourage greater use of WEP. Security experts, however, point out that WEP is not 
+impenetrable and recommend use of VPN ("Virtual Private Network") software for secure network access with 
+wireless clients. A new security protocol, 802.1x, is just being added to Wi-Fi setups (and is supported in 
+WindowsXP).  
+Products based on 802.11a, or Wi-Fi5 as it is being called, are now being marketed in the US. However, since 
+802.11a transmits at a different frequency, it is incompatible with existing Wi-Fi networks. In other words, new base 
+stations and client cards will be needed. It's likely that vendors will offer dual-standard products, but they are not yet 
+available. It is possible, however, for both standards to co-exist in the same environment. Due to the incompatibility 
+issue, another revision of the standard has been proposed but not yet finalized. 802.11g runs also at 54 Mbps but 
+operates in the same 2.4 GHz frequency as Wi-Fi, thus allowing for backwards compatibility with existing Wi-Fi 
+networks. Stay tuned, since there is yet another new protocol being discussed, 802.11e, which adds QoS ("quality of 
+service") to high-speed bandwidth, guaranteeing a reliable stream of data transmission to individual clients, vital for 
+effective video streaming.  
+It should also be noted that there are several other standards for wireless local networks. HomeRF, developed by 
+Proxim (and marketed under the "Symphony" name), combines the 802.11b and the Digital Enhanced Cordless 
+Telecommunications (DECT) portable phone standards into a single system. The latest version (HomeRF 2.0) 
+increments throughput from 1.6 to 10 Mbps. It is not compatible with Wi-Fi. Given Intel's recent drop of support for 
+HomeRF, its future appears uncertain. A wireless standard just emerging which looks more promising is 
+HiperLAN2, developed by Nokia and Ericsson, and approved by the European Telecommunication Standardization 
+Institute (ETSI). It is similar to, but not compatible with, 802.11a in that it uses the 5.4 GHz frequency with a 
+throughput of 54Mbps. However, while 802.11a is primarily a data-delivery protocol, HiperLAN2 offers built in 
+support for voice and video and allows for QoS transmissions. HiperLAN2 also provides for unicast, multicast, and 
+broadcast transmissions. Most experts see it as the most advanced wireless standard currently available.  
+Alternatives and Outlook  
+It seems likely that Europe and North America will travel different paths to wireless local networks, with North 
+America embracing 802.11x and Europe tilting towards HiperLAN2. This leaves the rest of the world to choose one 
+of the two or (God forbid) come up with a different standard. This mirrors the unfortunate state of affairs in cellular 
+phones, with Europe (and most of the rest of the world except Japan) using GSM ("Global System for Mobile 
+Communications") while North America has gone its own way with analog (AMPS -- "Advanced Mobile Phone 
+Service") and digital (CDMA -- "Code Division Multiple Access"; TDMA -- "Time Division Multiple Access"). 
+Actually, GSM is also available in the US and Canada but coverage is far from universal. Interest in GSM is being 
+driven in part out of interest in world-wide compatibility and in part due to an add-on/successor to GSM called 
+GPRS ("General Packet Radio Service") which provides always-on, higher-bandwidth data transmissions/Internet 
+access. A similar data enhancement to CDMA is known as "1xRTT" and is just beginning to reach the market in 
+North America.  
+The data transmission service of analog cellular in North America (CDPD -- "Cellular Digital Packet Data"), which 
+enables Internet access, has been available for some time and enjoys wide coverage in the US, but suffers from a 
+slow transmission rate of 19.2 kbps (kilobits per second), suitable for e-mail but painfully slow for Web browsing 
+(landline modems typically operate at 56 kbps). It is  available for both hand-helds and laptops through PC cards 
+such as Novatel's Merlin series. Some more expensive PC cards, such as Sierra Wireless' AirCard, use compression 
+Bob Godwin-Jones Emerging Technologies 
+ 
+Language Learning & Technology 9 
+software to enhance considerably access speed. A faster alternative in the US has been the Ricochet network, which 
+operates at 128 kbps. Unfortunately for subscribers, the network's parent company, Metricom, went bankrupt in 
+August, 2001. However, Aerie Networks purchased the Ricochet network and has announced plans to resume 
+service in the US.  
+Much of the news in the mobile phone world for the past several years has centered around 3G, the third-generation 
+cellular network, combining high speed mobile access with Internet Protocol (IP)-based services, which proponents 
+have hailed as the future of Internet access, with fast, reliable, always-on connections. Anticipated data transfer rates 
+range from 144 kbps to 2 Mbps. It is based on a revised version of CDMA called Wideband-CDMA (with several 
+different implementations in the works including CDMA2000 and 3GPP). Telecommunication companies have 
+spent billions of dollars to purchase licenses to operate 3G networks and since then have invested billions more in 
+developing the technology and buying the hardware to build the needed new infrastructure. So far, no 3G systems 
+have seen the light of day, except in experimental trials, and it seems likely that in 3G implementation North 
+America and Europe may again go their separate ways. Once they arrive on the scene, 3G networks promise to 
+deliver broadband access through cell phones, allowing for applications such as videoconferencing and multimedia-
+on-demand. The arrival of MPEG-4, with its dramatically enhanced compression codecs, will help considerably in 
+making this a reality. This is likely to accelerate the development of so-called convergence devices, which combine 
+the functions of cell phones, personal organizers, hand-held computers, and even video players. Smartphones from 
+Nokia and Ericsson, the forthcoming "Stinger" phone line from Microsoft, and the recently announced "Treo" Palm 
+devices from Handspring are examples of this trend.  
+While 3G is still a vision waiting to be fulfilled, it seems likely that for most mobile network users, wireless LAN 
+solutions will provide the principal means of Internet access. Wi-Fi is not likely to show up as an add-on to cell 
+phones due to excessive power requirements of PC cards. But cards are available for both Palm devices and 
+PocketPCs, the two dominant hand-held platforms. More applications are being developed that enhance Internet use 
+on such devices. AvantGo , for example, uses a "store and forward" model to sync up Web-based content on hand-
+helds. Many periodicals in a variety of languages are available for (free) subscription through AvantGo. Blackboard, 
+a widely used course management system, has recently released a plug-in for Blackboard 5.5 which allows users to 
+view course site content on Palms and PocketPCs through AvantGo. The University of South Dakota has been 
+experimenting with universal ownership of Palm devices for its freshman class, with learning software specifically 
+designed for hand-held use. East Carolina University has been using hand-helds and AvantGo  in several humanities 
+classes. St. Olaf College (Minnesota) has been using Palm devices with AvantGo and KingKanji software to help 
+students with Japanese reading and writing skills. Participants found the devices especially helpful in practicing 
+stroke order in writing. Given price reductions, color screens, and emerging high-speed wireless Internet access 
+(through Wi-Fi5 or HiperLAN2), hand-held computers seem poised to become popular choices for Internet access. 
+Such a development may open the door for development of new multimedia language learning applications, 
+designed to run on mobile devices accessing the Internet from wherever they may be.  
+In North America, one other wireless Internet option is a satellite connection, offered by vendors such as Starband, 
+DirecPC, or Earthlink. Satellite access is particularly attractive in areas not served by cable or DSL service, but 
+hardware costs are considerably higher than for other broadband services. The U.S. Federal Communications 
+Commission (FCC) recently awarded licenses to 11 satellite vendors to provide new satellite telecom services 
+including high-speed Internet. These systems will be using satellites in geostationary orbit broadcasting "spot 
+beams " in the "Ka-band" of 20/30 GHz. The promise is for faster, more affordable service throughout the US 
+(beginning in 2002/2003). Vendors such as WildBlue are planning to enable easy sharing of the satellite Internet 
+connection with multiple users in a home, office, or school.  
+Resource List  
+Organizations, Standards, and General Information on Wireless Networking  
+· WLANA - Wireless Network Association 
+· Infrared Data Association 
+· MPEG home page with wealth of links to info on MPEG-4 
+Bob Godwin-Jones Emerging Technologies 
+ 
+Language Learning & Technology 10 
+· MPEG4 Industry Forum 
+· Wi-Fi, Bluetooth beating up on 3G from ZDNet News 
+· Bluetooth home page  
+· IEEE international standards setting body  
+· ETSI European Telecommunication Standardization Institute  
+Infrared and Bluetooth  
+· Point and Shoot: Infrared-enabled proximity payments are here about IrFM applications 
+· Hewlett-Packards CapShare 910 review of the hand-held scanner in PC Magazine 
+· Pocket Scanner for Your PocketPC review of the QuickLink Scanner Pen from PocketPC Magazine 
+· Open Obex open source OBEX development project from the University of Tromsø 
+· I talk to the Palm guide to software for moving data between hand-held devices (PocketPC Magazine) 
+· Can Bluetooth live up to the hype? from CNN 
+Wireless LANs  
+· IEEE 802.11B WIRELESS LAN STANDARD brief introduction to Wi-Fi 
+· The Wireless LAN Revolution from the Portland Community LAN Resource Guide 
+· 802.11b Tips, Tricks, and Facts from O'Reilly  
+· Getting Started with Lucent's 802.11b Wireless LAN Card popular PC card for Wi-Fi in laptops (now 
+called Orinoco)  
+· Agere Plugs XP article on the "enhanced media sense" built into WindowsXP, allowing automatic 
+detection of Wi-Fi networks  
+· Wireless Comes Home review of 12 different Wi-Fi access points in PC World  
+· Performance Test: 802.11b Takes a Lickin' and Keeps on Tickin' practical tips on Wi-Fi use, including 
+interference issues (such as microwave ovens)  
+· 802.11a - Fast Wireless Networking comprehensive overview of the new Wi-Fi5 standard from 
+ExtremeTech 
+· HomeRF 
+· Proxim Symphony review of Symphony cards for use on HomeRF networks 
+· Hiperlan2 
+· about HiperLAN2 from the HiperLAN Resource Center 
+· A Wireless Neighborhood Freenet article by Moshe Bar on setting up a Wi-Fi network in Isreal 
+· 'Parasitic grid' wireless movement may threaten telecom profits from InfoWorld 
+· Renegade WLANs: Pararsitic or Free-Spirited Anarchistic 
+Mobile Phones and Hand-helds  
+· Blackberry hand-held device for viewing e-mail (uses CDPD network) 
+· Handspring unveils wireless triplets from Cnet, on Handspring "Treo" convergence phones 
+· An Introdcution to General Packet Radio Service from GSMWorld, detailed information on GPRS 
+· 3G or not 3G discussion of pros and cons of 3G 
+· 3G Cometh not so fast discussion of implementation issues with 3G 
+· Sendo Stinger phone coming this spring news release on new smartphone using Microsoft's Stinger 
+technology 
+· Palm devices in Higher Ed article highlighting use of Palm devices on campuses 
+  

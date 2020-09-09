@@ -1,0 +1,429 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/february2015/action1.pdf 
+February 2015, Volume 19, Number 1 
+pp. 23–33 
+ 
+Copyright © 2015, ISSN 1094-3501 23 
+NEW SOFTWARE TO HELP EFL STUDENTS SELF-CORRECT THEIR 
+WRITING 
+Jim Lawley, Universidad Nacional de Enseñanza a Distancia  
+This paper describes the development of web-based software at a university in Spain to 
+help students of EFL self-correct their free-form writing. The software makes use of an 
+eighty-million-word corpus of English known to be correct as a normative corpus for error 
+correction purposes. It was discovered that bigrams (two-word combinations of words) 
+present in a student’s writing but which are not found, or which are suspiciously rare, in 
+the normative corpus are likely to contain errors. The program highlights such bigrams in 
+compositions, and guidance is provided to help students decide if they have indeed made a 
+mistake, and if so, how to correct it. A cohort of students who volunteered to trial the 
+software for a month reported positively on their experience; it had helped them find 
+mistakes in their own and their peers’ writing and had greatly accelerated the self-
+correction process. 
+Keywords: Action Research, Computer-Assisted Language Learning, Corpus, Distance 
+Learning, Online Teaching and Learning, Writing 
+APA Citation: Lawley, J. (2015). New software to help EFL students self-correct their 
+writing. Language Learning & Technology, 19(1), 23–33. Retrieved from 
+http://llt.msu.edu/issues/february2015/action1.pdf 
+Received: January 11, 2014; Accepted: April 21, 2014; Published: February 1, 2015 
+Copyright: © Jim Lawley 
+IDENTIFICATION OF PROBLEM AREA 
+While it is clearly desirable for students to write as often and as much as they wish and to learn from their 
+mistakes, correcting student compositions takes up a great deal of teachers’ time; it may for example take 
+a teacher ten minutes to find and give feedback on all the mistakes in a two-hundred-word composition 
+written by a student at level B1 of the Common European Framework of Reference for Languages 
+(CEFR) (2001). At one distance-learning university in Spain only twenty hours’ teaching time per week is 
+allocated to the five hundred students on the B1 level course in the Grado de Estudios Ingleses (a first 
+degree course in English), so students are encouraged to self- and peer-correct. These students are adults 
+of all ages many of whom have work and family obligations that mean they can only study in the evening 
+or at weekends and cannot attend classes. 
+The students, who are aiming for level B2 of the CEFR, are given detailed guidance on self- and peer-
+correction. This guidance begins by encouraging students to check their writing with scrupulous care, to 
+take the view that what they have written may be incorrect and, unless they are absolutely certain that 
+what they have written is correct, to look at the error boxes and example sentences in their dictionaries.  
+For example, the guidance suggests that at one stage in the correction process students should concentrate 
+exclusively on the prepositions in their compositions. The student who has written *It depends of the 
+weather should check which preposition follows depend in the example sentences in the dictionaries; the 
+absence of examples of depend followed by of and the presence of several examples in which the verb is 
+followed by on will, it is hoped, trigger self-correction. Students are also encouraged to check online 
+corpora such as Webcorp (n.d.) to see if they provide evidence which corroborates the way they have used 
+words in their compositions.  
+Students understand that they need to eliminate errors from their writing: the CEFR descriptors state that 
+at level B2 they should show, “Good grammatical control; occasional ‘slips’ or non-systematic errors … 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 24 
+may still occur, but they are rare and can often be corrected in retrospect”.  However, they frequently 
+complain about the self-correction process which they find too time-consuming: if a teacher is not 
+available, they want to have software which will accelerate the process. 
+In view of this situation, the action research question discussed below is: “What software can I provide 
+which will enable my students to self-correct their free-form writing?”  
+COLLECTION AND ORGANIZATION OF DATA 
+Literature and Software Review  
+A number of studies suggesting that self-correction can be efficacious are usefully summarised in Lázaro 
+Ibarrola (2013) who in her own study found that even unmotivated 16–17 year-old Spanish school 
+students at level A2 of the CEFR who spent just a few minutes using dictionaries and textbooks were able 
+to correct 44.8% of the errors in their free-form writing. Lee (1997) points out that “a crucial variable in 
+error correction is recognising the existence of errors” and that low-level students may be unable to notice 
+a significant percentage of errors. In view of Lázaro Ibarrola and Lee’s findings, it seems likely that 
+students who have chosen to study English at university aiming for level B2 of the CEFR will be able to 
+self-correct more successfully, especially if they are aided in the task of error detection by suitable 
+software. 
+Software that helps users detect and correct errors in word collocations are commonly referred to as 
+grammar checkers. Grammar checkers have traditionally been built around tagging and parsing programs. 
+As Tschichold (1999) explains, a high percentage of wrong tags has to be expected when the tagger is 
+dealing with second language (L2) partly erroneous text. Since compositions written by lower-
+intermediate students can be very erroneous indeed, it is not surprising that grammar checkers based on 
+tagging and parsing programs are of little help to B1 level students. Students who have used the Microsoft 
+Word Grammar Checker, for example, report that it is frustrating and unhelpful for their purposes. It 
+finds, for example, no mistakes in the sentence *Then he said us that he had always worked as waiter, 
+which in fact contains two mistakes (said us should be told us, and as waiter should be as a waiter). On 
+other occasions, it misdiagnoses such as in the sentence *I’m very happy living hear. The suggestion that 
+the student change living hear to living hears or livings hear is distinctly unhelpful. The tagger is clearly 
+labelling hear as a verb and living as its subject, and the parser is then indicating that there is a problem of 
+agreement between the subject and verb. In fact, of course, the student has simply confused hear with its 
+homophone here and should change living hear to living here. In light of such shortcomings, Lawley 
+(2004) and Stapleton and Radia (2010) conclude that despite the high hopes deposited in such grammar 
+checking software, the reality is not positive, with a high percentage of errors missed, and often no useful 
+help offered to those it does detect. In a similar vein, Hernández García (2012) analysed other 
+commercially available grammar checkers, finding them unsuitable for EFL students since they fail to 
+detect the majority of mistakes, make unhelpful suggestions, and sometimes give rise to false alarms. 
+Meanwhile in 2013 a group of students on the B1 level course organised a search for a reliable, 
+affordable, web-based writing aid that would detect the errors in their free-form writing and reported that 
+they found nothing satisfactory.  
+More promising than tagging and parsing, it seems, is an error detection method that divides a text into 
+segments and then checks if each of the resulting segments occurs in a large corpus of written English 
+which is known to be correct. So, for example, the sentence *My father is lawyer can be divided into three 
+segments: (a) My father, (b) father is, (c) is lawyer. Each of these segments of two words, known as 
+bigrams, can then be searched for in a large corpus of accurate English. While My father and father is are 
+likely to occur many times in the corpus, the bigram is lawyer is unlikely to occur and may therefore be a 
+mistake. Variations on this approach are described in a number of studies (e.g., Briscoe, Medlock & 
+Andersen, 2010; Chen, 2009; Chodrow & Leacock, 2000; More, 2006; Sjöbergh, 2005). Briscoe, 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 25 
+Medlock and Andersen (2010), for instance, are mainly concerned with the challenge of providing 
+automated assessment of English as a Second Language (ESOL) examination scripts written in response 
+to essay questions. They estimate the overall error rate of a script by counting the unigrams, bigrams, and 
+trigrams of lexical terms that do not occur in a vast sample of approximately 500 billion words of English 
+from the World Wide Web. They and their predecessors in the field report positive results for this method 
+of error detection.  
+Meanwhile from a pedagogical point of view it does not seem desirable for corrections and improvements 
+to be imported into a student’s text in exchange for a click of the mouse; if no cognitive processing is 
+required, the opportunity to learn from the mistake may be lost (Hernández García, 2012). More 
+promising is the approach suggested by Gaskell and Cobb (2004) who report that lower intermediate level 
+students successfully used a concordancer to correct their writing after the location of grammatical and 
+collocational errors had been pointed out to them by a teacher. For example, when students who had 
+written *in New Year’s Eve were told to check the preposition they were able to use the concordancer to 
+correct to on New Year’s Eve. The problem, highlighted by Stapleton and Radia (2010), is that this 
+process requires the intervention of a teacher if students are to realise in the first place that there is a 
+problem with the phrase *in New Year’s Eve. 
+Student Interviews 
+Twenty-five students in the course were selected at random, contacted by telephone, and asked to reflect 
+on how much time per week they devoted to the writing component of the course and how they spent that 
+time. Answers were collected in a follow-up call a week later. Twenty of the 25 students reported that 
+they spent between three and five hours a week on free-form writing and that it typically took them 
+between 40 and 50 minutes to write an essay, but over two hours to correct the essay using the self-
+correction technique. Several took the opportunity to complain about how time-consuming they found 
+this process of self-correction. Three confessed that in fact they sometimes did not write an essay at all 
+since they found the self-correction procedure too laborious. One student said that she and her friends felt 
+that studying grammar was a more productive way of spending the time. Four of the 25 students reported 
+that a teacher, a friend, or a relative acting as a teacher, helped them by detecting the errors in their 
+essays.  
+INTERPRETATION OF RESULTS 
+The ability to write essays largely free of errors is very important to students aiming for level B2 of the 
+CEFR. It would, therefore, clearly be beneficial for many students in this course if the self-correction 
+procedure were less time-consuming; that is, if it were quicker and easier for them to find the mistakes in 
+their free-form writing.  The time saved in this way would enable them to write more essays. Specifically, 
+it would be better if instead of spending three hours writing and self-correcting one essay, they could 
+write two or three essays in the same time, provided they could detect and learn from more mistakes.  
+It is clearly essential, however, for the students to be able to trust the software they are using. Last (1992) 
+pointed out that one of the key aspects of any learning system is that the relationship between tutor and 
+learner should not be imperilled by anything which might cause the latter to lose confidence in the 
+former; if the program finds itself unable to resolve a situation or does so with an incorrect or incomplete 
+answer then the relationship of trust between learner and tutor (computer program) will be broken. A 
+great deal of time is wasted and frustration occasioned if students cannot understand or cannot trust what 
+the software is telling them. The need is to provide reliable, trustworthy software that quickly identifies 
+student errors in a way they can easily understand. If it proves feasible, there are obvious advantages to 
+making and controlling such software in the students’ own institution.   
+ACTION BASED ON DATA 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 26 
+It is not a complicated procedure to prepare a ‘bigram’ grammar checker along the lines suggested in 
+Section 2.1 above. 80 million words were taken from the written component of the British National 
+Corpus (BNC). The written component of the BNC contains extracts from a wide variety of genres 
+including newspapers, periodicals, journals, books of fiction and non-fiction (both popular and academic), 
+as well as (in much smaller degree) letters, memoranda and school and university essays. By computer 
+analysis, it was discovered how often each word occurs in this corpus of 80 million words. The frequency 
+of each bigram in the corpus was also discovered, as well as the number of times each bigram would be 
+expected to occur in the corpus if words were distributed at random in text. All this information was 
+stored in tables in the database of Grammar Checker, a web-based writing tool for students of EFL. 
+Having first used the spell-check facility to ensure that all the words in their composition are correctly 
+spelled, students then activate the “Pairs filter”. This filter forms all the possible two-word combinations 
+that occur in the composition. It does not however form a combination of two words when there is a 
+punctuation mark between the words. So if, for example, a student has written, *Then he said us that he 
+had always worked as waiter, Grammar Checker divides the sentence into the two-word combinations 
+shown in Table 1.  
+Table 1. The ten bigrams in “*Then he said us that he had always worked as waiter” 
+Bigrams 
+1. Then he  
+2. he said 
+3. said us 
+4. us that 
+5. that he 
+6. he had 
+7. had always 
+8. always worked 
+9. worked as 
+10. as waiter 
+It then looks up each of these combinations in the table in its database and supplies the information listed 
+in Table 2.  
+Table 2. Grammar Checker’s Analysis of  “*Then he said us that he had always worked as waiter” 
+Pair frequency Word 1 frequency Word 2 frequency Pair probability Threshold 
+Then he   4,706 Then 116,067 he 511,374 626.52 7.51 
+he said 24,630 he 511,374 said 166,263 897.47 31.9 
+said us          4 said 166,263 us   51,936 91.15 0.04 
+us that   1,489 us   51,936 that 863,445 473.36 3.15 
+that he 32,143 that 863,445 he 511,374 4,660.81 6.9 
+he had 43,421 he 511,374 had 383,011 2,067.46 21 
+had always   1,885 had 383,011 always   37,831 152.95 12.32 
+always worked        65 always   37,831 worked   10,726 4.28 15.19 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 27 
+worked as      448 worked   10,726 as 601,271 6.08 6.58 
+as waiter          0 as 601,271 waiter        635 4.03 0 
+In the case of Then he for example this table shows that (a) the phrase Then he occurs 4,706 times in the 
+corpus of 80 million words; (b) the word Then occurs 116,067 times in the corpus; (c) the word he occurs 
+511,374 times; (d) if words were distributed at random in text then, given the frequency of Then and he, 
+we would expect the phrase Then he to occur 626.52 times in this corpus of 80 million words; (e) but in 
+fact it occurs 7.51 times more often than that.  
+This 7.51 then, is an indication of the degree of collocational attraction between the two words. Any 
+threshold number above 1 suggests that these words tend to be used together in this order; the higher the 
+number, the greater the degree of collocational attraction. A threshold number below 1 suggests the 
+opposite; the lower the number, the greater the degree of repulsion. So the student user knows that Then 
+he occurs many (4,706) times in the corpus and that that number is much higher than would be expected if 
+words were distributed at random in text. In combination these numbers (Pair frequency and Threshold) 
+can be taken as a strong indication that the phrase is correct. In the case of said us, the numbers provide a 
+strong indication that the phrase is incorrect. It only occurs 4 times and the threshold is very low (0.04); 
+both said and us are high frequency words which seem to avoid each other’s company.1 
+The other bigram in the sentence which has both a low pair frequency score and a low threshold number 
+is as waiter. Written in accurate English, the sentence would read: Then he told us that he had always 
+worked as a waiter. These changes introduce four new bigrams: he told, told us, as a, a waiter. See Table 
+3 for statistics on these bigrams. In each case we can see that there is a strong indication that the new 
+combination is correct: both the Pair frequency and the Threshold numbers are high.  
+Table 3. Grammar Checker’s Analysis of “he told”, “told us”, “as a”, “a waiter” 
+Pair frequency Word 1 frequency Word 2 frequency Pair probability Threshold 
+he told 3,277 he    511,374 told 31,546 170.28 19.24 
+told us 843 told 31,546 us 51,936 17.29 48.76 
+as a  83,841 as    601,271 a  1,923,612 12,208.88 6.87 
+a waiter   110 a    1,923,612 waiter  635 12.89 8.53 
+Grammar Checker alerts the student user to those bigrams which do not occur or only rarely occur in the 
+corpus and which have low threshold numbers. Figure 1 shows Grammar Checker highlighting said us 
+and as waiter in the sentence *Then he said us that he had always worked as waiter.   
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 28 
+ 
+Figure 1. Grammar Checker highlights very infrequent bigrams in a student’s composition. 
+Not all bigrams which do not occur or only rarely occur in the corpus and which have low threshold 
+numbers are necessarily wrong. For example the numbers for the bigrams in the sentence: Sometimes I 
+behave like a child are represented in Table 4. Despite having a low pair frequency (4) and a low 
+threshold (0.51), the combination I behave, is not a mistake. 
+Table 4.Grammar Checker’s analysis of “Sometimes I behave like a child” 
+Pair frequency Word 1 frequency Word 2 frequency Pair probability Threshold 
+Sometimes I 497 Sometimes    17,592 I   472,967 87.83 5.66 
+I behave 4 I  472,967 behave       1,565 7.81 0.51 
+behave like 192 behave      1,565 like   108,064 1.79 107.26 
+like a 17,448 like  108,064 a   192,361 2194.25 7.95 
+a child 4,077 a  192,361 child     18,941 384.6 10.6 
+My analysis of a 10,000-word corpus of student writing suggested that there is approximately a 90% 
+probability that bigrams contain mistakes if: (a) they do not occur in the corpus and the pair probability is 
+4 or above, or (b) they occur in the corpus and their threshold numbers are below 0 and 0.1. As Figure 1 
+demonstrates, Grammar Checker highlights such bigrams in red. Meanwhile, there is a 50% probability 
+that bigrams contain mistakes if: (a) they occur in the corpus fewer than 500 times and their threshold 
+numbers lie between 0.1 and 0.5. Grammar Checker highlights such bigrams in orange. Finally, there is 
+approximately a 20% probability that bigrams contain mistakes if they occur fewer than 75 times in the 
+corpus and their threshold numbers lie between 0.5 and 0.9. These bigrams are highlighted in yellow. 
+Bigrams are highlighted in these different colours (red, orange, and yellow) so that students can prioritise 
+those bigrams that are more likely to contain errors.  
+The explanation of how to use Grammar Checker (which appears on screen when students click on ‘How 
+to Use Grammar Checker’) makes clear that bigrams are highlighted simply because they do not occur or 
+only occur comparatively rarely in the large corpus of correct English, and not because they necessarily 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 29 
+contain mistakes. When students see which bigrams in their compositions have been highlighted, they 
+should then look at each in turn and decide whether they (a) are sure the bigram is correct, (b) are sure it 
+is wrong, or (c) are uncertain. If they are sure there is no mistake, they will take no further action. If they 
+are sure there is a mistake, they will correct it. If they are unsure, students are encouraged to use their 
+dictionaries and online corpora such as Webcorp to check how the words in the bigram are used.  
+A group of 20 volunteer students at level B1 used Grammar Checker for self- and peer-correction for a 
+month. Grammar Checker was made available to them online and students were able to see the scores for 
+every bigram in their compositions, not only those that had low Pair frequency and Threshold numbers. 
+An online discussion forum was made available for participants to discuss their experiences of Grammar 
+Checker; they were specifically encouraged to provide instances of Grammar Checker helping them to 
+find mistakes and also of “false alarms” (when Grammar Checker highlighted a bigram that was correct) 
+and other cases where it did not help or frustrated them in any way.  
+ASSESSMENT AND REFLECTION 
+Discussion in the forum revealed that it was easy for learners to understand how Grammar Checker was 
+analysing their writing and what it was telling them. Students reported that Grammar Checker enabled 
+them to correct errors connected with the error types listed below in Table 5. 
+Table 5. Types of error that Grammar Checker helped students correct 
+Error types 
+1. Concord (*… this people). 
+2. Conjugation (*A famer live in the country). 
+3. Prepositions (*… very fond on food). 
+4. Collocation (*… wear hotter clothes). 
+5. Omission of words (*I want be lawyer). 
+6. Word order (*She is a woman rich). 
+7. Misuse of words (*… but not to much). 
+It did not detect errors connected with (a) false friends in certain contexts (for example, Actually I am 
+working in Madrid where At present or At the moment rather than Actually might be correct); (b) concord 
+such as *People who says where both bigrams People who and who says) occur frequently in the corpus 
+and have high threshold numbers but the trigram People who says does not; (c) some mistakes of tense 
+(e.g. *I go home yesterday). 
+The student volunteers reported lots of “false alarms”, many associated with the words and, but and or; 
+for example the bigram and correct (in the sentence It was a normal and correct use) was highlighted in 
+yellow since it occurs 113 times in the corpus and has a threshold score of 0.94  
+In general however such false alarms were not seen as a problem. One participant said,  
+It’s not just that it was coloured in yellow so I knew there was only a small chance that it was 
+wrong. It’s also that I knew it was OK … The spell check facility in Microsoft Word highlights my 
+surname. That is a false alarm because I have in fact spelled it correctly. But the highlighting is not 
+a problem for me because I know I have spelled it correctly. I just ignore it. The same happens here. 
+If Grammar Checker highlights a phrase like and correct and I know it is correct, then I take no 
+notice. When it highlights a word pair and I don’t know if it is correct or not, then I need to find out.  
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 30 
+Other users reported that on many occasions they only needed to see a bigram highlighted to realise that 
+they (or their partner if they were peer correcting) had made a mistake. Figure 2 shows one student’s 
+composition after activating the Pairs filter. 
+ 
+Figure 2. Screenshot of Grammar Checker showing the bigrams highlighted in a student’s composition. 
+Using data from the server, it was possible to observe that the student corrected the mistakes highlighted 
+in red almost immediately: these day was changed to this day; had do to had done; before go to before 
+going, and; in Sunday to on Sunday. Meanwhile no change was made to the bigrams shopping the and 
+speaker said; when contacted, the student confirmed that she had found abundant uses of both the 
+shopping the day before and the speaker said on Webcorp (where the Advanced Search option allows the 
+search of vast domains of correct English such as “British broadsheet newspapers” or “US newspapers” 
+for example to see if the bigram or indeed a longer phrase is found). 
+Thirty compositions on the server were selected at random and analysed. A total of 230 errors in 
+highlighted bigrams were corrected appropriately, 42 errors in highlighted bigrams were not corrected, 
+and 29 were corrected inappropriately. (Meanwhile it was evident that other mistakes had been corrected 
+even though Grammar Checker had been of no assistance in finding them). 
+Meanwhile, an unexpected benefit of using Grammar Checker was summarised by the student who wrote 
+The software saved me a lot of time by telling me which bigrams in my composition are often 
+used by the good writers; sometimes I was worried about things like whether to add an s to the 
+verb after people and I saw from the numbers that I had got it right.  
+The twenty student volunteers who trialled Grammar Checker reported without exception that Grammar 
+Checker accelerated the self-correction process; by highlighting the bigrams which were probably or 
+possibly wrong, while at the same time confirming that others were frequently found in correct English, it 
+made the self-correction procedure much quicker. The students reported that it now took them between 20 
+and 30 minutes rather than 2 hours to self-correct an essay. They also reported that they enjoyed the 
+process more; one student said, “Now it’s not just me and my essay—there’s an external source of 
+information telling me about each combination of words in my writing”. The time saved by accelerating 
+the self-correction procedure could be used to write and correct more essays.   
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 31 
+CONCLUSIONS 
+The new software, while far from perfect and still very much a prototype, clearly helps students self-
+correct their essays, not only, as was originally intended, by highlighting combinations of words which 
+are especially likely to contain errors, but also by telling them which combinations are frequently used in 
+English and by making the process more fun. Meanwhile, it seems that at present, Grammar Checker has 
+three advantages over commercially-available software: 
+1. It is less ambitious in that it does not suggest to a student that a combination of words is 
+definitely wrong; it merely says that it is rare. By not “over-reaching” and giving rise to “false 
+alarms” in this way, Grammar Checker ensures that it does not break the relationship of trust 
+between learner and tutor/computer; everything it tells the student is true.  
+2. It is transparent and explicit about what it does and how it does it; understanding how it works, 
+students can better evaluate the significance of the information it gives them. 
+3. It does not make corrections available in return for the click of a mouse. Students must think for 
+themselves: the aim is not merely to help students remove errors on one occasion, but to help 
+them avoid the same mistake in the future. 
+It remains to be seen how and how much Grammar Checker can be improved. Strong possibilities are: 
+1. Increasing the size of the corpus whilst at the same time maintaining its balance so that it 
+provides more information on the behaviour of less frequent words. 
+2. Limiting the analysis to words among, say, the 10,000 most frequently used to ensure that 
+Grammar Checker has sufficient evidence of the words’ behaviours.  
+3. Building a trigram filter to detect errors such as *People who says where both bigrams People 
+who and who says are accurate but the trigram *People who says is not accurate. 
+4. Incorporating case sensitivity so that, for example, occurrences of US (meaning “The United 
+States”) are not conflated with the pronoun us. 
+5. Using student compositions uploaded to form a corpus of learner English which will allow 
+specific hand-crafted feedback to be written for the most common errors.  
+6. Providing guidance on the kinds of errors that Grammar Checker does not detect.  
+It also remains to be seen how many students, which kinds, and at which levels will ultimately find an 
+improved Grammar Checker useful. Attempts are being made to make Grammar Checker as user-friendly 
+as possible with the hope that secondary school students as well as university students will make use of it. 
+At present, teachers who, for example, have 25 students in a class may face 4 hours of extra work 
+whenever they ask their students to write a 200-word composition. It seems then that in many cases, 
+however hard-working and conscientious teachers may be, there will often be quite severe logistical limits 
+to the number of written assignments that can be assigned and marked. Yet at the same time it may be that 
+ambitious students would like to be able to write more often and learn from their mistakes. If so, then it 
+becomes necessary to enable students to take on more of the burden of error detection and correction. The 
+software described in this article is intended as a contribution towards making possible a purposeful and 
+rewarding self-correction process. 
+ 
+NOTE 
+1. Scrutiny of the corpus shows that the 4 instances of said us are in fact instances of said US in, for 
+example, phrases of the type “He said US foreign policy would …” 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 32 
+ 
+ACKNOWLEDGEMENTS  
+The author would like to thank Sergio Martín Gutiérrez of the Departamento de Ingeniería Eléctrica, 
+Electrónica y de Control at the Universidad Nacional de Educación a Distancia (UNED) in Spain for his 
+superb programming work on Grammar Checker. The author also wishes to thank the students who 
+trialed Grammar Checker for their helpful comments and advice.  
+ 
+ABOUT THE AUTHOR 
+Jim Lawley is a tenured lecturer at the Universidad Nacional de Educación a Distancia (UNED) in 
+Madrid, Spain. His major research interest is innovative materials design for EFL. He is the author and 
+co-author of EFL textbooks published by HarperCollins, Pearson, Thomas Nelson, Richmond Santillana, 
+and Cambridge University Press. 
+E-mail: jlawley@flog.uned.es 
+ 
+REFERENCES 
+Briscoe, T., Medlock, B., & Andersen, O. (2010). Automated assessment of ESOL free text examinations. 
+University of Cambridge Computer Laboratory Technical Report 790. Cambridge, UK: University of 
+Cambridge Computer Laboratory. Retrieved from http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-
+790.pdf 
+British National Corpus (n.d.). Retrieved from http://www.natcorp.ox.ac.uk 
+Chen, H. J. H. (2009). Evaluating two Web-based grammar checkers: Microsoft ESL Assistant and 
+NTNU Statistical Grammar Checker. Computational Linguistics and Chinese Language Processing 
+14(2), 161–180. Retrieved from http://www.aclweb.org/anthology/O/O09/O09-4002.pdf 
+Chodorow, M., & Leacock, C. (2000). An unsupervised method for detecting grammatical errors. Paper 
+presented at the 1st annual meeting of North American Chapter of the Association for Applied Linguistics, 
+140–147. Retrieved from http://www.aclweb.org/anthology/A00-2019.pdf 
+Council of Europe. 2001. Common European Framework of Reference for Languages: Learning, 
+Teaching, Assessment. Cambridge, UK: Cambridge University Press. 
+Gaskell, D., & Cobb, T. (2004). Can learners use concordance feedback for writing errors? System 32(4), 
+301–319. 
+Grammar Checker. (n.d.). Retrieved from 
+http://www.correctme.es/cm_english/identification.php?msg=Usuario+no+identificado,+introduzca+sus+
+credenciales 
+Hernández García, F. (2012). Palabras problemáticas y frases incorrectas: Una solución autónoma para 
+detectar lo indetectable.  RAEL: Revista Electrónica de Lingüística Aplicada, 11, 41–55. Retrieved from 
+http://dialnet.unirioja.es/servlet/revista?codigo=6978 
+Last, R. (1992). Computers and language learning: Past, present and future. In C. S. Butler, (Ed.), 
+Computers and written texts. (pp. 227–245) Oxford, UK: Blackwell Publishers. 
+Lawley, J. (2004). A preliminary report on a new grammar checker to help students of English as a 
+Jim Lawley Software for EFL Self-Correction  
+ 
+Language Learning & Technology 33 
+foreign language. Arts and Humanities in Higher Education, 3(3), 331–342. 
+Lázaro Ibarrola, A. (2013). Reformulation and self-correction: Testing the validity of correction strategies 
+in the classroom. Vigo International Journal of Applied Linguistics, 10, 29–49.  
+Lee, I. (1997). ESL learners’ performance in error correction in writing: Some implications for teaching. 
+System, 25(4), 465–477.  
+More, J. (2006). A grammar checker based on Web searching. Digithum 8. Retrieved from 
+http://www.uoc.edu/digithum/8/dt/eng/more.pdf?origin=publication_detail 
+Sjöbergh, J. (2005). Chunking: An unsupervised method to find errors in text. Proceedings of the 15th 
+Nordic Conference of Computational Linguistics, NODALIDA 2005. Retrieved from http://dr-
+hato.se/research/chunkngram.pdf  
+Stapleton, P., Radia, P. (2010). Tech-era L2 writing: Towards a new kind of process. ELT Journal, 64(2), 
+175–183. 
+Tschichold, C. (1999). Intelligent grammar checking for CALL. ReCALL, 11, 5–11.  
+WebCorp: The Web as Corpus. (n.d.). Retrieved from http://www.webcorp.org.uk 

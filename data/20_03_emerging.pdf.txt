@@ -1,0 +1,504 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2016/emerging.pdf 
+October 2016, Volume 20, Number 3 
+pp. 9–19 
+ 
+Copyright © 2016, ISSN 1094-3501 9 
+EMERGING TECHNOLOGIES 
+AUGMENTED REALITY AND LANGUAGE LEARNING: FROM 
+ANNOTATED VOCABULARY TO PLACE-BASED MOBILE GAMES 
+Robert Godwin-Jones, Virginia Commonwealth University 
+APA Citation: Godwin-Jones, R. (2016). Augmented reality and language learning: From 
+annotated vocabulary to place-based mobile games. Language Learning & Technology 20(3), 
+9–19. Retrieved from http://llt.msu.edu/issues/october2016/emerging.pdf 
+Copyright: © Robert Godwin-Jones 
+INTRODUCTION 
+The Pokémon GO craze in the summer of 2016 focused public attention on augmented reality (AR). As 
+always occurs with newly popular uses of technology, the education community soon started to explore 
+how to use the game in teaching and learning, including in second language learning. Through its ability 
+to use add-on digital assets to explore and expand scenes and locales from the real world, there is an 
+obvious connection between AR and current theories of second language acquisition which emphasize 
+localized, contextual learning and meaningful connections to the real world. In fact, AR has been in use 
+for some time in language learning applications. Especially well-known are mobile, place-based games 
+created with the ARIS platform. In this column we will explore the variety of ways in which AR is being 
+used by language educators and look as well at other ways in which language learning is tied to digitally 
+enhanced spaces. 
+THE POKÉMON GO PHENOMENON 
+Pokémon dates back to the mid-1990s with popular video games, trading cards, comics, and videos 
+featuring the Pokémon creatures (“pocket monsters”). The mobile game Pokémon GO, created by Niantic, 
+was introduced in July, 2016, and is available on both iOS and Android devices. It was released initially 
+in a limited number of countries, presumably so that Niantic could build up its infrastructure to support 
+increased server traffic. The object of the game is to catch as many Pokémon as possible; there are some 
+150 available to date. When starting up the game, a map view of the player’s location is displayed, 
+showing the player’s avatar and any Pokémon in the area. The presence of Pokémon depends on the 
+location and the time of day. Clicking on a Pokémon switches the display to an AR view, with the 
+creature overlaid on the live scene as captured by the player’s camera. At the bottom of the screen is a 
+small red and white Poké Ball. To capture the Pokémon, a player throws the Poké Ball at the monster, by 
+swiping up on the screen with a finger. To find additional Pokémon, players need to change locations 
+continuously. Of particular importance are PokéStops (shown as blue towers), locations tied to particular 
+places of interest, such as monuments, squares, or museums. At the PokéStops, players may find 
+Pokémon to capture, and can also obtain game assets including eggs and Poké Balls. The eggs turn into 
+Pokémon if a player walks a certain distance, which, depending on the egg, may be from 1 to 6 mi (2 to 
+10 km). The fact that one has to be on the move in order to be successful at the game has resulted in the 
+spectacle of numerous Pokémon players seen walking in urban spaces focused on tracking down the 
+elusive creatures. As was true of the similar predecessor app from Niantic, Ingress (2013), the game does 
+offer the benefit of taking players outdoors and providing walking exercise. The term exergame has been 
+coined to describe such games. 
+Language educators have found different aspects of playing Pokémon GO amenable to language learning, 
+as was the case for Ingress as well. This has principally been for learning English. The first step in 
+playing the game is to create a personal avatar. One blog post points out how that process involves 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  10 
+vocabulary surrounding physical appearance: you pick your sex, dress, eye and hair color, etc. (King, 
+2016). Another blog post describes how creating image files based on playing Pokémon GO could be 
+used in digital storytelling (Schrock, 2016). Players, for example, can turn on the AR view upon finding a 
+Pokémon, then take a screenshot, putting the monster in the context of the live scene. A series of such 
+images can be put together into a narrative. That process can be aided by built-in tools available in 
+Pokémon GO, including the journal, which records all game actions and the Pokédex, which provides 
+information about each Pokémon. Part of the narrative could involve mapmaking, based on gathering 
+GPS coordinates. Players might as well create narratives or multimedia artifacts based on the area around 
+a PokéStop. That might involve creating a panoramic image using an app such as Google Street View or 
+Ricoh Theta S. ESL library provides a set of discussion starter lessons based on Pokémon GO. 
+Pokémon GO was not designed for language learning and many of the ways in which language teachers 
+have enlisted the playing of the game in the service of learning could apply to other commercial mobile 
+games. The advantage of building activities around Pokémon GO is the popularity of the game. This 
+enables possible integration of learning into a fun activity in which learners are engaged by their own 
+choice. The large number of game players also means it is easy to find fellow gamers. In fact, at the 
+PokéStops it is possible to team up with other players. That is also likely at a gym, a location where a 
+player’s Pokémon can do battle. As with all digital games, there are also forums and companion websites 
+that have been created in support of gameplay and as a meeting point for players. The social interactions 
+which may accompany gameplay for Pokémon GO or other online games can provide a fertile space for 
+language use and learning. As the game has expanded geographically, it has been accompanied by a 
+global, multilingual, and multicultural online community offering rich opportunities for social contact. 
+MARKER-BASED AR 
+Most language learning AR applications are quite different from Pokémon GO in approach and scope. 
+They typically are developed by researcher-educators, who lack the resources available to commercial 
+game developers. In fact, early examples of AR technology are rather limited in terms of functionality and 
+sophistication. Most applications do not use the physical location to create an AR experience, but instead 
+rely an optical sensors, most commonly a camera mounted on a computer or embedded into a handheld 
+device. This involves using markers, images that are hard-coded into the application, which trigger some 
+kind of action. The LearnAR site provides web-based examples of AR (using Flash), with modules for 
+vocabulary quizzes in English, French, and Spanish. Most commonly, the AR markers are simple black 
+and white square printed objects, which are easy for the application to recognize and track. The easy 
+processing means that this kind of AR activity can be accomplished on devices without a lot of processing 
+power. Markers can be attached to walls, embedded in books, or tagged to objects (sometimes using radio 
+frequency id tags). When an AR app recognizes that a marker has come into view through the user’s 
+camera, an action is generated, such as displaying text, showing an image, or playing a sound clip. This 
+print AR is used by publishers to supplement and update information in textbooks or in other print 
+materials (Hawkinson, 2014). A specific image is used as a trigger to overlay media, hyperlinks, or social 
+media feeds. There are a number of reported projects that use marker-based AR to help teach vocabulary: 
+learning characters in Chinese (as demoed in a YouTube video), facilitating English to Tamil translation 
+(Rose & Bhuvaneswari, 2014), learning Filipino and German vocabulary (Santos et al., 2016), helping in 
+pronouncing new English words (Solak & Cakir, 2015), or generating flash card interactions for English 
+(Li, Chen, Whittinghill, & Vorvoreanu, 2014). 
+Typically in these applications, the word to be learned will either be illustrated (serving itself as the AR 
+trigger) or will be attached to the physical object it represents or is associated with. The concrete visual 
+connection to the item is likely to help in vocabulary retention. Valle (2015) has blogged about her use of 
+a variety of marker-based AR applications for teaching Spanish. The actions generated in these examples 
+vary considerably, from simply displaying a translation to playing an animation. A common reported 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  11 
+outcome in the studies is increased motivation of the students, likely generated by the newness of the 
+experience, as well as the welcome opportunity, in some cases, to move around the classroom. In terms of 
+language learning gains, the reported results are modest (see Santos et al., 2014). 
+Tags and markers for activating AR behaviors may be attached to concrete objects. The European Kitchen 
+project (Seedhouse et al., 2014) used sensors embedded in utensils, ingredient containers, and some 
+appliances (e.g., oven knob, scales) to provide feedback to pairs of learners engaged in learning to cook 
+through the L2. The system was designed to provide just-in-time, scaffolded assistance as needed, while 
+encouraging the participants to assist one another both in the task and in understanding the feedback, 
+provided in the L2 on a tablet on the countertop. The project is an interesting illustration of situated, task-
+based language learning. The conversation analysis of the recorded dialogues of the learners in the article 
+demonstrates how the learners helped each other while taking advantage of the feedback provided. A 
+similar project, described by Beaudin, Intille, Tapia, Rockinson, and Morris (2007), used a system called 
+TANGO (tag added learning objects) to tag a variety of items in a house. They also added sensors to 
+detect such actions as opening or closing a cabinet door or even flushing a toilet. When a particular action 
+was detected by the application, the word and associated phrases were played on the mobile device. The 
+HELLO project (Liu, 2009) used quick response (QR) codes attached to objects spread around a school to 
+have students at those locations engage in a triggered dialog with a virtual learning tutor. 
+Involving students in the creation of marker-based AR projects is likely to serve to engage students more 
+in the learning process. Results of studies by Bower, Howe, McCredie, Robinson, and Grover (2014) and 
+Slussareff and Boháčková (2016) confirm the positive learning outcomes of student-generated AR. 
+Students can be involved in both creating markers, by capturing images on their mobile devices, and in 
+helping to create the augmentation, which can range from text annotations to video animations. The 
+resulting products can be used to teach vocabulary and grammar or used in more creative projects such as 
+digital storytelling, incorporating the AR objects into the narrative. Tools for creating digital stories are 
+available for both desktop computers and smartphones (see this list for examples). There are also tools 
+created specifically for using print AR to tell a story, such as Zooburst. Mahadzir and Phung (2013) 
+describe a project in which students created a pop-up book with Zooburst in support of learning English. 
+It is easy to imagine how marker-based AR could be used in community or study abroad projects. 
+Students, for example, could explore the linguistic landscapes of their surroundings, capturing signs, 
+menus, graffiti, or billboards to explore topics such as urban multilingualism or neighborhood profiles. 
+Socio-economic and political issues could be studied as well, by photographing and mapping particular 
+kinds of stores (e.g., luxury or grocery) in different districts or by filming street demonstrations, protest 
+rallies, or other public gatherings. With the capabilities of today’s smartphones, the media captured could 
+include video, which could be used when creating an AR app to overlay clips over still images or map 
+locations. 
+PLACE-BASED LANGUAGE LEARNING 
+Through the addition of markers, QR codes, or sensors, the European Kitchen and similar projects are 
+able to create smart areas within a school, classroom, or other location, where a particular action may 
+generate feedback of some kind. It may be that the heralded Internet of Things will provide in the future a 
+limited version of such a smart environment. In fact, sensors built into gaming consoles such as Sony 
+PlayStation 4 or Microsoft Xbox One are able to track body movements, providing the opportunity for 
+actions based on body movements and interactions with the environment. However, the field of vision in 
+that case is limited. Another way to generate events from AR is to use GPS-supplied locations. This is, in 
+fact, how Pokémon GO works. It is possible to combine that location information with data supplied by 
+other means on a handheld device, principally through the camera, but possibly also by other sensors such 
+as GPS, gyroscope, compass, accelerometer, and so forth. Together, they can provide additional 
+information about the physical surroundings. Google’s Project Tango anticipates the advent of mobile 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  12 
+devices with many additional sensors, so as to provide even more detailed information. 
+One of the frequent uses of GPS-based AR is to function as a digital tour guide, providing information on 
+sites, based on global positioning and on the scene captured by the embedded camera. This offers obvious 
+opportunities for creating virtual tours of culturally or historically significant sites in the L2. These could 
+range from quite basic to media-rich, depending on the intended usage and on the resources available. A 
+simple example is provided by Liu and Tsai (2013), in which a campus tour was created as an AR app, to 
+help students with learning English. When students point the camera at one of several predefined 
+locations, a text description is overlaid on screen. The learner can click to receive more detailed 
+information. A more complex application of AR is represented by Imparapp, a mobile game for learning 
+basic Italian, being developed at Coventry University. The game begins with a treasure hunt, taking place 
+in the student’s immediate environment. As the learners move around the city, the app gives directions in 
+Italian and at particular location generates an activity. This might involve such things as counting and 
+reporting the steps up to Coventry Cathedral or asking and reporting queried information. The current 
+developmental version of the app has students trying to solve a time travel mystery. In the process, 
+students gain game assets, learn to navigate a city map in Italian, and collaborate with one another in 
+Italian to advance in the game. 
+Moving from guided tours to place-based games places the learner in a more active role, using the target 
+language potentially to read, listen, speak, and write. If the game is well designed, it also offers 
+engagement and entertainment along the way. One of the better-known examples of a location-based 
+mobile game for language learning is Mentira, designed to teach Spanish pragmatics to intermediate-level 
+learners (Holden & Sykes, 2011). The game is intended to be played over three to four weeks and 
+combines classroom activities, independent gameplay, and a site visit. The setting for the game is the Los 
+Griegos neighborhood of Albuquerque, New Mexico. The goal is to solve a prohibition-era murder. 
+Players take on a role as a member of one of four Spanish-speaking families from the neighborhood. The 
+families represent quite different backgrounds and communication styles. As players interact with family 
+members, present in the game as non-playing characters (NPCs), they learn certain pragmatic behaviors 
+such as how direct to be in framing requests. Each of the families also has different information helpful to 
+solving the murder mystery, requiring students to collaborate and share information. The students are sent 
+by their families to explore the Los Griegos neighborhood, where they encounter both NPCs and actual, 
+Spanish-speaking inhabitants. The game incorporates six different locations in Los Griegos, each 
+important in terms of local history, present-day life, or game narrative. Each player’s decision on where to 
+go and what to say can trigger an event (such as an NPC’s abrupt refusal to speak if a request is perceived 
+as rude) or a game asset (like a helpful clue for solving the mystery). 
+In articles about the learning outcomes for students playing Mentira, the developers, Holden and Sykes 
+(2011, 2013) write that while there was only slight improvement in performance on specific pragmatic 
+behaviors, it was clear that playing the game did increase the students’ awareness of pragmatic issues in 
+Spanish. They were able to see, for example, how different speech acts (requests, refusals, apologies) 
+could be formulated quite differently depending on context and individual speaking patterns. In the game, 
+the very same wording for a speech act might get quite different results (i.e., feedback from a NPC), 
+illustrating the individual variability of pragmatic behaviors. To make sure students perceived differences 
+in pragmatic features among the NPCs, their communication styles were portrayed in a somewhat 
+exaggerated fashion. For example, if a NPC preferred a direct speaking style, the character was much 
+more direct in their communications than would realistically be the case in Spanish. As part of the effort 
+to make the game sociolinguistically reflective of Spanish as a world language, the NPCs also use 
+different varieties of spoken Spanish. 
+One of the goals of the Mentira project was to increase student motivation for learning Spanish, and 
+reported results indicate was in fact the case (Holden & Sykes, 2011). It is likely that came about at least 
+in part due to students experiencing Spanish in the wild while visiting Los Griegos. Classrooms tend to be 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  13 
+place-agnostic and do not offer the same opportunity for reinforcement of learned content through place 
+associations, an aspect of learning that educational psychologists have shown to be important (Holden & 
+Sykes, 2011). A game-based approach provides a uniquely effective means for learning language 
+pragmatics (Holden & Sykes, 2013). Pragmatic behaviors are difficult to teach, due to the absence of 
+easily defined rules, the considerable variation in appropriateness depending on context and individual, 
+and the always present possibility of a speaker choosing not to use a particular learned pragmatic feature 
+for personal reasons. In a game environment, pragmatic choices can be shown to have quite dramatic 
+consequences. It also offers the possibility of making such choices in a safe environment— you can 
+always just restart the game. As Holden and Sykes (2013) point out, due to the scant discussion of 
+pragmatics in most instructed language learning, learners’ first pragmatic feedback may be “through 
+miscommunication in high stakes environments such as study abroad classes, host family interactions, 
+and job interviews” (p. 156). A game can provide virtual, but potentially emotionally engaging, feedback 
+to a pragmatic misstep, making the experience immediately relevant and meaningful, leading to 
+successful uptake. 
+AR TOOLS 
+Mentira was created with ARIS (Augmented Reality and Interactive Storytelling), a free open-source 
+game editor from the University of Wisconsin. It is designed to be used by nonprogrammers, although a 
+knowledge of HTML and JavaScript allows for customization of look and feel as well as being able to 
+create additional interactivity. The trigger for actions in the game is frequently the location, namely a set 
+of GPS coordinates. The player normally must be at this location to see the content. Alternatively, the 
+action can be generated by a player scanning a QR code or completing a sequence of steps in the game. 
+Activating a trigger in the game can result in a number of possible events: starting a conversation, 
+viewing a plaque (text plus optional media), providing information about an item, going to a webpage, or 
+switching to a different scene in the game. ARIS can be used to create quite simple apps, such as tours or 
+scavenger hunts, or quite complex branching games such as Mentira. A number of other language 
+learning related apps have been authored with ARIS, Chronos-ops (from Portland State University) and 
+Visitas de la colonia (from the Local Games Lab ABQ in Albuquerque). Several ARIS games have been 
+created through the Center for Applied Second Language Studies (CASLS) at the University of Oregon, 
+including Explorez, for first-year French (Perry, 2015), Analy Nyuwiich (for learning about Mojave 
+culture, a Native American community in Arizona), Why butterflies are silent (integrating grammar of 
+indigenous language Tohono O’odham into a game), EcoPod, (a post-apocalyptic survival game), and 
+Finders Keepers (an ethics and justice oriented game). For most of these games, free language teaching 
+materials are available from CASLS, geared to different proficiency levels. In addition, CASLS maintains 
+the Games2Teach blog and has cooperatively developed—with the Center for Open Educational 
+Resources and Language Learning at the University of Texas—a place and experience based database for 
+language learning. Both the ARIS editor and the player app are cloud-based, meaning that one has to be 
+connected to the Internet to play. ARIS games are also iOS only, although an Android player is under 
+development. 
+Another open-source AR mobile game editor, TaleBlazer (out of MIT) creates games playable on iOS or 
+Android devices. The previously mentioned ImparApp is being created with TaleBlazer. Once a 
+TaleBlazer game is downloaded to a device, players do not need an Internet connection to play, although 
+in that case, there is no access to web resources or social media. The TaleBlazer editor is browser-based 
+(as is the case for ARIS) and uses a block-based scripts format, like the popular Scratch programming 
+environment. In comparison to ARIS, TaleBlazer is role-based, which provides the default structure 
+(characters with different roles interacting), rather than the storytelling structure basic to ARIS. 
+TaleBlazer has more game mechanics (options for gameplay, character movement, and scenes), as it was 
+designed in part to teach programming principles. ARIS places more emphasis on maps and location-
+based interactions. ARIS also allows for more functions without the need for coding. Part of the rationale 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  14 
+for how TaleBlazer operates is to allow code sharing, something that is generally not applicable to ARIS. 
+Both platforms offer powerful vehicles for creating interactive stories, augmented tours, or place-based 
+games. They are both designed to be used by nonprogrammers, but, depending on one’s technical 
+experience, it may take a considerable amount of time and effort to learn one’s way around either tool. 
+For both platforms, detailed user guides as well as developer forums are available. Instructors of Japanese 
+at Purdue University have provided a step-by-step walk-through of the process of creating a basic game in 
+ARIS, using Japanese as an example. For simpler uses, such as generating actions from static images or 
+QR codes, other applications may be better choices, as they have shallower learning curves. Aurasma, for 
+example, is cross-platform and can be used easily to create basic tours which can contain pictures or video 
+clips, generated by viewing markers or images. Aurasma has been used in a variety of language learning 
+settings (Antonopoulos, 2016; Driver, 2016; Valle, 2014). Ogata, Yin, El-Bishouty, and Yano (2010) 
+describe the use of Aurasma, together with student-created videos clips, in teaching French. Richardson 
+(2016) describes a quite extensive game titled Mission not Really Impossible created in Aurasma. Players 
+are sent on a mission within the German city of Karlsruhe, to thwart an evil plot. They use a map to locate 
+images and markers located at different places around the city, which when scanned within the app 
+provide useful information for accomplishing the mission. A video trailer for the game is available. 
+Another AR authoring option is Layar, which also assumes the use of markers or pictures as triggers. 
+Layar is used widely in publishing, such as in the popular Lonely Planet series of guide books. 
+Not all language educators have the time or inclination to develop AR apps or games. Given the likely 
+scant professional rewards for doing that kind of work, it is likely to be game enthusiasts or hobby coders 
+who engage in AR creation. Of course, enlisting student help, if available, can be a tremendous 
+advantage, as can be peer or institutional assistance. Workshops are being offered at conferences and at 
+other venues for creating place-based mobile games, especially for using the ARIS platform. For those 
+researcher-practitioners who do jump into creating an AR project themselves, there are a number of 
+advantages. Typically for such projects, there will be a lot of trial and error, even if a detailed road map or 
+storyboard has been created. As a consequence, such projects tend to go through many iterations, with 
+multiple testing cohorts; each time resulting in minor or major adjustments. Waiting for programmers to 
+make adjustments to the program can be problematic (and possibly expensive). Of course, the simpler the 
+game and easier to use the authoring tool, the quicker adjustments can be made. Reinhardt and Sykes 
+(2012) suggest other advantages to researcher-designed games, namely the ability to collect and analyze 
+game data (to gauge learning and improve the game) and to more effectively integrate gameplay with 
+instruction (to make changes to the game based on class discussions). They also make the point that 
+having some experience as a game designer makes it much more likely that one make informed decisions 
+in evaluating games for possible instructional use. 
+On the other hand, there is the possibility that, compared to commercial games, educator-developed 
+games will have bugs or less than optimal game flow. The quality of the game experience is central to 
+student acceptance. Students are already likely to be skeptical of anything labeled as an educational game. 
+A compelling narrative presented in an attractive and clearly organized way is likely to result in more 
+time on task and therefore the potential for more learning. As Holden and Sykes (2011) point out, there is 
+a trade-off between game quality and language learning potential. Many developers will likely lean 
+towards maximizing language learning, but if the game does not reach a minimal threshold of player 
+interest, there will be no learning, as the student will have stopped playing. Developers should be aware 
+of the fact as well that not all students will be eager gamers. Providing sufficient gameplay scaffolding for 
+non-gamers is important, as is including enough challenges to maintain the interest of experienced 
+gamers. Perry (2015) found that in playing the ARIS-developed Explorez, students without gaming 
+experience had a good deal of difficulty in navigating gameplay. Reinhardt and Sykes (2012) point out 
+that one other consideration in game design is the degree to which interactions with other players are built 
+into gameplay. For language learning purposes, requiring collaboration and communication among game 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  15 
+players is a no-brainer. Mentira was meant to be played by small groups of students sharing information 
+among themselves. On the other hand, it is advantageous if a game can be played independently. In fact, 
+an individual’s preference in gameplay may be for playing on her own rather than with other players. 
+Reinhardt and Sykes call for more research into learning styles and learning strategies in the context of 
+digital games, something which would be quite useful in shaping educational game design. 
+AR IN CULTURAL CONTEXTS 
+In addition to using AR tools for language learning, there is also the possibility of creating applications 
+which specifically target historical, cultural, or literary topics. Using ARIS, Terri Nelson (from the 
+University of California San Bernardino) has created a game environment for experiencing everyday life 
+in Paris during and after the Nazi occupation, called Paris Occupé. The game enables students to 
+appreciate the hard choices and everyday difficulties facing Parisians during this time. With limited 
+finances available, students as war-time Parisians must choose what items are most important to them, 
+from bottles of water to family photos. They must decide whether to get along with the occupiers by 
+following the rules or risk imprisonment by engaging in illegal activities such as listening to Allied radio 
+broadcasts. Day-to-day decisions affect both the quality of life in the present time and possible 
+consequences after the war. The goal is to have students gain a deeper understanding of historical events, 
+while avoiding knee-jerk reactions to situations, such as automatically assuming one would join the 
+French Resistance. ARIS was used in this instance, not to take advantage of its AR capabilities, but 
+because of its strength in storytelling. Paris Occupé also takes advantage of the ability to integrate 
+multimedia, with the incorporation of vintage photos, audio clips, and daily newspapers, all in French, 
+thus supplying a rich linguistic and cultural game environment. 
+Paris Occupé also makes extensive use of the mapping features in ARIS, another strength of the tool. In 
+this instance, the location of the game story does not correspond to that of the students playing the game. 
+That is the case as well for Shintaku’s (University of Arizona) ARIS-developed Hiroshima game, in 
+which players navigate the streets of Hiroshima and other localities in Japan, seeking to complete a quest 
+initiated by an A-bomb survivor. As is the case for Paris Occupé, student interest is generated by high 
+quality design in the selection of media and creation of character speech: 
+Key to creating a sense of place were realistic conversations and dialogues; images, videos, and 
+sounds; and choices that were consequential to the game outcome. Also key were well designed 
+supplementary pedagogical materials that directed students to make connections between the 
+language, culture, and history that they encountered in the game and their own understandings, 
+and that compelled them to practice the new language and engage with the new content in 
+meaningful ways (Reinhardt, 2016, para. 6). 
+In his blog post, game developer Reinhardt emphasizes the key role of both developers and instructors in 
+the successful roll-out of place-based learning applications. If a game is being used within the context of 
+instructed language learning, it is essential that the instructor show both understanding and enthusiasm for 
+gameplay.  
+There are other options for exploring location-based topics which take users out of their current location. 
+Google Expeditions allows educators to create virtual field trips. Students use Google Cardboard (an 
+inexpensive virtual reality viewer) to have a 360° panorama of scenes. This holds the possibility of taking 
+students on virtual field trips to important cultural or historical sites. A Shakespeare class used Google 
+Expeditions to provide a detailed tour through the Italian city of Verona, the setting for Romeo and Juliet, 
+including locations featured in the play as well as those of historical or cultural interest in the city. 
+Another possibility is to explore literary works by following the trajectories of the characters as they 
+move through a story. The Google Lit project uses Google Earth to do just that, with examples such as 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  16 
+Thomas Mann’s Buddenbrooks (1930, a student-created project) or the Diary of Anne Frank (1952). 
+Google Earth has also been adapted to the foreign language classroom and offers rich possibilities for 
+integrating language learning into cultural geography and history (see Yeh & Kessler, 2015). Calling up 
+different time views in Google Earth or using AR to overlay transformations of a particular setting over 
+time can provide a rich and dynamic cultural and historical experience. Augmenting views of sites such as 
+Tiananmen Square, Beijing, or the Brandenburg Gate in Berlin enables students to go beyond the normal 
+tourist gaze, to appreciate the sites as locations of strife and transformation. 
+CONCLUSION AND OUTLOOK 
+There is considerable interest today in the development of AR and virtual reality (VR) headsets. VR 
+differs from AR in that it creates a self-contained other reality, blocking out the view of the user’s actual 
+environment. The best-known VR headset currently is Oculus Rift, which totally immerses the user in an 
+artificially generated world. The processing power needed to create that virtual reality requires the Oculus 
+Rift (and similar headsets such as the HTC Vive) to be tethered to a (Windows) computer. AR headsets 
+are smaller, offering a semi-transparent screen in the user’s field of vision. An AR headset which 
+generated a lot of buzz when it was under development was Google Glass, but it was never released as a 
+commercial product. Google is rumored to be working on a successor. One of the attractive features of 
+Google Glass was that it was less bulky than the traditional headset. Making headsets smaller (and 
+therefore less geeky) is a major direction in headset development, as components and batteries both shrink 
+in size and gain in power. The current crop of AR headsets, such as the Microsoft HoloLens or the Meta 2 
+have created some interest, but have not as yet been widely used or even publicly available. There has 
+been a good deal of anticipation surrounding the MagicLeap project, including a cover story in Wired 
+earlier this year. That AR headset, currently under development, has been described as “Google Glass on 
+steroids” (Hollister, 2014). A video demonstration of the view from a MagicLeap prototype shows how 
+the system promises to work. There are clearly language learning possibilities with these headsets, as a 
+review of Google Glass pointed out (Forinash, 2015). 
+The touted potential of these devices is to provide a mixed media experience. The idea is that users would 
+not just have the possibility of seeing Pokémon overlaid on their views of the real world, but truly useful 
+information. In looking at a restaurant, for example, the overlay might present specific information such 
+as price range, hours, menu, or reviews, possibly displayed in different quadrants of the overlay. The user 
+could call up additional services to view as overlays, such as a calendar or a notebook. Interacting with 
+such services would likely be accomplished through gestures and voice commands. This scenario 
+promises an enhanced version of what apps like Wikitude already provide, namely the display of 
+information about a building being viewed live. Pearson’s LangAR was a project which used Wikitude 
+for language learning. With advanced mixed media, there would be many more options available, and the 
+information could be personalized according to user profiles and preferences. Language learners could in 
+this way be supplied with a rich just-in-time support environment as they navigate through a city, have a 
+service encounter, or even engage in conversations. Ideally the system would rely on an online learner 
+model for that particular user, which would inform the kind of support provided. If an open learner model 
+were used, it could provide the option for users to have some control over preferences (see Bull & 
+Wasson, 2016). 
+One of the concerns in the mixed media scenario is the nature and source of the information being 
+automatically supplied to the user. Today, there is an increasing amount of geographically specific 
+information available online. That ranges from commercially supplied data, such as navigation or search 
+results from Google, to user-generated input, such as reviews or social media feeds. Extensive layering of 
+online information in reference to places is sometimes referred to as the geoweb (Graham & Zook, 2013). 
+The information on the geoweb is not necessarily neutral or disinterested—there may be commercial or 
+political interests at play which determine what information is shared in what priority order. There are not 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  17 
+only privileged points of view represented, but information is also linguistically varied. Graham and Zook 
+(2013) show how different the information is about places in locations in Israel and Quebec, depending 
+on the language used: 
+In this analysis we have seen a lot of content about certain objects of attention in some languages 
+because those objects are necessarily of interest to speakers of that language (‘Christian’ in 
+English in Israel, for example). But does it matter that different augmentations are being created 
+for different groups of people? Users are not just being presented with filter bubbles of 
+information, but are actually being presented with fundamentally different cities and material 
+places. Balkanised bubbles of augmented information could thus help to reinforce real, material, 
+balkanized spaces in a very real way (p. 97). 
+As we look towards a future of increased AR penetration into our daily lives, it is good to remind 
+ourselves that tools, services, and data generating our digitally enhanced view of the world are neither 
+neutral nor universal. 
+ 
+REFERENCES 
+Antonopoulos, A. (2016). Using Aurasma to set up collaborative jigsaw reading activity. Retrieved from 
+http://levelupyourenglish.blogspot.de/2016/02/aurasma-collaborative-%20jigsaw-reading.html 
+Beaudin, J. S., Intille, S. S., Tapia, E. M., Rockinson, R., & Morris, M. E. (2007). Context-sensitive 
+microlearning of foreign language vocabulary on a mobile device. In B. Schiele, A. K. Dey, H. Gellersen, 
+M. Tscheligi, R. Wichert, E. Aerts, & A. Buchmann (Eds.), Ambient intelligence (pp. 55–72). Heidelberg, 
+Germany: Springer. 
+Bower M., Howe C., McCredie N., Robinson A., & Grover D. (2014). Augmented reality in education-
+cases, places, and potentials. Educational Media International, 51(1), 1–15. 
+Bull, S., & Wasson, B. (2016). Competence visualisation: Making sense of data from 21st-century 
+technologies in language learning. ReCALL, 28(2), 147–165. 
+Driver, P. (2016). New AR Audio Poster! Digital Debris. Retrieved from http://digitaldebris.info/digital-
+debris/2016/1/18/new-poster 
+Forinash, D. B. (2015). Google Glass. CALICO Journal, 32(3), 609–617. 
+Frank, A. (1952). Anne Frank: The diary of a young girl. Trans. B. M. Mooyaart. New York, NY: 
+Doubleday. 
+Graham, M., & Zook, M. (2013). Augmented realities and uneven geographies: exploring the geo-
+linguistic contours of the web. Environment and Planning A, 45, 77–99. 
+Hawkinson, E. (2014). Augmented reality enhanced materials design for language learning. In The Asian 
+Conference on Technology in the Classroom, Conference proceedings 2014 (pp. 155–161). Nagoya, 
+Japan: The International Academic Forum. 
+Holden, C., & Sykes, J. (2011). Leveraging mobile games for place-based language learning. 
+International Journal of Game-Based Learning, 1(2), 1–18. 
+Holden, C., & Sykes, J. (2013). Place-based mobile games for pragmatics Learning. In N. Taguchi & J. 
+Sykes (Eds.), Technology in interlanguage pragmatics research and teaching (pp. 1–15). Philadelphia, 
+PA: John Benjamins. 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  18 
+Hollister, J. (2014). Gizmodo: How Magic Leap is secretly creating a new alternate reality. Retrieved 
+from http://gizmodo.com/how-magic-leap-is-secretly-creating-a-new-alternate-rea-1660441103 
+Ingress [Mobile software]. (2013). San Francisco, CA: Niantic. 
+King, A. (2016). Pokémon GO for listening and language development. Retrieved from 
+https://avteducationtalk.wordpress.com/2016/07/13/pokemon-go-for-listening-and-language-
+development/ 
+Li, S., Chen, Y., Whittinghill, D. M., & Vorvoreanu, M. (2014). A pilot study exploring augmented reality 
+to increase motivation of Chinese college students learning English. Paper presented at the 2014 ASEE 
+Annual Conference. Indianapolis, IN. Retrieved from https://peer.asee.org/a-pilot-study-exploring-
+augmented-reality-to-increase-motivation-of-chinese-college-students-learning-english.pdf 
+Liu, P. E., & Tsai, M. (2013). Using augmented-reality-based mobile learning material in EFL English 
+composition: An exploratory case study. British Journal of Educational Technology, 44(1), 1–4. 
+Liu, T. Y. (2009). A context-aware ubiquitous learning environment for language listening and speaking. 
+Journal of Computer Assisted Learning, 25(6), 515–527. 
+Mahadzir, N., & Phung, L. (2013). The use of augmented reality pop-up book to increase motivation in 
+English language learning for national primary school. Journal of Research & Method in Education, 1(1), 
+26–38. 
+Mann, T. (1930). Buddenbrooks; Verfall einer Familie. Berlin, Germany: S. Fischer. 
+Ogata, H., Yin, C., El-Bishouty, M. M., & Yano, Y. (2010). Computer supported ubiquitous learning 
+environment for vocabulary learning. Research and Practice in Technology Enhanced Learning , 6(2), 
+69–82. 
+Perry, B. (2015). Gamifying French language learning: A case study examining a quest-based, augmented 
+reality mobile learning-tool. Procedia - Social and Behavioral Sciences, 174, 2308–2315. 
+Pokémon GO [Mobile software]. (2016). San Francisco, CA: Niantic. 
+Reinhardt, J. (2016). Co-presence, situatedness, and mobile game-enhanced learning. Retrieved from 
+https://games2teach.uoregon.edu/2016/07/co-presence-situatedness-and-mobile-game-enhanced-learning/ 
+Reinhardt, J., & Sykes, J. M. (2012). Conceptualizing digital game-mediated L2 learning and pedagogy: 
+Game-enhanced and game-based research and practice. In H. Reinders (Ed.), Digital games in language 
+learning and teaching (pp. 32–49). Basingstoke, UK: Palgrave Macmillan. 
+Richardson, D. (2016). Exploring the potential of a location based augmented reality game for language 
+learning. International Journal of Game-Based Learning, 6(3), 34–49. 
+Rose, F. J., & Bhuvaneswari, R. (2014). Word recognition incorporating augmented reality for linguistic 
+e-conversion. Educational Media International, 51(1), 1–15. 
+Santos, M. E., Chen, A., Taketomi, T., Yamamoto, G., Miyazaki, J., Kato, H. (2014). Augmented reality 
+learning experiences: Survey of prototype design and evaluation. IEEE Transactions on Learning 
+Technologies, 7(1), 38–56. 
+Santos, M. E., Lübke, A., Taketomi, T., Yamamoto, G., Rodrigo, M., Sandor, C., & Kato, H. (2016). 
+Augmented reality as multimedia: The case for situated vocabulary learning. Research and Practice in 
+Technology Enhanced Learning, 11(4), 1–23. Retrieved from 
+http://telrp.springeropen.com/articles/10.1186/s41039-016-0028-2 
+Schrock, K (2016). Pokémon GO in the classroom. Retrieved from 
+http://blog.discoveryeducation.com/blog/2016/07/13/pokemongo/ 
+Robert Godwin-Jones Augmented Reality and Language Learning 
+ 
+Language Learning & Technology  19 
+Seedhouse, P., Preston, A., Oliver, P., Jackson, D., Heslop, P., Balaam, M., Rafiev, A., & Kipling, M. 
+(2014). The European Digital Kitchen Project. Bellaterra Journal of Teaching & Learning Language and 
+Literature, 7, 1–16. 
+Slussareff, M., & Boháčková, P. (2016). Students as game designers vs. ‘just’ players: Comparison of two 
+different approaches to location-based games implementation into school curricula. Digital Education 
+Review, 29, 284–297. 
+Solak, E., & Cakir, R. (2015). Exploring the effect of materials designed with augmented reality on 
+language learners’ vocabulary learning. Journal of Educators Online, 12(2), 50–72. 
+Valle, R. (2014). Teaching with augmented reality is here. Retrieved from http://edtechreview.in/trends-
+insights/insights/1503-teaching-with-augmented-reality-it-s-here 
+Yeh, E., & Kessler, G. (2015). Enhancing linguistic and intercultural competencies through the use of 
+social network sites and Google Earth. In J. Keengwe (Ed.), Promoting global literacy skills through 
+technology-infused teaching and learning (pp. 1–22). Hershey, PA: IGI Global. 

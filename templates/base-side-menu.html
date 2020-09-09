@@ -1,0 +1,30 @@
+<!-- base-side-menu.html -->
+<div class="row">
+	<div class="col-md-12">
+		            					
+		{#<p><a href="{% url 'page_view' 13 %}" class="btn btn-lg btn-block bg-llt-gray">Announcements</a></p> #}
+		<ul class="list-unstyled">			
+			<li><a href="{% url 'page_slug_view' 'submit-manuscript' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 4 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Submit a Manuscript</a></li>
+			
+			<li><a href="{% url 'page_slug_view' 'submission-guidelines' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 6 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Submission Guidelines</a></li>
+
+			<li><a href="{% url 'page_slug_view' 'research-guidelines' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 5 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Research Guidelines</a></li>
+						
+
+		</ul>
+		<ul class="list-unstyled">
+			<li><a href="{% url 'page_slug_view' 'permissions' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 7 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Permissions</a></li>
+						
+			<li><a href="{% url 'page_slug_view' 'dissertations' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 14 %}<i class="fa fa-circle lt-gray"></i>{% endif %} CALL Dissertations</a></li>
+			
+			<li><a href="{% url 'page_slug_view' 'reports' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 10 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Annual Reports</a></li>			
+		</ul>
+
+		<p><a href="https://listserv.hawaii.edu/cgi-bin/wa?SUBED1=LLT-L&A=1" class="btn btn-sm btn-block bg-llt-gray" target="_blank">Subscribe</a></p>
+		<p><a href="{% url 'page_slug_view' 'contribute' %}" class="btn btn-sm btn-block bg-llt-gray">Donate</a></p>
+		<p>{% if request.user.is_staff %}<a href="{% url 'subscriber_list' 'a' %}" class="btn btn-sm btn-block bg-llt-gray">Manage Subscribers</a>{% endif %}</p>
+
+	</div>
+</div>
+
+{% if cur_page == 4%}<i class="fa fa-circle text-info"></i>{% endif %}

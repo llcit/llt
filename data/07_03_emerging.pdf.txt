@@ -1,0 +1,202 @@
+Language Learning & Technology
+http://llt.msu.edu/vol7num3/emerging/
+September 2003, Volume 7, Number 3
+pp. 18-22
+Copyright © 2003, ISSN 1094-3501 18
+EMERGING TECHNOLOGIES
+Tools for Distance Education: Toward Convergence and Integration
+Robert Godwin-Jones
+Virginia Comonwealth University
+Interest in the remote delivery of language instruction has increased significantly in recent years. As the
+Internet has displaced synchronous video as the preferred platform for distance education, the
+dramatically lower cost and more modest technical requirements of Web delivery make it a feasible
+option for a much broader range of educational institutions. More broadband connections along with the
+widespread availability of DVD players allow for incorporation of high-quality video into distance ed
+courses, while new Internet audio tools make two-way voice communications possible. The power and
+flexibility of the XML programming environment, now widely deployed on the Internet, make new
+convergences of educational and entertainment environments possible.
+New Web Options
+Web environments for distance learning can be custom-created from scratch or built using an interface
+supplied by a Learning Management System (LMS). A custom-built project offers the greatest amount of
+flexibility while avoiding the temptation to follow a pre-conceived plan for the structure of the course. On
+the other hand, this route makes higher demands on design and programming and thus increases cost and
+development time. A good number of course sites use Macromedia Director or Authorware to create
+content and Flash for delivery of animations and multimedia. Dreamweaver (Macromedia) and FrontPage
+(Microsoft) facilitate not only the creation of Web pages, but also enable addition of JavaScript
+interactivity through pull-down menus. To be used effectively, these tools need not just programming
+skill (to varying degrees) but -- just as importantly -- an understanding of Web design and user interface
+issues.
+A key advantage of using an LMS is the built-in course framework, a template-based system into which
+content is added. For distance learning, an LMS can supply crucial communication and management
+tools, as well as assessment builders and gradebook functionality. Although the most widely used LMS
+are Blackboard and WebCT, new less-expensive but still highly effective options exist. ETUDES, from
+Foothill College offers an easy-to-use interface for distance learning and has features comparable to
+Blackboard (and scores higher in Web accessibility). The Manila environment, part of Userland Frontier,
+is innovative and powerful groupware which excels at creating a multi-user writing environment. It
+allows new information to be easily posted to a weblog. For some purposes Manila may work better than
+WebCT. One of the most welcome Web products for language learning is Wimba, which allows for
+creation of a variety of voice-enabled Web pages, including voice boards which use the familiar format of
+threaded discussion forums for the exchange of recorded messages. Wimba is being widely used in the
+US in language learning, for example, at the University of Arizona to supplement use of a MOO in
+teaching Mohave. Its use as an "online language lab" is especially useful for less commonly taught
+languages, with scarce local availability of native speakers. The variety of functions available in Wimba's
+WebLab could be used together as the core functions of a Web-delivered language class.
+LMS excel at course and user management but they are not strong in content creation. Course developers
+often create structured content outside the LMS using a mainstream multimedia authoring program or
+programming environment, then link to that content from inside the LMS shell. The disadvantage of this
+approach is the lack of functional and interface integration with the LMS. Recently, both Blackboard and
+WebCT have opened up their proprietary systems to plug-ins and add-ons, which extend the system
+functionality while retaining the familiar user interface and authoring conventions. One of the more
+powerful content creation tools, available for both of the leading LMS, is Lectora from Trivantis. Lectora
+enables creation of sophisticated learning modules which incorporate multimedia, branching, and   
+Robert Godwin-Jones Tools for Distance Education: Towards Convergence and Integration
+Language Learning & Technology 19
+assessments. Performance on quizzes is automatically linked into the LMS gradebook. Advanced
+interface options such as show and hide functionality, mouseovers, or object visibility, can all be added
+without any need for programming knowledge. One of the key features of Lectora is its support for
+Internet standards. Specifically, the content created is compliant with the SCORM guidelines (Sharable
+Content Object Reference Model) as well as LRN (Learning Resource Interchange), Microsoft's
+implementation of the IMS standards (Instructional Management System). Standards compliance
+enhances the likelihood of content portability from one learning system to another as well as the ability to
+share among colleagues. Lectora content, for example, can be imported and exported to XML and then
+transferred to a different learning environment (i.e., from Blackboard to WebCT). Content can also be
+delivered in Palm and PocketPC formats.
+Hybrid Applications
+A critically important component of distance education is multimedia, in particular streaming media and
+Web-enabled DVDs. For language learning audio and video clips often form the meat and potatoes of
+remotely delivered instruction. In fact, traditionally, distance education meant two-way video, usually in
+the form of dedicated site-to-site connections using compressed video. Today, successors to the
+pioneering CUSeeMe (NetMeeting, Paltalk, iVisit) provide much less expensive two-way video on PCs
+through high-quality USB or Firewire cameras. Some chat programs have video as well as audio
+capability. Apple recently announced multimedia enhancements of its iChat application, along with
+introducing the new iSight camera. A recent review in LLT discussed a number of different audio
+conferencing tools.
+The problem with video conferencing remains the high throughput required for satisfactory size and
+fidelity (especially in going beyond one to one connections). In a distance learning environment there are
+likely to be participants without broadband Internet access. This issues arises as well in video distributed
+through a streaming server. Although streaming technologies, including RealMedia, Windows Media, and
+QuickTime, have provisions for adjusting streams to bandwidth availability, a dial-up connection
+nonetheless will not usually provide a reliable and smooth video playback in a reasonably sized window.
+This becomes an especially serious problem if a distance learning module is built around display of video
+embedded in a Web page or other delivery environment. One of the options for incorporating streaming
+media is to use a synchronizing tool to link streaming audio or video of lectures/presentations with slides,
+Web pages or other content. Such products vary considerably in cost and functionality and include
+Lecture Browser, PresenterOne, JITL (Just-in-time Lectures), and Microsoft Producer.
+One solution to bandwidth issues is to supply the media, especially video, on CD or DVD. This option
+provides a reliable video source, one which can be accessed independently of Internet connectivity. CD
+burners have become standard equipment on new computers and DVD burners are now frequently an
+option as well. Mass duplicators have dropped significantly in price in recent years and, with the current
+low price of blank CDs, can quickly create a batch of CDs from a master. Both Blackboard and WebCT
+allow for integration of content distributed on local CDs. An instructor links content from a CD to a Web
+page, usually signaled on the page by a CD icon. The first time students access the content they provide
+the location or name of their CD or DVD drive, which then becomes part of their LMS system
+configuration. This type of hybrid approach works well also for audio files or any other static files an
+instructor may have ready for distribution at the start of a course. This might include copies of utilities,
+players, or plug-ins needed to access some course content (Microsoft players, QuickTime, Acrobat, etc.)
+For delivery of video, a VCD (video compact disk -- 78 minutes) or high-quality SVCD (super video
+compact disc -- 35 minutes) can be created with most CD authoring software. The subsequent discs can
+be played on PCs as well as on most DVD players.
+Of course, it is also possible to deliver video on DVD, through free or low-cost DVD authoring software
+such as iDVD (Mac) or DVD Workshop (Windows) or through more powerful and expensive
+Robert Godwin-Jones Tools for Distance Education: Towards Convergence and Integration
+Language Learning & Technology 20
+professional programs. As the current delivery system of choice for feature films, DVDs offer an
+immense depository of video to tap for language instruction and cultural study. Interactive applications
+can tap into video segments as was done with laser discs. Today the programming environment is most
+likely to be a Web browser. In fact many feature films on DVD come supplied with a Web player/browser
+(usually PCFriendly or its successor, InterActual Player, both from InterActual) which displays the video
+in a window embedded in an interactive application. Video segments are shown in response to user
+actions (mouse clicks, menu selections, branching choices, etc.).
+DVDs containing non-video data such as HTML pages or graphics use the DVD-Others zone (outside the
+VIDEO_TS directory). HTML pages stored on a DVD, for example, might link to a live Web site
+containing related information. A more sophisticated approach is to build Web pages which define an
+"object" to configure Windows Media Player to play particular segments. JavaScript based controls can
+also change language tracks or hide/display subtitles. Ralph LaBarge has provided an extensive example
+of the code he used in creating an astrology DVD, StarGaze, using InterActual Player 2.0. Products from
+InterActual, Spinware, or Microsoft, can be used to create such a "WebDVD." However, the resulting
+product will only run on recent versions of Windows, and not at all (or only partially) on Macintosh or
+Unix computers. There is not yet an approach to authoring a hybrid Web/DVD that will be fully cross-
+platform and cross-browser.
+Task-Based Language Learning
+The Open University (England) is using connected DVDs for delivery of distance ed courses. The
+University of Wollongong (Australia) is implementing a hybrid environment for distance education of
+DVD and WebCT in order to use media-rich content and try to span the digital divide between the
+bandwidth rich and poor. At another Australian institution, Flinders University, an interactive CD
+(containing video/audio clips as well as vocabulary and exercises) is being incorporated into a WebCT
+course site for learning beginning French. Projects are underway for teaching beginning Hindi (North
+Carolina) and elementary Swahili (Brigham Young) which will make extensive use of locally shot video
+presented on DVD's or CDs. The possibility of using full-frame delivery of high quality video is a boon to
+any discipline but could be particularly compelling in language instruction. DVDs offer a rich source of
+interactive content, given features such as multiple viewing angles, up to eight different audio tracks, and
+multiple subtitling possibilities. Target language subtitling can be particularly effective, as used in the
+DVD edition of the classic Italian Film "C'eravamo tanto amati," developed at Brigham Young
+University. This version features as well searchable transcripts, English translations, and grammar
+exercises. Complete bar code access to the DVD is also possible.
+A project which will make extensive use of video is ELLS (the E-Learning Language Project), a joint
+project of the US Department of Education and the Chinese Ministry of Education to deliver Chinese and
+English instruction to high school students and teachers. What is of particular interest in the planned
+approach is the variety and innovation in the task-based approach to language learning. Borrowing from
+the entertainment community, ELLS will make extensive use of adventure and mystery gaming as well as
+of puzzles and simulations. Grammatical explanations and vocabulary help are supplied as needed to help
+students in information gathering and problem solving, needed to find clues to game challenges.
+Authentic video and images will be incorporated throughout with students placed in authentic cultural and
+communication situations (restaurants, hotels, schools, etc.) One could certainly take advantage of the
+versatility of the DVD format to help in creating such an environment, particularly the ability to include
+hidden video segments that will play back only in response to certain user input (i.e., correct clue
+provided) and are not selectable (or visible) from menus. It is possible as well to program the content so
+that accessing particular parts of Web pages triggers video playback or that video playback triggers
+display of particular pages.
+Robert Godwin-Jones Tools for Distance Education: Towards Convergence and Integration
+Language Learning & Technology 21
+A considerable amount of effort and creativity are needed to create engaging and effective language
+learning tasks. This is all the more the case if the project involves integrating different media and
+distributing the resulting project through the Internet. If developers follow emerging standards for
+"learning objects" in the creation of language learning content, it is possible to share and integrate the
+products in a variety of learning environments. At a minimum, content modules can be archived in a zip
+file with a simple XML file (preferably in the form of an IMS manifest file) identifying key
+characteristics. In addition to the normal meta-data categories (name, title, author, date, size, etc.),
+cataloging of proficiency level, pedagogical approach, preferred learning style, and professional
+orientation, would be very helpful. Such cataloged modules could be used independently (as language
+refreshers) or linked (together with a connection to a live tutor/teacher) to build a course. This could result
+in the more wide-spread availability of opportunities for quality distance language learning.
+RESOURCE LIST
+Web Tools and Standards
+Manila groupware from Userland
+Using Manila from David Davies
+Internet Audio Communication for Second Language Learning: A Comparative Review of Six Programs
+by Gary Cziko (in LLT)
+Wimba WebLab tools for language learning
+Web software with audio used for language instruction on use of Wimba at the University of Arizona
+Lectora authoring system from Trivantis
+ETUDES Learning Mangagement System from Foothill College
+A Door into Hindi Hindi language learning project from the Triangle South Asia Consortium (North
+Carolina)
+Distance Language Learning and Teaching: From Audiocassette to Internet Audio, Some Pedagogical
+Implications for Learning to Speak a Foreign Language by Bernard Haezewindt and Lesley Shield (Open
+University)
+Lecture Browser tool for synchronizing lectures and audio/video (from Berkeley)
+JITL Just-in-Time Lectures synchronizing software
+Instructional Management System IMS standards for object interchange
+LRN Microsoft's Learning Resource Interchange
+SCORM object exchange project from Advanced Distributed Learning (ADL)
+DVD, Video, and Convergence
+Groove software peer to peer sharing and videoconferencing
+Ivisit videoconferencing software
+NetMeeting videoconferencing software from Microsoft
+Paltalk videoconferencing software
+CUWorld source of CUSeeMe videoconferencing
+Robert Godwin-Jones Tools for Distance Education: Towards Convergence and Integration
+Language Learning & Technology 22
+Videoconferencing: an Interactive Communication Tool for Distance Learners by Trish Andrews
+(University of Central Queensland)
+Teaching and Learning Languages at a distance by Antonella Strambi and Eric Bouvet (Flinders
+University)
+DVD Workshop DVD authoring software for Windows
+A Hybrid System for Delivering Web Based Distance Learning and Teaching Material by Joel Greenberg
+(Open University)
+Destinos DVD version
+Review of C'eravamo tanto amati Italian film on DVD
+Reviews of DVD authoring programs PC Magazine
+WebDVD Products & Techniques by Ralph LaBarge
+Interactual Web connected DVD authoring
+Hybrid WWW and CD-ROM systems from the Advisory Group on Computer Graphics

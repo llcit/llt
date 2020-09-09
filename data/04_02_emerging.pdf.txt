@@ -1,0 +1,326 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol4num2/emerging/default.html 
+September 2000, Volume 4, Number 2 
+pp. 10-16 online 
+(page numbers in PDF differ and should not be used for reference) 
+ 
+Copyright © 2000, ISSN 1094-3501 10 
+EMERGING TECHNOLOGIES 
+Literacies and Technology Tools/Trends 
+Bob Godwin-Jones 
+Virginia Commonwealth University 
+ 
+Our information age has expanded considerably the concept of "literacy." While technology offers new 
+ways to teach the traditional literacies of reading and writing, learning how to use digital technology has 
+become itself a vital stepping stone to being "literate" in the twenty-first century. New tools are making it 
+easier to become both an informed user and an author/developer of new media and electronic texts. 
+Emerging standards are helping in this process, too, although sometimes at the cost of narrowing choices. 
+READING  
+Literacy is a shared responsibility between consumer/learner and producer/teacher. The electronic 
+resources instructors have available today provide myriad opportunities for making texts more 
+comprehensible to students. We know quite a bit about optimized formats for screen reading, as we do 
+also about the benefits of glosses. And the Internet has provided a powerful mechanism for making texts 
+of all kinds available to readers. For language learners, authentic texts in the target language abound 
+(journals, travel reports, newspaper articles, reviews, family histories, government reports, recipes, etc.). 
+In many countries today, what appears in print also becomes available electronically. Yet the vast 
+majority of texts on the Web today are not optimized for either screen reading or print. Nor do many of 
+the texts targeted for language learners offer glosses or other comprehension aids. Web technology in this 
+area has not caught up with the state-of-the-art in fixed media creation. Some programs on CD-ROM 
+make extensive use of multimedia to aid in text comprehension. Cyberbuch, for example, (by Dorothy 
+Chun and Jon Plass; reviewed in this journal), makes excellent use of video and graphics for text 
+introductions and comprehension help. Authoring programs are available which help to gloss texts, using 
+either text annotations or other media (graphics, sound, video). Several programs,  annotext and GALT, 
+for example, have been developed specifically for working with second language texts. 
+The current technology of the Web makes it possible to present texts in a variety of formats which can be 
+user-selected and changed on the fly. Currently, for compatibility reasons, most such applications use 
+server-based approaches, reformatting through CGI scripts ("common gateway interface"). Some text 
+manipulation is possible through JavaScript (extensively on Microsoft's  Internet Explorer) but XML 
+("extensible markup language") and a common and scriptable browser "document object model" (or 
+DOM) should make this local text manipulation much more powerful as well as easier to create. Some 
+Web sites are beginning to present texts not only in Web-formatted versions, but also in PDF (portable 
+document format) designed specifically to be printed and read on paper. PDF files, viewed with the free 
+Acrobat Reader from Adobe, can include features such as navigation bookmarks, links, and searching. 
+Some text collections offer versions in popular electronic book formats. A new electronic book format 
+which has generated a good deal of interest is Microsoft Reader used in Microsoft's  PocketPC (the 
+successor to WindowsCE) and also available on Windows-based computers. It uses a new font rendering 
+process called "ClearType" to considerably enhance screen readability. A conversion tool is available for 
+e-book creation in Reader format as are tools for Palm compatible books. Microsoft has made marketing 
+agreements with Barnes and Noble and Amazon to make electronic books available in MS Reader format 
+widely available. 
+ 
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 11 
+WRITING  
+ 
+Few today would question the efficacy of word processing as an aid in learning to write well. Electronic 
+revision makes process writing much more practical. Proofing tools in the target language can be 
+invaluable aids to language learners. The arrival of networks has of course provided further opportunities 
+for collaboration, mutual proofing, and shared writing. From early LAN programs such as Daedalus 
+Interchange or Norton Connect to Internet-based tools, language teachers have used a variety of 
+approaches to encourage student practice and proficiency in writing. E-mail is, of course, the most widely 
+used form of computer-mediated communication (CMC). Many language teachers have been using e-mail 
+as a means to communicate with students but also as a vehicle for students to interact with each other and 
+with other language learners or native speakers. Projects such as the Tandem Network have been created 
+to facilitate the use of e-mail exchanges in language learning. It used to be that using e-mail involved 
+learning a dedicated e-mail program, such as the Unix-based Elm or Pine, or one of the popular desktop 
+applications  Eudora or Outlook. Today many users read and send e-mail through Web-based mail 
+interfaces such as Webmail. Often, users who sign on to a free e-mail service such as Hotmail will use its 
+interface. E-mail access is also beginning to become more widely available on smaller electronic devices 
+such as Palm organizers or cellular phones equipped with small screens. The reduced screen size of these 
+devices makes only short messages practical and formatting may be a problem. The eventual use of XML, 
+combined with CC/PP ("Composite Coupling/Preferences Profiles") technology, should help in that area. 
+However, access to e-mail attachments, an increasingly popular option, may remain problematic, despite 
+translation utilities. 
+Other forms of CMC are also being used widely in language learning. Web-based bulletin boards or 
+discussion forums are available in a variety of formats, Web Crossing being currently one of the most 
+popular. Many forums are linked from course Web sites, created with tools from course management 
+systems such as WebCT or Blackboard. These offer the advantage of user-restricted access. E-mail and 
+bulletin boards have generally outstripped in popularity synchronous modes of communication, in which 
+on-line users communicate in real time with one another. Internet Relay Chat (IRC) and various kinds of 
+chat rooms can be effective in small groups and are often used to connect language learners and native 
+speakers for focused discussions on concrete topics. There are as well more complex text-mediated virtual 
+environments such as MUDs (multi-used domains), MUSHes (multi-user shared hallucination) or MOOs 
+(multi-user object oriented). There are a number of MOOs targeted specially to language learners. With 
+the exception of MOOs, students are generally expected to jump into these applications with a minimal 
+orientation. Effective use of MOOs requires a substantial amount of training; that factor, as compared to 
+the instant usability of AOL "Instant Messenger" (AIM), helps understand the latter's current popularity. 
+Considering the ubiquity of instant messaging among younger users, explorations of its use in language 
+learning may be of interest. 
+ELECTRONIC LITERACY  
+ 
+As a number of other US colleges and universities have done in recent years, Virginia Commonwealth 
+University (VCU), my home institution, will require all incoming students next fall to own a computer. 
+Universal computer ownership (and ubiquitous network access) by students brings with it a host of thorny 
+issues, including procurement, user support, network infrastructure, classroom configuration, and 
+faculty/student training. The central issue, however, is electronic literacy. What do we expect our students 
+to be able to do on their computers, on the local network, on the Internet? At VCU, the faculty has 
+recommended that at a minimum, students be able to use e-mail, word processing, the Web, and 
+spreadsheets. In most cases "computer literacy" as defined by state education standards (such as those of 
+Texas or Virginia), does not go beyond development of similar basic skills in core PC and Internet 
+applications. Informed information retrieval, despite the urging of librarians, is seldom included. Even 
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 12 
+less likely to be included is an awareness of issues such as design (user interface, color schemes, 
+accessibility issues), programming paradigms (procedural, object-oriented, hierarchical), or network 
+basics (internet vs. intranet, LAN, IP), concepts which lie at the basis of the virtual world becoming so 
+important a part of students' real world. 
+Generally left out of computer literary as well are multimedia use/creation. Students may be more familiar 
+than faculty in this area, especially in the use of MP3 files (MPEG 1 layer 3), a format with tremendous 
+popularity which delivers high quality audio in a highly compressed format. One of the factors that has 
+contributed to the success of the MP3 format has been the ease of use of encoders. Programs such as 
+Soundjam make it easy to "rip" MP3s from music CDs and to obtain/play MP3 files from Internet sites. In 
+fact, access to all forms of Internet-delivered audio and video has become much user-friendlier in recent 
+years. For most formats the Web browser itself handles playback, or a player (such as the QuickTime 
+player) may come bundled with the Web browser installer. 
+Multimedia authoring programs have become increasingly user-friendly. Apple's iMovie, for example, 
+designed for broad consumer use, has a very short learning curve, not even requiring that a movie be 
+named (it is given a default file name) when created. Other video creation programs are similarly user-
+friendly. This holds true for streaming media creation as well. It used to be that creation of a synchronized 
+slide show with audio was a long, involved process. Now RealNetworks has a suite of tools (including 
+"Real SlideShow") which make the development of this and other advanced uses of multimedia very 
+accessible (using their proprietary format). Learning about different audio and video formats is not 
+generally recognized as a necessary component of computer literacy. Yet many current media consumers, 
+given today's software and hardware advances, are likely to become media developers in the near future, 
+and would benefit from basic knowledge of file compatibility and network delivery in this area. 
+As is the case with all software, installation of players and browser-linked helper applications has become 
+much easier. This, however, is still a major support issue in setting up students for on-line courses. 
+Installation and configuration of software are seldom part of computer literacy programs. The popularity 
+of "smart" installers may lead to the conclusion that such knowledge is no longer necessary. Many users, 
+however, have experienced the problem of such installers being too "smart," that is, not allowing 
+installation on marginally compatible systems, or permitting customized configurations. If users have 
+questions on the installation process, or on how to use the program, they are likely to find little help in 
+accompanying print manuals. The trend in the software industry the last several years has been towards 
+electronic manuals (in PDF or HTML formats) or just availability of electronic help. Electronic help, 
+however, is not always well-designed, with help screens sometimes obstructing the program they're 
+supposed to be helping or changing the state of the computer, causing user confusion. 
+OUTLOOK: STANDARDS AND UNIFORMITY?  
+ 
+One of the concerns in designing a program of computer literacy is the lack of accepted standards in many 
+areas. The Internet ideals of openness and inter-operability have been fading as commercialization grows. 
+Microsoft's new electronic book format, for example, is not compatible with popular Palm hand-helds. 
+Users of AOL's "Instant Messenger" cannot interact with other instant messaging systems, such as those 
+from Microsoft or Yahoo. On the other hand, taking advantage of a de-facto standard tends to perpetuate 
+that particular format. The ubiquity of Microsoft Word, for example, had led to many training courses in 
+using that program for word processing. This leads to standardization, popular with support personnel, but 
+limiting in choice to users and tending to drive away competing programs which may have advantages in 
+certain fields. NisusWriter and Nota Bene, for example, offer compelling advantages for language 
+professionals. 
+ 
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 13 
+Another complicating factor in outlining a program of computer literacy is the constant state of flux of 
+information technology today. Should students, for example, have a basic awareness of HTML (even if 
+not knowing any code)? But isn't HTML giving way to XML? And, in any case, to author Web pages no 
+longer requires any knowledge of any encoding system. In fact, Web authoring programs today such as 
+Dreamweaver or FrontPage not only facilitate creation of static Web pages, they also enable creation of 
+interactive Web pages using a pull-down menu to insert JavaScript "behaviors" or snippets of code. Even 
+learning about Web site navigation can become an issue. On many U.S. campuses, faculty use a Web 
+course authoring program such as WebCT or Blackboard to create a course Web site. An argument often 
+used in support of the use of such programs is that each course Web site presents a familiar and 
+comfortable user interface to students. Yet shouldn't students learn how to navigate Web sites outside of 
+the university and then find their way back? An alternative to proprietary course management systems 
+could be a set of user guidelines encouraging faculty to create Web sites with consistent page formatting 
+and navigational structures. Users of different course management systems currently cannot easily share 
+materials. A development which should help is the adoption by major software companies of the IMS 
+standard ("Instructional Management System"). This provides for the use of a standard set of meta-data 
+(for better location and retrieval) and exchange of learning modules. 
+ 
+RESOURCE LIST  
+ 
+Literacy and Technology  
+ 
+Technology and Literacy by Cynthia Selfe 
+ 
+Redefining Literacy: The Multilayered Grammars of Computers by Cynthia Selfe 
+ 
+The Nine Information Literacy Standards for Student Learning (American Association of School 
+Librarians) 
+ 
+Computer Skills for Information Problem-Solving by Michael B. Eisenberg and Doug Johnson 
+ 
+Texas Essential Knowledge and Skills for Technology Applications (Chapter 126 of the Texas Education 
+Code) 
+ 
+Computing Skills Workshop (Carnegie Mellon University) 
+ 
+Literacy and Machines: An Overview of the Use of Technology in Adult Literacy Programs by Terilyn C. 
+Turner 
+ 
+The Death of Documentation by Adam C. Engst 
+ 
+Reading/Texts  
+ 
+Interface Design and Optimization of Reading of Continuous Text by Paul Muter 
+ 
+Strategy-based reading lesson in Russian (Irene Thompson) 
+ 
+The On-Line Books Page (University of Pennsylvania)  
+ 
+FL texts  
+ 
+Gutenberg Project  
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 14 
+ 
+Humanities Text Initiative (University of Michigan) 
+ 
+Electronic Text Center (University of Virginia) 
+ 
+Microsoft Reader (new e-book format from Microsoft) 
+ 
+ReaderWorks (tools for creating "Reader" e-books; commercial) 
+ 
+Writing/Computer-Mediated Communication  
+ 
+Effectively Using Electronic Conferencing (Indiana University) 
+ 
+Educational Uses of CMC (Penn State University) 
+ 
+Chat Etiquette The Do's and Don'ts of On-line Conversation 
+ 
+Indispensable Writing Resources (Quint Careers; commercial site) 
+ 
+High Wired enCore Moo database 
+ 
+More about MOOs created by Steve Thorne 
+ 
+LinguaMOO (University of Texas at Dallas) 
+ 
+PennMOO (direct telnet link: use "connect Guest"; University of Pennsylvania) 
+ 
+Dave's ESL Cafe (Dave Sperling) 
+ 
+SchMOOze University  
+ 
+mIRC (IRC client for Windows) 
+ 
+IRCle (MacOS IRC client) 
+ 
+Multimedia  
+ 
+Making MP3s by Jerry Kindall (from Tidbits) 
+ 
+Real Jukebox (for creation of RealAudio and MP3 files) 
+ 
+Real Slide Show (for creating syncrhonized slide shows) 
+ 
+Apple Quicktime Player  
+ 
+Windows Media Player  
+ 
+Macromedia Shockwave (browser helper application) 
+ 
+Winamp (MP3 player) 
+ 
+Microsoft Netmeeting (video teleconferencing) 
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 15 
+ 
+CUSeeMe (video teleconferencing) 
+ 
+Web/Internet Literacy  
+ 
+Web Skills for Language Learners (WELL Project)  
+ 
+ WELL in the classroom  
+ 
+Knowledge Design (on creating interactive Web pages; from George Metrevski) 
+ 
+Internet Resources for Language Teachers and Learners (University of Hull, C&IT Centre) 
+ 
+Managed Learning Environments (comparison of Web course management systems) by Peter Jackson and 
+Geoff Minshull 
+ 
+Quick and Dirty Web Editing (Penn State University, Center for Language Acquisition) 
+ 
+Netscape Composer: An Introduction (Pat Pecoy) 
+ 
+Non-western Character Sets, Languages, and Writing Systems (overview of internationalizing efforts; 
+from W3 org) 
+ 
+Multilingualism and the Internet (WorldWide Language Institute) 
+ 
+Multilingual Information Society  
+ 
+How to type accents (Pat Pecoy) 
+ 
+Unicode (information about Unicode) 
+ 
+The ISO 8859 Aphabet Soup by Roman Czyborra 
+ 
+Yamada Font Archive (University of Oregon) 
+ 
+NETGLOS (an online glossary of Internet terms in 10 different languages; Worldwide Language 
+Institute) 
+ 
+The Internet Dictionary Project  
+ 
+Winzip (unzipping utility) 
+ 
+Stuffit Expander (expanding compressed files for Macintosh or Windows) 
+ 
+Acrobat reader (for reading PDF files) 
+ 
+Netscape browser  
+ 
+Microsoft browser  
+ 
+WS FTP client (for Windows) 
+ 
+Robert Godwin-Jones Emerging Technologies: Literacies and Technology Tools... 
+ 
+Language Learning & Technology 16 
+Fetch (FTP client for MacOS) 
+ 
+FLTeach quiz (for testing your electronic literacy; Foreign Language Teaching Forum; by Jean LeLoup 
+and Robert Ponterio) 
+ 
+ 
+ 
+ 
+ 

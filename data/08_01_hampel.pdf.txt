@@ -1,0 +1,749 @@
+Language Learning & Technology
+http://llt.msu.edu/vol8num1/hampel/
+January 2004, Volume 8, Number 1
+pp. 66-82
+Copyright © 2004, ISSN 1094-3501 66
+TOWARDS AN EFFECTIVE USE OF AUDIO CONFERENCING
+IN DISTANCE LANGUAGE COURSES
+Regine Hampel and Mirjam Hauck
+The Open University, United Kingdom
+ABSTRACT
+In order to respond to learners' need for more flexible speaking opportunities and to overcome the
+geographical challenge of students spread over the United Kingdom and continental Western
+Europe, the Open University recently introduced Internet-based, real-time audio conferencing,
+thus making a groundbreaking move in the distance learning and teaching of languages. Since
+February 2002, online tutorials for language courses have been offered using Lyceum, an
+Internet-based audio-graphics conferencing tool developed in house.
+Our research is based on the first Open University course ever to deliver tutorials solely online, a
+level  2 German course, and this article considers some of the challenges of implementing online
+tuition. As a starting point, we present the pedagogical rationale underpinning the virtual learning
+and teaching environment. Then we examine the process of development and implementation of
+online tuition in terms of activity design, tutor training, and student support. A number of
+methodological tools such as logbooks, questionnaires, and observations were used to gather data.
+The findings of this paper highlight the complexity of the organisational as well as the
+pedagogical framework that contributes to the effective use of online tuition via audio
+conferencing systems in a distance education setting.
+INTRODUCTION
+In 2002 the Department of Languages (DoL) of the Faculty of Education and Language Studies at the
+Open University, UK, began a progressive move towards introducing online tutorials for all language
+courses using Lyceum, an Internet-based audio-graphics conferencing tool developed in house. Until
+then, Open University language students depended primarily on traditional distance learning methods of
+delivery such as print material, video tapes, audio cassettes, and occasional face-to-face tutorials in one of
+the university's 13 regional centres (up to 21 hours per year). Apart from one week of total immersion in
+the target language at residential schools in Caen (France), Jena (Germany), and Santiago (Spain), these
+face-to-face tutorials used to be the only opportunity for learners to practise their oral skills in authentic
+communicative settings. Moreover, access to a summer course in the target culture was limited to second
+year students for whom these are, however, a compulsory part of their studies.
+To respond to the students' need for more flexible speaking practice, DoL has, since 1997, been
+investigating the benefits of using Internet-based, real-time audio conferencing applications. Today, the
+increased robustness of Internet audio technology allows us to use voice conferencing in a genuinely
+interactive and synchronous way. Thus, in 2002, audio-graphic conferencing was introduced as a tuition
+tool in a mainstream Open University German course, thereby allowing for real-time oral communication
+amongst students and between students and tutors.
+However, audio-graphic conferencing tools have not been widely used in language teaching and learning,
+and few studies have been carried out thus far. We therefore saw the introduction of audio-graphic
+conferencing as an opportunity not only to evaluate our own experience of the delivery of tutorials in
+Open University language courses but also to share our findings with others working in similar areas.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 67
+Our interest was focused primarily on activity design, tutor training, and student support, all of which we
+investigated through multiple data collection. Firstly, the conferencing tool together with the course-
+related Web site and the activities were developmentally piloted. Our evaluation was based on observing
+students using the Web site and carrying out one of the activities designed specifically for a virtual
+learning environment (VLE) such as Lyceum. Students also gave feedback via questionnaires. Secondly,
+tutor training was evaluated through observation and a questionnaire. Thirdly, throughout the first year of
+presentation of the course, a tutorial group was observed, and volunteer students and tutors kept logbooks
+and gave feedback in a questionnaire (for a more detailed evaluation of this see Hampel, 2003).
+PEDAGOGICAL RATIONALE FOR AUDIO-GRAPHIC CONFERENCING
+In an attempt to integrate research and practice (Garrett, 1998), we drew on a conceptual framework to
+support the design and use of conferencing systems in language learning and teaching, and situated the
+design and implementation of online tuition at the Open University in the context of previous studies
+done in this area. Our first port of call was theories of second language acquisition. For language
+acquisition to take place, students must be provided with comprehensible input (Krashen, 1981, 1985),
+they have to be able to interact to negotiate meaning (Gass & Varonis, 1994; Varonis & Gass, 1985), and
+they must produce comprehensible output (Swain 1985).
+Some studies have shown that in written forms of computer-mediated communication (CMC), or so-
+called text chat, students produce a greater quantity of discourse than in an oral classroom (Kern, 1995;
+Ortega, 1997). CMC can also lead to more equal participation between students (Warschauer, 1996).
+Pellettieri (2000) claims that written learner chat has the same potential for developing grammatical
+competence through negotiation of meaning (comprehensible input and modified output) as oral
+interaction does. CMC also allows "students to play a greater role in managing the discourse" (Chun,
+1994, p. 17). The question is, however, whether these communicative skills acquired in a written
+environment are transferable to oral communication. Most studies are rather tentative on this point and
+only go as far as to say that the written interactional competence may gradually be transferred to spoken
+discourse competence (Chun, 1994). Recent developments in audio-graphic conferencing can now
+complement written CMC by offering the possibility of going a step further and supporting oral language
+acquisition as well.
+At the same time, we see sociocultural learning as a key form of learning. Learners progress through
+successive "zones of proximal development," guided by the teacher or more advanced peers. According to
+Vygotsky (1978), the zone of proximal development is seen as "the distance between the actual
+developmental level as determined by independent problem solving, and the level of potential
+development as determined through problem solving under adult guidance or in collaboration with more
+capable peers" (p. 86). Based on Vygotsky's theories, new learning approaches like constructivism,
+problem solving, and collaborative learning have been developed, all of which have in common the fact
+that they represent a "move away from the static transmission models for knowledge and skill acquisition
+that are based on traditional cognitive learning approaches which emphasise learning as an incremental
+mathematically-facilitated process" (Felix, 2002, p. 6). Instead, they focus on learner orientation, process
+orientation, and learner autonomy (Rüschoff, 2001), in the belief that learning
+• must be regarded as an active and collaborative process of knowledge construction;
+• is to be seen as an autonomous process, to be regulated by the learners' expectations, goals,
+existing schemata and intentions;
+• is a process of experimentation based on previous knowledge and experience;
+• is a process of socially negotiated construction of meaning; and
+• is a process which must be supported by a rich learning environment rooted in real life and
+authentic situations. (Rüschoff & Ritter, 2001, p. 224)
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 68
+These new approaches also stress the importance of authentic materials and situations (Chapelle, 1999;
+Felix, 1999; Rüschoff & Ritter, 2001).
+CMC is an ideal medium for collaborative learning through social interaction both with a tutor and with
+peers. It can be used to encourage students to construct their own knowledge (Furstenberg, 1997; Levy,
+1997; Felix 1998). In their LEVERAGE project, which used a task-based approach via audio- and video-
+conferencing, Zähner, Fauverge, & Wong (2000) have shown that there is "clear evidence that the
+LEVERAGE system was effective in supporting collaborative learning" (p. 202). Students can also be
+encouraged "to conduct actively 'meaningful tasks and solve meaningful problems in an environment that
+reflects their own personal interests as well as the multiple purposes to which their knowledge will be put
+in the future'" (Collins, Brown & Newman, 1989, p. 487, cited in Warschauer, 1997, p. 477). Meaningful
+tasks include the use of authentic settings and authentic materials, which in a VLE are easily accessible
+via the Web. Pilot projects at the Open University with Lyceum and other software that preceded it
+suggest that audio-graphic conferencing can be successfully used for collaborative learning, for giving
+more control to the students, and in changing the role of the tutor (see Hauck & Haezewindt, 1999).
+As we move from relatively simple text-chat applications to more complex software that supports
+synchronous audio communication online, another aspect that has to be taken into account is the
+multimodal nature of these new environments (see Kress, 2000a, 2000b; Kress & van Leeuwen, 2001).
+VLEs like Lyceum offer learners a combination of different modes such as the visual, the verbal, and the
+written, thereby realising the "meaning potential of language" (Halliday, 1986, p. 92). Such a view is
+reflected in what Chun & Plass (2000) have to say about networked hypermedia environments
+that not only present learners with information in various modes (visual, audio, and
+verbal/textual), but also require learners to engage in productive tasks and activities in a variety of
+modes, both synchronous and asynchronous methods of student collaboration, and they employ
+video, images, sound, and text for both the presentation and the negotiation of information. (p.
+152)
+While such environments offer great opportunities, we must not ignore the fact that they also make
+greater demands on the user. All these pedagogical considerations have influenced the development of
+online tuition at the Open University, including the way in which the VLE is used, the design of learning
+activities and the provision of tutor training.
+TOWARDS AN EVALUATION OF AUDIO-GRAPHIC CMC
+Johnston (1999) claims "that on-line learning has appropriated notions such as flexibility and efficiency
+and skewed their meanings so as to make it appear that on-line learning is the panacea for all our ills" (p.
+86). In his view, the only flexibility offered by online courses is that of time asynchronicity and self-
+pacing. However, several studies have shown that additional benefits may be derived from using
+computer-mediated communication (CMC). Kelm (1998), for example, states
+that electronic network communications follow many of the principles expressed in language
+acquisition theories, especially in the ability to present a natural language environment with
+concrete referents, promote communication among peers, provide expansive feedback, allow
+correction to be independent from communication, treat network communications as experiential
+learning activities and allow socialization and communication to take precedence over form. On
+balance, the implementation of electronic networks has the potential to assist language instructors
+in reaching their goal of bringing individuals together so that they might communicate across
+linguistic boundaries. (p. 19)
+As we began preparing to implement online tuition we were aware of the challenges and tried to learn
+from previous experience. We were able to draw on studies on written and audio CMC, including a
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 69
+number of small pilot projects at the Open University where audio and more complex audio-graphic
+conferencing tools have been used to deliver tuition.
+Examination of the relevant findings in written CMC brings to light a number of issues. Although some
+studies show that CMC can encourage classroom interaction and student participation, limited and
+irregular participation with small groups of students has been identified as a risk (see Perkins, 1999).
+Also, as Warschauer & Lepeintre (1997) point out for written CMC, dominant individual students can
+take control of the communicative situation, thereby excluding other members of the group.
+In the literature, there is a growing demand for authentic communicative tasks using authentic materials
+(Chapelle, 1999; Felix, 1999; Kern & Warschauer, 2000). Task design needs "to identify 'viable' rather
+than 'artificial' purposes for electronic interaction amongst students and staff" (Selinger & Pearson, 1999,
+p. xii). However, as Chun and Plass (2000) state, one of the things that remains "relatively unexplored is
+the development of 'networked multimedia' materials" (p. 152). They also identified the danger of
+overloading the students when using authentic Web materials.
+As pilot studies at the Open University have found, teaching in a virtual environment can be challenging
+for the tutor, whose range of roles widens to include that of confidant, nervous parent, trouble-shooter,
+student, and human being (Hauck & Haezewindt, 1999, p. 51–52).
+Another issue that emerges is how to compensate for the lack of body language. Learning in a VLE can
+become more anonymous and less spontaneous than in a face-to-face situation, and the process of
+communication can be depersonalized (see Lecourt, 1999). Thus, Kress & van Leeuwen (2001) point to
+the fact that the technological developments may "signify the most profound loss of embodiment we have
+seen yet" (p. 92). There is also the practical side of the multimodal technology, which makes certain
+demands on the learners who have to operate several modes in one medium and make choices between
+modes to suit both the task at hand and their own learning styles (Kress & van Leeuwen, 2001, p. 2). In
+addition, the technology requires a certain degree of technical expertise and users must be prepared for
+the experience beforehand and supported throughout it.
+In order to realize the potentials of audio-graphic CMC and to circumnavigate the pitfalls, we felt that the
+successful development and implementation of online tuition in Open University language courses
+depended to a large extent on task design, tutor training and student support. The effectiveness of these
+areas was measured in the following ways:
+• evaluation of developmental testing of the VLE through a feedback session and a questionnaire
+(completed by 13 participants);
+• evaluation of tutor training through a feedback session and a questionnaire (completed by 19
+tutors); and
+• evaluation of student and tutor experience of the VLE in the first year of presentation through a
+voluntary group of 12 students (from different tutorial groups) and 6 tutors (out of 20 overall),
+who kept logbooks and filled in a questionnaire, and through observation of one tutorial group
+throughout the course.
+THE LEARNING AND TEACHING ENVIRONMENT
+Lyceum
+In Lyceum, the audio-graphic conferencing software developed by the Open University for teaching and
+learning, students and tutors use headsets and microphones (which they have to provide themselves) to
+work together in real-time, an approach which enables them to simultaneously hear each other and talk to
+each other, but not to see each other. Apart from the voice facilities, Lyceum offers a traditional on-screen
+whiteboard, a so-called concept map suitable for brainstorming exercises, word associations as well as
+other vocabulary-building activities, and a shared document for collaborative writing activities (for a
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 70
+more detailed introduction to the tools see Hampel & Baber, 2003). A text-chat box providing limited
+space for additional written input can be opened to supplement the voice conferencing.
+In addition to offering a set number of sub-conferences (so-called "rooms") within each conference, the
+software allows learners to create their own virtual rooms where they can meet in pairs or small groups to
+engage in real time interaction. Thus, students are empowered to study in collaboration with others and to
+take on responsibility for their own learning experience. Given that the capacity to take control of one's
+own learning is seen as one of the determining factors of learner autonomy (Benson, 2001), students are
+thus encouraged to work in an increasingly autonomous way.
+As with other networked environments, Lyceum can be accessed on a 24-hour-a-day, 7-day-a-week basis.
+This allows learners to meet outside scheduled tutorial hours in order to collaborate on projects or to catch
+up with their peers if they miss a scheduled session. Although most students shared English as their first
+language, German was used for all interaction between students and tutors and we also encouraged
+students to use the foreign language when communicating with each other outside tutorials.
+Web Site
+A course-specific Web site was deemed important for several reasons. Its first identified major use was
+the delivery of tuition tasks, written by central academics and made accessible via the Web site to all
+tutors and students. Students were given a complete outline of each activity, allowing them to prepare for
+scheduled tutorials in advance if they wished to do so. It was also hoped that this would minimise the
+disruption caused by student absence from some sessions given that they would be able to find out easily
+what was going to happen in a tutorial even if they had missed the preceding one.
+A second principal function of the Web site was the provision of course-related information, including
+assessment tasks and latest news. Thirdly, the site provided links to other university-wide information
+sources, including the library, information and communications technology (ICT) support, and so forth.
+With increasing integration of ICT into Open University courses, the team had the benefit of a ready-
+made standard template for Web sites. In spite of this, functions, access, and design had to be customized,
+and completion was delayed by the lengthy process of obtaining copyright for images. Certain ideas for
+information that might usefully be included on the site, such as tutorial times or group lists, were thwarted
+by the difficulty of gathering such information and of keeping track of changes. The establishment of
+adequate manpower to input and maintain up-to-date documents and information is a major and ongoing
+consideration.
+Design of Learning Activities
+In order to put the pedagogical theories described at the beginning of the paper into online practice, the
+design of the activities was of paramount importance. In terms of second language acquisition, we tried to
+follow Holliday's (1999) demands, which are made in the context of qualitative computer-assisted
+language learning (CALL) products but which can also be applied to written and oral CMC.
+In CALL, the medium of learning should provide learners with
+• opportunities for interaction to negotiate meaning
+• opportunities to hear or read modified comprehensible input
+• opportunities to produce or write modified comprehensible output
+• input that allows for a focus on target features of the second language [...]
+• a rich context in which the second language facilitates comprehensible input (Holliday, 1999, p.
+188)
+For each activity, students were pointed to material (texts and images) from the course books and selected
+Web sites. The activities fostered interaction and the negotiation of meaning by guiding students to obtain
+information from other learners and to act on it. This led them to produce comprehensible output through
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 71
+speaking and writing. Tasks also involved all students in the production of a final output such as a
+presentation, brochure, or radio programme. Here the VLE with its various audio, writing, and graphics
+tools together with the tasks and the materials helped to create a rich context for learning -- richer than
+more traditional written CMC or face-to-face settings.
+Following Vygotsky's (1978) conviction that "problem solving under adult guidance or in collaboration
+with more capable peers" (p. 86) fosters development more than individual problem solving, the activities
+focused on collaborative learning. Shneiderman (1994) also states that "students are not strongly
+motivated by the goals of acquiring facts, accessing information, drill & practice ... [but] rather ... prefer
+to create, communicate, plan, explore, build, discover, participate, initiate, and collaborate" (n.p.). Project
+work and problem-solving activities were designed so that learners needed to arrange additional online
+meetings outside the official tutorials to exchange ideas, negotiate solutions, and prepare a joint
+presentation of their work. Since the aim of using audio-conferencing was to increase learners'
+opportunities to practise both speaking in and listening to the target language in real time, activities
+concentrated on oral/aural skills.
+Following Vygotsky (1978), we also believe that language learning "must be 'relevant to life'" (p. 118)
+and we therefore chose topics that not only were integrated into the course but were also potentially
+meaningful to students, topics such as adoption or work environments today. We wanted to give students
+the opportunity to draw on previous knowledge (be it from the course or from their own experience) and
+to build on it, thus following the constructivist approach, which sees knowledge as "something children
+[as well as other learners] must construct and less like something that can be transferred" (Rüschoff &
+Ritter, 2001, p. 223). The aim was for learning to become "an active, creative, and socially interactive
+process" (Rüschoff & Ritter, p. 223).
+Given that the VLE provides learners with a multimodal environment, the activities used the different
+modes available in Lyceum in a complementary way. Spoken input was enriched with written text and/or
+graphic images; one mode was used to elicit output in another mode, thus contributing to what Holliday
+calls a "rich context."
+We also developed a number of so-called warm-up activities. These are linguistically undemanding tasks
+specifically designed not only to consolidate students' knowledge of the various features of the VLE but
+also to help them to get to know each other, to overcome their inhibitions, and to foster collaboration. In
+so doing we hoped to counteract the risk of anonymity and disembodiment in the VLE.
+DEVELOPMENTAL TESTING
+Methodology
+Although previous versions of Lyceum had been tested in several pilot projects and their benefits shown
+in several studies (see Hauck & Haezewindt, 1999; Kötter, Shield, & Stevens, 1999; Shield, Hauck, &
+Hewer, 2001; Shield, Hauck, & Kötter, 2000), it was felt necessary to developmentally test the VLE as a
+whole, that is, the audio-graphic conferencing tool in conjunction with the newly designed activities and
+the course Web site.
+On an administrative level, the testing was necessary in order to highlight the kind of information that
+students need and the ways in which they access that information. Through this, we also found ways of
+making written and electronic correspondence less demanding. Technically, we needed to make sure that
+the installation process worked and that students would not be overwhelmed by the demands of the virtual
+learning environment. From an academic point of view, the testing allowed us to see whether the
+activities were suitable for the Lyceum environment
+Testing of Lyceum was carried out online with a cohort of 15 volunteers in four 75- minute sessions: an
+induction into the software, a set of two tutorials, and a debriefing session. The authors acted as tutors and
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 72
+as online observers. Students used their own computers at home and connected to the conference via a
+modem. Some of the 15 students also agreed to come to campus for the testing of the Web site, and they
+were observed face to face.
+Findings
+The questionnaire for Lyceum, sent to all 15 participants, sought feedback on technical issues such as
+installing and using the software and helpdesk support. At the same time, students were asked to describe
+their experience with the main tasks as well as with the warm-up activities. Thirteen participants
+completed the questionnaire, and the data obtained was analysed qualitatively and, to a more limited
+extent, quantitatively.
+Together with the online observer's report and the experience of the tutor, the results from the
+questionnaires highlighted a number of technical issues. These included problems of being heard or
+hearing others (voice distortion or total loss), non-appearance of the loudspeaker icon to indicate who is
+speaking, and loss of connection, especially when switching rooms. Some problems resulted from user-
+centred issues, or were connected with equipment (users having a variety of PCs, Internet Service
+Providers (ISPs), and microphones). Others problems involved the software. As a result of issues
+connected with the software, some significant changes were made prior to the start of the course. In
+addition, tips on how to resolve the most common problems with software and ISPs were collated and
+communicated to students in the form of printed and electronic help-sheets.
+With respect to the task, students generally commented that it was very interesting and that it worked very
+well. Some students commented positively on the incentive to use the Web and to read German material
+on the Web. At the same time, students highlighted the point that the task required more preparation than
+they had expected. Students had been asked to work together in small groups in between the two tutorials
+in order to prepare the plenary in the second session (a discussion of adoption in the form of a role play).
+For those who had researched their area and met their partners in Lyceum, the task worked very well.
+However, not all students found time to prepare and therefore found it harder to contribute to the
+discussion.
+The warm-up activities were perceived as good and useful; students felt they gave them extra practice
+with the Lyceum tools. As they were not very demanding linguistically, participants were able to
+concentrate on getting to grips with the conferencing tool. Warm-up activities also helped students to get
+to know the other participants and to get used to speaking German.
+The evaluation of the Web site was carried out by an initial questionnaire regarding students' previous
+experience of using a computer and the Web, direct observation of participants exploring the Web site
+with particular emphasis on retrieving information for the tutorial task, and debriefing and further
+questioning on users' general appreciation of the site and the task. The findings show that in general, the
+participants were able to use the website successfully to understand the task they had been set. However,
+some specific issues emerged concerning navigation and the format and nature of the Lyceum tutorial
+such as preparation and contribution by participants. Students also expressed concern about preparing for
+Lyceum activities by using Web material.
+TUTOR TRAINING
+In order for tutors -- most of whom had never used Internet-based conferencing before -- to use the new
+medium efficiently and effectively, training was organized in the 2 months preceding the course. It
+consisted of two induction sessions with a member from the Open University's Department for Learning
+and Teaching Solutions, who concentrated on the technical skills necessary to lead tutorials via Lyceum.
+She introduced tutors to the various tools in Lyceum and provided some basic netiquette training.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 73
+Academic members of the German team were responsible for a series of pedagogical training sessions,
+which took place in Lyceum through December 2001 and January 2002:
+Session 1 consolidation of use of Lyceum tools and online warm-up activities
+Sessions 2 and 3 simulation of tutorial tasks
+Session 4 debriefing and evaluation
+Thus, the pedagogical training sessions were used to familiarize tutors with the online tool and to
+demonstrate our pedagogical rationale for online tuition as well as to help them develop strategies for
+implementing it. Given that tutors had to work with the centrally written activities and did not have much
+experience of the tool at the time of the training, it was decided that the best mode for tutor training was
+for them to try out the activities from the perspective of the learners. Thus, they got more practice using
+the software as well as an insight into how the tasks worked. After the hands-on experience, tutors spent a
+whole session evaluating their experience and discussing the pedagogical implications of online learning
+and teaching.
+At the end of the training, tutors asked for an additional session after the start of the course in order to
+share their experience of the reality of teaching online. This took place after tutors had held their first
+online tutorial and served mainly to sort out organisational and technical problems.
+The tutor training (which was attended by 19 individuals) was evaluated with the help of a questionnaire,
+to which 15 tutors responded. We asked for feedback on the technical aspects of setting up and using
+Lyceum and on the content and format of the training sessions. We also analysed tutors' feedback at the
+debriefing and follow-up session and looked at the e-mail inquiries of participants. Fourteen tutors took
+part in the debriefing session which was held immediately after completion of the training, and nine tutors
+attended the additional meeting.
+In general, it was found that tutors were really keen to try out the new technology with their students.
+However, a number of issues emerged, with technical problems being most prevalent.
+Findings: Technical Problems
+One third of the tutors experienced problems downloading the software from the Internet, but when CD-
+ROMs became available there were no more problems with the installation. Most users found the online
+guide helpful; others had problems which they felt were not addressed in the guide. One response related
+to a different style of absorption of information: The lecturer preferred talking through problems with a
+member of the helpdesk on the telephone in order to solve them rather than reading a guide.
+Passwords also affected the setup. A number of the e-mails related to this problem, which was sorted out
+quickly with the help of the course administrator.
+Nearly half of the tutors contacted the helpdesk before the initial session and many made use of the on-
+line user guide. The helpdesk was also contacted during the training session and between training sessions
+by a number of tutors. Staff at the helpdesk were described in very positive terms as (very) helpful and
+friendly, though not all problems could be solved. There were some cases of hardware problems where
+tutors needed to upgrade their computer. Another frequent technical solution recommended by the
+helpdesk was the change of ISP provider, which, however, did not always result in a satisfactory outcome.
+The most frequent problem was sound quality. Eight tutors (out of 19) initially experienced difficulties
+with hearing or being heard by other participants, although the situation improved when the Lyceum
+software was upgraded by the developers at the Open University just before the course started. Some
+tutors had to install a new soundcard or upgrade their computer. Some sound problems also related to
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 74
+headphones. The headphones used varied greatly and several participants could not identify which brand
+they were using.
+The second area of technical problems related to the ISPs. Seven tutors complained about being cut off
+frequently, while others experienced occasional disruption. It is very likely that many of these disruptions
+have to do with the timing of tutorials, which usually took place in the evening.
+Tutors felt that technical issues affected the online learning experience to some degree. Only four felt that
+they did not have a negative effect on the learning process. Five felt they had some effect, and six felt
+they had a strong effect on the learning experience.
+Findings: The Training Sessions
+Most tutors felt that the induction sessions met their needs by familiarising them with the software
+features. It brought home to them how students might feel about the complexity of the tool and they also
+got insight into what their own role would be once they started teaching in the VLE.
+The response to the warm-up activities was very positive. Tutors felt that using them provided training
+with the tools, stimulated ideas for tutorials with the students, and that they were non-threatening,
+confidence-building, and fun. One felt these activities were too long. Another found some of the things
+mentioned by her fellow participants in one of the activities offensive. Here participants got a glimpse of
+the tutor's role as "nervous parents" in VLEs like Lyceum (see Hauck & Haezewindt, 1999, p. 51), that is,
+having to cope with the possibility that CMC, particularly in synchronous settings, is free from censure
+and therefore open to misuse of any kind.
+The main learning activity that had been chosen for the training sessions (and which focused on the topic
+of adoption) was seen as a very interesting and useful activity with a clear brief. Reflecting on the activity
+showed how learners could (and should) be given the opportunity to discuss the rationale underpinning a
+given task with the tutor. Thus the learners took more initiative and gained further insights into the
+learning process, and the tutor's role as "confidant" was emphasized. Tutors also commented that the
+activity allowed for different working styles.
+A number of suggestions were made about how the activities could be improved. It was mentioned, for
+example, that more pair work and less whole group work could be done to increase the actual time people
+are speaking in the target language. To help find solutions to the task, it might be useful to have a whole
+group discussion initially, and then for students to divide up for pair work. Some tutors also felt that more
+time should be allocated to work through the activities.
+Below are a number of concerns raised by individual tutors regarding the activities:
+• Students have to prepare the sessions thoroughly for the tasks to work.
+• Even fluent and confident people might find the activities challenging.
+• If students are too reluctant to speak, sessions might not deliver the expected outcome.
+• There could be difficulties generating ideas and articulating arguments; if the sound quality is
+poor, students may have problems sustaining arguments.
+• Ways of supporting weaker students need to be found.
+Apart from the sound issue, these concerns are the same as with face-to-face teaching and require -- as
+usual -- the imagination and professional judgement of the tutors to deal with them.
+Summary
+The general tenor of the comments was positive and suggested a proactive tutor attitude. The training and
+the activities were perceived as enjoyable and inspiring and tutors expressed that they were looking
+forward to teaching with Lyceum despite the technical problems they themselves had experienced.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 75
+In terms of the technology, tutors will need special training to work with VLEs like Lyceum to be able to
+give at least minimal support to the students. They need substantial technical support to start with and as
+"trouble-shooters" often find themselves in a situation where they need to advise students. But, as Dias
+puts it, "the range of things that can go wrong ... is not endless and, eventually, even the most technically
+inept teacher can learn to diagnose problems and give appropriate advice. Some may even enjoy being
+seen as technical Messiahs" (1998, p. 24). From a pedagogical point of view it increases the students'
+immediate sense of success if the target language can be used to solve technical problems.
+Tutors felt that they were making a significant contribution in time, effort, and sometimes even money, to
+make the technology work. They thought that it was important that these types of contributions be
+recognised by the institution and that the institution could be relied upon for ongoing support. One of the
+practical outcomes of the tutor training was the request for a tutor group discussion area in FirstClass (the
+written conferencing system used by the Open University) in order to share experience and find peer
+support. This was subsequently provided by the Open University.
+STUDENT SUPPORT
+Student support is another vital element in the successful implementation of online tuition. In this paper
+we are concentrating on support provided by the institution, such as induction into the VLE and helpdesk
+support. In addition, students were supported by their tutors in tutorials (where they receive technical,
+pedagogic, and linguistic help). Many tutors also used e-mail to communicate with their students and to
+support them, passing on information about tutorials, giving feedback to tutorials (e.g., error correction),
+motivating students, and helping with problems.
+For peer support, students were able to use Lyceum outside scheduled tutorials, and several learners
+formed self-help groups, which met online regularly in order to prepare tutorial tasks. Many also kept in
+touch by e-mail and a course-specific FirstClass student conference.
+Induction into Lyceum
+The quantity and range of issues revealed during developmental testing showed that student training was
+paramount. Many students were not very experienced computer users and had used a computer mainly for
+word-processing purposes. Thus, all students were asked to take part in an induction session to learn how
+to use the tools. It was also hoped that individual user or technical issues could be resolved prior to the
+start of the course. It was evident that without such dedicated support, initial tutorials would be disrupted
+and tutors overloaded. This extra ICT support was subsequently set up for the crucial few weeks prior to
+the start of the course; students were contacted with options of time-slots, and organised into groups.
+Despite the large number of sessions that were offered, non-attendance was an issue. Whilst students can
+be encouraged to attend such sessions and to attempt to resolve technical problems in plenty of time
+before sessions, such precautionary measures cannot be enforced.
+Many tutors also spent the first session consolidating what students had learned in the induction session.
+They used warm-up activities so students were able to try out the different tools without having to deal
+with difficult content matter and linguistic challenges on top of the technical ones.
+Helpdesk Support
+The solution of technical and user problems required a continuing communication process. Whilst the
+Open University does have a central university ICT helpdesk, available during evenings and weekends as
+well as daytimes, the extra workload with these relatively new issues stretched capacity. The range and
+quantity of individual queries and problems generated by students and staff inexperienced in using ICT
+and this particular software was a problem. Queries were directed to numerous channels, including to the
+software developers, and staff of all categories. Because only the ICT helpdesk as able to obtain from
+enquirers the kind of detailed information which was likely to help identify the source of the trouble,
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 76
+phoning or e-mailing other staff often resulted in incorrect or insufficient information being passed on,
+with less chance of a resolution.
+Where common problems and solutions were identified, information was generated in one to two page
+leaflets. This, however, also caused concern as individual students received information they may or may
+not have required, with the risk that they would develop an unfavourable perception of the VLE. Whilst
+the intention was to avoid paper communication, it proved necessary in the early stages. Online help was
+in the process of development but, again, the level of maintenance and updating required proved a great
+strain on resources. The arrangement of additional dedicated support prior to the start of the course did,
+however, alleviate some of these problems. Furthermore, it has to be recognised that full control of all the
+factors influencing the VLE experience cannot be achieved by the provider. While estimates suggest 95%
+of users will find engaging with the software acceptable, 5% will not be successful because of a factor
+beyond the provider's control (e.g., problems with an ISP). Furthermore, even when accurate specification
+of the equipment needed to run the software successfully is provided, some users will use equipment
+without that specification. This aside, improvements to back-up and shadowing of the software mean that
+the security of operations can be maximised.
+EVALUATION OF FIRST YEAR OF PRESENTATION
+In order to evaluate both student and tutor experience in the first year of presentation, a range of methods
+was used. One of the authors of this paper observed one tutor group throughout the course (ten tutorials
+between February and July). In addition, twelve volunteer students and six tutors were found who agreed
+to keep logbooks commenting on each tutorial according to a given brief. They also filled in a
+questionnaire at the end of the course which focused on activities, Lyceum tools, use of the website,
+participation and speaking practice as well as technical and support issues. This was analysed
+qualitatively and quantitatively. The findings with respect to the activities and to student support are
+presented here (for general findings of this study see Hampel, 2003).
+Activities
+Student feedback suggests that participating in intense interactions with fellow learners as well as
+collaborative tasks is the most exciting aspect of learning and practising a language in a VLE like
+Lyceum. This is also supported by Shneiderman's (1994) findings: "The intense interactions ... have
+created a greater sense of interaction and intimacy among the students than many face-to-face courses"
+(n.p.).
+Students commented that they found the warm-up activities very good, interesting, and useful as they not
+only helped to get into a German-speaking frame of mind but also managed to convert the voices of
+unknown people into real human beings. This also reflects the tutors' experience; they found the warm-up
+activities essential to get people talking and to create a relaxed and open online atmosphere. In addition,
+the tutors found the activities beneficial as they helped to introduce the students to the different tools in
+Lyceum.
+With respect to the main learning activities, students' opinions were more diverse. Most found them
+interesting, enjoyable, and productive and thought they introduced new aspects of the language. Not all
+students seemed to agree, however, as to whether they felt that the activities related sufficiently to the
+relevant sections of the course. A drawback identified by several students was that the activities required
+students to prepare tasks in advance or in between scheduled tutorials. This was something some students
+felt they did not have the time for. A couple of students also lamented the fact that the numbers of
+participants dwindled over the course of the year so tutorial activities had to be modified accordingly and
+it got more and more difficult to organize joint work outside scheduled sessions. They thus felt that
+activities should be limited to a single tutorial session and require less preparation. At the same time, it
+was suggested that students should be strongly encouraged to make more use of Lyceum and participate
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 77
+more actively by, for example, introducing an assessment element into the tutorials (which at the moment,
+however, does not conform to the Open University's policy of voluntary tutorials).
+A couple of students commented on problems with participation in group work. One identified the danger
+of a more dominant person taking over when students work in small groups; another felt that in a VLE,
+where tutors do not receive visual clues and body language, it is easier for students unsure of what is
+going on to sit quietly without participating and without getting help or encouragement.
+In general, tutors commented that the activities were well planned and suitable and that they supported the
+idea of learner-centeredness. They felt that the activities stimulated discussions amongst the students and
+encouraged them to work in groups preparing certain tasks. One tutor felt that she had less control over
+proceedings, which she thought was maybe not a bad thing. However, some tutors had to deal with
+students who did not prepare for sessions or did not attend regularly which resulted in tutors having to
+adapt the activities or develop alternatives (e.g., stand-alone sessions).
+As the tutors became more familiar with Lyceum, they also became more adventurous and were better
+able to cater to student needs. One tutor, for example, included occasional grammar exercises; another
+commented that she used more pre-prepared visual/text material on whiteboards or concept maps to keep
+up students' concentration.
+On the basis of the data analysed, the activities were shown to be contributing greatly towards fostering
+second language acquisition, collaboration, and sociocultural learning -- despite the problems of the
+interaction of learners in between scheduled sessions. The warm-up activities seemed to fulfil their
+purpose of helping to make the seemingly disembodied names and voices less anonymous. Over time,
+tutors and students also got accustomed to using the multimodal environment more effectively in order to
+enhance the tasks and contribute to student learning.
+Student Support
+According to the findings of the survey, students felt well-equipped to use Lyceum as a result of the
+induction, which they thought was well run and informative. Suggestions for improvement revolved
+mainly around the wish to have more than one induction meeting and a recommendation to future users to
+practise more offline.
+The technical problems that students experienced related mainly to audio quality (poor sound levels,
+interrupted audio transmission) and to losing the connection. Because of the technical difficulties,
+especially at the beginning of the course, the helpdesk was inundated with technical queries and
+problems, and as a result it was difficult for a while to contact the helpdesk staff via telephone. Even
+though this meant that students had to use e-mail (resulting in a delay in resolving the problem), they felt
+well-served by the helpdesk whose staff they described as very helpful and resourceful. However, the
+questionnaire also shows that some students did not consult the helpdesk when experiencing problems.
+As the system developers updated Lyceum in the course of the year, these technical problems, especially
+with respect to audio quality eased. Yet despite technical improvements to the system in the course of the
+year, two thirds of both students and tutors believed that technical issues had had a negative effect on the
+learning/teaching experience.
+Not all students used Lyceum outside scheduled tutorials but those who did found it very useful for
+preparing tasks for tutorials, both individually off-line and online jointly with other users. Several
+students formed self-help groups which regularly met online.
+E-mail proved to be extremely helpful when students wanted to contact their peers, for example in order
+to prepare a joint presentation for a tutorial, to send drafts for projects, or to arrange meetings in Lyceum.
+Another tool students had access to in order to communicate with peers was FirstClass. One student
+described FirstClass as a friendly place where one can try out one's written German and which is less
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 78
+stressful than communicating in real time. It was seen as complementary to Lyceum, as a place to discuss
+course issues and to enjoy a sense of community. Students also appreciated the fact that they could
+communicate with their tutors via e-mail and, for example, receive advance information about tutorials.
+CONCLUSION: LESSONS LEARNT AND GENERAL GUIDELINES
+Looking at our findings on setting up online tuition in an audio-graphic environment in terms of task
+design, tutor training, and student support, it becomes clear that the main challenges that we met with cut
+across these different areas and relate to the technical side of online learning and teaching. As a result, the
+following improvements were made either in the course of the year or prior to presentation of the
+subsequent course. These improvements relate to the technology as well as to the help students are given
+so as to be able to use the technology effectively:
+• improvement of audio quality;
+• changes to the recommendations for computing equipment, including an indication that minimum
+requirements may not give full functionality;
+• provision of extra advice (e.g., on sound card compatibility and ISPs);
+• recruitment of dedicated trainers for the technical induction sessions;
+• more clarity to students in channelling queries (e.g., all technical enquiries to be directed to
+helpdesk, all academic enquiries to tutor);
+• publication of any updates on software issued once a week, with standard messages sent out to all
+students and tutors;
+• direct link from each Lyceum conference to a technical support room staffed by the helpdesk
+during tutorial times, which should make it easier for both students and tutors seeking advice;
+• introduction of an animated teach-yourself tutorial on CD-ROM, which students (and tutors) are
+sent two months before the start of the course; and
+• streamlining of the setting-up process by extending and improving the password and
+authentication system and by producing a simple automated booking form for induction sessions,
+so that users can allocate themselves to particular slots online.
+In terms of activity design, the only issue which caused major concern among tutors and students was the
+format of the activities, that is, the fact that each activity covered two sessions and required students to
+work in small groups in between the two scheduled sessions. We have reacted to this by reworking each
+activity into two separate tasks that stand on their own. In the next year of presentation of the course, the
+activity bank will include the original sessions which spread over two online meetings as well as the new
+stand alone sessions which cater to groups that are less willing or able to put in extra preparation time
+thus increasing tutor and student access to more flexible resources.
+These new activities still place students at the centre of the tutorial and require them to work with their
+peers on a task, thus safeguarding our student-centred, interactive and collaborative approach. They also
+include recommendations on how students can collaborate beyond the scheduled tutorial sessions. For
+example, additional activities which enable students to take a given task even further are outlined.
+In all other respects, the activity design seems to have been successful as borne out by the results of the
+evaluation of student and tutor experience through logbooks and questionnaires as well as through
+"classroom" observation throughout the year. However, as only one group (out of 20) was observed, and
+the logbooks and questionnaires reflect only a relatively small number of students' views, more work
+needs to be done to explore the design of tasks and especially their implementation in a VLE using audio-
+graphic conferencing for the delivery of tutorials.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 79
+Our experience with audio conferencing has shown that the following areas need to be priorities, within
+which the establishment of efficient processes and systems are crucial:
+• communication with students: initial and ongoing;
+• training of teaching and other staff;
+• early and comprehensive developmental testing, with sufficient time built in for making changes;
+• arrangements for adequate ICT support, including induction and setting up and maintaining
+comprehensive online help;
+• design and student use of the Web site;
+• adequate staffing to deal with ongoing issues; and
+• ongoing evaluation of task design.
+ACKNOWLEDGEMENT
+With thanks to Ruth Hemus for her contribution.
+ABOUT THE AUTHORS
+Dr. Regine Hampel joined the Open University in 2000. She is a lecturer in German in the Faculty of
+Education and Language Studies' Department of Languages. Her current research focuses on theoretical
+and practical issues around online tuition and the use of technologies such as audio-graphic conferencing
+or Instant Messaging in language courses.
+E-mail: r.hampel@open.ac.uk
+Mirjam Hauck is a German lecturer in the Department of Languages at the Open University in the UK.
+She joined the university in 1996 and has been involved in research into online applications for Second
+Language Acquisition such as audio-graphic conferencing and Instant Messaging tools since 1997. Her
+current research focuses on the relevance of meta-cognitive knowledge acquisition and self-management
+strategies instruction in virtual language learning spaces.
+E-mail: m.hauck@open.ac.uk
+REFERENCES
+Benson, P. (2001). Teaching and researching autonomy in language learning. Harlow: Pearson's
+Education Ltd.
+Chapelle, C. (1999). Theory and tesearch: Investigation of "authentic" language learning tasks. In J.
+Egbert & E. Hanson-Smith (Eds.), CALL Environments: Research, Practice, and Critical Issues (pp. 101-
+115). Alexandria, VA: TESOL.
+Chun, D. M. (1994). Using computer networking to facilitate the acquisition of interactive competence.
+System, 22(1), 17-31.
+Chun, D. M., & Plass, J. L. (2000). Networked multimedia environments for second language acquisition.
+In M. Warschauer & R. Kern (Eds.), Network-based language teaching: Concepts and practice (pp. 151-
+170). Cambridge, England: Cambridge University Press.
+Collins, A., Brown, J. S., & Newman, S. E. (1989). Cognitive apprenticeship: Teaching the crafts of
+reading, writing, and mathematics. In L. B. Resnick (Ed.), Knowing, learning, and instruction: Essays in
+honor of Robert Glaser (pp. 453-494). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 80
+Dias, J. (1998). The teacher as Chameleon: Computer-mediated communication & role transformation. In
+P. Lewis (Ed.), Teachers, learners, and computers: Exploring relationships in CALL (pp. 17-26). Tokyo:
+JALT.
+Felix, U. (1998). Virtual language learning: potential and practice. ReCall, 11(1), 53-58. Retrieved
+November 25, 2002, from http://www.hull.ac.uk/cti/eurocall/recall/rvol11no1.pdf.
+Felix, U. (1999). Web-based language learning: A window to the authentic world. In R. Debski & M.
+Levy (Eds.), WORLDCALL: Global perspectives on computer-assisted language learning (pp. 85-98).
+Lisse, The Netherlands: Swets & Zeitlinger.
+Felix, U. (2002). The web as vehicle for constructivist approaches in language teaching. ReCALL, 14(1),
+2-15.
+Furstenberg, G. (1997). Teaching with technology: What is at stake? ADFL Bulletin, 28(3), 21-25.
+Garrett, N. (1998). Where do research and practice meet? Developing a discipline. ReCall, 10(1), 7-12.
+Retrieved November 25, 2002, from http://www.hull.ac.uk/cti/eurocall/recall/rvol10no1.pdf.
+Gass, S., & Varonis, E. (1994). Input, interaction, and second language production. Studies in Second
+Language Acquisition, 16(3), 283-302.
+Halliday, M. A. K. (1986). Spoken and written language. Victoria, Australia: Deakin University Press.
+Hampel, R. (2003). Theoretical perspectives and new practices in audio-graphic conferencing for
+language learning. ReCALL, 15(1), 21-36.
+Hampel, R., & Baber, E. (2003). Using Internet-based audio-graphic and video conferencing for language
+teaching and learning. In U. Felix (Ed.), Language learning on-line: Towards best practice (pp. 171-191).
+Lisse, The Netherlands: Swets & Zeitlinger.
+Hauck, M., & Haezewindt, B. (1999). Adding a new perspective to distance (language) learning and
+teaching -- the tutor's perspective. ReCALL, 11(2), 46-54. Retrieved November 25, 2002, from
+http://www.hull.ac.uk/cti/eurocall/recall/rvol11no2.pdf.
+Holliday, L. (1999). Theory and research: Input, interaction, and CALL. In J. Egbert & E. Hanson-Smith
+(Eds.), CALL environments: Research, practice, and critical issues (pp. 181-188). Alexandria, VA:
+TESOL.
+Johnston, W. (1999). Teaching styles and on-line courses -- Can we teach old dogs new tricks? In
+HumanITies: Information technology in the arts and humanities: Present applications and future
+perspectives. Selected proceedings of the Humanities and Arts Higher Education Network conference (pp.
+85-91). Milton Keynes: Open University, Institute of Educational Technology.
+Kelm, O. R. (1998). The use of electronic mail in foreign language classes. In J. Swaffar, S. Romano, P.
+Markley, & K. Arens (Eds.), Language learning online: Theory and practice in the ESL and L2 computer
+classroom (pp. 141-153). Austin, TX: Labyrinth Publications.
+Kern, R. G. (1995). Restructuring classroom interaction with networked computers: Effects on quantity
+and characteristics of language production. The Modern Language Journal, 79(4), 457-476.
+Kern, R. G. & Warschauer, M. (2000). Theory and practice of network-based language teaching. In M.
+Warschauer & R. Kern (Eds.), Network-based language teaching: Concepts and practice (pp. 1-19).
+Cambridge, England: Cambridge University Press.
+Kötter, M., Shield, L., & Stevens, A. (1999). Real-time audio and email for fluency: promoting distance
+language learners' oral and aural skills via the Internet. ReCALL, 11(2), 47-54. Retrieved June 27, 2003,
+from http://www.eurocall-languages.org/recall/rvol11no2.pdf
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 81
+Krashen, S. (1981). Second language acquisition and second language learning. Oxford, England:
+Pergamon.
+Krashen, S. (1985). The Input Hypothesis: Issues and implications. London: Longman.
+Kress, G. (2000a). Design and transformation: New theories of meaning. In B. Cope & M. Kalantzis
+(Eds.), Multiliteracies: Literacy learning and the design of social futures (pp. 153-161). London:
+Routledge.
+Kress, G. (2000b). Multimodality. In B. Cope & M. Kalantzis (Eds.), Multiliteracies: Literacy learning
+and the design of social futures (pp. 182-202). London: Routledge.
+Kress, G., & van Leeuwen, T. (2001). Multimodal discourse: The modes and media of contemporary
+communication. London: Arnold.
+Lecourt, D. (1999). The ideological consequences of technology and education: The case for critical
+pedagogy. In M. Selinger & J. Pearson (Eds.), Telematics in education: Trends and issues (pp. 51-75).
+Amsterdam: Pergamon.
+Levy, M. (1997). Project-based learning for language teachers: Reflecting on the process. In R. Debski, J.
+Gassin, & M. Smith (Eds.), Language learning through social computing (pp. 179-199). Melbourne:
+Applied Linguistics Association of Australia & Horwood Language Centre.
+Ortega, L. (1997). Processes and outcomes in networked classroom interaction: Defining the research
+agenda for L2 computer-assisted classroom discussion. Language Learning & Technology, 1(1), 82-93.
+Pellettieri, J. (2000). Negotiation in cyberspace: The role of chatting in the development of grammatical
+competence. In M. Warschauer & Kern, R. (Eds.), Network-based language teaching: Concepts and
+practice (pp. 59-86). Cambridge, England: Cambridge University Press.
+Perkins, J. (1999). Problematics in telematics. In M. Selinger & J. Pearson (Eds.), Telematics in
+education: Trends and issues (pp. 1-14). Amsterdam: Pergamon.
+Rüschoff, B. (2001). Construction of knowledge as the basis of foreign language learning. Retrieved
+January 23, 2002, from http://www.uni-essen.de/anglistik/bernd/construction.htm
+Rüschoff, B., & Ritter. M. (2001). Technology-enhanced language learning: Construction of knowledge
+and template-based learning in the foreign language classroom. Computer Assisted Language Learning,
+14(3-4), 219-232.
+Selinger, M., & Pearson, J. (Eds.). (1999). Telematics in education: Trends and issues. Amsterdam:
+Pergamon.
+Shield L., Hauck, M., & Kötter, M. (2000). Taking the distance out of distance learning. In P. Howarth &
+R. Herrington (Eds.), EAP learning technologies (pp. 16-27). Leeds, England: University Press.
+Shield, L., Hauck, M., & Hewer, S. (2001). Talking to strangers -- the role of the tutor in developing
+target language speaking skills at a distance. In Proceedings of UNTELE 2000, Volume II. Retrieved June
+27, 2003, from http://fels-staff.open.ac.uk/lesley-shield/webbed/untele/shieldhauckhewer/
+talkingtostrangers.html
+Shneiderman, B. (1994). Education by engagement and construction: Can distance learning be better than
+face-to-face? Retrieved November 25, 2002, from http://www.hitl.washington.edu/scivw/EVE/
+distance.html
+Swain, M. (1985). Communicative competence: some roles of comprehensible input and comprehensible
+output in its development. In S. Gass & C. Madden (Eds.), Input in second language acquisition (pp. 235-
+253). Rowley, MA: Newbury House.
+Regine Hampel and Mirjam Hauck Towards an Effective Use of Audio Conferencing…
+Language Learning & Technology 82
+Varonis, E., & Gass, S. (1985). Non-native/non-native conversations: A model for negotiation of
+meaning. Applied Linguistics, 6(1), 71-90.
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. Cambridge,
+MA: Harvard University Press.
+Warschauer, M. (1996). Comparing face-to-face and electronic discussion in the second language
+classroom. CALICO Journal, 13(2-3), 7-26.
+Warschauer, M. (1997). Computer-mediated collaborative learning: Theory and practice. The Modern
+Language Journal, 81(4), 470-481.
+Warschauer, M., & Lepeintre, S. (1997). Freire's dream or Foucault's nightmare? Teacher-student
+relations on an international computer network. In R. Debski, J. Gassin, & M. Smith (Eds.), Language
+learning through social computing (pp. 67-89). Melbourne: Applied Linguistics Association of Australia
+& Horwood Language Centre.
+Zähner, C., Fauverge, A., & Wong, J. (2000). Task-based language learning via audiovisual networks:
+The LEVERAGE project. In M. Warschauer & R. Kern (Eds.), Network-based language teaching:
+Concepts and practice (pp. 186-203). Cambridge, England: Cambridge University Press.

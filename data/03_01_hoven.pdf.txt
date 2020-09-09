@@ -1,0 +1,790 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol3num1/hoven/index.html 
+July 1999, Volume 3, Number 1 
+pp. 73-90 online 
+(page numbers in PDF differ and should not be used for reference) 
+Copyright © 1999, ISSN 1094-3501 73 
+A MODEL FOR LISTENING AND VIEWING COMPREHENSION IN 
+MULTIMEDIA ENVIRONMENTS 
+Debra Hoven 
+University of Queensland, Australia 
+ABSTRACT 
+This paper proposes an instructional design model appropriate for humanistic multimedia 
+Computer-Enhanced Language Learning (CELL) in a self-access environment for second 
+language learning through listening and viewing comprehension. The model is grounded in 
+sociocultural theory, and set against a background of research into the complexities of listening 
+and viewing, individual learner differences and learning styles, characteristics of self-directed and 
+autonomous learning, and user-friendly instructional software design. 
+INTRODUCTION 
+Computers give learners freedom to work at their own pace and level, and to receive immediate and 
+personalised feedback. In terms of group dynamics, they enable learners to pool their knowledge in more 
+effective ways and enhance peer correction and language repair work. For this reason, the term CELL is 
+used here in preference to CALL (Computer-Assisted/Aided Language Learning) to recognise the 
+enhancing role that computers play in the language learning process. Humanistic elements of the use of 
+computers in language learning emerge in discussions of types and techniques of learning, where CELL 
+brings the real world into the classroom, makes learning more relevant, develops the learners' sense of 
+responsibility, promotes non-linear and co-operative learning, helps reduce the need for a meta-language, 
+and changes the role of the teacher (Batley & Freudenstein, 1991, pp. 14-16). 
+From a philosophical point of view, computers have a very different role today than they did in the past. 
+By taking on humanistic principles and shedding the rigidity of behaviourist approaches and associated 
+programmed learning, scenarios for the use of computers in language learning can be greatly expanded. In 
+sharp contrast to the criticisms levelled at language laboratories, both with and without computer 
+technology, a much wider range of interaction models is now available to learners (Davies & Higgins, 
+1985, pp. 35-36): 
+1) Learners can choose either to correct themselves or to be corrected by the computer, the teacher,
+or peers.
+2) Utterances need not be fabricated, though they must still generally be pre-recorded for computer
+retrieval.
+3) Communication is possible either between two or more learners at the same terminal, at
+geographically distant terminals, or in an interactive sense between learner and video and/or
+audio (Brett, 1995; Chang & Smith, 1991; Doughty, 1991).
+4) Learners can actively participate in the delivery of the lessons, their interpretation of meaning
+during the activity, and the choices they make (Bright, Verano, & Cubero, 1991; Garrigues,
+1991). 
+5) Flexibility is limited only by the foresight of the designers of the learning packages or the
+providers of the learning materials.
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 74 
+With the extension of the presence of computers in learning environments to include computer-mediated 
+communications (CMC) such as those possible using electronic mail or the Internet, we must now devise 
+models for computer-enhanced pedagogy to encompass these new interlocutors (Chapelle, 1994). In 
+devising such models, it is important that we keep in mind the theories and findings from mainstream 
+second language (L2) pedagogy and modern theories of second language acquisition (SLA). 
+Although the presence of new technology and new means of using it entail the development of new 
+models, this is no reason to start completely afresh. For example, the addition of multimedia capabilities 
+does not necessarily imply that a whole new set of pedagogical models needs to be devised. Rather, we 
+should look to findings in more traditional areas such as classroom interaction, self-directed learning, and 
+the use of audio and video in language instruction to ground our models of good practice in the areas of 
+multimedia and CMC in language learning. We will look at some of these findings and explore their 
+relationship with newer technology with a view toward developing a sociocultural language learning 
+model that incorporates these features. 
+This paper is divided into two sections: the first deals predominantly with the application of listening 
+theory in the context of computer technology, and the second with aspects of a sociocultural model for 
+language learning in this context. In the model proposed here, the framework for the allocation of control 
+to learners is provided in the software by presenting the available language learning resources in a manner 
+that is easy for them to navigate, while at the same time providing the information necessary for the 
+learners to make informed decisions about their learning path (Lian & Lian, 1997). In keeping with the 
+principles outlined above, this management of learning choices is improved by enabling learners to make 
+informed decisions relating to their own learning using the resources contained in the software package. 
+LISTENING AND VIEWING COMPREHENSION: THEORY AND APPLICATIONS 
+Learners and L2 Listening Comprehension 
+Earlier discussions and examinations of listening as a discrete component of language learning focused 
+mainly on classifying and grading listening tasks in terms of difficulty (Fish, 1981; Nunan, 1989; 
+Richards, 1983; Ur, 1984). The perception of difficulty usually resided in the difficulty of the material 
+used as the content for the comprehension activities, and was often borrowed from readability measures 
+for written texts. Concepts of the readability of texts, in turn, were based on word counts and the 
+frequency of occurrence of discourse features such as nominalisation, redundancy, and ellipsis (Grellet, 
+1981; Nunan, 1991; Swaffar & Bacon, 1993). These readability measures were transferred to the listening 
+environment as the basis for determining the comprehensibility of listening texts. Other measures of 
+difficulty in listening comprehension (LC) relied on some undefined and unspecified inherent qualities of 
+the tasks. The listening passages were often created, or at least simplified, for teaching purposes, and the 
+determination of levels of difficulty was often arbitrary or subjective (Lynch, 1988, p. 178). 
+As changes in the focus of language teaching and learning have moved from content- or teacher-centred 
+to more learner- or learning-centred approaches, the focus in LC has also shifted. The social dynamics of 
+listening have become a much stronger force in the investigation and use of LC for language learning 
+(Lynch, 1988; Rost, 1990; Rubin, 1994). Progressively less emphasis is now being placed on listening as 
+a cognitive process internal to the hearer, while the processes of interaction and meaning-negotiation are 
+being extensively investigated (Doughty, 1991; Dunkel, 1991b; Pica, Young, & Doughty, 1987; 
+Robinson, 1991). 
+Researchers are also refining their understanding of the essential differences and similarities between 
+reading and listening (Canale, 1984; Hoven, 1991; Lund, 1991; Swaffar & Bacon, 1993). This has lead to 
+the recognition that there are aspects of LC, in addition to those mentioned above, that contribute to 
+learners' difficulty in successfully completing LC tasks, and increasing their proficiency in this area. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 75 
+Where previously the content material was graded, structured, or specially created in keeping with the 
+authors' perceptions of ease and difficulty, it is now being suggested that the tasks themselves be graded, 
+particularly in the context of increasing use of authentic texts (Hoven, 1991; Lund, 1990; Lynch, 1988; 
+Mendelsohn & Rubin, 1995; Nunan, 1989). 
+Background to Listening Comprehension Research 
+Recently, the focus of the examination of factors contributing to successful LC has shifted toward 
+formulating theories which define the features involved in the L2 listening process (Anderson & Lynch, 
+1988; Byrnes, 1984; Dunkel, 1991a; Rubin, 1994). As Rost (1990) asks, 
+Is understanding a mental phenomenon recoverable through the mind of the hearer or is it a social 
+phenomenon recoverable through examination of subsequent behaviour by the listener? (p. 1) 
+However, except for examinations of L2 pronunciation and auditory perception using computers, the 
+implementation of LC in a computer-assisted environment has not yet been attempted within a coherent 
+theoretical framework (Craven, Sinyor, & Paramskas, 1990; Higgins, 1995; Kenning & Kenning, 1990; 
+Pennington, 1989, 1996). 
+With a shift to more meaning- and communication-oriented teaching approaches starting in the 1970s, 
+much has been published on the nature of the listening process and techniques for teaching LC 
+(Boekaerts, 1981; Boyle, 1984; Buck, 1992; Faerch & Kasper, 1986; Long, 1989; Lund, 1990; Richards, 
+1985; Taylor, 1981; Wipf, 1984). Research into the interaction between speaking and listening (Anderson 
+& Lynch, 1988; Brown, 1986, 1989; Brown & Yule, 1983; Byrnes, 1984; Dunkel 1986; Nunan, 1990) has 
+led to the construction of information processing models of listening (Cook, 1985), and, more recently, to 
+investigations of various aspects of the listening task and participants (Bacon, 1992a, 1992b; Herron, 
+1994; Rubin, 1994). 
+In addition, with increasingly more sophisticated visual media, a perception is emerging of the intimate 
+relationship between viewing comprehension (VC) and LC. This applies particularly in L2 and foreign 
+language (FL) learning, where teachers and cross-cultural researchers are focusing on the meanings 
+conveyed by gesture, expression, and body language (Armstrong, Stokoe, & Wilcox, 1995; Fidelman, 
+1994, 1997; Hurley, 1992; Kellerman, 1992). Since the introduction of video players into L2 language 
+classrooms, and more recently with the advent of interactive multimedia applications for L2 learning, 
+paralinguistic features have been receiving more attention in teaching and in learning applications (Brett, 
+1995; Fidelman, 1994, 1997). 
+Changing Complexion of Issues and Factors in L2 Listening Comprehension 
+Increasingly, research is attempting to establish the role of the learner as an active interpreter and 
+negotiator of the meaning of messages (Jonassen, 1992; Lantolf & Appel, 1994). Research energy is 
+turning away from mental phenomenon towards social phenomenon models. As Rubin (1994, p. 199) 
+summarises it, the on-going dialogue among researchers about the nature of learners' interaction with oral 
+input revolves around the characteristics of (a) text, (b) interlocutor, (c) task, (d) listener, and (e) process 
+(see also Hoven, 1991). In addition, technological advances have made available to teachers and learners 
+certain forms of visual media, such as television and videos, to expand LC to encompass VC as well 
+(Kellerman, 1992; Schmidt-Reinhart, 1994). Therefore, it has become essential to incorporate a 
+discussion of the impact of VC on listening and listening tasks into the new language learning models. 
+Many of the factors listed by Rubin (1994), such as task and process characteristics, relate to general 
+learning and language learning rather than exclusively to listening. However, certain aspects of these 
+factors, such as acoustic variables, are inherently specific to listening and viewing. This paper will deal 
+with those specific aspects. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 76 
+The Complementarity of Listening and Viewing 
+The increasing focus on multimedia in CALL necessitates a renewed examination of the complementary 
+nature of the visual and auditory channels in listening and viewing comprehension. This is particularly the 
+case in the current context of an expanding emphasis on non-verbal channels of communication in which 
+video and other multimedia resources are becoming prevalent in L2 learning contexts (Brett, 1995; Felix, 
+1995; Kennedy, Tiziana, & Murray, 1995; Liou, 1995; Staddon, 1990). Areas of study include the 
+following: 
+ The importance of visual context (Hanley, Herron, & Cole, 1995; Herron, 1994; Secules, Herron,
+& Tomasello, 1992)
+ The role of non-verbal aspects of communicative competence (Kellerman, Ammerlaan,
+Bongaerts, & Poulisse, 1990; Meyer, 1990; Neu, 1990)
+ Cross-cultural effects of non-verbal communication (Hurley, 1992)
+ Messages conveyed through the visual channel (Herron, Morris, Secules, & Curtis, 1995; Herron
+& Seay, 1991; Kellerman, 1992; Neu, 1990)
+ Strategies used with audio-visual material (Mueller, 1980; Vogely, 1995; Wolff, 1987)
+ Skills developed through the use of computer-assisted multimedia (Brett, 1995; Dalgish, 1987;
+Fidelman, 1997; Hoven & Farquhar, 1996; Linquist, Rowekamp, & Stenson, 1991; Meskill,
+1991) 
+Examination of the role of the visual channel leads to a discussion of the complementary nature of visual 
+to auditory cues in LC involving video and multimedia resources, such as in CELL packages (Graham, 
+1990; Hurley, 1992; Kellerman, 1992; Neu, 1990). In expanding this discussion of LC to include 
+paralinguistics, the focus is not solely on these aspects, but rather the importance of including these 
+critical aspects of listening and viewing comprehension in the language learning process. Here, 
+paralinguistic features encompass kinesics, proxemics, and prosody. The term kinesics refers to 
+communicative movements such as facial, hand, and other body expressions or gestures that accompany, 
+complement, or replace verbal utterances. Proxemics refers to the "degree of physical distance between 
+interlocutors which is acceptable in a culture, including touching" (Hurley, 1992, p. 261). Following 
+Arndt and Janney (1987, pp. 234-235) and Gassin (1992), prosody comprises the varying "accent 
+(articulatory force, emphasis, stress, pitch prominence), intonation (tune, melody, pitch contour, pitch 
+direction), and rhythm (speed, duration, pause, tempo)" of speakers (Gassin, 1992, p. 97). 
+As the studies by Beebe & Takahashi (1989), Kasper (1989), and Lörscher (1986), indicate, attention to 
+and practice in paralinguistic aspects of L2 communication can and should be implemented in language 
+classes and materials, particularly through activities in which the learners themselves control and direct 
+the interaction. Kellerman (1992) and Hurley (1992, p. 274) advocate the use of target language audio-
+visual material containing a range of different interaction types to enhance awareness of the verbal, 
+prosodic, kinesic, and non-verbal features used by members of the speech community. 
+Thus, studies of the relationship between kinesic information and verbal communication have shown the 
+importance of kinesics in conveying and interpreting meaning at a number of levels. These findings have 
+considerable impact on the uses of multimedia in a CELL environment. Therefore, not only should the 
+visual channel be incorporated into CELL materials, but also explicit efforts must be made to provide 
+learners with information on the kinesic aspects of messages and how to interpret and produce them. 
+These should include information on how kinesic messages are conveyed in the particular language being 
+studied or materials being used, in order to raise learners awareness of the importance of kinesics 
+(Kellerman, 1992). This can be implemented in the software by displaying the pitch and amplitude curves 
+of authentic audiovisual texts (Lian & Lian, 1997). A CELL multimedia environment also offers learners 
+some unique opportunities to select and focus on specific intercultural differences in kinesic and prosodic 
+features and simultaneously gain practice in their use (Fidelman, 1994; Hoven, 1997b). 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 77 
+Essential Features of the Listening Process 
+Considerable L2 evidence has accumulated over the last two decades which shows that effective listening 
+requires active mental processing by listeners on several levels, particularly in interactive listening 
+situations (Anderson & Lynch, 1988; Lynch, 1988; Riley, 1981). Researchers have found that semantic 
+and syntactic systems as well as top-down and bottom-up processing operate simultaneously (Anderson & 
+Lynch, 1988; Bacon, 1992a; Bond & Garnes, 1980; Conrad, 1985; Lund, 1991; Marslen-Wilson & Tyler, 
+1980; O'Malley, Chamot, & Küpper, 1989; Van Patten, 1989; Voss, 1984; Wolff, 1987). However, there 
+is some disagreement about which kind of processing predominates at different levels of learner L2 
+proficiency (Rubin, 1994, pp. 210-211). Nevertheless, the components of the listening process, including 
+the listening text, the complete context of this text (both external and internal to the listener), the task 
+demands, and the responses required of the listener are all interrelated. 
+Listening Comprehension and CELL: Constraints and advantages 
+Constraints. The implementation of listening and viewing comprehension tasks in a CELL context 
+implies certain advantages and certain constraints. The constraints lie in the difficulties of allowing 
+students to input random text of the kind necessary for summarising tasks. Technology has not yet 
+developed the capacity to process random text input through the keyboard in ways that can simulate the 
+way a teacher would annotate and give feedback on a student's work. However, this does not mean that 
+such tasks cannot be implemented in a CELL environment in a modified form. 
+Another constraint for CELL, arising from the same difficulties as the one above, is the lack of realistic 
+person-to-person interaction. In the context of CMC via e-mail or the World Wide Web, real learner-to-
+learner communication is possible for geographically separated students. Although there are still 
+bandwidth and financial constraints on the personal use of visual computer-based communication, this 
+may not be the case for much longer, given the present rapid rate of technological development. 
+Nevertheless, even now it is easy to partially compensate for the lack of interpersonal interaction by 
+making available on-line grammar notes, dictionaries, contextualised feedback, and repeated 
+individualised playback. All of these features can be provided whenever and as often as the learner needs 
+them. 
+Advantages. The importance of providing learners with timely, task-specific feedback in LC practice is 
+widely acknowledged. Because of perception and recall constraints in LC, the availability of immediate 
+feedback can be a distinct advantage. Another advantage of a CELL environment relates to the necessity 
+for learners to be exposed to the same text from different perspectives and with emphasis on different 
+aspects in order to fully comprehend a listening text. It is a simple matter to provide learners with 
+"multiple exposures to the same or similar texts" (Rost, 1990, p. 169). Moreover, choices about how often 
+to review a text, how many tasks to design for the same text, the level of cognitive difficulty, and the type 
+of text, can all be determined by the learners themselves with appropriate structuring and guidance 
+provided in the software. 
+Essential Principles of CELL 
+The following five findings flow from various research studies in learning, language learning, and 
+computer- or technology-mediated learning as being critical to effective CELL:
+1) Interaction and negotiation are important features of communication, and therefore of L2
+learning (Doughty, 1987);
+2) Computers with appropriately designed software can play a mediating role between L2
+learners and their sociocultural context (Chapelle, 1994; Jonassen, 1992);
+3) Software can be designed to facilitate L2 learners' interaction with the computer, and
+negotiation of meaning from texts (Bickel & Truscello, 1996; Meskill, 1992);
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 78 
+4) The essential characteristic of software is to enable learners to take control of both the
+content of the learning material, and their approach to making meaning from it
+(Robinson, 1991; Stevens, 1992); and
+5) Not all L2 learners, especially in the initial stages of L2 acquisition, want to, or are able,
+to take control of their learning (Candy, 1987; Robinson, 1991).
+What are the essential features of an instructional design model that incorporates these research findings? 
+The following three features emerge at this stage: 
+1) We can improve the kinds of tasks we provide for learners by increasing the level of
+choice available to them;
+2) In providing increased choice, we, as instructional designers, need to recognise,
+understand, and make provisions for individual differences in learning styles and learning
+strategies; and
+3) With increased choice, learners must be provided with the information to make those
+choices.
+In a CELL environment, we can therefore give learners informed control over the choice of task, topic or 
+text content, and the speed of progress through the tasks or within a task. 
+Collectively, the above five hypotheses encompass the critical features of the proposed model for the 
+nature of language learning, the contemporary role of computers in language learning, an instructional 
+design framework to suit this role, and the nature of the relationship between learners and computer-based 
+materials. In the discussion below some of the implications of these principles for the proposed 
+instructional design model will be explored. 
+Learning Strategies and CELL 
+In order to incorporate awareness-raising about learning strategies into the CELL environment, 
+taxonomies such as those of Oxford (1990), O'Malley and Chamot (1990), or Hoven (1997a) can be 
+introduced to learners. They can serve to guide learners in their choice of strategies when working on 
+tasks in a way similar to using a map or a street directory. For example, learners can be shown 
+diagrammatically which learning strategies are embodied in the successful completion of each of the task 
+types available in the software package. In this way, learners can set their own learning goals for the 
+activity using information provided and structured by the software package. This exemplifies the second 
+and third hypotheses above, in that the software mediates between learners and their context. Having been 
+shown by the program the range of choices available, learners then use the program to guide them through 
+their chosen paths. 
+The term interactivity in the context of the model being proposed here refers to the potential for the 
+learner to make decisions about the content, mode, order, pace, level, and degree of self-direction of a 
+software package. In addition, it can be extended to mean the capacity the model provides for the learner 
+to interact with, interpret, negotiate, and make meaning from the texts available, whether these are 
+printed, audio, audio-visual, or visual. 
+A SOCIOCULTURAL MODEL FOR CELL 
+Background to the Paradigm Adopted for This Model 
+This section provides a preliminary explanation of the perceived need for and uses of CELL today. For 
+the purpose of simplicity, the term second language learning is used here to refer to the learning of 
+another language after oneÕs first language (L1), whether within the target culture, or removed from it. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 79 
+The paradigm proposed here is based on a humanistic cognitivist perspective on the teaching of language 
+using computer technology. This perspective incorporates some elements of humanistic methodology 
+(Stevick, 1990), cognitive learning theories (McLaughlin, 1987; O'Malley & Chamot, 1990), and 
+sociocultural theories of language learning (Halliday, 1993; Lantolf & Appel, 1994; Wells, 1994). The 
+humanistic aspect is based on a belief in the necessary involvement of the whole person in the language 
+learning process. The cognitivist aspect derives from the conviction that one of the ways L2 learners 
+acquire language is through progressive modification of their interlanguage brought about by a process of 
+hypothesis testing, confirmation/disconfirmation, and subsequent modification. The sociocultural 
+paradigm provides an interpretative framework within which to anchor the complex interplay of the 
+features both internal and external to the physical body of the learner. It is this paradigm which promotes 
+cohesion and complementarity among these disparate perspectives. 
+Within this paradigm, learners take an active, goal-oriented role, negotiating and interpreting new 
+experiences in terms of previous ones and in terms of models they have built up to reformulate their 
+internal schemata. A corollary to this view is that if learners are provided with opportunities to use 
+language and learning strategies in L2, and if they are given some training in their application, they can 
+develop these strategies through exposure to and experience in the L2 (McMeniman, 1994; Perrett, 1995). 
+Such development can take place through a series of steps called scaffolding, in which teachers play a 
+progressively diminishing role as the involvement and investment of the learner progressively increases 
+(Donato, 1994). In this way, learners become more autonomous and self-directing in their attitudes and 
+approaches to their own learning (Adair-Hauck & Donato, 1994; Rowsell & Libben, 1994), enabling 
+teachers to devote their time and effort to aspects of language learning not easily mediated by computers. 
+In an attempt to remedy the perceived inability of Chomsky's transformational generative grammar (1965, 
+1981) to account fully for the influence of social and cultural contexts on the semantic aspects of 
+language, Halliday (1978, 1985) developed a systemic functional grammar, which emphasises the way in 
+which the different systems interact in the whole context of language, including the social and cultural 
+features. This theory represented the introduction of a focus on the sociocultural aspects of language, with 
+emphasis on the way in which social and cultural interaction shapes the realisation of meaning. 
+A particularly strong influence over the last few years on our understanding of the nature of language 
+learning and the interrelationship between language and learning has come from the recognition of the 
+similarities between the theories of Halliday and Vygotsky. While Halliday, as a linguist, has produced a 
+detailed grammar that incorporates an acknowledgement of the integral part that social interaction plays 
+in language, Vygotsky's contributions have been greater in the area of the role of language processing in 
+the development of higher mental processes. However, both scholars are interested in the development of 
+language as human beings grow and develop as social beings. In addition, they both subscribe to the 
+notion that "language is a human invention" (Wells, 1994), and both believe that there is a symbiotic 
+relationship between language and culture, and that language is intimately involved in the development of 
+the intellect. 
+A critical facet of Vygotsky's conception of the development of higher mental processes is realised as the 
+Zone of Proximal Development, or ZPD (Vygotsky, 1978, p. 86). This zone represents the sphere of 
+potential intellectual growth within which an individual can develop with the stimulus and intervention of 
+other more skilled individuals. The ZPD has been likened in concept to Krashen's concept of i + 1 
+(Richard-Amato, 1988). However, the ZPD places more emphasis on the process of learning development 
+than on the stages. It is the interaction with others, such as teachers, guides, mentors, or even computers, 
+that triggers the arousal of internal developmental processes. Lantolf and Appel (1994) describe it as 
+follows: 
+The process of voluntary acting is distributed between two people, one of whom (the adult or 
+expert) already knows how to perform a particular act and one who (the child or novice) does not. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 80 
+Equally important is the fact that speech serves to direct, or mediate, the interactive process that 
+transpires between the two. . . .The difference between what the child, or novice, is capable of 
+when acting alone and what he or she is capable of when acting under the guidance of a more 
+experienced other is referred to as the zone of proximal development. (p. 10) 
+Donato (1994) uses the concept of the ZPD to expand the potential of interaction from the conduit 
+metaphor of a message in communication to include and emphasise collaborative meaning making. For 
+Donato, this metaphor for a communicative event as merely "the successful sending and receiving of 
+linguistic tokens. . .masks fundamentally important mechanisms of L2 [second language] development" 
+such that "in the end, the social context is impoverished and undervalued as an arena for truly 
+collaborative L2 acquisition" (p. 34). Donato proposes the metaphor of scaffolding as an alternative to 
+that of the conduit, to exemplify the role of the ZPD in language development. The metaphor of 
+scaffolding is used to support the principle that, "in social interaction a knowledgeable participant can 
+create, by means of speech, supportive conditions in which the novice can participate in, and extend, 
+current skills and knowledge to higher levels of competence" (Donato, 1994, p. 40). 
+The concept of the ZPD thus represents a useful metaphor for describing the kinds of interactions and 
+posited outcomes that a successful CELL software package should engender. 
+The Concept of Learner-Centredness 
+Central to the development of a CELL model that allocates more control to the learners is an 
+understanding of what is meant by learner-centredness. Over the last quarter-century, the predominant 
+factors effecting changes in approach and methodology have been the following: 
+1) a stronger focus on the learner as an individual (Ellis, 1985; Skehan, 1989; Stevick, 1976,
+1981);
+2) a corresponding shift from a focus on teaching to a focus on learners and learning (Cotterall,
+1995; Gremmo & Riley, 1995; Kumaravadivelu, 1993; Little, 1995);
+3) consideration of differences in learning styles (Felder & Henriques, 1995; Griffiths & Sheen,
+1992; Oxford & Ehrman, 1993; Wenden & Rubin, 1987; Willing, 1989) and learning
+strategies (O'Malley & Chamot, 1990; Oxford, 1990, 1993; Wenden, 1995; Wenden &
+Rubin, 1987); and
+4) various manifestations of humanism (Asher, 1981; Crawford & Trojer, 1983; Curran, 1976;
+Gattegno, 1976; Lozanov, 1979; Stevick, 1990; Underhill, 1989).
+The focus on learners' needs has become central to the philosophy of learner-centredness, as has the 
+principle of developing learners' understanding of their own language learning styles and processes 
+(Brindley, 1984; Nunan, 1988; Wenden, 1991; Willing, 1985). As part of these processes, learners need to 
+be able to select which texts may be appropriate for their specific needs. In the contexts of distance 
+education and flexible delivery, this can be facilitated through a multimedia database which uses 
+classifications such as register, participants, and language function (Hoven, 1997b; Lian & Lian, 1997). 
+In a CELL environment, learners can be introduced to taking control over their own learning by being 
+provided with exposure to awareness-raising activities across all parts of their language learning program, 
+including the CELL software. In the initial stages, highly structured (teacher-centred) materials need to be 
+available to cater to the needs of those learners with a strong dependence on teacher direction. However, 
+to cater to differentially rapid development in the direction of autonomy, it is also necessary to provide 
+the means whereby learners can take more control if they feel capable of doing so. This can be achieved 
+by writing into the design of a CELL software package several levels of entry or several modes of 
+interaction based on varying levels of learner control. 
+Roles and Characteristics of CELL in Relation to Listening Comprehension 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 81 
+In the context of multimedia, it is also necessary to consider the nature of emerging roles of the computer 
+as interlocutor, expert teacher, and mediator of learning. According to Jonassen (1992, p.2), less emphasis 
+should be placed on the design of the technologies and more on the processes involved in task 
+completion. In order for these roles to be realised, the use of computers needs to be located within a 
+learning environment that promotes and supports the activation of learners' mental processes across all 
+activities and resources. The following is an outline of the elements of such a technology-mediated 
+learning environment: 
+I. Total learning environment characterised by a task-based and/or process-based syllabus and a 
+focus on 
+-----A. Learning strategies (learning how to learn) 
+-----B. Language functions and purposes 
+-----C. Language structures 
+-----D. Paralinguistic features 
+-----E. Sociocultural features 
+-----F. Autonomy and self-direction 
+II. Focus all activities on the development of control and responsibility for own learning
+III. Cultivate learner self-direction and autonomy
+IV. Provide access to facilities for multi-channelled perception/production
+V. Cultivate self- and peer-feedback and evaluation techniques among learners (to improve self-
+confidence and group cohesion) 
+VI. Design CELL activities that incorporate self-exploration and self-discovery of problems and
+errors 
+VII. Provide a range of print and non-print based resources, including student- and teacher-
+produced materials and well as those commercially available and on the Web. 
+In the context of CELL, there is also room to raise the question of whether characteristics of the computer 
+software, help, and feedback mechanisms may be classified as interlocutor characteristics when there is a 
+level of interactivity between learners and these functions. While such questions lie outside the scope of 
+this article, studies in the field of human-computer interface (Reeves & Nass, 1996), have begun to deal 
+with some aspects of this question. 
+There have so far been no studies in the CALL area dealing specifically with the characteristics of 
+interlocutors in human-computer interactions, though researchers such as Dickson (1985) and Meskill 
+(1992) have begun to investigate which aspects of software and what kinds of computer-learner groupings 
+lead to more communicative interaction. In addition, Chapelle (1994), working within the understanding 
+of genre developed by Halliday and Hasan (1989) and Swales (1990), suggests that the effective use and 
+study of CALL hinges on the analysis of CALL activities in terms of three levels of difference: text, 
+genre, and context. According to Chapelle, the computer is both one of the participants in the co-creation 
+of a text, and a mediator in the learning experience (p. 38). 
+For Chapelle, the computer clearly has a role to play as an interactor in a language learning context. 
+However, as stressed by Jonassen (1992), computer technology does not of itself take this role. Pedersen 
+(1987, p. 100) also finds that "recent CALL research. . .suggests that the design of computer software to 
+cause adjustments in cognitive processing, not the medium used to deliver instruction, stands the best 
+chance of affecting learning outcomes." Technology is only the vehicle for the pedagogy embodied in the 
+software, and thus the rationale behind the design of the software is what allows the computer to perform 
+in this interactive role. More specifically, the features of the computer that allow it to be used as a 
+mediator of learning are the instructional design of the learning activities, the content of the learning 
+material, the design of the interface, and the various help and feedback facilities. This mediator role 
+includes that of mentor in the learnerÕs learning progression through the Zone of Proximal Development. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 82 
+PUTTING IT ALL TOGETHER: WHAT DOES THE MODEL LOOK LIKE? 
+Having considered the various features to be included in a learner-centred sociocultural model for 
+incorporating CELL software, we now turn to the question of how these features can be put together. It 
+seems clear from the preceding discussion that in order for the software to be effective as a learning tool, 
+it needs to be located within a learning environment that employs the same approach consistently across 
+the different learning activities, resources, and tools which comprise this environment. 
+Within this environment, the content of the software must incorporate what we know about effective 
+listening and viewing comprehension from a theoretical perspective, and relate this to sociocultural 
+principles. In addition, individual differences in learners, including learning styles and preferred learning 
+modes, must be factored in, to cater to the heterogeneity of learners. Finally, the instructional design of 
+the software, including the functional and navigational aspects, must be mapped onto these components to 
+produce a coherent model as illustrated in Figure 1. 
+Figure 1. Proposed learner-centred model for designing multimedia CELL software for listening 
+comprehension 
+CONCLUSION 
+From the preceding discussion, it can be seen that it is difficult and probably undesirable to attempt to 
+determine the difficulty of a listening and viewing task in any absolute terms. By considering the three 
+aspects that affect the level of difficulty, namely text, task, and context features, it is possible to identify 
+those characteristics of tasks that can be manipulated. Having identified the variable characteristics of 
+tasks in developing the model, it is necessary to look to the dynamic interaction among, tasks, texts, and 
+the computer-based environment. 
+Task design and text selection in this model also incorporate the identification and consideration of 
+context. Teachers can make provision for their influence on learner perception of difficulty by providing 
+texts and tasks that range across these levels, and by ensuring that learners with lower language 
+proficiency can ease themselves gradually into the more contextually difficult tasks. This can be achieved 
+by reducing the level of difficulty of other parameters such as text or task difficulty, or by minimising 
+other aspects of contextual difficulty. Thus, for example, learners of lower proficiency who are exposed 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 83 
+for the first time to a task based on a broadcast announcement would be provided with appropriate visual 
+support in the form of graphics or video to reduce textual difficulty. The task type would also be kept to a 
+low level of cognitive demand (Hoven, 1991, 1997a, 1997b). 
+In a CELL environment, this identification of parameters of difficulty enables task designers to develop 
+and modify tasks on the basis of clear language pedagogy that is both learner-centred and cognitively 
+sound. Learners are provided with the necessary information on text, task, and context to make informed 
+choices, and are given opportunities to implement their decisions. Teachers are therefore creating a CELL 
+environment that facilitates and encourages exploration of, and experimentation with, the choices 
+available. Within this model, learners are then able to adjust their own learning paths through the texts 
+and tasks, and can do this at their own pace and at their individual points of readiness. In sociocultural 
+terms, the model provides learners with a guiding framework or community of practice within which to 
+develop through their individual Zones of Proximal Development. The model provides them with the 
+tools to mediate meaning in the form of software incorporating information, feedback, and appropriate 
+help systems. 
+By taking account of learners' needs and making provision for learner choice in this way, one of the major 
+advantages of using computers in language learning--their capacity to allow learners to work at their own 
+pace and in their own time--can be more fully exploited. It then becomes our task as researchers to 
+evaluate, with learners' assistance, the effectiveness of environments such as these in improving the their 
+listening and viewing comprehension as well as their approaches to learning in these environments.  
+ABOUT THE AUTHOR 
+Debra Hoven teaches Indonesian language and culture at undergraduate level and supervises postgraduate 
+research students in CALL-related areas in the Department of Asian Languages and Studies at the 
+University of Queensland, Australia. She has taught ESL/EFL, Indonesian, Japanese and German at all 
+levels from kindergarten to tertiary in Australia and Asia. Her research interests include learner-centred 
+CALL, learning styles and strategies, particularly in multimedia language learning applications, 
+innovative teaching practices, collaborative and cooperative learning, and sociocultural implications of 
+the uses of electronic communications in the east Asian region. 
+E-mail: d.hoven@mailbox.uq.edu.au 
+REFERENCES 
+Adair-Hauck, B., & Donato, R. (1994). Foreign language explanations within the zone of proximal 
+development. The Canadian Modern Language Review 50(3), 532-557. 
+Anderson, A., & Lynch, T. (1988). Listening. Oxford: Oxford University Press. 
+Armstrong, D. F., Stokoe, W. C., & Wilcox, S. E. (1995). Gesture and the nature of language. 
+Cambridge: University of Cambridge. 
+Arndt, H., & Janney, R. W. (1987). InterGrammar: Toward an integrative model of verbal, prosodic and 
+kinesic choices in speech. Berlin: Mouton de Gruyter. 
+Asher, J. J. (1981). Comprehension training: The evidence from laboratory and classroom studies. In H. 
+Winitz (Ed.), The Comprehension Approach to Foreign Language Instruction (pp. 187-222). Rowley, 
+MA: Newbury House. 
+Bacon, S. M. (1992a). Authentic listening in Spanish: How learners adjust their strategies to the difficulty 
+of input. Hispania 75, 29-43. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 84 
+Bacon, S. M. (1992b). The relationship between gender, comprehension, processing strategies, cognitive 
+and affective response in foreign language listening. Modern Language Journal 76(2), 160-178. 
+Batley, E. M., & Freudenstein, R. (Eds.). (1991). CALL for the Nineties: Computer Technology in 
+Language Learning. Marburg, Germany: FIPLV/EUROCENTRES. 
+Beebe, L. M., & Takahashi, T. (1989). Do you have a bag?: Social status and patterned variation in 
+second language acquisition. In S. Gass, C. Madden, D. Preston, & L. Selinker (Eds.), Variation in 
+second language acquisition: Discourse and pragmatics, pp. 103-125. Clevedon, England: Multilingual 
+Matters. 
+Bickel, B., & Truscello, D. (1996). New opportunities for learning: styles and strategies for computers. 
+TESOL Journal 6(1), 15-19. 
+Boekaerts, M. (1981). Is there a direct link between the comprehension process and the production 
+process? In M. Heid (Ed.), Protokoll eines Werkstattgesprachs des Goethe House, New York, pp. 26-60. 
+München: Druckerei Kemmler und Hoch. 
+Bond, Z. S., & Garnes, S. (1980). Misperceptions of fluent speech. In R. A. Cole (Ed.), Perception and 
+production of fluent speech, pp. 115-132. Hillsdale, NJ: Erlbaum Associates. 
+Boyle, J. P. (1984). Factors affecting listening comprehension. ELT Journal 38, 35-38. 
+Brett, P. (1995). Multimedia for listening comprehension: The design of a multimedia-based resource for 
+developing listening skills. System 23(1), 77-85. 
+Bright, D. E., Verano, M., & Cubero, R. A. (1991). From theory to practice: A model for an interactive 
+videodisc lesson. In M. D. Bush, A. Slaton, M. Verano, & M. E. Slayden (Eds.), Interactive videodisc: 
+The "Why" and the "How." (CALICO Monograph Series, Vol. 2, Spring, pp. 1-15.) Provo, UT: Brigham 
+Young Press. 
+Brindley, G. (1984). Needs analysis and objective setting in the Adult Migrant Education Program.  
+Sydney: NSW Adult Migrant Education Service. 
+Brown, G. (1986). Investigating listening comprehension in context. Applied Linguistics 7(3), 284-302. 
+Brown, G. (1989). Making sense: The interaction of linguistic expression and contextual information. 
+Applied Linguistics 1, 97-108. 
+Brown, G., & Yule, G. (1983). Teaching the spoken language. Cambridge: Cambridge University Press. 
+Buck, G. (1992). Listening comprehension: Construct validity and trait characteristics. Language 
+Learning 42, 313-349. 
+Byrnes, H. (1984). The role of listening comprehension: A theoretical base. Foreign Language Annals 
+17(4), 317-329. 
+Canale, M. (1984). Considerations in the testing of reading and listening proficiency. Foreign Language 
+Annals 17(4), 349-357. 
+Candy, P. (1987). Evolution, revolution or devolution: Increasing learner-control in the instructional 
+setting. In D. Boud & V. Griffin (Eds.), Appreciating adults learning: From the learners' perspective, pp. 
+159-178. London: Kogan Page Ltd. 
+Chang, K-Y. R., & Smith, W. F. (1991). CALL/IVD workstations: Towards a rationale for their use in 
+cooperative learning environments. In M. D. Bush, A. Slaton, M. Verano, & M. E. Slayden (Eds.), 
+Interactive videodisc: The "Why" and the "How." (CALICO Monograph Series, Vol. 2, Spring, pp. 101-
+109.) Provo, UT: Brigham Young Press. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 85 
+Chapelle, C. A. (1994). CALL activities: Are they all the same? System 22(1), 33-45. 
+Chomsky, N. (1965). Aspects of the theory of syntax. The Hague: Mouton. 
+Chomsky, N. (1981). Lectures on Government and Binding. Dordrecht: Foris Publications. 
+Conrad, L. (1985). Semantic versus syntactic cues in listening comprehension. Studies in Second 
+Language Acquisition 7(1), 59-72. 
+Cook, V. J. (1985). Bridging the gap between computers and language teaching. Computers in English 
+language teaching. ELT Documents, No. 122, 13-24. 
+Cotterall, S. (1995). Readiness for autonomy: Investigating learner beliefs. System 23, 195-205. 
+Craven, M.-L., Sinyor, R., & Paramskas, D. (Eds.). (1990). CALL: Papers and reports. La Jolla, CA.: 
+Athelstan Publications. 
+Crawford, J., & Trojer, L. (1983). An introduction to the structuro global audio visual approach to 
+language learning. Australian Review of Applied Linguistics 6, 20-29. 
+Curran, C. A. (1976). Counseling-learning in second languages. Apple River,IL: Apple River Press. 
+Dalgish, G. M. (1987). Some uses of computers in teaching English as a Second Language: The issue of 
+control. In J. S. Blanchard & G. E. Mason (Eds.), The Computer in reading and language arts, pp. 81-93. 
+New York: The Haworth Press. 
+Davies, G., & Higgins, J. (1985). Using computers in language learning: A teacher's guide. Information 
+Guide 22. London: Centre for Information on Language Teaching and Research. 
+Dickson, W. P. (1985, May). Thought-provoking software: juxtaposing symbol systems. Educational 
+Researcher, 30-38. 
+Donato, R. (1994). Collective scaffolding in second language learning. In J. P. Lantolf & G. Appel (Eds.), 
+Vygotskian approaches to second language learning, pp. 33-56. Norwood, NJ: Ablex Publishing 
+Corporation. 
+Doughty, C. (1987). Relating second-language acquisition theory to CALL research and application. In 
+W. F. Smith (Ed.), Modern media in foreign language education: Theory and implementation, pp. 133-
+167. Lincolnwood, IL: National Textbook Company. 
+Doughty, C. (1991). Theoretical motivations for IVD software research and development. In M. D. Bush, 
+A. Slaton, M. Verano, & M. E. Slayden (Eds.), Interactive videodisc: The "Why" and the "How." 
+(CALICO Monograph Series, Vol. 2, Spring, pp. 17-23.) Provo, UT: Brigham Young Press. 
+Dunkel, P. (1986). Developing Listening Fluency in L2: Theoretical Principles and Pedagogical 
+Considerations. The Modern Language Journal 70(2), 99-106. 
+Dunkel, P. (Ed.) (1991a). Computer-assisted language learning and testing. New York: Newbury House. 
+Dunkel, P. (1991b). Listening in the native and second/foreign language: Toward an integration of 
+research and practice. TESOL Quarterly 25(3), 431-457. 
+Ellis, R. (1985). Understanding second language acquisition. Oxford: Oxford University Press. 
+Faerch, C., & Kasper, G. (1986). The role of comprehension in second language learning. Applied 
+Linguistics 7(3), 257-274. 
+Felder, R. M., & Henriques, E. R. (1995). Learning and teaching styles in foreign language education. 
+Foreign Language Annals 28, 21-31. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 86 
+Felix, U. (1995). Theater Interaktiv: multimedia integration of language and literature. On-CALL 9, 12-
+16. 
+Fidelman, C. (1994). In the French Body/In the German Body: Project results. Demonstrated at the 
+CALICO '94 Annual Symposium "Human Factors." Northern Arizona University, Flagstaff, AZ. 
+Fidelman, C. G. (1997). Extending the language curriculum with enabling technologies: Nonverbal 
+communication and interactive video. In K. A. Murphy-Judy (Ed.), NEXUS: The convergence of 
+language teaching and reseearch using technology, pp. 28-41. Durham, NC: CALICO. 
+Fish, H. (1981). Graded activities and authentic materials for listening comprehension. In The teaching of 
+listening comprehension. ELT Documents Special: Papers presented at the Goethe Institut Colloquium 
+Paris 1979, pp. 107-115. London: British Council. 
+Garrigues, M. (1991). Teaching and learning languages with interactive videodisc. In M. D. Bush, A. 
+Slaton, M. Verano, & M. E. Slayden (Eds.), Interactive videodisc: The "Why" and the "How." (CALICO 
+Monograph Series, Vol. 2, Spring, pp. 37-43.) Provo, UT: Brigham Young Press. 
+Gassin, J. (1992). Interkinesics and Interprosodics in Second Language Acquisition. Australian Review of 
+Applied Linguistics 15(1), 95-106. 
+Gattegno, C. (1976). The common sense of teaching foreign languages. New York: Educational 
+Solutions. 
+Graham, J. L. (1990). An exploratory study of the process of marketing negotiations using a cross-cultural 
+perspective. In R. Scarcella, E. S. Andersen, & S. D. Krashen (Eds.), Developing communicative 
+competence in a second language, pp. 239-279. Boston, MA: Heinle & Heinle Publishers. 
+Grellet, F. (1981). Developing reading skills. Cambridge: Cambridge University Press. 
+Gremmo, M. J., & Riley, P. (1995). Autonomy, self-direction and self access in language teaching and 
+learning: The history of an idea. System 23, 151-164. 
+Griffiths, R., & Sheen, R. (1992). Disembedded figures in the landscape: A reappraisal of L2 research on 
+field dependence/independence. Applied Linguistics 13, 133-148. 
+Halliday, M. A. K. (1978). Language as social semiotic: The social interpretation of language and 
+meaning. London: Arnold. 
+Halliday, M. A. K. (1985). An introduction to functional grammar. London: Edward Arnold. 
+Halliday, M. A. K. (1993). Towards a language-based theory of learning. Linguistics and Education 5(2), 
+93-116. 
+Halliday, M. A. K., & Hasan, R. (1989). Language, context, and text: aspects of language in a social-
+semiotic perspective. Oxford: Oxford University Press. 
+Hanley, J. E. B., Herron, C. A., & Cole, S. P. (1995). Using video as an advance organizer to a written 
+passage in the FLES classroom. The Modern Language Journal 79, 57-66. 
+Herron, C. (1994). An investigation of the effectiveness of using an advance organizer to introduce video 
+in the foreign language classroom. The Modern Language Journal 78(2), 190-198. 
+Herron, C., Morris, M., Secules, T., & Curtis, L. (1995). A comparison study of the effects of video 
+versus text-centered instruction in the foreign language curriculum. French Review 68, 775-795. 
+Herron, C., & Seay, I. (1991). The effect of authentic aural texts on student listening comprehension in 
+the foreign language classroom. Foreign Language Annals 24, 487-495. 
+Higgins, J. (1995). Computers and English Language Learning. Oxford: Intellect. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 87 
+Hoven, D. (1991). Towards a cognitive taxonomy of listening comprehension tasks. SGAV Review 9(2), 
+1-14. Retrieved from the World Wide Web July 25, 1999: 
+http://jcs120.jcs.uq.edu.au/~dlh/pubs/SGAV91.htm. 
+Hoven, D. (1997a). Instructional design for multimedia: Towards a learner-centred CELL (Computer-
+Enhanced Language Learning) model. In K. A. Murphy-Judy (Ed.), NEXUS: The convergence of 
+language teaching and research using technology, pp. 98-111. Durham, NC: CALICO. 
+Hoven, D. (1997b). Improving the management of flow of control in computer-assisted listening 
+comprehension tasks for second and foreign language learners. Unpublished doctoral dissertation, 
+University of Queensland, Brisbane, Australia. Retrieved July 25, 1999 from the World Wide Web: 
+http://jcs120.jcs.uq.edu.au/~dlh/thesis/. 
+Hoven, D., & Farquhar, M. (1996). On messages and media, clocks and cannibal chiefs. In M. Farquhar 
+& P. McKay (Eds.), China connections: Australian business needs and university language education, 
+pp. 258-292. Canberra: National Languages and Literacy Institute of Australia. 
+Hurley, D. S. (1992). Issues in teaching pragmatics, prosody, and non-verbal communication. Applied 
+Linguistics 13(3), 259-281. 
+Jonassen, D. (1992). What are cognitive tools? In P. A. M. Kommers, D. H. Jonassen, & J. T. Mayes 
+(Eds.), Cognitive Tools for Learning, pp. 1-6. Berlin: Springer-Verlag. 
+Kasper, G. (1989). Interactive procedures in interlanguage discourse. In W. Olesky (Ed.), Contrastive 
+pragmatics, pp. 189-229. Amsterdam: Benjamins. 
+Kellerman, S. (1992). "I See What You Mean": The role of kinesic behaviour in listening and 
+implications for foreign and second language learning. Applied Linguistics 13(3), 239-258. 
+Kellerman, E., Ammerlaan, T., Bongaerts, T., & Poulisse, N. (1990). System and hierarchy in L2 
+compensatory strategies. In R. Scarcella, E. S. Andersen, & S. D. Krashen (Eds.), Developing 
+communicative competence in a second language, pp. 163-178. Boston, MA: Heinle & Heinle Publishers. 
+Kennedy, C., Tiziana, M., & Murray, S. V. (1995). Italia oggi: a multimedia window on contemporary 
+Italy. On-CALL 9, 2-10. 
+Kenning, M. M., & Kenning, M. J. (1990). Computers and language learning: Current theory and 
+practice. Chichester, England: Ellis Horwood Ltd. 
+Kumaravadivelu, B. (1993). The name of the task and the task of naming: Methodological aspects of task-
+based pedagogy. In G. Crookes & S. M. Gass (Eds.), Tasks in a pedagogical context: Integrating theory 
+and practice, pp. 69-96. Clevedon, England: Multimedia Matters. 
+Lantolf, J. P., & Appel, G. (1994). Theoretical framework: An introduction to Vygotskian approaches to 
+second language research. In J. P. Lantolf & G. Appel (Eds.), Vygotskian approaches to second language 
+research, pp. 1-32. Norwood, NJ: Ablex Publishing Corporation. 
+Lian, A. P., & Lian, A. B. (1997). The secret of the Shao-Lin monk: Contribution to an intellectual 
+framework for language learning. On-CALL 11(2), 2-18. 
+Linquist, K., Rowekamp, J., & Stenson, N. (1991). Learner-controlled listening materials using a 
+commercial videodisc. CÆLL Journal 2, 3-7. 
+Liou, H-C. (1995). Evaluation of interactive videodisc courseware: Effects of strategy training and 
+collaborative learning. In F. L. Borchardt & E. M. T. Johnson (Eds.), Proceedings of the Computer 
+Assisted Language Instruction Consortium 1995 annual symposium "Computers and collaborative 
+learning," pp. 112-115. Durham, NC: Heinle & Heinle Publishers. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 88 
+Little, D. (1995). Learning as dialogue: the dependence of learner autonomy on teacher autonomy. System 
+23, 175-181. 
+Long, D. R. (1989). Second language listening comprehension: A schema-theoretic perspective. The 
+Modern Language Journal 73(i) 32-40. 
+Lörscher, W. (1986). Conversational structures in the foreign language classroom. In G. Kasper (Ed.), 
+Learning, teaching and communicating in the foreign language classroom,  pp. 11-22. Aarhus, Denmark: 
+Aarhus University Press. 
+Lozanov, G. (1979). Suggestology and outlines of Suggestopedy. New York: Gordon and Breach, Science 
+Publishers. 
+Lund, R. J. (1990). A taxonomy for teaching second language listening. Foreign Language Annals 23(2), 
+105-115. 
+Lund, R. J. (1991). A comparison of second language listening and reading comprehension. Modern 
+Language Journal 75, 196-204. 
+Lynch, A. J. (1988). Grading foreign language listening comprehension materials: The use of naturally 
+modified interaction. Unpublished doctoral dissertation, University of Edinburgh. 
+Marslen-Wilson, W., & Tyler, L. K. (1980). The temporal structure of spoken language understanding. 
+Cognition 8, 1-71. 
+McLaughlin, B. (1987). Theories of Second Language Learning. London: Edward Arnold. 
+McMeniman, M. (1994, April). Putting thinking back into language. Public Research Lecture delivered at 
+Griffith University, Brisbane, Australia. 
+Mendelsohn, D. J., & Rubin, J. (1995). A guide for the teaching of second language listening. San Diego, 
+CA: Dominie Press. 
+Meskill, C. (1991). Multimedia and language learning: Assessing goals and system attributes. CÆLL 
+Journal 2, 11-14. 
+Meskill, C. (1992). CALL: Individual versus negotiated task processing. Paper presented at the CALICO 
+Symposium: Outreach '92, Monterey, CA. 
+Meyer, L. (1990). It was no trouble: Achieving communicative competence in a second language. In R. 
+Scarcella, E. S. Andersen, & S. D. Krashen (Eds.), Developing communicative competence in a second 
+language, pp. 195-215. Boston, MA: Heinle & Heinle Publishers. 
+Mueller, G. (1980). Visual contextual cues and listening comprehension: An experiment. Modern 
+Language Journal 64, 335-340. 
+Neu, J. (1990). Assessing the role of non-verbal communication in the acquisition of communicative 
+competence in L2. In R. Scarcella, E. S. Andersen, & S. D. Krashen (Eds.), Developing communicative 
+competence in a second language, pp. 121-138. Boston, MA: Heinle & Heinle Publishers. 
+Nunan, D. (1988). The learner-centred curriculum. Cambridge: Cambridge University Press. 
+Nunan, D. (1989). Designing tasks for the communicative classroom. Cambridge: Cambridge University 
+Press. 
+Nunan, D. (1990). Learning to listen in a second language. Prospect 5(2), 7-23. 
+Nunan, D. (1991). Language teaching methodology. Sydney: Prentice-Hall. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 89 
+O'Malley, J. M., & Chamot, A. U. (1990). Learning strategies in second language acquisition. 
+Cambridge: Cambridge University Press. 
+O'Malley, J. M., Chamot, A. U., & Küpper, L. (1989). Listening comprehension strategies in second 
+language acquisition. Applied Linguistics 10(4), 419-437. 
+Oxford, R. L. (1990). Language learning strategies: What every teacher should know. Boston, MA: 
+Heinle & Heinle Publishers. 
+Oxford, R. L. (1993). Research on second language learning strategies. Annual Review of Applied 
+Linguistics 13, 175-187. 
+Oxford, R. L., & Ehrman, M. (1993). Second language research on individual differences. Annual Review 
+of Applied Linguistics 13, 188-205. 
+Pederson, K. M. (1987). Research on CALL. In W. F. Smith (Ed.), Modern media in foreign language 
+education: theory and implementation, pp. 99-131. Lincolnwood, IL: National Textbook Company. 
+Pennington, M. C. (Ed.). (1989). Teaching languages with computers: The state of the art. La Jolla, CA: 
+Athelstan Publications. 
+Pennington, M. C. (Ed.). (1996). The power of CALL. Houston, TX.: Athelstan Publications. 
+Perrett, G. (1995, August 21-24). Communicative language teaching and second language acquisition 
+theory. MLTAQ Inc. Newsletter, No. 101. 
+Pica, T., Young, R., & Doughty, C. (1987). The impact of interaction on comprehension. TESOL 
+Quarterly 21(4), 737-758. 
+Reeves, B., & Nass, C. (1996). The media equation: How people treat computers, televisions, and New 
+Media like real people and places. Center for the Study of Language & Information, Lecture Notes 
+Series: CSLI Publications. 
+Richard-Amato, P. A. (1988). Making it happen. New York: Longman. 
+Richards, J. C. (1983). Listening comprehension: Approach, design, procedure. TESOL Quarterly 17(2), 
+219-240. 
+Richards, J. C. (1985). The context of language teaching. Cambridge: Cambridge University Press. 
+Riley, P. (1981). Viewing comprehension: lÕoeil ecoute. The teaching of listening comprehension. (ELT 
+Documents Special: Papers presented at the Goethe Institut Colloquium Paris 1979, pp. 143-156.) 
+London: British Council. 
+Robinson, G. L. (1991). Effective feedback strategies in CALL. In P. Dunkel (Ed.), Computer-assisted 
+language learning and testing, pp. 155-167. New York: Newbury House. 
+Rost, M. (1990). Listening in language learning. London: Longman. 
+Rowsell, L. V., & Libben, G. (1994). The sound of one hand clapping: How to succeed in independent 
+language learning. The Canadian Modern Language Review 50(4), 668-687. 
+Rubin, J. (1994). A review of second language listening comprehension research. The Modern Language 
+Journal 78(2), 199-221. 
+Schmidt-Reinhart, B. C. (1994). The effects of topic familiarity on second language listening 
+comprehension. The Modern Language Journal 78(2), 179-189. 
+Secules, T., Herron, C., & Tomasello, M. (1992). The effect of video context on foreign language 
+learning. Modern Language Journal 76, 480-490. 
+Debra Hoven A Model for Listening and Viewing Comprehension in  ... 
+Language Learning & Technology 90 
+Skehan, P. (1989). Individual differences in second-language learning. London: Edward Arnold. 
+Staddon, S. (1990). Interactive video and language learning ø the Expodisc Spanish experience. On-CALL 
+5, 2-4. 
+Stevens, V. (1992). Humanism and CALL: A coming of age. In M. C. Pennington & V. Stevens (Eds.), 
+Computers in applied linguistics: An international perspective, pp. 11-38. Clevedon, England: 
+Multilingual Matters. 
+Stevick, E. W. (1976). Memory, meaning and method. Cambridge, MA: Newbury House Publishers. 
+Stevick, E. W. (1981). Teaching and learning languages. Cambridge: Cambridge University Press. 
+Stevick, E. W. (1990). Humanism in language teaching. Oxford: Oxford University Press. 
+Swaffar, J., & Bacon, S. (1993). Reading and listening comprehension: Perspectives on research and 
+implications for practice. A. Omaggio Hadley (Ed.), Research in language learning: Principles, 
+processes, and prospects, pp. 124-155. Lincolnwood, IL: National Textbook Company in conjunction 
+with the American Council on the Teaching of Foreign Languages. 
+Swales, J. (1990). Genre analysis: English in academic and research settings. Cambridge: Cambridge 
+University Press. 
+Taylor, H. M. (1981). Learning to Listen to English. TESOL Quarterly 15(1), 41-50. 
+Underhill, A. (1989). Process in humanistic education. ELT Journal, 43(4), 250-260. 
+Ur, P. (1984). Teaching listening comprehension. Cambridge: Cambridge University Press. 
+Van Patten, B. (1989). Can learners attend to form and content while processing input? Hispania 72, 409-
+417. 
+Vogely, A. (1995). Perceived strategy use during performance on three authentic listening comprehension 
+tasks. The Modern Language Journal 79, 41-56. 
+Voss, B. (1984). Perception of first-language and second-language texts: a comparative study. Bielefelder 
+Beiträge zur Sprachlehrvorschung 13(2), 131-153. 
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes. M. Cole, V. 
+John-Steiner, S. Scribner, & E. Souberman (Eds. and Trans.). Cambridge, MA: Harvard University Press. 
+Wells, G. (1994). The complementary contributions of Halliday and Vygotsky to a "language-based 
+theory of learning." Linguistics and Education 6(1), 41-90. 
+Wenden, A. (1991). Learner strategies for learner autonomy. New York: Prentice Hall International. 
+Wenden, A. (1995). Learner training in context: A knowledge-based approach. System 23, 183-194. 
+Wenden, A., & Rubin, J. (1987). Learner strategies in language learning. Englewood Cliffs, NJ: 
+Prentice-Hall. 
+Willing, K. (1985). Helping adults develop their learning strategies. Sydney: AMES. 
+Willing, K. (1989). Teaching how to learn. Learning strategies in ESL: A teachers guide.  Sydney: 
+National Centre for English Language Teaching and Research. 
+Wipf, J. A. (1984). Strategies for teaching second language listening comprehension. Foreign Language 
+Annals 17(4), 345-348. 
+Wolff, D. (1987). Some assumptions about second language text comprehension. Studies in Second 
+Language Acquisition 

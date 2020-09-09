@@ -1,0 +1,446 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2012/emerging.pdf 
+October 2012, Volume 16, Number 3 
+pp. 1–9 
+ 
+Copyright © 2012, ISSN 1094-3501 1 
+EMERGING TECHNOLOGIES 
+ROBOT ASSISTED LANGUAGE LEARNING  
+Jeonghye Han, Cheongju National University of Education 
+Along with the rapid development of information and communication technologies, educators are trying 
+to keep up with the dramatic changes in our electronic environment. These days mobile technology, with 
+popular devices such as iPhones, Android phones, and iPads, is steering our learning environment 
+towards increasingly focusing on mobile learning or m-Learning. Currently, most interfaces employ 
+keyboards, mouse or touch technology, but some emerging input-interfaces use voice- or marker-based 
+gesture recognition. In the future, one of the cutting-edge technologies likely to be used is robotics. 
+Robots are already being used in some classrooms and are receiving an increasing level of attention. 
+Robots today are developed for special purposes, quite similar to personal computers in their early days. 
+However, in the future, when mass production lowers prices, robots will bring about big changes in our 
+society. In this column, the author focuses on educational service robots. Educational service robots for 
+language learning and robot-assisted language learning (RALL) will be introduced, and the hardware and 
+software platforms for RALL will be explored, as well as implications for future research.  
+ROBOTS: ANTHROPOMORPHISM OF THE MEDIA  
+We have seen the evolution of various media, from the one-way mass media TV, to computers with 
+enhanced interactivity and personalized services. With the proliferation of computers, computer-aided 
+instruction (CAI) has been in the limelight in various instructional design theories since the 1970s. The 
+advent of the World Wide Web and Internet has changed CAI into web-based instruction, and with the 
+extensive use of mobile devices and tablet PCs, various language-learning applications based on m-
+Learning are emerging in the market (Godwin-Jones, 2011).  
+Since the mid-2000s, anthropomorphized robots in various forms have been developed, with faces, arms, 
+and mobile devices or tablet interfaces attached to their chests, as shown in Figure 1. These robots are a 
+type of anthropomorphized media, merging mobile information technology (IT) and robotics. 
+ 
+Figure 1. IROBIQ, from http://www.irobibiz.com/. 
+ 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 2 
+These robots not only have a tablet interface but are also capable of autonomous movement, visual 
+recognition through a camera, voice recognition through a microphone, and physical interaction based on 
+various sensors, such as a touch sensor, infrared sensor, ultrasonic sensor, bumper sensor, or floor 
+detection sensor. Computers or mobile devices also can be said to be capable of nonverbal 
+communication employing cyber characters or videos. However, robots are notable in their capacity for 
+nonverbal communication, such as facial expressions, gestures and actions, while coexisting with users in 
+a real environment, such as the home or the classroom. Also, robots are different from computers and 
+mobile devices in that they have a friendly appearance, a name, a birth story, a personality, and are 
+capable of social relations. Moreover, robots with a computer display on their body can provide mobile 
+services just the same as computer and mobile devices.  
+EDUCATIONAL SERVICE ROBOTS  
+There are mainly two types of educational robots: hands-on robots, such as LEGO MINDSTORM, and 
+educational service robots, which are intelligent robots deployed into learning environments. The 
+foremost purpose of hands-on robots is to promote interest and enhance creativity in STEM (science, 
+technology, engineering and mathematics) education. It is argued that educational service robots, with 
+their friendly appearance and physical movements, can establish interactive relationships with learners, 
+particularly with children, making learning more pleasurable by increasing learners’ interest and lowering 
+their affective filters (Han, 2010). The focus of this paper is educational service robots, which are 
+primarily employed in the teaching of a second/foreign language at preschools, primary schools, and so 
+on.  
+Educational service robots as intelligent media in the teaching and learning environment are divided into 
+three categories: the tele-operated type, autonomous type, and transformed type, according to the location 
+of their intelligence. The tele-operated type provides the tele-presence of educational services through a 
+remote control the instructor uses; the autonomous type has its own artificial intelligence; and, the 
+transformed type has both tele-operation and autonomous control, and can switch between the two (Han, 
+2010). Figure 2 shows a representative example for each category: VGO, ROBOVIE, and ROBOSEM, 
+which are tele-operated, autonomous, and transformed, respectively. 
+ 
+Figure 2. VGO (left), ROBOVIE (center) and ROBOSEM (right). 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 3 
+ 
+ 
+Educational service robots have started to appear in Canada, Japan, South Korea, Taiwan, and the United 
+States. To take a closer look at the use of educational robots in each case, there are: Canada’s PEBBLES 
+(Fels & Weiss, 2001); Japan’s ROBOVIE (Kanda, Hirano, Eaton, & Ishiguro, 2004) as a peer tutor for 
+elementary English, PAPERO (NEC, 2004) for child-care, Keepon (Beatbots, 2007) as an interaction 
+inducer for autistic children, and Saya (Shuster, 2010) for use in Japanese preschools; South Korea’s 
+preschool teaching assistant, IROBI (Han, Jo, Kim, & Park, 2005), IROBIQ (Hyun, Kim, Jang, & Park, 
+2008), primary school English teaching ROTI and ENGKEY (Yonhapnews, 2009), and primary school 
+English teaching assistant, ROBOSEM (Park, Han, Kang, & Shin, 2011); Taiwan’s elementary English 
+teaching assistant ROBOSAPIEN (You, Shen, Chang, Liu, & Chen, 2006); and, the United States’ 
+preschool peer tutor, RUBI and QURIO (Movellan, Tanaka, Fortenberry, & Aisaka, 2005; Movellan, 
+Eckhardt, Virnes, & Rodriguez, 2009), and VGO (Vgo communications, 2011) for young patients.   
+Educational service robot hardware platforms 
+Table 1 shows a brief description of the hardware platforms for the major education service robots.  
+Table 1. Specifications of some educational service robots 
+Type Name Country Role 
+Height 
+(cm) 
+Facial 
+emotion 
+Moving 
+parts 
+Touch 
+sensor 
+Serving 
+visual 
+material 
+Server 
+Tele- 
+presence 
+ENKEY S. Korea 
+native 
+speaker 
+100 operator none none √ N/A 
+GIRAFFE USA student 
+137-
+176   
+operator head none none N/A 
+PEBBLES Canada student N/A operator hand N/A none  N/A 
+ROBOSAPIEN USA 
+native 
+speaker 
+38 none 
+head, 
+arms 
+6 none none 
+ROTI S. Korea 
+native 
+speaker 
+122 operator head none √ none 
+VGO USA student 122 operator none none none N/A 
+Auto-
+nomous 
+KEEPON Japan peer 25 none body none none none 
+PAPERO Japan 
+peer 
+tutor 
+38 
+robot’s 
+own 
+head 9 none √ 
+ROBOVIE Japan 
+peer 
+tutor 
+30-91 none 
+head, 
+arms 
+11 none √ 
+SAYA Japan teacher N/A 
+robot’s 
+own 
+head, 
+arms 
+N/A none none 
+Trans-
+formed 
+IROBIQ S. Korea 
+teaching 
+assistant 
+45 
+robot’s 
+own 
+head, 
+arms 
+6 √ √ 
+ROBOSEM S. Korea 
+native 
+speaker, 
+teaching 
+assistant 
+110 
+robot’s 
+own 
+head, 
+arms 
+5 √ √ 
+TIRO S. Korea 
+teaching 
+assistant 
+110 
+robot’s 
+own 
+head, 
+arms 
+none √ √ 
+Note. N/A = no information from the website or papers. 
+Most tele-presence robots in Table 1 feature a simple Wi-Fi video conferencing function and remote 
+controlled movements. Also, to cater to the convenience of the remote controller, these robots are usually 
+equipped with compulsory wheels for travel, but have no arm or head movement. They are mostly 
+developed at a low-cost. Tele-presence robots are predominantly used by native speakers or English 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 4 
+teachers, and the interaction is comparatively limited since they only offer video conferencing and limited 
+mobility. They can, however, sustain long-term interaction, but when there is a breakdown in the network, 
+all interactions stop.  
+The autonomous robots in Table 1 feature complex body and arm movement, but they are quite expensive 
+for the general market and mostly used for research. Also, for the robots to interact autonomously, they 
+need preprogrammed scenarios. With current artificial intelligence technology, however, seamless 
+interaction is unattainable, thus the novelty effect can wear off quickly. Still, the advantage is that 
+interaction is possible regardless of network problems. 
+In the case of the transformed type of robots in Table 1, these robots have been developed to perform an 
+assisting role rather than to interact autonomously. The teacher can control the robots by remote control 
+or voice recognition, and when they are in tele-operated mode, a native speaker can control them. If 
+network problems occur during the tele-operated mode, they can swiftly be switched to the autonomous 
+mode. Hence interaction is always possible regardless of network stability, and continuous interaction is 
+supported. 
+Educational service robot software platforms 
+Most operating systems for intelligent robots are based on MS Windows and Linux. Since the majority of 
+robot companies own unique robot hardware and exclusive software platforms, developing robot 
+applications is difficult. This has decelerated the popularization of robots and the opening up of robot 
+markets. To address this predicament, the worldwide movement towards developing an integrated 
+software platform started in earnest in 2000. Since then, many countries have developed their own robotic 
+software platform with slightly different characteristics, such as Microsoft Robotics Developer Studio 
+(Microsoft RDS), Willow Garage’s ROS (Robot Operating System), the EU’s RT CORBA-based 
+standard platform OROCOS (The Open Robot Control Software), Japan’s National Institute of Advanced 
+Industrial Science and Technology (AIST) driven RT middleware, and Korea’s OPRoS (Open Platform 
+for Robotic Service), and so on.  
+MS RDS is software oriented towards developers who are restricted to developing robot applications 
+using preset robot hardware. In 2010, Willow Garage provided open source robotic software called ROS. 
+ROS is engaged with a community of one hundred thousand robot developers worldwide, and from this 
+foundation, various robot applications can be programmed, leading to the effective promotion and 
+expansion of robot proliferation (http://www.ros.org). Recently, Willow Garage has received attention for 
+having integrated their software with the Smartphone OS Android. 
+These robot software platforms enable programmers to develop various applications so that robots can 
+perform multiple functions. By integrating a robot’s modular features, such as voice- and sound-
+recognition, face-detection and recognition, gesture- and object-recognition, synthetic speech, driving, 
+space recognition, and position recognition, these software platforms enable the robot to provide various 
+services. For example, in an instance of RALL service, the robot can easily look at a learner who is 
+calling its name and move to a corresponding location. Most robots shown in Table 1 have their own 
+robot software platforms. Efforts are being made, however, to integrate these robots to an open platform, 
+such as ROS, and soon, when standardization is realized, the robot service market will rapidly expand.   
+ROBOT ASSISTED LANGUAGE LEARNING (RALL) 
+Currently, in most countries in Asia where English is taught as a foreign language, various instructional 
+methods are being used. These include collaboration with native speakers, demonstrating and diagnosing 
+pronunciation using computer- or mobile-based applications, video conferencing with native speakers, 
+one-on-one native speaker tutoring, and so forth (see Figure 3). In language education, direct interaction 
+with native speakers is considered the most effective way of instruction. However, when it is difficult to 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 5 
+employ native speakers, teachers can always utilize computer- or mobile-based applications. Yet, due to 
+limitations in current image recognition technology, most applications based on computers or mobiles 
+focus on voice-based verbal messages. 
+As an alternative, video conferencing with native speakers can be considered. Video conferencing can be 
+effective in demonstrating pronunciation. However, this is not popular because there are still limitations 
+in pronunciation diagnosis since the native speaker needs to be close to individual pupils or the classroom 
+as a whole. Recently, some after-schools programs in Korea have been conducting one-on-one native 
+speaker tutoring. It is true that the educational benefits of individualized interaction are substantial, but 
+there also are several drawbacks: it is costly for learners; when miscommunications occur there is no help 
+available in the learner’s mother tongue; and, finally, different native speakers may be assigned to 
+different classes according to their schedules and this would impede learners’ progress-tracking. 
+ 
+Figure 3. A traditional collaborative class, a video conferencing class, and a one-on-one conference in 
+Korea. 
+Among the various instructional models in language learning, we should consider RALL, employing 
+currently emerging robot technology. This anthropomorphized version of existing mobile devices is 
+autonomous, with features such as image recognition through camera, voice recognition through 
+microphone, and interaction based on various sensors. Robot-assisted learning (RAL) can be defined as 
+learning assisted by robots with such features (Han, 2010). In the domain of RAL, RALL can be defined 
+as targeting language learning in particular. Most robots in RALL are interlinked with instructional 
+material, and can perform the role of the native speaker to interact with learners. The following scenes in 
+Figure 4 show English classes being conducted with IROBIQ and ROBOSEM.  
+ 
+Figure 4. RALL with IROBIQ (left) & RALL with ROBOSEM (right from Park, Han, Kang & Shin, 
+2011). 
+RALL shares the merits of the conventional collaboration model—the face-to-face, physical interaction 
+with native speakers—but it is easier to recruit native speakers for tele-conferencing. Furthermore, RALL 
+also has the advantage of an instruction model employing applications, by sharing instructional material 
+over a TV or display device, such as a projector beam. Class activities, such as English chanting, can be 
+recorded. Using radio frequency identification (RFID) tags, individual progress can be logged and 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 6 
+tracked. Figure 5 shows a sample of a RALL lesson plan. When compared to common computer-assisted 
+language learning (CALL) classes, robots need to be programmed to interact with the teacher and pupils. 
+Grade 3
+th
+ grade students on a Korean elementary school Period Formal learning 
+Unit  4. Happy birthday! (3/3)  
+Theme Celebrating birthday, expressing thanks  
+The purpose of the lesson 
+The students are able to express birthday greetings and thanks.   
+The students are able to give and receive presents (cards) with birthday 
+greetings. 
+The students are able to make conversation, using expression of birthday 
+greetings and thanks.  
+ 
+Materials ROBOSEM, Gift-picture cards, Bracelet RFID tag  
+Treatment time  40 minutes  
+STEP PROCEDURE 
+ROBOT 
+CONTROL 
+TEACHING & LEARNING ACTIVITIES 
+TIME 
+Intro-
+duction 
+Greeting 
+Recognition of 
+voice localization 
+Teacher: Good morning everyone. 
+3 mins 
+Students: Good morning teacher, Kim. 
+Teacher: Let's ask ROBOSEM together, ‘How are 
+you?’ 
+Students: How are you? 
+Voice recognition 
+ROBOSEM: I'm good. I'm excited today because 
+today is my birthday. 
+Recognition of 
+voice localization 
+Teacher: I've heard that today is your birthday, 
+ROBOSEM. Boys and girls, let's say happy 
+birthday to langbot. 
+Voice recognition Students: Happy birthday ROBOSEM! 
+Figure 5. A part of a RALL lesson plan using ROBOSEM. 
+RELATED WORK ON RALL 
+Research and development of RALL started around 2004, mainly in countries like Japan, Korea, and 
+Taiwan, where English is taught as a foreign language. Japan’s ATR research international institute 
+conducted research on student motivation during recess in elementary schools with ROBOVIE, a robot 
+that remembers around 300 English sentences, simple everyday expressions, and recognizes 50 words 
+(Kanda, Hirano, Eaton, & Ishiguro, 2004). In March 2004, Korean developer Yujin Robot announced a 
+home robot IROBI, loaded with services such as reading English, photo books, and English chanting 
+(Han, Jo, Park, & Kim, 2005). Han et al. (2005) studied learners’ achievements with IROBI—the 
+precursor to IROBIQ—in English learning compared to computers, and the results showed IROBI to be 
+more effective. In Han and Kim (2006), through a Delphi survey of elementary school teachers who have 
+information technology literacy, it was found that RAL instruction is considered most appropriate for 
+subjects such as English, Korean, and music, and was rated as excellent for language learning. In Taiwan, 
+You, Shen, Chang, Liu, and Chen (2006) applied ROBOSAPIEN, an Infrared remote controllable toy-like 
+robot manufactured by WowWee Toys, to an English classroom with five instruction models. In their 
+study of preschoolers over a four-week period, Hyun, Kim, Jang, and Park (2008) showed a robot’s media 
+effectiveness over computers in preschoolers’ story building, vocabulary, understanding, and word 
+recognition in Korean reading activities. The RUBI/QRIO project (Movellan et al., 2005) suggested that 
+English vocabulary learning efficiency was higher among preschoolers when they employed RUBI 
+compared to computers (Movellan et al., 2009).   
+Meanwhile, Han and Kim (2009) introduced various service types provided by the robot TIRO in 
+elementary school classes, and ranked the favorites. The results suggested that among TIRO’s services, 
+the ones that enhanced the relationship between children and the robot in English class were preferred. 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 7 
+The most popular service was TIRO’s praising and cheering, followed by face-to-face conversation and 
+role-play with TIRO. Han (2010), based on previous studies, found that in Japan and the United States, 
+robots are mostly given the role of a peer tutor, while in Korea, they are given the role of a teaching 
+assistant and friend. Japanese robots provide service focusing on voice- and gesture-based interaction, 
+while Korean and American robots base their service on visual instruction materials, such as Flash 
+contents. It was also concluded that the subjects most suitable for RAL would be language learning, such 
+as in English education, where robots are effective in inducing motivation and enhancing achievement, 
+synchronizing visual contents with instruction, and playing the teaching assistant role necessary for long-
+term interaction. Park, Han, Kang, and Shin (2011) designed class materials to evoke children’s 
+motivation, to sustain their interaction with ROBOSEM, and to facilitate English learning. Their study 
+showed meaningful results after four weeks of English classes conducted using ROBOSEM. 
+CHALLENGES OF RALL 
+As promising results of the educational effectiveness of RALL have appeared in numerous studies, many 
+countries that teach English as a foreign language have begun to take the first step in RALL’s research 
+and commercialization. Korea is one such country where RALL is in full swing, with already over 1,500 
+robots employed in preschool play activities and attitude training, as well as over 30 English education 
+robots currently in active use in elementary school afterschool programs. As RALL expands, there will be 
+more emerging challenges for language educationalists to explore and address.  
+First of all, research on the system framework of RALL is necessary. The system framework of RALL 
+consists of elements such as robot hardware, robot applications and visual contents. Each element needs 
+to be designed in consideration of the language learning goals. Also, not only language educationalists but 
+also educational service robot developers need to conduct collaborative research on designing guidelines 
+for each element and on integrating these elements to carry out RALL successfully. 
+Secondly, more theoretical research on the current status of educational service robot technology, such as 
+the RALL instruction model, is desirable. There needs to be consideration of how the teacher and robot 
+would cooperate in the classroom and of what kind of teaching and learning model would be used in 
+RALL. Both You et al. (2006) and Han and Kim (2009) have suggested several models, but a more 
+specific teaching and learning model needs to be developed, reinforced with the language-learning 
+experts’ perspective regarding the most suitable type of robot (tele-operated, autonomous, and 
+transformed type).    
+Third, more field experiments and studies on educational effectiveness are necessary to compare RALL to 
+the conventional instruction methods of the multimedia program application model, native speaker 
+collaboration model, and one-on-one videoconferencing model. Comparing educational effectiveness of 
+such instruction models is very difficult to carry out, due to difficulties in conducting controlled 
+experiments and its high cost. A Delphi survey with an expert group might be performed as an alternative. 
+Fourth, research on teacher education is essential since teachers are the ones who will be installing RALL. 
+We need to find out what teachers need as prior knowledge (for example, basic knowledge of robot 
+hardware and software), and develop a teacher education program. Also, consideration needs to be given 
+to areas of possible concern for teachers when conducting RALL, such as whether a child is becoming too 
+dependent upon the robot.  
+Fifth, research on various moral and technological issues arising through RALL applications are 
+necessary. For example, RALL raises several problems, including: the exposure of the learning 
+environment to outsiders through tele-conferencing; sharing data on class activities; students trusting a 
+robot over the teacher; and the possibility of obsession with robots. Furthermore, solutions to class 
+management problems, such as network breakdowns or robot hardware failure, are required.  
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 8 
+ 
+Recently, with the emergence of an open robot software platform, robot applications enabling a variety of 
+functions are being developed. Just as many people now have a personal computer, in the near future, 
+personal robots (PR) may become the next paradigm-shifting tool for everyday life. Thus, as the computer 
+sparked revolutionary changes in learning environments, studies needs to be conducted on how robots 
+will bring about changes in education. Especially important will be the preparation of various approaches 
+for RALL from the perspective of language learning and pedagogy, with a vision to evolve in tandem 
+with already advanced developments in applications, programs, and services. 
+REFERENCES 
+Fels, D.I., & Weiss, P. (2001). Video-mediated communication in the classroom to support sick children: 
+A case study. International Journal of Industrial Ergonomics, 28, 251–263. 
+Godwin-Jones, R. (2011). Mobile apps for language learning. Language Learning & Technology, 15(2) 
+2–11.  Retrieved from http://llt.msu.edu/issues/june2011/emerging.pdf 
+Han, J. (2010). Robot-aided learning and r-learning services.  In D. Chugo (Ed.), Human-Robot 
+Interaction. Retrieved from: http://sciyo.com/articles/show/title/robot-aided-learning-and-r-learning-
+services 
+Han, J., Jo, M., Park, S., & Kim, S. (2005). The Educational Use of Home Robots for Children. In 
+Proceedings of the 14th IEEE International Workshop on Robot and Human Interactive Communication 
+(RO-MAN 2005), 378–383. Piscataway, NJ: IEEE. 
+Han, J., & Kim, D. (2009). r-Learning services for elementary school students with a teaching assistant 
+robot. In Proceedings of the 4
+th
+ ACM/IEEE Human Robot Interaction, 255–256. New York, NY: ACM 
+Hyun, E., Kim, S., Jang, S., & Park, S. (2008). Comparative study of effects of language education 
+program using intelligence robot and multimedia on linguistic ability of young children. Proceedings of 
+the 14th IEEE International Workshop on Robot and Human Interactive Communication (RO-MAN 2008). 
+Piscataway, NJ: IEEE. 
+Kanda, T., Hirano, T., Eaton, D., & Ishiguro, H. (2004). Interactive robots as social partners and peer 
+tutors for children: A field trial. Human-Computer Interaction, 19(1–2), 61–84. 
+Movellan, J.R., Eckhardt, M., Virnes, M., & Rodriguez A. (2009). Sociable robot improves toddler 
+vocabulary skills. In Proceedings of the 4
+th
+ ACM/IEEE Human Robot Interaction, 307–308. New York, 
+NY: ACM.  
+Movellan, J.R., Tanaka,F., Fortenberry, B., & Aisaka, K. (2005). The RUBI/QRIO Project: Origins, 
+principles, and first steps. In Proceedings. The 4nd International Conference on Development and 
+Learning, 80–86. Retrieved from http://doi.ieeecomputersociety.org/10.1109/DEVLRN.2005.1490948 
+Park, S., Han, J., Kang, B., & Shin, K. (2011). Teaching assistant robot, ROBOSEM, in English class and 
+practical issues for its diffusion. Proceedings of IEEE A Workshop on Advanced Robotics and its Social 
+Impacts, http://www.arso2011.org/papers  
+Shuster, R. (2012, April 1). English teaching robot comes with a cost. Korea IT Times. Retrieved from 
+http://www.koreaittimes.com/story/8216/english-teaching-robot-comes-cost 
+Sopher, J. (2011, February 2). Student uses telepresence robot to attend school. Retrieved from 
+http://geekbeat.tv/student-uses-telepresence-robot-to-attend-school/ 
+Yonhapnews. (2009, December 22). English tutoring Telepresence robot: Roti. Retrieved from 
+http://www.youtube.com/watch?v=-_wa_SZaqQU 
+Jeonghye Han Emerging Technologies: RALL 
+ 
+Language Learning & Technology 9 
+You, Z., Shen, C., Chang, C., Liu, B., & Chen G. (2006). A robot as a teaching assistant in an English 
+class. In Proceedings of the 6
+th
+ IEEE International Conference on Advanced Learning Technologies, 87–
+91.  New York, NY: IEEE. 
+ 
+RESOURCE LIST 
+Robots and RALL 
+IROBIQ. (2008). Yujin Robot. Retrieved from http://www.irobibiz.com/english/index.php 
+KEEPON. (2007). Beatbots. Retrieved from http://beatbots.net/ 
+Microsoft. (2008). Robotics Developer Studio 4.  Retrieved from http://msdn.microsoft.com/en-
+us/robotics/aa731517 
+NEC. (2012). Communication Robot PaPeRo. Retrieved from 
+http://www.nec.co.jp/products/robot/en/index.html 
+ROBOSEM. (2010). Yujin robot. Retrieved from http://www.robosem.net/ 
+VGo. (2011). VGo communications. Retrieved from http://www.vgocom.com/ 
+Willow Garage. (2009). Retrieved from http://www.ros.org/wiki/ 
+ 

@@ -1,0 +1,836 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol12num3/chenetal/ 
+October 2008, Volume 12, Number 3
+pp. 93-113 
+ 
+Copyright © 2008, ISSN 1094-3501 93
+EFFECTS OF SHORT-TERM MEMORY AND CONTENT 
+REPRESENTATION TYPE ON MOBILE LANGUAGE LEARNING 
+Nian-Shing Chen, National Sun Yat-sen University 
+Sheng-Wen Hsieh, Far East University 
+Kinshuk, Athabasca University 
+Due to the rapid advancements in mobile communication and wireless technologies, many 
+researchers and educators have started to believe that these emerging technologies can be leveraged 
+to support formal and informal learning opportunities. Mobile language learning can be effectively 
+implemented by delivering learning content through mobile phones. Because the screen size of 
+mobile phones is limited, the presentation of materials using different Learning Content 
+Representation (LCR) types is an issue that needs to be explored. This study addresses the issue of 
+content adaptation in mobile language learning environments. Two dimensions have been taken 
+into consideration to identify a promising solution: instructional strategies (LCR types: written 
+annotation and pictorial annotation), and learners’ cognitive models (verbal and visual short-term 
+memory). Our findings show that providing learning content with pictorial annotation in a mobile 
+language learning environment can help learners with lower verbal and higher visual ability 
+because such learners find it easier to learn content presented in a visual rather than in a verbal form. 
+Providing learning content with both written and pictorial annotation can also help learners with 
+both high verbal and high visual abilities. According to the Cognitive Load Theory, providing too 
+much information may produce a higher cognitive load and lead to irritation and a lack of 
+concentration. Our findings also suggest that providing just the basic learning materials is more 
+helpful to learners with low verbal and visual abilities. 
+INTRODUCTION 
+Mobile learning (m-learning) has emerged as the next generation of e-learning (Sharples, 2000). One of 
+the main reasons for this is the high availability of mobile devices. The market penetration of mobile 
+phones, for example, in Austria, is currently at 81% and the numbers are still increasing (Kaesshaefer, 
+2004). Wikipedia (n.d.) reports that several countries now have more mobile phones than people, and that, 
+in 2006, 80% of the world’s population had mobile phone coverage. A large number of people today 
+carry mobile phones or other similar mobile devices with them most of the time. Thus, m-learning has the 
+potential to be an important instrument for lifelong learning (Holzinger, Nischelwitzer, & Meisenberger, 
+2005).  
+However, some researchers still doubt the value of using mobile devices for education. They argue that 
+the excitement shown by learners is temporary (Gay, Stefanone, Grace-Martin, & Hembrooke, 2001). 
+Experiments have shown that some learners cannot effectively use mobile devices during their learning 
+(Hsi, 2003). Researchers typically agree that mobile devices such as PDAs and mobile phones serve only 
+as an extension for learning; they do not replace existing learning tools (Liu, Wang, Liang, Chan, Ko & 
+Yang, 2003). Moreover, not all learning content and activities are suitable for mobile devices (Gay et al., 
+2001). There seems to be no consensus among researchers over the learning outcomes facilitated by 
+mobile devices.  
+Some researchers have concluded that if Information and Communication Technologies (ICT) for 
+education can incorporate related learning theories and instructional strategies, the learning outcomes can 
+be improved significantly (Riffell & Sibley, 2005; Clark, 1994; Wiredu, 2005). Meanwhile, Alavi and 
+Leidner (2001) reported that a majority of previous studies have mainly relied on the stimulus-response 
+theory, which probed only the relationship between information technology (stimulus) and learning 
+outcome (response); future studies should also take learners’ characteristics into consideration in 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 94
+assessing the learning outcome of technology-mediated learning. Alavi and Leidner also pointed out that 
+the Psychological Learning Process (PLP) of learners is an important mediator that cannot be neglected. 
+Therefore, we wanted to re-examine how learners’ PLP would affect the learning outcome in a mobile 
+language learning environment. This research explored the learning outcomes of mobile language 
+learning based on the PLP. 
+According to the cognitive information processing viewpoint, human beings absorb and apply knowledge 
+via the internal PLP, which includes observation, attention, identification, transformation and 
+memorization. The basic architecture of the cognitive information processing model is the Multi-Store 
+Model (Atkinson & Shiffrin, 1968). This model consists of three types of memory: Sensory Memory, 
+Short-Term Memory (STM) and Long-Term Memory (LTM). Previous research has shown that L2 
+reading skills are highly correlated with STM ability (Geva & Ryan, 1993; Harrington & Sawyer, 1992). 
+Abu-Rabia (2003) found significant correlations between STM ability and L2 writing proficiency as 
+measured by a test of written language. 
+Baddeley proposed a new representation of STM, called the Working Memory Model (WMM), shown 
+in Figure 1, which states that external information is actually processed in three different parts when it 
+enters into STM via sensory memory (Baddeley, 2003). Baddeley describes the WMM as a system 
+composed of one Central Executive with three subsystems, including the Phonological Loop (PL), the 
+Visuo-Spatial Sketch Pad (VSSP), and the Episodic Buffer (Figure 1), where information is not only 
+temporarily stored but is also processed simultaneously. The darker areas represent long-term or 
+crystallized knowledge and the lighter ones represent working memory. That is, the Multi-Store Model 
+views STM only as storage, whereas the WMM views STM not only as storage, but also as a system
+different kinds of processing power. If learners are provided with suitable Learning Content 
+Representation (LCR) types that favor their different STM processing abilities (Courtney, 1998; Fuste
+1994; MacGregor, 1987; Miller, 1956), can we then produce better learning performance? This l
+very important implication that different learners have different STM processing abilities. STM abilit
+this paper refers to the PL STM ability and VSSP STM ability. In general, we can say that PL STM 
+ability refers to verbal ability and VSSP STM ability refers to
+ with 
+r, 
+eads to a 
+y in 
+ visual ability.  
+ 
+Figure 1. Working Memory Model (Baddeley, 2003). 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+According to the above analysis of the literature, it is evident that the learner’s STM ability is an 
+important issue for studying learning outcomes and that examining learning outcomes from just the MSM 
+viewpoint is not appropriate. We therefore want to examine learning outcomes in m-learning using STM 
+ability from the Working Memory Model viewpoint, which includes both storage and processing abilities. 
+To achieve this goal, another important issue to consider is how to transfer information from STM into 
+LTM for longer retention. The Levels of Processing Theory (Cermak & Craik, 1979; Craik, 2002) states 
+that a memory trace can persist in LTM if it involves a deeper level of processing. Many research efforts 
+based on the Levels of Processing Theory have been published in the literature. Among them, the use of 
+annotations as instructional strategies in vocabulary learning has been very popular (e.g., Plass, Chun, 
+Mayer, & Leutner, 1998). There are two major types of annotation: pictorial and written (Al-Seghayer, 
+2001). In addition, studies of vocabulary learning strategies such as the use of word annotations (Cohen, 
+1981; Taylor & Taylor, 1990) and keyword annotations (Courtney, 1998; Pressley, Levin & Miller, 1982) 
+have been shown to require deeper processing of word meanings and to enhance retention of target words. 
+In this study, we investigate the use of pictorial annotations and written annotations as the instructional 
+strategies. We call these two types of annotation Learning Content Representation types. 
+The Dual-Coding Theory says that learning is more effective when learners use more than one sensory 
+modality, for instance, verbal and visual processing together, and when connections are clearly made 
+between information contained in each modality (Mayer & Sims, 1994). We therefore hypothesize that 
+providing multi-sensory learning content by combining written and pictorial annotation will have a 
+differential effect on the learning performance of students with different verbal and visual abilities. 
+Moreover, from the Cognitive Load Theory perspective (Sweller, 1994), information may only be stored 
+in LTM after first being attended to and processed by STM. STM, however, is extremely limited in both 
+capacity and duration. These limitations will, under some conditions, impede learning (Sweller, 1994). 
+For example, learners with both lower verbal and visual ability are quite different from learners with both 
+higher verbal and visual ability, so we also want to know if combining both written and pictorial 
+annotation would cause higher cognitive load and impede the learning performance of these learners. 
+The aim of our research is to explore how to better match different instructional strategies (LCR types) 
+for presenting English vocabulary learning content with learners’ individual STM ability (verbal or visual) 
+using mobile phones, and examine how the relationship affects English vocabulary learning. The English 
+Vocabulary Recognition and Recall (EVRR; Al-Seghayer, 2001; McDaniel & Mason, 1985) test will be 
+used to assess how students use mobile phones to learn English words. 
+METHODOLOGY 
+Research questions 
+We hypothesize that delivering written annotation-based learning content to learners with good verbal 
+ability will result in better learning outcomes. Similarly, delivering picture annotation-based learning 
+content to learners with good visual ability would result in better learning outcomes. Accordingly, the 
+research questions posed in this study are as follows: 
+• For learners with higher verbal ability and higher visual ability, will learning content with either 
+written annotation or pictorial annotation result in better learning performance than basic content 
+without any annotation? 
+• For learners with lower verbal ability and higher visual ability, will learning content with pictorial 
+annotation result in better learning outcomes than basic content without any annotation? 
+• For learners with lower verbal ability and lower visual ability, will learning content with either 
+written annotation or pictorial annotation result in learning outcomes significantly different from 
+basic content without any annotation? 
+Language Learning & Technology 95
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+• For learners with higher verbal ability and lower visual ability, will learning content with written 
+annotation result in better learning outcomes than basic content without any annotation? 
+With regard to the Dual-Coding and Cognitive Load Theories, we were also interested to see the impact 
+of content with both written and pictorial annotation on learners with different STM abilities. 
+Consequently, this study asked the following additional questions: 
+• For learners with higher verbal ability and higher visual ability, will learning content with both 
+written and pictorial annotation result in better learning outcomes than basic content without any 
+annotation? 
+• For learners with lower verbal ability and higher visual ability, will learning content with both written 
+and pictorial annotation result in better learning outcomes than basic content without any annotation? 
+• For learners with lower verbal ability and lower visual ability, will delivering learning content with 
+both written and pictorial annotation result in learning outcomes significantly different from basic 
+content without any annotation? 
+• For learners with higher verbal ability and lower visual ability, will delivering learning content with 
+both written and pictorial annotation result in better learning outcomes than basic content without any 
+annotation? 
+Participants 
+The subjects who participated in our experiment were ESL students in four classes. Classes 1 and 2 were 
+from the Industrial Technology Education Department from Kaohsiung (N=71), while Classes 3 and 4 
+were from the Information Management Department of Far East University (N=85). The students were 
+between 19 and 22 years of age and were all enrolled in the four classes for credit. To meet the minimum 
+large sample size criterion (n = 30) for each group, the minimum sample size in our experiment needed to 
+be 120 (30 × 4 = 120). However, in order to have more statistical significance, we used 160 as our sample 
+size. Four subjects did not provide the necessary background information, so their data were removed 
+from the study, leaving a total of 156 students.  
+ 
+ 
+Figure 2. Four groups of learners classified by STM abilities 
+Since each learner has a different STM ability for processing the content of different LCR types delivered 
+by SMS (Short Message Service) or MMS (Multimedia Message Service), different LCR types would 
+need to fit with each learner’s individual STM ability to achieve better performance. We therefore 
+Language Learning & Technology 96
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 97
+assigned learners to four groups according to their different STM abilities. These four groups are shown 
+in the four quadrants in Figure 2 and are listed below: 
+Quadrant 1 (Q1): learners with higher STM ability in both PL (verbal) and VSSP (visual) components; 
+Quadrant 2 (Q2): learners with lower STM ability in PL (verbal) and higher STM ability in VSSP 
+(visual); 
+Quadrant 3 (Q3): learners with lower STM ability in both PL (verbal) and VSSP (visual); and 
+Quadrant 4 (Q4): learners with higher STM ability in PL (verbal) and lower STM ability in VSSP (visual). 
+Materials 
+In order to evaluate vocabulary learning performance in m-learning, we adopted the method proposed by 
+Nation (2001). The corpora used in our experiment were sampled from the most common 1000 and 2000 
+vocabulary items selected from the most common 2284 words suggested by Bauman (1995).  
+Before we conducted the lab experiment, we conducted a pretest to assess the students’ original English 
+vocabulary abilities to avoid including words that students were already familiar with. We chose 50 words 
+for testing students’ original English vocabulary ability and 24 words for the mobile vocabulary learning 
+experiment. We adopted Bauman’s most common 2284 English words, which are listed based on the use-
+frequency order. There are two attribute values associated with each English word. The first number 
+represents its order in the list based on frequency of use, and the second number represents its frequency 
+of occurrence within about one million words in the Brown Corpus (one component corpus of Bauman's 
+analysis). For example, the entry <40, 2203, more> indicates that the word “more” is ranked as 40th on the 
+list of use-frequency and appears 2203 times in the Brown Corpus. To obtain our 50 words for testing 
+students’ original English vocabulary ability, we selected one word from every 40 words starting from the 
+40th word, “more,” and continuing until 2000th word, “scenery.” Appendix 1 contains the list of these 50 
+English words. The test required students to write down the Chinese meaning of each word. Their 
+answers were counted as correct if the students gave at least one answer for a word with multiple 
+meanings. 
+After students completed the pretest, we found that most of them could get the correct answers only up to 
+the 1348th word, which implies that the students’ original English vocabulary ability is at about this level. 
+Therefore, we selected the 24 English words for the experiment after the 1500th word, as these were likely 
+to be to unfamiliar to the students. Appendix 2 shows the list of the selected words. Each of these 24 
+words was then represented in four different ways for the experiment: 
+LCR type A — providing the English word with its spelling, phonetic transcription, and Chinese 
+translation (no additional annotation; this is the "basic" learning material);  
+LCR type B — providing the basic learning material of LCR type A, plus written annotation such as a 
+sample sentence using the English word and its Chinese translation;  
+LCR type C — providing the basic learning material of LCR type A, plus pictorial annotation such as a 
+picture to represent the meaning of the English word;  
+LCR type D — providing the basic learning material of LCR type A, plus pictorial annotation and written 
+annotation.  
+Examples of the four different LCR types for one English word presented on a mobile phone are shown 
+in Figure 3. Types A and B are delivered by SMS and types C and D are delivered by MMS. 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+ 
+English  
+Word 
+English  
+Word 
+English  
+Word 
+English  
+Word 
+Written 
+Annotation 
+Pictorial 
+Annotation 
+Written 
+Annotation 
+Pictorial 
+Annotation 
+Figure 3. An example of the four types of Learning Content Representation for the English word “Dig” 
+Hypothesis 
+Based on the previous discussion, the hypotheses in our study are as follows: 
+Hypothesis 1 (H1): For learners with higher verbal ability and higher visual ability (Q1), type B or type C 
+learning content will result in better learning outcomes than type A learning content.  
+Hypothesis 2 (H2): For learners with lower verbal ability and higher visual ability (Q2), type C learning 
+content will result in better learning outcomes than type A learning content. 
+Hypothesis 3 (H3): For learners with lower verbal ability and lower visual ability (Q3), neither type B or 
+type C learning content will result in learning outcomes significantly different from type A learning 
+content. 
+Hypothesis 4 (H4): For learners with higher verbal ability and lower visual ability (Q4), type B learning 
+content will result in better learning outcomes than type A learning content. 
+Based on the Dual-Coding and Cognitive Load Theories, we can hypothesize that hypotheses 5, 6, 7 and 
+8, which combine both written and pictorial annotation, will benefit learners in Q1, Q2, and Q4 but not 
+learners in Q3: 
+Hypothesis 5 (H5): For learners with higher verbal ability and higher visual ability (Q1), type D learning 
+content will result in better learning outcomes than type A learning content. 
+Hypothesis 6 (H6): For learners with lower verbal ability and higher visual ability (Q2), type D learning 
+content will result in better learning outcomes than type A learning content. 
+Hypothesis 7 (H7): For learners with lower verbal ability and lower visual ability (Q3), type D learning 
+content will not result in learning outcomes significantly different from type A learning content. 
+Hypothesis 8 (H8): For learners with higher verbal ability and lower visual ability (Q4), type D learning 
+content will result in better learning outcomes than type A learning content. 
+Language Learning & Technology 98
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 99
+Procedure 
+The experimental procedure consisted of four different steps, as presented in Figure 4. The whole process 
+took place in the same computer lab. 
+Step One – Introduction. First, participants met with the researcher in the computer lab, where each was 
+asked to fill out a background questionnaire. Then students were told that the objective of this experiment 
+was to learn English vocabulary using a mobile phone. This step took about 15 minutes. 
+ 
+Figure 4. Experimental procedures 
+Step 2 – Measuring STM ability. In the second step, all participants were seated at individual computers 
+for the STM ability test using the STM ability test system (Hsieh, 2006). The system design was based on 
+Wright (1988) and Chen, Lee, and Chen (2005), with some modifications to fit into our study. The system 
+architecture of the STM ability test and examples of written and pictorial content can be found 
+in Appendix 3. There were 60 questions in this STM ability test, 30 questions for written materials and 3
+for pictorial materials. Each question was presented on the computer screen for 7 seconds and the 
+participants were given 5 seconds to respond. It took a total of 12 minutes (60 questions at 12 seconds 
+each) to complete this step. As soon as the participants completed the STM ability test, the system 
+recorded each participant’s STM ability score, which is a value converted to a standard normal 
+distribution with a mean of 0 and a standard deviation of 1. We then divided the students into four groups, 
+with 61 in Quadrant 1, 36 in Q2, 30 in Q3 and 29 in Q4. For the validity of this working memory test, 
+interested readers can refer to Chen, Lee and Chen (2005). 
+0 
+Step 3 – Vocabulary Learning. In the third step, every participant was then immediately assigned a 
+mobile phone to learn the 24 English words delivered by SMS or MMS. All participants individually read 
+the English words sent out by the researcher to their mobile phones. Each participant received the same 
+24 English words, 6 words for each representation type. To avoid the learning effect of representation 
+types presented in a fixed order, we adopted an LS-4 design (Table 1) to deliver these four representation 
+types for participants in each group. For example, participant P1 in group 1 received 6 words randomly 
+selected from 24 words represented in type A format, then 6 words randomly selected from the remaining 
+18 (represented in type B format), then 6 words randomly selected from the remaining 12 (represented in 
+type C format) and lastly the remaining 6 words (represented in type D format). At the same time, 
+participant P2 in group 1 received 6 words randomly selected from 24 words (represented in type B 
+format), then 6 words randomly selected from the remaining 18 (represented in type D format), and then 6 
+words randomly selected from the remaining 12 (represented in type A format) and lastly the remaining 6 
+words (represented in type C format). The same procedure was applied to groups 2, 3 and 4. The average 
+time set for learning one English word in the majority of L2 experiments was about 2 minutes (Jones, 
+2004; Nikolova, 2002). Therefore, we allowed 50 minutes for the learners to learn the 24 English words 
+in our experiment. 
+ 
+ 
+ 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Table 1. The LS-4 Design 
+ T1 T2 T3 T4 
+P1 A B C D 
+P2 B D A C 
+P3 C A D B 
+P4 D C B A 
+.. .. .. .. .. 
+Pn .. .. .. .. 
+Pn: Numbered variable representing a participant in a group 
+Tn: Treatment of the English Vocabulary corpora 
+A = LCR type A; B = LCR type B; C = LCR type C; D = LCR type D 
+Step 4 – Data collection instruments. In the fourth step, after viewing the materials with which to learn 
+24 English words, all participants were immediately asked to sit for the English Vocabulary Recognition 
+and Recall (EVRR) test to assess their English vocabulary learning performance. These recognition and 
+recall tests are often used to examine learners’ English vocabulary knowledge (Al-Seghayer, 2001). 
+However, test and measurement studies indicate that these two forms of testing are quite different and 
+demand separate processing strategies (Cariana & Lee, 2001; Jonassen & Tessmer, 1996). For example, 
+recognition tests usually involve multiple-choice activities in which learners select or guess the correct 
+response from the given alternatives. Such tests may strengthen existing memory traces (McDaniel & 
+Mason, 1985). Recall, on the other hand, demands the production of responses from memory. It is more 
+difficult than recognition because learners must search for the correct response within their mental 
+representation of the newly experienced information (Cariana & Lee, 2001; Glover, 1989; McDaniel & 
+Mason, 1985). 
+Figures 5 and 6 show examples of a recognition test item and a recall test item. Participants spent 
+approximately 15 minutes completing the EVRR test.  
+ 
+Figure 5. Example of a recognition test item 
+ 
+ 
+Figure 6. Example of a recall test item 
+Language Learning & Technology 100
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 101
+After all steps were completed, we conducted a focus group interview, for which 8 participants were 
+selected. To effectively evaluate our hypotheses, the interview questions focused on our research 
+hypotheses. The following is a list of questions used to assess what learners learned from participating in 
+the English vocabulary learning experiment. During the interviews, learners were asked three modified 
+open-ended questions that were originally proposed by Al-Seghayer (2001). We first present the original 
+questions in Chinese given to students, followed by translations to English. 
+中文題目: 
+ 
+第一個討論問題，實驗中四種不同的學習內容呈現型態哪種對於單字學習與記憶最有幫助？ 
+第二個討論問題，在本實驗中，您對實驗中四種不同的學習內容呈現型態哪種對於單字意義的傳
+遞印象最深？ 
+第三個討論問題：在本實驗的行動化學習的環境下，哪些特點幫助像你這樣的學習者進行英語學
+習？ 
+ 
+Question 1: Which one of the four LCR types is best for helping you to learn and memorize the English 
+vocabulary in the experiment?  
+Question 2: Which one of the four LCR types can provide better meaning about English words for you in 
+the experiment?  
+Question 3: What are the good features in this kind of mobile learning environment that help you, as a 
+language learner, to effectively learn English vocabulary?  
+The open-ended questions were used to allow more freedom of responses, to elicit more information from 
+the participants, and to check the accuracy of the quantitative results. The focus group transcripts were 
+reviewed by the test moderator and teaching assistants immediately after the interview. Appendix 4 
+contains transcript records from the focus group interviews, which will be cited in the following analysis. 
+RESULTS 
+The EVRR test scores were used for assessing the learning outcome in our study. Table 2 shows the 
+descriptive statistics results. We conducted the repeated measures analysis of variance (ANOVA) for 
+learners with four different STM capacities (Quadrants 1 to 4), with LCR types as independent variables 
+and scores measured by the EVRR test as dependent variables. The Mauchly’s test of sphericity was 
+conducted before the repeated measures analysis of variance. An important result of Mauchly’s test of 
+sphericity showed that the covariance of the three within-subject variables (recognition score, recall score 
+and average score) was not homogeneous. Thus, an adjusted degree of freedom statistic provided by the 
+Greenhouse-Geisser correctional formula was used to do the repeated measures analysis of variance. 
+Otherwise, if the result is not significant, based on the sphericity assumption, no adjustment to the degrees 
+of freedom is needed (Hair, Tatham, Anderson & Black, 1998). 
+A significant result of the ANOVA indicates that the mean scores of the four LCR types (A, B, C and D) 
+are not equal. In such a case, a post-treatment pair-wise comparison is used to compare the mean scores of 
+the four types. Conversely, a result that is not significant indicates that the mean scores of the four 
+different types are equal. Based on the result shown in Table 3, the pair-wise comparison was not 
+needed. Table 4 shows the analysis results with respect to the eight hypotheses. 
+ 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+ 
+ 
+Table 2. Descriptive Statistics of the Four Research Hypotheses 
+ 
+* Mean scores are presented as percentages 
+Table 3. Results of Repeated Measures ANOVA 
+ 
+ 
+The analysis results for H1 in Table 4 show the following: 
+1. EVRR scores of learners who were presented with information as LCR type B (p = 0.000) or type C (p 
+= 0.000) were significantly better than the scores of learners who were presented with information as 
+LCR type A in the recognition test; 
+2. EVRR scores of learners who received information as either LCR type B (p = 0.006) or type C (p = 
+0.011) were significantly better than the scores of learners who received information as LCR type A in the 
+recall test. The same result also appeared in average scores for type B (p = 0.000) and type C (p = 0.000). 
+Language Learning & Technology 102
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Therefore, we can conclude that H1 is accepted. This implies that learners with higher verbal ability and 
+higher visual ability can benefit from learning content that contains either written annotation or pictorial 
+annotation. 
+Table 4. Results of the Eight Research Hypotheses 
+ 
+For H2, the EVRR scores of learners who received information as LCR type C were better than the scores 
+of learners who received information as LCR type A (p = 0.000) in the recognition test. Moreover, 
+learners who received information as LCR type C exhibited better EVRR scores than learners who 
+received information as LCR type A (p = 0.000) in the recall test. Average scores of learners who 
+received information as LCR type C were also better than those of learners who received information as 
+Language Learning & Technology 103
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+LCR type A (p = 0.000). Therefore, we can conclude that the H2 is accepted. This implies that learners 
+with higher visual ability can benefit from learning content that contains pictorial annotation. 
+For H3, there is no significant difference in these three scores among learners who received information 
+as LCR types A, B and C. Therefore, we can conclude that H3 is also accepted. This implies that learners 
+with lower verbal ability and lower visual ability do not benefit from learning content containing either 
+written or pictorial annotation. 
+For H4, it is evident that scores of learners who received information as LCR type B are better than those 
+of learners who received information as LCR types A (p = 0.000) and C (p = 0.005) in the recognition test. 
+However, this is not the case in the recall test. Therefore, we can conclude that the H4 is only partially 
+accepted. This implies that learners with higher verbal ability benefit from learning content containing 
+written annotation with regard to recognition. 
+For H5, we found that recognition scores of the learners who received information as LCR type D were 
+better than those of learners who received information as LCR type A (p = 0.000) and that recall scores of 
+learners who received information as LCR type D were also better than those of learners who received 
+information as LCR type A (p = 0.001). In addition, the average scores of learners who received 
+information as LCR type D were better than those of learners who received information as LCR type A (p 
+= 0.000). Therefore, we can conclude that H5 is accepted. This implies that learners with higher verbal 
+ability and higher visual ability can benefit from learning content containing combined written and 
+pictorial annotation. 
+For H6, recognition scores of learners who received information as LCR type D were better than those of 
+learners who received information as LCR type A (p = 0.000). However, in the recall test, scores of 
+learners who received information as LCR type D were not significantly better than those of learners who 
+received information as LCR type A. Average scores of learners who received information as LCR type D 
+were better than those of learners who received information as LCR type A (p = 0.002). Therefore, we 
+can conclude that H6 is only partially accepted. This implies that learners with higher visual ability can 
+benefit only somewhat from learning content containing combined written and pictorial annotation with 
+regard to recognition. 
+For H7, there was no significant difference in the scores of learners who received information as LCR 
+types A and D on both the recognition and recall tests. Therefore, we can conclude that H7 is also 
+accepted. This implies that learners with lower verbal ability and lower visual ability do not benefit from 
+learning content containing both written and pictorial annotation. 
+Table 5. Focus Interview Participants 
+Code Age STM ability Quadrant Average Score of LCR type Verbal Visual 1 2 3 4 all 
+SB-1-W 20 0.847 1.127 1 50.0 41.7 66.7 58.3 54.2 
+SB-1-B 20 1.080 0.790 1 92.0 100.0 91.7 91.7 93.8 
+SB-2-W 20 -0.458 0.772 2 58.3 33.3 58.3 38.3 47.1 
+SB-2-B 23 -0.046 0.618 2 83.3 83.3 91.7 91.7 87.5 
+SB-3-W 20 -0.425 -0.364 3 58.3 50.0 33.3 25.0 41.7 
+SB-3-B 21 -0.078 -0.696 3 92.0 83.3 91.7 83.3 87.5 
+SB-4-W 23 0.587 -0.217 4 37.5 30.0 25.0 43.0 33.9 
+SB-4-B 20 0.671 -0.022 4 83.0 91.7 66.7 66.7 77.1 
+SB refers to the subjects who participated in the mobile learning experiment. 
+Number refers to the quadrant to which the subject belongs. 
+W refers to the worst EVRR test score. 
+B refers to the best EVRR test score. 
+Language Learning & Technology 104
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 105
+ 
+Finally, for H8, recognition scores of learners who received information as LCR type D were better than 
+the scores of learners exposed to LCR type A (p = 0.000). However, in the recall test, scores of learners 
+who received information as LCR type D were not significantly better than those of learners who received 
+information as LCR type A. The average scores of learners who received information as LCR type D 
+were also better than those of learners who received information as LCR type A (p = 0.000). Therefore, 
+we can conclude that H8 is only partially accepted. This implies that learners with higher verbal ability 
+can benefit only somewhat from learning content containing both written and pictorial annotation with 
+regard to recognition. 
+Focus group interviews were also conducted to acquire qualitative evidence to support the results from 
+the quantitative experiment. Eight participants were selected from the 156 participants by using the 
+extreme or deviant case sampling method. The background information on these participants is shown 
+in Table 5. For the sake of privacy, Table 5 uses a coding scheme (SB-Quadrant-EDCS) to replace the 
+real names of the students. SB means subject, Quadrant is the number of STM ability Quadrant, and W 
+and B of EDCS are the lowest and highest scores on the EVRR test. 
+Focus Group Interview Results  
+Transcripts of interviews (provided in Appendix 4) with the Q1 students revealed that the students felt 
+that written or pictorial annotation can provide better learning outcomes (SB-1-B-83) than no annotation 
+(SB-1-W-62). The Q2 students felt that pictorial annotation can provide better learning effects (SB-2-B-
+50), more cues (SB-2-B-52), more attractive content (SB-2-W-85), and better representation than words 
+(SB-2-B-81). These are the qualitative findings to support H1 and H2. The Q3 students show that the 
+feedbacks on the four LCR types are similar (SB-3-B-68). When student SB-3-W saw a lot of written 
+annotation or pictorial annotation, the student felt irritated and unable to concentrate on learning (SB-3-
+W-78). This may be the result of the learner’s insufficient STM. For learners in Q3 (those with lower 
+verbal ability and lower visual ability), more annotation causes a higher cognitive load in their STM, 
+according to the Cognitive Load Theory, and prevents those learners from learning. The Q4 students all 
+agree that written annotation can help them remember more English vocabulary items (SB-4-B-19). The 
+qualitative findings seem to only partially support H3 and H4. 
+Transcripts of interviews with the Q1 students show that the written annotation plus pictorial annotation 
+can provide better learning outcomes (SB-1-B-56). The Q2 students felt that pictorial annotation can 
+provide better learning outcomes and cues, and that they are more appealing. However, there are no 
+qualitative findings to show that combined annotations provide better learning outcomes and cues nor that 
+they are more appealing. Therefore, we can conclude that H6 is not supported qualitatively. The Q3 
+students show similar feedback from the four LCR types (SB-3-B-68). The transcripts also reveal that 
+even though written annotations could help learners memorize vocabulary items in a more organized way 
+and understand how to remember vocabulary items (SB-3-B-46), learning outcomes in the four LCR 
+types do not vary on a large scale (SB-3-B-25), and baseline group content (LCR type A) would be the 
+most difficult to memorize (SB-3-B-27). So, the qualitative findings do not seem to support H7. 
+Finally, transcripts of interviews with the Q4 (SB-4-B and SB-4-W) students show no support for the 
+hypothesis that combined annotations provide students with better learning outcomes compared to 
+students in the baseline group. Therefore, we can conclude that H8 is not supported. 
+DISCUSSION 
+Quantitative results suggest that learners with lower verbal ability and higher visual ability (Q2) will 
+benefit more from learning content with pictorial annotation than from content with no annotation. The 
+limited qualitative findings tend to support this conclusion, suggesting that pictorial annotation can help 
+learning and memorizing more than no annotation. Based on both quantitative and qualitative findings, 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 106
+the most suitable method to help these learners study in the mobile language learning environment is to 
+provide them with more pictorial and less written annotation. This result matches findings by Geva and 
+Ryan (1993) and Harrington and Sawyer (1992). 
+Results also suggest that providing basic learning materials can help learners with lower verbal and visual 
+ability (Q3) to learn better. A possible reason is that, since these students do not have high verbal and 
+visual abilities, providing them with too many written or pictorial annotation will increase the cognitive 
+load in their STM and thus could make them irritable and unable to concentrate. According to the 
+Cognitive Load Theory (Sweller, 1994), learners in such situations would probably ignore or skip the 
+information that caused the overload. How much information a learner would consider to be an overload 
+is a matter for further study. 
+According to the research of Geva and Ryan (1993) and Harrington and Sawyer (1992), learners with 
+higher verbal ability exhibit better skills for learning with verbal material. Therefore, providing them 
+learning content in verbal forms would achieve better results than providing the content in nonverbal form. 
+Thus, theoretically speaking, for learners with higher verbal and lower visual ability (Q4), learning 
+content type B should help students achieve higher EVRR scores than learning content type A. However, 
+H4 in Table 4 shows that this condition is only valid for the recognition not the recall test. Consequently, 
+we should be cautious about claiming that providing this type of learner with more written annotation is a 
+suitable teaching strategy in m-learning.  
+Both quantitative and qualitative findings support the hypothesis that, in the mobile language-learning 
+environment, learners with higher verbal and visual ability (Q1) will achieve better results from learning 
+content with written and/or pictorial annotation than they would from learning content without any 
+annotation. However, to what extent learners benefit from these annotations and whether or not the 
+Cognitive Load Theory will affect these learners are issues worth further study. Finally, Hypotheses 5-8 
+show that the effects of both the Dual Code Theory and the Cognitive Load Theory are also supported. 
+The use of more than one modality by learners (learners presented with combined-annotation LCR type D 
+content) is more effective than the use of single modality (learners presented with only single-annotation 
+LCR type A content), such as in the case of Q1 learners. However, for the group with lower verbal and 
+visual ability (Q3), learners presented with combined-annotation content (LCR type D) performed 
+significantly worse than learners presented with no annotation. 
+Moreover, it is interesting to note the comments from SB-4-B and SB-4-W. SB-4-B’s comment (SB-4-B-
+66) explains the quantitative results and tells us why the English vocabulary recall test scores of LCR type 
+B are not better than LCR type A. According to SB-4-B’s interview statement, providing more than one 
+illustrative sentence could help learners to have a better learning outcome, which could result in a 
+significant difference in English vocabulary recall scores. The other interesting comment was from SB-4-
+W (SB-4-W-72). Evidently, SB-4-W did not see the benefits of written annotation because SB-4-W 
+usually spent more time on recall when no pictorial annotation was provided. Moreover, according 
+to Table 4, the SB-4-W’s verbal ability is 0.587 and visual ability is -0.217. Therefore, these two finding
+prove that even if we provide written annotation to help Q4 learners (SB-4-W) who do have higher verbal 
+ability, their lower visual ability could reduce the benefits of the written annotation. 
+s 
+CONCLUSION 
+This study addresses the issue of content adaptation in mobile language learning. To identify a promising 
+solution two dimensions have been taken into consideration: instructional strategies (LCR types: written 
+and pictorial annotations) and learner’s cognitive type (STM ability: verbal and visual). The findings can 
+contribute to the design of more effective content adaptation for mobile language learning.  
+In summary, providing learning content with pictorial annotation in a mobile language learning 
+environment can help learners with lower verbal and higher visual ability learn, because they are 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+cognitively better equipped for learning content presented in visual form. Providing learning content with 
+both written and pictorial annotation can help learners with higher verbal and visual ability. Results also 
+suggest that providing basic learning materials can help learners with lower verbal and visual ability. 
+According to the Cognitive Load Theory, providing this type of learner with too many written or pictorial 
+annotations will only increase the cognitive load, leading to irritation and lack of concentration. 
+It should be noted that, theoretically, learners with higher verbal ability should exhibit better skills for 
+learning verbal material. Therefore, providing them with learning content in verbal form should achieve 
+better results than providing it in a nonverbal form. However, this condition was only valid in our 
+recognition but not in the recall test. Consequently, further study is needed to analyse whether providing 
+this type of learner with more written annotation is indeed a suitable teaching strategy in mobile language 
+learning. Our study also shows that the effects of both Dual Coding and Cognitive Load Theories are 
+supported in that the use of more than one modality by the high ability learners is more effective than the 
+use of a single modality. However, for learners with lower verbal and visual abilities, combined-
+annotation content (LCR type D) is not suitable. 
+As for future study, in order to provide a wider perspective, it could be promising to include socio-
+cognitive or social constructivist theory in the curriculum design for mobile language learning. Also 
+recommended is use of the same research framework to study smart phones or PDAs instead of traditional 
+mobile phone devices, in order to see the differences that may arise due to the their somewhat larger 
+screen size and pen-input capabilities. 
+ 
+APPENDIX 
+Appendix 1. 50 English Words Selected for Students’ Original English Vocabulary Abilities Test 
+Basic English Vocabulary Test 
+English words 
+Mark ‘X’ if 
+you don’t 
+know the 
+meaning of 
+this word 
+Write down 
+the Chinese 
+meaning if you 
+know this 
+word 
+English words 
+Mark ‘X’ if 
+you don’t 
+know the 
+meaning of 
+this word 
+Write down 
+the Chinese 
+meaning if you 
+know this 
+word 
+40 2203 more     1040 88 invite     
+80 1086 find     1080 82 seed     
+120 768 write     1120 77 guide     
+160 611 home     1160 72 snow     
+200 522 line     1200 69 passage     
+240 457 report     1240 65 brain     
+280 394 direct     1280 62 absolute     
+320 344 body     1320 58 afford     
+360 311 thus     1360 55 noise     
+400 284 death     1400 52 solve     
+440 262 road     1440 48 burst     
+Language Learning & Technology 107
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+480 232 modern     1480 45 interference     
+520 213 island     1520 42 fortunate     
+560 195 english     1560 40 coal     
+600 183 employ     1600 37 insect     
+640 172 
+opportunity     1640 35 sugar     
+680 160 touch     1680 33 convenient     
+720 147 current     1720 30 crown     
+760 141 
+progress     
+1760 28 
+companion     
+800 131 burn     1800 25 destructive     
+840 124 
+engineer     1840 23 bunch     
+880 117 
+shoulder     1880 21 resign     
+920 109 destroy     1920 19 wreck     
+960 102 stick     1960 17 essence     
+1000 94 admit     2000 15 scenery     
+ 
+Appendix 2. The 24 English Words Selected for the Experiment 
+1 1501 persuade v 
+2 1511 raw a 
+3 1585 bless v 
+4 1594 cheap a 
+5 1623 drum n 
+6 1638 melt v 
+7 1675 sweat n 
+8 1684 dig v 
+9 1854 fancy a 
+10 1864 loyal a 
+11 1877 explode v 
+12 1878 fasten v 
+13 1905 arrow n 
+14 1907 cruel a 
+15 1928 obey v 
+16 1962 ambitious a 
+17 1968 ash n 
+18 2013 landlord n 
+19 2021 silk a 
+20 2061 patriotic a 
+21 2065 pardon n 
+22 2119 beast v 
+Language Learning & Technology 108
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+23 2221 pigeon n 
+24 2240 parcel n 
+Appendix 3. System Architecture of the STM Ability Test and Examples of Written and Pictorial 
+Content 
+The STM test system can be divided into two main parts, front-end and back-end. The front-end manages 
+communication with users and records user behavior. The back-end aims to analyze users’ abilities. 
+ 
+The system architecture of STM ability test  
+Language Learning & Technology 109
+An example of written and pictorial content used in the STM test  
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+ 
+Language Learning & Technology 110
+Appendix 4. Transcripts of the Focus Group Interviews (Translated to English) 
+Code Content 
+SB-1-B-40  I think that it is more useful when Pictorial Annotation and Written Annotation are 
+displayed at the same time. 
+SB-1-B-56  Actually, I think only if one can read out a sentence with the learning English vocabulary 
+can really help to spelling out that vocabulary correctly. So, when Pictorial Annotation and 
+Written Annotation are displayed at the same time which can give me the best impression. 
+SB-1-B-83  I think that picture is easier to draw people’s attention at the first place 
+SB-1-W-62  I don’t know, but the worst case should be no annotations provided. 
+SB-1-W-17  In addition, I also think under the aid of Written Annotation, I am able to comprehend 
+more about the usage of an English vocabulary than just vocabulary itself. 
+SB-2-B-50  I think using Pictorial Annotation to convey English vocabulary meaning can incur the 
+best impression to me. 
+SB-2-B-52  Because I can easily associate the meaning of vocabulary by the picture, to um~ meaning 
+that I could have clues to find it out. 
+SB-2-W-85  I agree, therefore, I always pay more attention on pictures rather than words. Sometime, I 
+could realize the main meaning of a vocabulary simply looking at the Pictorial Annotation. 
+SB-2-B-81  People say “one picture is worth than a thousand words”, so, pictures are better than 
+words. 
+SB-2-B-9  Because watching Pictorial Annotation can help me not only remember English 
+vocabulary but also help me to recall that vocabulary. 
+SB-2-B-38  In response to SB-4-B’s comments, I think um~ illustrative sentences is a bit annoying but 
+a little useful. I disagree with your argument that illustrative sentences can help 
+understanding the meaning of English vocabulary. 
+SB-3-B-68  My answer is the same as the first question; four types are similar to me. 
+SB-3-W-78  But, when I saw a pile of Written Annotation or Pictorial Annotation, my mood will 
+become very irritated and unable to concentrate on learning. 
+SB-3-B-46  I also think, um~, those English vocabularies with illustrative sentences can help me to 
+memorize vocabularies in a more organized way and realize how to remember 
+vocabularies. 
+SB-3-B-25  In response to this question, I would say that there is not much difference to me. 
+SB-3-B-27  Um. But, the way that giving only an English vocabulary and its Chinese translation is the 
+most difficult to memorize. 
+SB-4-B-66  Because, I think I can better memorize the meaning of a vocabulary by articulating 
+through the context of its illustrative sentence. So, if more illustrative sentences are 
+provided, I think I can learn better. 
+SB-4-W-72  I prefer the type of Pictorial Annotation because my imagination ability is not good, and it 
+usually takes me longer time to recall if no Pictorial Annotation is provided. So, I need 
+picture to facilitate my thinking. 
+SB-4-B-19  I realized that I can memorize the meaning of an English vocabulary better if it is 
+facilitated with Written Annotation. 
+ 
+ 
+ACKNOWLEDGMENTS 
+This study was supported by the National Science Council, Taiwan, under grant NSC97-2511-S-110-005-MY3 and 
+NSC97-2631-S-024-002 
+ 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 111
+ABOUT THE AUTHORS 
+Nian-Shing Chen is Professor of the Department of Information Management, National Sun Yat-sen 
+University, Taiwan. He is currently a visiting Professor at the University of Queensland, Australia. He has 
+published over 200 research papers in international refereed journals, conferences, and book chapters. His 
+research areas include e-learning, knowledge management, and the use and development of online 
+synchronous learning and wireless technologies to enhance learning. 
+E-mail: nschen@faculty.nsysu.edu.tw 
+Assistant Professor Sheng-Wen Hsieh is the Department Chair of Management Information Systems at 
+Far East University in Taiwan. He earned a Ph.D. in Management Information Systems of National Sun 
+Yat-sen University. He has published journal papers in WSEAS Transactions on Advances in Engineering 
+Education and Journal of Systems and Software.  
+E-mail: onyx@cc.fec.edu.tw 
+Kinshuk is Professor and Director of School of Computing and Information Systems at Athabasca 
+University, Canada. He has been involved in large-scale research projects on adaptive educational 
+environments and has published over 200 research papers in international refereed journals, conferences, 
+and book chapters. He is Editor of the SSCI-indexed Journal of Educational Technology & Society.  
+E-mail: kinshuk@athabascau.ca 
+ 
+REFERENCES 
+Abu-Rabia, S. (2003). The influence of working memory on reading and creative writing processes in a 
+second language. Educational Psychology, 23(2), 209-222. 
+Alavi, M., & Leidner, D. E. (2001). Research commentary: Technology-mediated learning - a call for 
+greater depth and breadth of research. Information Systems Research, 12(1), 1-10. 
+Al-Seghayer, K. (2001). The effect of multimedia annotation modes on L2 vocabulary acquisition: A 
+comparative study. Language Learning & Technology, 5(1), 202-232. 
+Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. 
+In K. W. Spence and J. T. Spence (Eds.), The psychology of learning and motivation: Advances in 
+research and theory (Vol. 2, pp. 89-195). NY: Academic Press. 
+Baddeley, A. (2003). Working memory and language: An overview. Journal of Communication 
+Disorders, 36(3), 189-206. 
+Bauman, J. (1995). About the GSL. http://jbauman.com/aboutgsl.html. 
+Cariana, R. B., & Lee, D. (2001). The effects of recognition and recall study tasks with feedback in a 
+computer-based vocabulary lesson. Educational Technology Research & Development, 49(3), 23-36. 
+Cermak, L. & Craik, F. (1979). Levels of processing in human memory. Hillsdale, NJ: Erlbaum. 
+Chen, C. M., Lee, H. M. & Chen, Y. H. (2005). Personalized e-learning system using item response 
+theory. Computers and Education, 44(3), 237-255. 
+Craik, F. I. M. (2002). Levels of processing: Past, present ... and future? Memory, 10(5/6), 305-318. 
+Clark, R. E. (1994). Media will never influence learning. Education Technology Research and 
+Development, 42(2), 21-29. 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 112
+Cohen, A. D., & Aphek, E. (1981). Basifying second language learning. Studies in Second Language 
+Acquisition, 3(2), 221-236.  
+Courtney, M. S. (1998). An area specialized for spatial working memory in human frontal cortex. Science, 
+279(5355), 1347-1351. 
+Fuster, J. M. (1994). The prefrontal cortex: Anatomy, physiology and neuropsychology of the frontal lobe. 
+Philadelphia: Lippincott-Raven. 
+Gay, G., Stefanone, M., Grace-Martin, M., & Hembrooke, H. (2001). The effects of wireless computing 
+in collaborative learning environments. International Journal of Human-Computer Interaction, 13(2), 
+257-276. 
+Geva, E., & Ryan, E. B. (1993). Linguistic and cognitive correlates of academic skills in first and second 
+languages. Language Learning, 43(1), 5-42. 
+Glover, J. A. (1989). The testing phenomenon: Not gone but nearly forgotten. Journal of Educational 
+Psychology, 81(3), 392-399. 
+Hair, J. F., Tatham, R. L., Anderson, R. E., & Black, W. C. (1998). Multivariate data analysis (5th ed.). 
+NJ: Prentice-Hall, Inc. 
+Harrington, M., & Sawyer, M. (1992). L2 working memory capacity and L2 reading skill. Studies in 
+Second Language Acquisition, 14(1), 25-38. 
+Holzinger, A., Nischelwitzer, A. & Meisenberger, M. (2005, March). Mobile phones as a challenge for 
+m-learning: examples for mobile interactive learning objects. Paper presented at the 3rd IEEE 
+International Conference on Pervasive Computing and Communication, Kauai Island, HI. 
+Hsi, S. (2003). A study of user experiences mediated by nomadic web content in a museum. Journal of 
+Computer Assisted Learning, 19(3), 308-319. 
+Hsieh, S. W. (2006). Study on Adaptive Learning based on Short-term Memory Capacity in Mobile 
+Learning Environment. Unpublished doctoral dissertation, National Sun Yat-sen University, Kaohsiung 
+Taiwan. 
+Jonassen, D., & Tessmer, M. (1996). An outcomes-based taxonomy for instructional systems design, 
+evaluation and research. Training Research Journal, 2, 11-46. 
+Jones, L. (2004). Testing L2 vocabulary recognition and recall using pictorial and written test items. 
+Language Learning & Technology, 8(3), 122-143. 
+Kaesshaefer, J. (2004), Austria Country Commercial Guide, International Market Research Reports, 
+2004, Retrieved August 25, 2008, from http://http://strategis.ic.gc.ca/epic/site/imr-ri2.nsf/en/gr-
+01297e.html 
+Liu, T. C., Wang, H. Y., Liang, J. K., Chan, T. W., Ko, H. W., & Yang, J. C. (2003). Wireless & mobile 
+technologies to enhance teaching & learning. Journal of Computer Assisted Learning, 19(3), 371-382. 
+MacGregor, J. N. (1987). Short-term memory capacity: limitation or optimization?. Psychological Review, 
+94(1), 107-108. 
+Mayer, R. E. & Sims, K. (1994). For whom is a picture worth a thousand words? Extensions of a dual-
+coding theory of multimedia learning. Journal of Educational Psychology, 86(3), 389-401. 
+McDaniel, M. A., & Mason, M. E. J. (1985). Altering memory representations through retrieval. Journal 
+of Experimental Psychology, Learning, Memory and Cognition, 11(2), 371-385. 
+Nian-Shing Chen, Sheng-Wen Hsieh, and Kinshuk Short-Term Memory and Content Representation Type 
+ 
+Language Learning & Technology 113
+Miller, G. A. (1956). The magical number seven plus or minus two: Some limits on our capacity for 
+processing information. Psychological Review, 63, 81-97. 
+Nation, I. S. P. (2001). Learning vocabulary in another language. Cambridge: Cambridge University 
+Press. 
+Nikolova, O. R. (2002). Effects of students' participation in authoring of multimedia materials on student 
+acquisition of vocabulary. Language Learning & Technology, 6(1), 100-122. 
+Plass, J. L., Chun, D. M., Mayer, R. E., & Leutner, D. (1998). Supporting visual and verbal learning 
+preferences in a second language multimedia learning environment. Journal of Educational Psychology, 
+90(1), 25-36. 
+Pressley, M., Levin, J. R., & Miller, G. E. (1982). The keyword method compared to alternative 
+vocabulary learning strategies. Contemporary Educational Psychology, 7, 50-60. 
+Riffell, S., & Sibley, D. (2005). Using web-based instruction to improve large undergraduate biology 
+courses: An evaluation of a hybrid course format. Computers and Education, 44(3), 217-235. 
+Sharples, M. (2000). The design of personal mobile technologies for lifelong learning. Computers & 
+Education, 34(3-4), 177-193. 
+Sweller, J. (1994). Cognitive load theory, learning difficulty and instructional design. Learning and 
+Instruction, 4(3), 295-312. 
+Taylor, I., & Taylor, M. (1990). Psycholinguistics: Learning and using language. Englewood Cliffs, NJ: 
+Prentice Hall. 
+Wikipedia - Mobile phone. Retrieved August 25, 2008, from http://en.wikipedia.org/wiki/Mobile_phone 
+Wiredu, G. (2005, August). The Reconstruction of Portable Computers: On the Flexibility of Mobile 
+Computing in Mobile Activities. Paper presented at IFIP 8.2 Conference on Designing Ubiquitous 
+Information Environments, Cleveland, OH. 
+Wright, B. D. (1988). Rasch model from Campbell concatenation. Rasch Measurement Transactions, 2(1), 
+16. 

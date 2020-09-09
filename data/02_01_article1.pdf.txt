@@ -1,0 +1,654 @@
+Language Learning & Technology
+http://llt.msu.edu/vol2num1/article1/
+July 1998, Volume 2, Number 1
+pp. 21-39
+(page numbers in PDF differ and should not be used for reference)
+Copyright © 1998, ISSN 1094-3501 21
+MULTIMEDIA CALL: LESSONS TO BE LEARNED
+FROM RESEARCH ON INSTRUCTED SLA
+Carol Chapelle
+Iowa State University
+ABSTRACT
+This paper suggests that some design features and evaluation criteria for multimedia CALL might
+be developed on the basis of hypotheses about ideal conditions for second language acquisition
+(SLA). It outlines a relevant theory of SLA and enumerates the hypotheses it implies for ideal
+conditions such as input saliency, opportunities for interaction, and learner focus on
+communication. Implications of each hypothesis for multimedia CALL design and evaluation are
+outlined and exemplified.
+INTRODUCTION
+CALL software designers look to research and principles from a variety of cross-disciplinary sources.
+Despite the potential value of diverse perspectives, SLA theory and research might also be consulted to
+suggest CALL design and to guide research on effectiveness. Figure 1 illustrates the desired relationship
+between CALL design based on hypotheses about SLA, and CALL evaluation based on focused
+observation seeking evidence about those hypotheses. This paper outlines hypotheses relevant to CALL
+design and describes how they might be implemented and evaluated in CALL activities.
+Figure 1. The interdependence of design and evaluation of CALL learning activities
+RELEVANT HYPOTHESES ABOUT SLA
+The SLA literature contains work representing a variety of objectives and approaches for investigating the
+process of second language development. For example, the recently published Handbook of Second
+Language Acquisition (Ritchie & Bhatia, 1996) contains chapters documenting 19 different approaches to
+SLA research. Standard texts on SLA (e.g., Ellis, 1994) include diverse perspectives. When addressing
+applied questions such as design and evaluation of multimedia CALL, it is necessary to select from the
+many approaches those that are relevant.
+Identifying Relevant Hypotheses about SLA
+Historically, many applied linguists and teachers have been reluctant to make  any application of research
+to second language teaching, but more recently Pica (1997) has shed light on the complex issue of
+relationships between research and practice. She categorizes approaches to SLA research on the basis of
+their interface with teaching: Some SLA research coexists with L2 teaching while having little if any
+intellectual interface. Other SLA research collaborates with L2 teaching when teachers and researchers
+work together toward similar goals within the classroom and the sociopolitical environment of education.
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 22
+A third type of SLA research, which is most significant for CALL design, complements L2 instruction.
+Pica (1997) describes these classroom experiments in the following way:
+In classroom experiments that illustrate. . .complementarity, theoretically grounded learning materials and
+strategies to facilitate L2 learning are selected or developed by researchers. The researchers then work
+with participating teachers toward classroom use of these materials and strategies, followed by classroom
+research on their impact on students' learning. (p. 54)
+In applying the idea of complementarity to CALL, the "materials" refer to software and other materials
+supporting CALL activities. As Doughty (1987, 1992) has pointed out, these materials can be designed to
+operationalize conditions that researchers hypothesize as creating positive conditions for SLA. A
+theoretical approach that is useful in supporting such complementarity is the "interactionist" perspective
+on SLA theory and research (Pica, 1994).
+A Useful Model of SLA
+The SLA model of interest hypothesizes that target language input acts as the potential starting point for
+acquiring aspects of the L2. The model expands considerably on Krashen's (1982) idea that a lot of
+comprehensible input is what is needed for SLA. It attempts to articulate what makes input
+comprehensible and how it is processed to influence the development of the learner's linguistic
+knowledge (Long, 1996). The model illustrated in Figure 2 is a simplified version of the one outlined by
+Gass (1997). It summarizes a consensus view among interactionist SLA researchers.
+Figure 2. Basic components in the SLA process in interactionist research
+INPUT at the left of Figure 2 refers to the target language that the learner is exposed to. Much target
+language input goes over the learners' head but only that which is apperceived has the potential to be
+acquired. An important aspect of the learners' APPERCEPTION is their noticing aspects of the input.
+Therefore, one concern for designing instructional materials may be to include features that prompt
+learners to notice important aspects of the language.
+The next box, COMPREHENSION, represents the hypothesis that understanding of the semantic content
+of a message can be accomplished either with or without any comprehension of the syntax. Semantic
+comprehension is not expected to help in the acquisition of the syntactic system because it may be
+accomplished through the recognition of isolated lexical items and interpretation of non-linguistic cues.
+When comprehension takes place through a combination of semantic and syntactic processing, the
+linguistic characteristics of the input can become INTAKE, that is, comprehended language that holds the
+potential for developing the learners' linguistic system.
+INTEGRATION is comprised of the processes for using or holding the intake in short term memory to
+influence the development of the linguistic system, which in turn affects the L2 OUTPUT that the learner
+produces. The output is an observable result of the process, but it is also considered an important
+contributor to linguistic development in at least two ways. First, producing linguistic output forces
+learners to use the syntactic system and therefore to develop this aspect of their ability. Second, it elicits
+subsequent input from interlocutors, some of which may contain indications of problems with the
+learner's output which will result in the learner's noticing aspects of the linguistic form, making new
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 23
+hypotheses, and producing more output. This process, referred to as negotiation of meaning, is believed to
+facilitate L2 development (Long, 1996).
+Seven Hypotheses Relevant for Developing Multimedia CALL
+Based on the model of SLA in Figure 2 and its supporting theory and research, hypotheses about ideal
+conditions for SLA can be articulated (Long, 1996; Pica, 1994) in terms that are relevant for developing
+multimedia CALL. These hypotheses are reviewed here and some of their empirical and/or theoretical
+bases are noted.
+1. The linguistic characteristics of target language input need to be made salient.
+Current theory advances beyond Krashen's (1982) idea that all target language input facilitates L2
+acquisition by distinguishing between useless target language noise and target language input that may
+influence language development. The latter is different from the former because it is apperceived by the
+learner. Qualitative research has revealed that a learner's noticing of linguistic input plays an important
+role in making unknown target language forms into known and used forms (Schmidt & Frota, 1986).
+Experimental research has shown that highlighting input in materials to prompt learners to notice
+particular syntactic forms positively influenced their acquisition (Doughty, 1991). Reviews of work in
+this area conclude that the depth of the "noticing" issue extends to complexities of consciousness and
+memory, but it also seems clear that task demands that can be manipulated through instruction can
+increase the likelihood of noticing (Robinson, 1995; Schmidt, 1990). In other words, development of
+principles for CALL design methods require effective "input enhancement" (Sharwood Smith, 1991).
+Even though there may be factors internal to the learner that influences the likelihood of apprehension,
+instructional materials should facilitate apperception of input.
+2. Learners should receive help in comprehending semantic and syntactic aspects of linguistic input.
+Input can be defined as "the potentially processable language data which are made available by chance or
+by design, to the language learner" (Sharwood Sharwood Smith, 1993, p. 167). Only a subset of all "the
+potentially processable language data" that the learner receives is actually useful for the learner's language
+development (p. 167). The input that would be useful to the learner is problematic for the same reason
+that it is valuable: It contains linguistic forms that the learner does not know. As a consequence, the
+learner needs help with specifics of the input in order to comprehend it both semantically and
+syntactically. This help, sometimes referred to as "modification" of the input, can consist of such features
+as simplification, elaboration, or added redundancy (Larsen-Freeman & Long, 1991).
+3. Learners need to have opportunities to produce target language output.
+Like input, which can be either uncomprehended noise or valuable for acquisition, output can be
+produced mindlessly or it can be created by the learner under conditions that facilitate acquisition. The
+latter type of production is called "comprehensible output" (Swain, 1985). It is learner language that is
+intended to convey meaning to an interlocutor while stretching the learner's linguistic resources. In other
+words, not all production qualifies as valuable comprehensible output. It may be important that learners
+have an audience for the linguistic output they produce so that they attempt to use the language to
+construct meanings for communication rather than solely for practice.
+4. Learners need to notice errors in their own output.
+A second hypothesized value of output relates to the importance of noticing linguistic features of the
+target language. Swain and Lapkin (1995) describe the hypothesis as follows:
+In producing the L2, a learner will on occasion become aware of (i.e., notice) a linguistic problem
+(brought to his/her attention either by external feedback (e.g., clarification requests) or internal
+feedback). Noticing a problem 'pushes' the learner to modify his/her output. In doing so, the
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 24
+learner may sometimes be forced into a more syntactic processing mode than might occur in
+comprehension. (p. 373)
+This hypothesis states that the syntactic mode of processing helps learners to internalize new forms (Pica,
+Holliday, Lewis, & Morgenthaler, 1989) and to improve the accuracy of their existing grammatical
+knowledge (Nobuyoshi & Ellis, 1993). The process of noticing can occur through learners' own reflection
+and monitoring or through triggers provided by others.
+5. Learners need to correct their linguistic output.
+When errors are recognized in comprehensible output, the process of the learner's self-correction is also
+believed to be beneficial particularly because the linguistic items for which self-correction occurs may be
+those for which learners' knowledge is fragile. Error correction affords the opportunity to "focus on form"
+(Long, 1988). Focus on form is expected to be beneficial when it occurs during the process of attempting
+to construct meanings. In other words, it is important that the language containing the noticed error be
+used in communication rather than for merely displaying examples of the target language. Corrections can
+come from learners' own hypothesis testing, from their requests for assistance from others, or from
+explicit correction.
+6. Learners need to engage in target language interaction whose structure can be modified for
+negotiation of meaning.
+Negotiation of meaning (Long, 1996) refers to the process of comprehending input with less than perfect
+comprehension, producing output with less than perfect success, identifying instances of imperfect
+communication and trying to resolve them. This process occurs when the normal conversational
+interaction is modified because of communication breakdowns. Miscommunication, as evidenced by
+modified interaction, focuses learners' attention on language, and through the resolution of
+miscommunication, makes input comprehensible. Larsen-Freeman and Long (1991) summarize this view
+of interactional modifications:
+Modification of the interactional structure of conversation or of written discourse during reading.
+. .is a [good] candidate for a necessary (not sufficient) condition for acquisition. The role it plays
+in negotiation for meaning helps to make input comprehensible while still containing unknown
+linguistic elements, and, hence, potential intake for acquisition. (p. 144)
+7. Learners should engage in L2 tasks designed to maximize opportunities for good interaction.
+Research attempting to examine how learning activities can best be constructed to produce ideal input,
+output and interaction has pointed out the importance of particular task features. Several approaches have
+been taken to define significant L2 task characteristics (e.g., Skehan, 1996); however, the most useful
+from the perspective of input, output, and interaction appears to be that of Pica, Kanagy, and Falodun
+(1993). Based on a review of research on L2 communication tasks, they identified two task features that
+play a role in prompting valuable interactions in L2 tasks. They categorized these features under two
+variables--interactional activity and communication goal--as presented in Table 1. The features included
+under interactional activity and communication goal define the characteristics of L2 tasks expected to
+influence learners' language in significant ways. For example, "interactant relationship" refers to whether
+the task requires a "two-way" information exchange for goal completion rather than requiring information
+to travel only "one-way" (Long, 1985). When the tasks require a "two way" interactant relationship, the
+quality of the interaction is superior.
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 25
+Table 1. L2 Task Features and Their Definitions
+Categories & Features Definitions
+Interactional activity
+Interactant roles W hat are the participants' roles relative to the
+information that must be exchanged (i.e., who
+holds, and needs the information)?
+Interactant relationship What is the relationship among participants in
+terms of how information flows among them?
+Interaction requirement Does the task goal require request and suppliance
+of information?
+Communication goal
+Goal orientation Do learner use information to work together to
+meet a goal?
+Outcome options How many outcome options exist for the task?
+This work which shows the significance of extralinguistic task characteristics in creating positive
+conditions for at least apprehension, comprehension, intake, and output argues for an expanded model of
+SLA--a model which includes relevant task characteristics. Because extralinguistic features can be
+devised by the instructor or materials developer, they are placed in a separate box in the revised model.
+The model shown in Figure 3 includes the same linguistic (input and output) and learner knowledge and
+processes (apprehension, comprehension, intake, integration, and linguistic system) as the model in
+Figure 1. However, this particular model adds to the psycholinguistic perspective (Figure 2) a means of
+expressing the task demands which influence psycholinguistic process and knowledge.
+Figure 3. SLA model that separates the observable language from learner processes, and that includes task
+characteristics
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 26
+IMPLICATIONS FOR MULTIMEDIA TASK DESIGN
+The hypotheses outlined above are supported by theory and research on SLA tasks in experimental
+settings in which L2 learners interact with other learners or proficient target language users. They are not
+guaranteed to apply directly to design of CALL activities; but they may provide a valuable starting point
+to look for principles to apply to CALL. This section describes CALL in a way that facilitates application
+of the hypotheses outlined above. Two hypothetical multimedia CALL activities are used to show how
+the hypotheses can be implemented in the design of multimedia CALL.
+CALL Software as a Participant in L2 Tasks
+CALL developers need to consider how software can provide learners with opportunities believed to
+facilitate SLA. In other words, it is useful to view multimedia design from the perspective of the input it
+can provide to learners, the output it allows them to produce, the interactions they are able to engage in,
+and the L2 tasks it supports. Because CALL software can actually play a role in input and interaction, it is
+useful to consider it as a participant in L2 tasks. The metaphorical perspective of the computer as a
+participant provides a means for extending the hypotheses outlined above to CALL.
+Examples of Multimedia CALL
+To illustrate how CALL materials might be constructed to support these positive linguistic conditions for
+learners, examples from two hypothetical cases of multimedia CALL are given. The first example is
+intended for high intermediate learners of French as a second language. The software consists of a
+database of text, audio, and video about tourism in the province of Québec in Canada. The database is to
+be used by learners to study the language of tourism and travel while planning a 10-day trip to Québec.
+The software allows learners to type or speak questions about tourist activities in French such as Où peut-
+on faire du canotage? (Where can one go canoeing?). The language recognition procedures of the
+software identify what the learner wants. The search mechanism of the software then finds the relevant
+instances in the database and displays them on the screen as a menu from which the learner can choose.
+Each choice contains links to further information about a particular spot in Québec.
+The second example is for high-intermediate learners of ESL who are studying in an intensive program in
+the U.S. or are preparing to do so. The activity is intended to teach the language of getting settled as a
+new student in a US university. The software is an interactive video story that takes the learner around the
+campus of the university and requires him or her to make decisions such as whether to live in the
+dormitory or an apartment, whether to have roommates or not, which classes to take, and what to say
+when talking to an advisor about a class schedule. The story takes different paths depending on the
+responses that the student makes.
+Suggested Criteria for Development of Multimedia CALL
+For each of the hypotheses about SLA drawn from the interactionist perspective, a corresponding
+suggestion for multimedia CALL can be made. Each of the following extends hypotheses that come
+primarily from the study of face-to-face oral communication between learners or between learners and
+proficient L2 speakers. As such, they attempt to describe multimedia characteristics in view of the
+psycholinguistic responses that they might evoke from learners rather than as exact replicas of
+conversations among learners.
+1. Making key linguistic characteristics salient.
+Linguistic features can be made salient in CALL activities by highlighting them in a different color when
+they appear in writing on the screen. When they occur in aural input, phrases containing linguistic
+elements may be transcribed on the screen, again with highlighting of the significant parts. Relevant
+linguistic features can be chosen by the CALL designer or the teacher. Alternatively, the software might
+be constructed to allow the learner to choose to see highlighted features such as the forms that are
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 27
+associated with formality in travel business transactions, expressions associated with evaluation of the
+potential sites and travel plans, or the expressions associated with travel arrangements. For example,
+when the learner of French as a second language requests information on where one can go canoeing, one
+of the options would be the Laurentide region. The video would show a travel agent who hands the
+learner a brochure about the Laurentides. If learners were provided with the option to make salient chosen
+aspects of the language, they might choose to see all the expressions showing a positive evaluation for the
+region. In response to the request, the program would display the first part of the description as shown in
+Figure 4.
+Imaginez, à quelques minutes de Montréal, un territoire aux mille visages. La région des Laurentides
+étale, avec une ostentation presque insolente, une panoplie de charme. La région offre, en plus de ses
+panoramas saisissants, un éventail d'attraits et d'équipements touristiques  de qualité et des plus diversifiés
+constituant une destination touristique par excellence.
+Imagine an area of a thousand faces within a few minutes from Montreal. The area of the Laurentides
+presents a panoply of attractions with an ostentation bordering on insolence. Besides its breathtaking
+views, the region offers a range of quality attractions and tourist facilities which makes it an excellent
+tourist destination.
+Figure 4. An example of the text in a hypothetical CALL activity for planning the itinerary for a trip to
+Québec.
+2. Offering modifications of linguistic input.
+In multimedia CALL, linguistic input can be provided through either written or aural language.
+Modifications of input can come in the form of repetition, simplification through restatements, non-verbal
+cues, decreased speed, reference materials, and change of input mode. For example, in the text shown in
+Figure 4, "modifications" might be provided by offering definitions of each of the words in the passage
+and simplifications of the phrases at the learners' request. For example, un territoire aux mille visages (a
+territory of a thousand faces) might be stated as une région avec beaucoup de diversité (a region with
+much diversity). These written phrases might be modified by restating them in spoken language. In short,
+if the input presented in instructional multimedia is intended to expand the learner's linguistic knowledge,
+it needs to offer opportunities for the learner to request modifications. Multimedia CALL materials that
+provide these types of linguistic modifications are distinct from the "authentic" materials found on the
+Web because they hold the potential to provide learners with comprehensible input rather than just input.
+3. Providing opportunities for "comprehensible output."
+Comprehensible output--either written or spoken--must be produced with the expectation that it is going
+to be "understood." Under these conditions, the learner is expected to attempt to use target language forms
+that may stretch his or her competence. In the interactive ESL story, for example, the learner might
+participate in an episode with an academic adviser, who would pose a question such as "Have you
+decided what you'd like to take in the fall?" The learner would need to respond to the question with
+something like "I want to take Anthropology 204," or "Do you think I could take Anthropology 204?"
+The speech recognition software would need to recognize acceptable responses to the advisor's question
+in order to compose a reply. It is important that learners expect their responses to be comprehended if
+they are syntactically well-formed and pragmatically appropriate. This expectation pushes them to
+attempt to use the target language forms attentively and constructively.
+4. Providing opportunities for learners to notice their errors.
+The output learners produce in multimedia CALL needs to be analyzed by the computer and/or reflected
+upon by the learner to identify errors. Output containing errors indexes areas in which the learners'
+linguistic system contains gaps or misconceptions about target language use, and therefore these mark the
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 28
+key areas to which their attention should be drawn. In the French travel database, for example, the
+learner's first attempt at the question about canoeing might have been something like  Où peut-on fait du
+canoe? (Where can one goes canoe?). Because the question in this case is written, and submitted by the
+learner, there is time for self-monitoring and corrections. The learner might, for example, be dissatisfied
+with the English version of canoe as soon as it is written and may check a dictionary for a more French-
+looking form to make the correction. The fact that the learner has the opportunity to recheck the question
+before entering it provides the opportunity to notice errors.
+5. Providing opportunities for learners to correct their linguistic output.
+When learners have focused their attention on their errors, they need to have the opportunity to correct
+themselves. They might be left to their own devices to make the corrections, but they might also be
+provided detailed error-specific help or access to more general reference materials. In the learner's
+question above, for example, the learner might change canoe to canotage, but fail to notice the
+grammatical error fait (goes) which should be faire (go). The program would then need to highlight this
+form to help the learner notice it and provide another opportunity to edit the question.
+6. Supporting modified interaction between the learner and the computer.
+The suggestions above imply that the learner engages in some forms of interaction with the computer.
+These interactions need to move the learner toward a task goal and stop progress along the way to focus
+on the language. Interaction can be accomplished through mouse clicks and hypertext links or through the
+learner's linguistic output and the software's speech recognition system. In the latter case, of course, the
+quality of the interaction will depend in part on the speech recognition capability of the software. For
+example, in the advising interview mentioned above, a successful interaction between the learner and the
+program will result in a fall semester schedule for the student. The program's capability for engaging in
+such a goal-oriented conversation with natural language would require more than language recognition at
+the word and sentence level. It would require a "knowledge base" about the courses, schedules, and
+advising routines.
+7. Acting as a participant in L2 tasks.
+The details of interaction need to be viewed within the larger context of the task, and particularly of the
+task goal and interactions. Interactions are hypothesized to be valuable when they occur in
+communication tasks, and particular types of communication tasks are expected to be best. This means
+that the tasks must focus the learner's attention on accomplishing a goal through the use of language
+rather than on solving problems of linguistic form. Such useful interactions occur when linguistic
+difficulties must be resolved in order to solve a non-linguistic problem. Both planning a trip to Québec
+and accomplishing start-of-school arrangements would be considered communicative tasks from the
+perspective of their goals. In addition to these CALL task goals, there is a need to situate the CALL tasks
+within other classroom tasks. For example, each French learner might first plan his or her own itinerary
+for the Québec trip and then negotiate within small groups to design several alternative tours for the
+whole class to vote on. Learners would use the language from the multimedia activity to argue for the
+quality of choices made. Students who chose canoeing in the Laurentides would need to use the positive
+evaluative language they noticed in reading the publicity to persuade the others about the quality of their
+idea to canoe in the Laurentides.
+EVALUATION OF MULTIMEDIA CALL ACTIVITIES
+SLA research provides some clear guidance for the evaluation of instructional activities. First, empirical
+evaluation of learners' task use is seen as critical for making judgements about the quality of the task. In
+other words, SLA research would reject the practice of evaluating instructional materials through
+checklists of task features alone. Second, SLA research exemplifies research methods which can be used
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 29
+to evaluate CALL. This section explains each of these points and provides examples of research questions
+that would evaluate the quality of each of the design suggestions.
+Evaluation as a Critical Part of Design
+Evaluation of pedagogical materials, which is considered an essential part of their design, refers to
+empirical research intended to discover how successful the materials are for learners. For many years
+SLA researchers have made the point that the process of classroom interaction reveals essential
+information about the quality of instruction (Long, 1980). As a consequence, observation and analysis of
+L2 classroom discourse has become a mainstay in L2 research (Allwright, 1988; Allwright & Bailey,
+1991; Chaudron, 1988; Day, 1986; Johnson, 1995; Seliger & Long, 1983; van Lier, 1988). Research on
+specific L2 tasks reflects the same methodological values (Crookes & Gass, 1993a, 1993b; Gass &
+Madden, 1986), with particular emphasis on the impact that learners themselves make in shaping the
+character of the task (Breen, 1987; Yule, 1997). The observation is that tasks are not prescribed as to the
+specific directions they can take and therefore learners' choices influence how a given task turns out. It
+follows that researchers and teachers do not have a clear conception of a task unless they observe how the
+task actually turns out during instruction.
+Research Methods for Evaluation
+Methods for evaluation include process-oriented observations of learners working on L2 tasks, and
+assessment of learning outcomes. One way of investigating task completion processes is to record
+learners' language during task completion and analyze it in view of hypothesized positive types of
+interactions. For example, in research on face-to-face tasks, learners completing a "jigsaw" task in which
+each person in a pair had to reproduce a picture used the language shown in Figure 5. The researchers
+analyzed the functions of each of the learners' moves and their relevance for SLA in view of the seven
+hypotheses described above. The second move shown in Figure 5 acts as a signal to one of the learners
+(Taro) to stop the description and clarify the previous utterance, which he does with a repetition. This in
+turn prompts the other learner (Ichi) to elaborate. This type of functional analytic methodology has not
+been developed thoroughly for interactions that take place between the computer and a learner although
+preliminary exploration has been attempted (Chapelle, 1990, 1994).
+Taro:    Its wall is completely white.
+Ichi:    Completely white?
+Taro:    Yeah, completely white.
+Ichi:    It looks not wood, it looks ah concrete.
+Figure 5. An example of process data from a jigsaw task (from Pica, Lincoln-Porter, Paninos, & Linnell,
+1996)
+A second form of process-oriented analysis relies on introspective methods to gain evidence about
+learners' goal-oriented strategies while they are working on L2 tasks. These methods have been used to
+discover the strategies learners use for SLA in various types of L2 tasks because they provide specific
+task-related data (Cohen & Hosenfeld, 1981; Ericsson & Simon, 1984; Oxford, 1990; Wenden & Rubin,
+1987). This methodology would also supply data about the processes learners use to work on CALL tasks
+as a study by Park (1994) illustrates, but much work is needed to link strategy data to information about
+CALL task features to get a better idea of how tasks can influence strategy use.
+Assessment of learning outcomes is a critical dimension of task evaluation that requires identification of
+what learners are supposed to acquire as a result of working on a task. In SLA research this has typically
+been accomplished by the researchers' identifying target linguistic items to be acquired and then testing
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 30
+learners after task completion. This approach has also been used in studies of CALL such as Nagata's
+(1993) study of Japanese particles and Doughty's (1991) study of relative clauses. Evaluation is successful
+when the researcher can identify specific forms that all learners are expected to acquire. However, in
+many communication tasks in which learners with different needs are exposed to a variety of input and
+interaction (Loschkey & Bley-Vroman, 1993), a more individualized approach to outcome assessment is
+required. To address this fact, a more flexible form of assessment is needed--one that tests those linguistic
+items that the learners choose to focus on. This is the approach Swain (1998) takes in constructing tests
+specifically designed for individual students to assess their knowledge of the linguistic elements they have
+chosen to focus on during task completion. This method of outcome assessment must be complemented
+by observing learners as they complete the task.
+Questions for Empirical Evaluation of Multimedia CALL
+The types of process-oriented research methods used in classroom research can yield large quantities of
+data because they attempt to document the course of instructional process over time. It is therefore useful
+to be able to focus description and evaluation on specific design features. The following research
+questions were developed to illustrate how evaluation procedures can be developed to parallel principles
+of design in CALL.
+1. Is there evidence that learners attended to salient linguistic characteristics of the target language
+input?
+Evidence might consist of learners introspective accounts of what they noticed and what they thought
+they had learned. Evidence might also be obtained through observation of improvement in the use of
+linguistic items that were made salient, or observation of subsequent use of the items. For example, the
+learner who asked to see positive evaluative language while gathering information from the database
+might then be observed using expressions such as the following to convince group members to go to the
+Laurentides: C'est une destination par excellence pour le canotage avec beaucoup de charme (It's a top
+destination for canoeing with lots of charm).
+If the linguistic items are chosen by the CALL designer or the teacher, the post-test can be constructed
+ahead of time as Doughty (1991) did to test acquisition of relative clauses that had been highlighted in the
+CALL materials. However, if the learner is going to request what will be highlighted, the post-test will
+have to be constructed on the basis of observation of the learner's choices.
+2. Do learners choose to see the modifications of linguistic input?
+Evidence for learners' requests for modifications is apparent in records of their interactions with the
+computer that can be stored for later analysis. For example, if the French learner requests a definition for
+cadre (view) from the phrase Le cadre naturel enchanteur (Enchanting views of nature), the event can be
+recorded as shown in Figure 6. In this case, the "normal interaction" for reading a text on a screen consists
+of the learner receiving input, and requesting more input (i.e., turning the "page" or scrolling down). This
+normal sequence is interrupted, or modified, when the learner clicked on a word and then on the
+dictionary icon to receive a definition.
+Computer: Le cadre naturel enchanteur a inspiré une foule d'artistes...
+A charming view of nature has inspired many artists...
+Learner: Clicks on cadre (view).
+Computer: Le cadre naturel enchanteur a inspiré une foule d'artistes...
+A charming view of nature has inspired many artists...
+Learner: Clicks on dictionary icon.
+Computer: "Le cadre" dans cette phrase veut dire "le contexte."
+"Le cadre" in this sentence means "setting."
+Figure 6. Example of a "request for modification" episode in CALL
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 31
+Depending on the learner's request, the computer might deliver a modification in the form of a repetition
+of aural text, a simplification (in linguistic complexity, non-verbal illustrations or reduced speed of aural
+input) or a change of mode. Given theory suggesting the importance of these interactions for making
+comprehensible exactly those linguistic items that learners need to acquire, research on the effectiveness
+of CALL needs to document their occurrence. One study (Hsu, 1994) investigated learners' use of
+"interactional modifications" in CALL by conducting a focused analysis of interactions between learners
+and the computer to identify their requests for modified input within a listening comprehension program.
+The normal interaction in this part of the program consisted of learners' requests for continuation of a
+story with accompanying pictures on one computer screen after another. The researcher counted as
+"interactional modification" sequences in which this normal interaction was interrupted by the learners'
+requests for repetitions, written transcriptions, or written definitions for words in the input. She recorded
+the specific linguistic input associated with each of the learner's requests and assessed outcomes through
+pre- and post-tests which had been constructed specifically to include the lexical phrases learners received
+in the input. Hsu found a relationship between requests for modifications and improvement on individual
+words. This finding stands in contrast to other studies that have found that requests for modifications are
+not correlated to overall post test performance on vocabulary tests (Chun & Plass, 1996).
+3. Do learners produce "comprehensible output"?
+Evidence for learners' attempts at producing comprehensible output might also be found in documentation
+of learners' work on CALL. For example, the question the French learner posed to the computer about the
+locations for canoeing--Où peut-on fait du canotage?(Where can one goes canoeing?)--is typed into the
+computer and can be stored along with other questions and the computer's responses. When linguistic
+output is produced orally, the program can record the learners' language along with the responses.
+Observation of comprehensible output, as it is defined in SLA research, requires learners' language used
+in achieving communicative task goals. Ideal cases of comprehensible output are observed in sequences
+consisting of the learners' unsuccessful attempts at expression followed by their linguistic modification of
+the form perceived as problematic.
+4. Is there evidence that learners notice errors in their output?
+Swain and Lapkin (1995) operationally defined beneficial output as learners' language containing errors
+followed by learners' language in which the errors have been modified. They argue that the benefits of
+such sequences derive from the learners' attention to linguistic forms for which their knowledge is
+incomplete. The fact that attention is paid to these forms is more important than how attention is drawn to
+them. The learner may be the one to recognize, without external prompting, a problem in his or her own
+output. In such cases, the data would display the learner's original form, the process of correction (e.g.,
+editing), and the learner's final form. Such "self-monitoring" strategies have been found in data from
+CALL (Jamieson & Chapelle, 1987). The second turn of the learner in the sequence of moves in Figure 7
+would provide evidence for learners' noticing their own errors.
+Computer: Qu'est-ce que vous voulez savoir du Québec?
+What would you like to know about Québec?
+Learner: Où peut-on fait du canoe?
+Where can one goes canoe?
+Learner: Où peut-on fait du canotage?
+Where can one goes canoeing?
+Computer: Il faut corriger le verbe: Où peut-on faire du canotage?
+You have to correct the verb: Where can one go canoeing?
+Learner: Où peut-on faire du canotage?
+Where can one go canoeing?
+Figure 7. Example of interactions indicating noticing of errors
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 32
+5. Do learners correct their linguistic output?
+The computer's second turn in Figure 7 draws the learner's attention to the error with a subsequent attempt
+at correcting it. This sequence of error, correction, error, error identification, and attempt at correction
+would be considered evidence of comprehensible output. This example illustrates two instances of
+learners' attempting to correct their own output. In both cases these types of exchanges are possible
+because the learner possesses some knowledge of the linguistic item, even if it is fragile. The "canoe"
+error is noticed on the basis of the learner's own suspicions about the too-English-looking form she has
+typed. The second can be modified once the location of the problem is identified. If the learner's
+knowledge of a specific item is non-existent, the observed interaction might look more like the exchange
+in Figure 8. In this case, it appears that learner does not see the problem with the verb produced until it is
+explicitly pointed out by the computer.
+Advisor: Have you decided what you'd like to take in the fall?
+Learner: I like Anthropology.
+Advisor: You would like to take Anthropology?
+Learner: Yes, I like Anthropology?
+Advisor: You should use the expression "would like" to indicate "want."
+Learner: Oh, yes, I would like Anthropology.
+Figure 8. Example of error correction as a result of explicit error identification
+6. To what extent do the learners interact with the computer to engage in modified interaction focusing
+on form and meaning?
+This question addresses in quantitative terms the extent to which the learners are actually able to use the
+program as an interactant in order to engage in beneficial interactions that were outlined above. A CALL
+program can be constructed to allow for beneficial interactions, but that program is only as useful as the
+interactions that actually occur when particular learners make use of it. Past research investigating
+learners' interactions has demonstrated great variation in the amount of optional interactions learners
+engage in (Bland, Noblitt, Armington, & Gay, 1990; Chapelle & Mizuno, 1989; Hsu, Chapelle, &
+Thompson, 1993). Moreover, construction of the types of goal-oriented interactions illustrated by the
+hypothetical examples in this section require sophisticated language recognition software for the program
+to maintain its role as interlocutor.
+7. Do learners work toward communication-oriented goals?
+Evidence for learners' working toward communicative goals may be seen in the types of language
+sequences they produce. The hypothetical examples in Figures  6, 7, and 8 are intended to illustrate
+learners' interaction with communication-focused goals in a multimedia program. In each case the
+language or mouse-clicks appear to be moving the learner closer to finding or communicating meaning
+which has some purpose in view of a communicative task goal. Another way of documenting learner's
+goals is through their introspective accounts of what they are working on during CALL tasks (Park,
+1994). Such data may be useful for showing the extent to which learners move back and forth from
+focusing on communication goals to noticing form.
+CONCLUSION
+Even though much remains to be learned about SLA, existing research results support some hypotheses
+that are relevant to the construction of multimedia CALL software. According to Larsen-Freeman and
+Long (1991), interactionist SLA
+has potentially great practical importance for educators. . .since input (and the structure of
+conversation) is something that can be manipulated. Research findings are of interest to [second
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 33
+language] materials writers, [second language] curriculum developers and classroom teachers. . . .
+(p. 128)
+This paper attempted to identify some specific implications of research findings for CALL design and
+evaluation that can provide a starting point for development of a complementary relationship between
+SLA research and CALL practice.
+ABOUT THE AUTHOR
+Carol Chapelle is a professor in the Department of English and Program in Linguistics at Iowa State
+University where she teaches courses in second language acquisition, language testing, and computers in
+applied linguistics. She has published extensively in the areas of computer-assisted language learning and
+language assessment.
+E-mail: carolc@iastate.edu
+REFERENCES
+Allwright, D. (1988). Observation in the language classroom. London: Longman.
+Allwright, D., & Bailey, K.M. (1991). Focus on the language classroom: An introduction to classroom
+research for language teachers. Cambridge: Cambridge University Press.
+Bland, S. K., Noblitt, J. S., Armington, S., & Gay, G. (1990). The naive lexical hypothesis: Evidence
+from computer-assisted language learning. Modern Language Journal, 74, 440-450.
+Breen, M. P. (1987). Learner contributions to task design. In C. N. Candlin, & D. Murphy (Eds.),
+Language learning tasks. Lancaster Practical Papers in English Language Education, Vol. 7 (pp. 23-46).
+Englewood Cliffs, NJ: Prentice-Hall International.
+Chapelle, C. (1994). CALL activities: Are they all the same? System, 22(1), 33-45.
+Chapelle, C. A. (1990). The discourse of computer-assisted language learning: Toward a context for
+descriptive research. TESOL Quarterly, 24, 199-225.
+Chapelle, C., & Mizuno, S. (1989). Students' strategies with learner-controlled CALL. CALICO Journal,
+7(2), 25-47.
+Chaudron, C. (1988). Second language classrooms: Research on teaching and learning. Cambridge:
+Cambridge University Press.
+Chun, D. M., & Plass, J. L. (1996). Effects of multimedia annotations on vocabulary acquisition. The
+Modern Language Journal, 80, 183-198.
+Cohen, A., & Hosenfeld, C. (1981). Some uses of mentalistic data in second language research. Language
+Learning, 31, 285-313.
+Crookes, G., & Gass, S. (Eds.). (1993a). Tasks in a pedagogical context: Integrating theory and practice.
+Clevedon, England: Multilingual Matters, Ltd.
+Crookes, G., & Gass, S. (Eds.). (1993b). Tasks and language learning: Integrating theory and practice.
+Clevedon, England: Multilingual Matters, Ltd.
+Day, R. (Ed.). (1986). Talking to learn: Conversation in second language acquisition. Rowley, MA:
+Newbury House.
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 34
+Doughty, C. (1992). Computer applications in second language acquisition research: Design, description,
+and discovery. In M. Pennington, & V. Stevens (Eds.), Computers in applied linguistics: An international
+perspective (pp. 127-154). Clevedon, Avon: Multilingual Matters, Ltd.
+Doughty, C. (1991). Second language instruction does make a difference: Evidence from an empirical
+study of SL relativization. Studies in Second Language Acquisition, 13, 431-469.
+Doughty, C. (1987). Relating second-language acquisition theory to CALL research and application. In
+W. F. Smith (Ed.), Modern media in foreign language education: Theory and implementation (pp. 133-
+167).
+Ellis, R. (1994). The study of second language acquisition. Oxford University Press.
+Ericsson, K., & Simon, H. (1984). Protocol analysis--Verbal reports as data. Cambridge, MA: The MIT
+Press.
+Gass, S. (1997). Input, interaction, and the second language learner. Mahwah, NJ: Lawrence Erlbaum
+Associates Publishers.
+Gass S. M., & Madden C. G. (Eds.). (1985). Input in second language acquisition. Rowley, MA:
+Newbury House Publishers.
+Hsu, J. (1994). Computer assisted language learning (CALL): The effect of ESL students' use of
+interactional modifications on listening comprehension. Unpublished doctoral dissertation. Department of
+Curriculum and Instruction, College of Education, Iowa State University, Ames, IA.
+Hsu, J., Chapelle, C., & Thompson, A. (1993). Exploratory learning environments: What are they and do
+students explore? Journal of Educational Computing Research, 9, 1-15.
+Jamieson, J., & Chapelle, C. (1987). Working styles on computers as evidence of second language
+learning strategies. Language Learning, 37, 523-544.
+Johnson, K. E. (1995). Understanding communication in second language classrooms. Cambridge:
+Cambridge University Press.
+Krashen, S. (1982). Principles and practice in second language acquisition. Oxford: Pergamon.
+Larsen-Freeman, D., & Long, M. (1991). An introduction to second language acquisition research.
+London: Longman.
+Long, M. H. (1996). The role of linguistic environment in second language acquisition. In W. C. Ritchie,
+& T. K. Bhatia, (Eds.), Handbook of second language acquisition (pp. 413-468). San Diego: Academic
+Press.
+Long, M. H. (1988). Instructed interlanguage development. In L. Beebe (Ed.), Issues in second language
+acquisition: Multiple perspectives (pp. 115-141). New York: Newbury House.
+Long, M. H. (1985). Input and second language acquisition theory. In S. M. Gass, & C. G. Madden
+(Eds.), Input in second language acquisition (pp. 377-393). Rowley, MA: Newbury House Publishers.
+Long, M. (1980). Inside the "black box": Methodological issues in classroom research on language
+learning. Language Learning, 30, 1-42.
+Loschky, L., & Bley-Vroman, R. (1993). Grammar and task-based methodology. In G. Crookes and S.
+Gass (Eds.), Tasks and language learning: Integrating theory & practice (pp. 123-167). Clevedon,
+England: Multilingual Matters, Ltd.
+Nagata, N. (1993). Intelligent computer feedback for second language instruction.  The Modern Language
+Journal, 77(3), 330-339.
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 35
+Nobuyoshi, J., & Ellis, R. (1993). Focused communication tasks. English Language Teaching Journal, 47,
+203-210.
+Oxford, R. L. (1990). Language learning strategies: What every teacher should know. New York:
+Newbury House Publishers.
+Park, Y. (1994). Incorporating interactive multimedia in an ESL classroom environment: Learners'
+interactions and learning strategies. Unpublished doctoral dissertation. Department of Curriculum and
+Instruction, College of Education, Iowa State University, Ames, IA.
+Pica, T. (1997). Second language teaching and research relationships: A North American view. Language
+Teaching Research, 1(1), 48-72.
+Pica, T. (1994). Research on negotiation: What does it reveal about second-language learning conditions,
+processes, and outcomes? Language Learning, 44(3), 493-527.
+Pica, T., Holliday, L., Lewis, N., & Morgenthaler, L. (1989). Comprehensible output as an outcome of
+linguistic demands on the learner. Studies in Second Language Acquisition, 11, 63-90.
+Pica, T., Kanagy, R., & Falodun, J. (1993). Choosing and using communication tasks for second language
+instruction. In G. Crookes, & S. Gass (Eds.), Tasks and language learning: Integrating theory & practice
+(pp. 9-34). Clevedon, England: Multilingual Matters, Ltd.
+Pica, T., Lincoln-Porter, F., Paninos, D., & Linnell, J. (1996). Language learners' interaction: How does it
+address the input, output, and feedback needs of L2 learners? TESOL Quarterly, 30(1), 59-84.
+Ritchie, W. C., & Bhatia, T. K. (Eds.). (1996). Handbook of second language acquisition. San Diego:
+Academic Press.
+Robinson, P. (1995). Attention, memory and the "noticing" hypothesis.  Language Learning, 45, 285-331.
+Schmidt, R. W. (1990). The role of consciousness in second language learning.  Applied Linguistics,
+11(2), 129-158.
+Schmidt, R., & Frota, S. (1986). Developing basic conversational ability in a second language: A case
+study of an adult learner of Portuguese. In R. Day (Ed.), Talking to learn: Conversation in second
+language acquisition. Rowley, MA: Newbury House.
+Seliger, H. W., & Long, M. H. (Eds.). (1983). Classroom oriented research in second language
+acquisition. Rowley, MA: Newbury House Publishers.
+Sharwood Smith, M. (1993). Input enhancement in instructed SLA: Theoretical bases. Studies in Second
+Language Acquisition, 15, 165-179.
+Sharwood Smith, M. (1991). Speaking to many minds. Second Language Research, 7, 118-132.
+Skehan, P. (1996). A framework for implementation of task-based instruction.  Applied Linguistics,
+17(1), 38-62.
+Swain, M. (1998). Focus on form through conscious reflection. In C. Doughty, & J. Williams (Eds.),
+Focus on form in classroom second language acquisition (pp. 64-81). Cambridge: Cambridge University
+Press.
+Swain, M. (1985). Communicative competence: Some roles of comprehensible input and comprehensible
+output in its development. In S. M. Gass, & C. G. Madden (Eds.), Input in second language acquisition
+(pp. 235-253). Rowley, MA: Newbury House Publishers.
+Swain, M., & Lapkin, S. (1995). Problems in output and the cognitive processes they generate: A step
+towards second language learning. Applied Linguistics, 16, 371-391.
+Carol Chapelle Multimedia Call: Lessons To Be Learned ...
+Language Learning & Technology 36
+Wenden, A., & Rubin, J. (Eds.). (1987). Learners strategies in language learning. Englewood Cliffs, NJ:
+Prentice Hall.
+van Lier, L. (1988). The classroom and the learner. London: Longman.
+Yule, G. (1997). Referential communication tasks. Mahwah, NJ: Lawrence Erlbaum Associates.

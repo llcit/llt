@@ -1,0 +1,298 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol13num2/emerging.pdf 
+June 2009, Volume 13, Number 2 
+pp. 3-9 
+ 
+Copyright © 2009, ISSN 1094-3501 3
+EMERGING TECHNOLOGIES 
+PERSONAL LEARNING ENVIRONMENTS 
+Robert Godwin-Jones 
+Virginia Commonwealth University 
+Language instructors in higher education are finding that the current generation of students is coming to 
+campus with quite sophisticated technology skills and habits. Many are fully conversant with and 
+committed to communicating through social networking sites. They use on a regular basis a variety of 
+Internet-based services to manage much of their lives: to locate and obtain resources, plan free time, 
+maintain contact with peers, access media, stay informed, and maybe even learn a language. These 
+students find waiting for them at most universities a quite different use of the Internet: communication 
+predominantly through email and interactions with instructors and peers through a top-down, fairly 
+inflexible learning management system. Some instructors are finding that they are able to provide a 
+flexible and creative learning environment more in tune with today's students through the use of (mostly) 
+free tools that allow for a customized set of resources and services. Instructors choose a variety of mini-
+applications or widgets, with the resulting Web site becoming what is often referred to as a Personal 
+Learning Environment (PLE). 
+INTEGRATION TOOLS 
+It has been possible for some time to create a personalized home page through services such as My Yahoo 
+or my.msn.com (now Windows Live). Many teachers have used the availability of such services to create 
+Web sites for their students, particularly in situations where no Web page hosting is available or where 
+restrictions on Web posting hamper teachers' efforts to provide resources to students. More recent home 
+page creation services offer greater flexibility and functionality than earlier options. They are also 
+designed to be easy to use, requiring nothing more than checking off the desired components to create a 
+page. iGoogle, for example, greets first-time users with the message, “Create your homepage in under 30 
+seconds” with a list of checkable interests, a theme to select, and a location to specify. Filling out the form 
+creates a typical page structure, with three columns and a sidebar, displaying the services selected in self-
+contained boxes. Google calls its Web page components “gadgets,” which include the typical range of 
+news feeds, simple games, search, calendar, email, movie reviews. iGoogle also features localized options 
+such as weather, movie listings, or restaurant recommendations. The page can be customized in terms of 
+both look and functionality but retains the same basic structure. It is also possible to create one's own 
+gadget. This is a simple process of choosing a pre-defined behavior or of pasting in existing HTML or 
+XML code. 
+Laowai Chinese provides a good example of the use of an integration tool like iGoogle for language 
+learning. The iGoogle page collects and displays the headlines/links to 21 different Chinese language 
+learning blogs and Web services on one page. Since it uses RSS (Really Simple Syndication) feeds to 
+gather this information, the latest additions to the targeted Web sites are shown. Users are able to 
+rearrange, add, or remove content, thus customizing the page to fit individual needs and interests. This 
+provides a quick and easy way for Chinese learners to skim multiple Web sources without having to 
+navigate to them individually. 
+Oskar Casquero's PLE project also uses iGoogle as a means to put together learning services and 
+materials. The concept is that a university might create a set of fixed, pre-configured widgets containing 
+institutional tools, services, and information. The user (student or instructor) is then able to add 
+individually desired widgets to this mix. iGoogle was chosen as the front-end for several factors. The 
+“canvas” view option in iGoogle enables a full-page display of a given widget, important for optimal use 
+of some communication or writing/editing tools. iGoogle also features topic-based tab creation, which 
+Robert Godwin-Jones Personal Learning Environments 
+ 
+allows search results for a given topic (like “learn Chinese”) to be automatically added as a tab with 
+widgets. The project also plans to use the Google App Engine to create server-side applications that 
+collect and process data from selected widgets, and then detect common patterns to build new services 
+such as recommended resources or suggested new interest groups. 
+Another popular integration tool is Netvibes, a free service from France. Like iGoogle, Netvibes uses 
+“themes” to allow for different looks and also allows creation of widgets. Netvibes allows for users to 
+easily designate pages as private or public. An example of how to put together a Netvibes site for 
+educational/institutional use is the home page for the Kankakee (Illinois) Public Library. The Bamboo 
+Project blog describes a number of interactive widgets used in a Netvibes PLE. The service that seems to 
+currently be among the most popular with teachers is Pageflakes. In fact, Pageflakes has a specific 
+starting page designed for teachers, which features widgets such as a teaching schedule, Google Research 
+search field, grade tracker, and free access to a file server service. It has an especially large number of 
+widgets available, called “flakes,” and features a full, multipage desktop interface. It has some innovative 
+features which have contributed to its popularity, including drag and drop of widgets from one page to 
+another (not only within the same page), and a very nice user interface. Like other integration tools, 
+Pageflakes has recently increased the options for integrating social networking services into its sites. 
+An interesting example of Pageflakes used to create a course-oriented PLE is the home page for 
+Intermediate Italian created by Professor Enza Antenos-Conforti at Montclair State University (link to 
+CALICO 2009 conference presentation). The starting page features the following components: course 
+announcements, a mini-blog (discussion in Italian), discussion forum (practical issues, in English), 
+YouTube video (showing an Italian language video), news in Italian (RSS feed from an Italian 
+newspaper), shared bookmarks, and a to-do assignment list. Professor Antenos-Conforti was easily able 
+to re-arrange the look and feel of the site, dragging and dropping widgets and changing from a 3-panel to 
+a 2-panel display. Pageflakes pages by default are private. The “pagecasting“ feature is used to grant 
+others access, which can be either to anyone or to a select group. Guest access by default is read only, but 
+it is also possible to give editing privileges to others. 
+There tend to be similar kinds of tools and services that are included in such course-oriented PLEs: 
+Chat. Synchronous private or group communication, which may be through traditional instant 
+messaging, or newer options such as Skype or Twitter 
+Calendar/To-do-list. Class assignments/announcements and keeping track of work done; can be 
+a clickable list 
+News Feeds. RSS feeds with the option of customizing to pull in items on a specific topic, from a 
+particular source, or in a given language 
+Personal Publication Tools. Blogs or wikis, for individual or group reading/writing 
+Social Bookmarking. Services such a Delicious provide a means to recommend sites to others in 
+a group; some offer rating and annotation options 
+Writing Tool. Simple text editor or on-line word processor 
+Media Player. For display of streaming video, podcasts; ideally with audio recording option 
+Language Tools. On-line dictionaries, word lists 
+File storage/distribution. Could be a service such as Box.net or collector for specific kind of 
+file, like Flickr 
+Quizzing/Polling. Tools such as Blog Quiz provide basic assessment types; dukaBUZZ supplies 
+an audio polling widget 
+Language Learning & Technology 4
+Robert Godwin-Jones Personal Learning Environments 
+ 
+Not all these tools would be needed in all situations, but together they offer a variety of language use 
+options: writing in different contexts/registers, practicing speaking and listening, and reading short, peer 
+posts as well as longer native speaker texts. Most integrator sites offer the option to display page info in 
+languages other than English. Other typical teaching services such as a shared whiteboard, mind mapping, 
+or slideshow presentation could also be included. It is also possible to integrate social networks such as 
+Facebook or MySpace, although students sometimes seem to prefer to separate private and educational 
+spheres. 
+WIDGETS AND STANDARDS 
+In addition to the tools/services listed above, services like iGoogle, Netvibes, and Pageflakes make 
+available to users a large number of widgets they can add to their personal pages. In addition, there are 
+sites that offer collections of widgets, such as Widgetbox, Widgipedia, and Clearspring. They allow for 
+search or category-based browsing. On the largest of these sites, Widgetbox, a search reveals some 2,600 
+widgets in the education category and some 80 for language learning. The latter tend to be applications 
+such as flashcards, Web page translators, dictionaries, or word of the day, but also include mini-apps like 
+a multi-lingual text to speech engine, a Second Life language learning integrator, and HowStuffWorks 
+(for content-based English language learning). Not all widgets found in collector sites will work in all 
+environments. In fact, there are two principal kinds of widgets: desktop and Web. Desktop widgets are 
+designed to run in particular environments, such as the Dashboard system for Macintosh OS X or the 
+“sidebar” in Microsoft Vista. Web widgets, on the other hand, can be deployed more widely. While they 
+may be designed for a particular service, they can generally work on any Web page. This may require 
+some adjustments to the code, which, if created in one of the widget authoring environments, will be done 
+automatically through the export/integration process. 
+Both desktop and Web widgets have the same basic components. Fundamentally, they use Web 
+compatible formats, even if intended to run in a desktop environment. This means that the core of the 
+widget is HTML and CSS code which contains the actual content of the widget, namely text, linked 
+images/video or content pulled from a server of Web service. Alternatively, the widget content can be 
+created using Flash, although this may limit its use on some mobile devices. The content is contained 
+within an XML file that provides essential metadata about the widget, such as its name, version, language, 
+etc. The third component of most widgets is JavaScript, which is used to provide the programming logic 
+behind any interactivity in the widget. To make widgets run in different environments typically 
+necessitates only changing elements of the metadata contained in the XML file. There are sites such as 
+Wix.com or Sproutbuilder.com that provide tools for creating widgets through a simple drag and drop 
+interface. 
+A powerful feature of widgets is the ability to pull information from a server in order to continuously 
+update data displayed to the user, or to have data pre-loaded to browser memory, so as to be available for 
+quick display as needed. This kind of background server-client interaction is often described as AJAX 
+(Asynchronous JavaScript and XML). There are many AJAX code libraries available, which make the 
+tasks of creating widgets on Web pages using AJAX much easier. There is an effort underway, called 
+OpenAjax Alliance, which aims to make it easier to mix and match components from different AJAX 
+libraries. Another effort to achieve increased interoperability is OpenSocial, from Google. OpenSocial 
+defines a set of APIs for social networking services to be accessed and run within different Web 
+environments, including widgets. One of the more popular tools for building social networks, Ning, has 
+adopted the OpenSocial standard, as has iGoogle. 
+INTERFACING WITH LEARNING MANAGEMENT SYSTEMS (LMS) 
+Ning is one of a set of Web services that aim to be easily customizable portals for interest groups. Several 
+such services have been designed specifically for educational use, such as Colloquia and Elgg. Both are 
+Language Learning & Technology 5
+Robert Godwin-Jones Personal Learning Environments 
+ 
+free, open-sources groupware systems. Colloquia, formerly known as Learning Landscapes, features off-
+line access to learning materials. Elgg features multipage page views (i.e., for mobile devices), easier 
+theme-based customization and a widget framework. 
+Other systems have been built to have widgets as their core. This is the case with LAMS, Learning 
+Activity Management Systems. The creators of LAMS have designed the integration of widgets as a 
+means to extend the concept of “learning design” (LD), as exemplified in the IMS LD specification. The 
+main focus in this sense of LD is on collaborative, activity-based learning, rather than on content delivery 
+and formal sequencing. LAMS uses a graphic workflow model for authoring, which is quite different 
+from authoring in a traditional LMS. Authors drag and drop the widget-like “activities” and then 
+determine display and sequencing. LAMS allows instructors to share activities and to easily customize 
+activities to one's own needs. 
+LAMS provides tools for its integration into LMSs such as Moodle, Blackboard, and Sakai. In fact, there 
+has been considerable interest in integrating services such as Netvibes or Pageflakes into a traditional 
+LMS. There are demos available that show Netvibes and Protopage integration into Desire2Learn. In the 
+Netvibes integration, the Netvibes page is used as the home page within Desire2Learn, while the 
+Desire2Learn toolbar is still available at the top of the page. This setup allows the instructor to 
+incorporate easily tools such as blogs, wikis, Skype, or slideshows into a course site. This also offers the 
+benefits that the page potentially could be used within a different LMS, should the university decide to 
+change products. 
+This kind of integration may also raise the issue of the need for having an LMS at all. In fact, instructors 
+are using products such as Pageflakes to replace the use of an LMS like Blackboard. At the 2009 
+CALICO Annual Conference, the titles of two sessions point in this direction: “Beyond Blackboard: 
+Using Wikis in L2 Composition and Collaboration” and “Pageflakes vs. Blackboard, the LMS Winner by 
+T.K.O...Pageflakes.” The large number of widgets available may make the smaller number of services 
+and tools available in a mainstream LMS seem paltry by comparison. The quick and easy drag and drop 
+interface for a PLE generally is more intuitive and flexible than the authoring interface for a LMS. The 
+possibility for students to further customize the PLE is an additional benefit. Indeed, the possibility exists 
+for the entire learning environment to be personalized by the student, depending on individual learning 
+styles, needs and course requirements. Finally, the PLE, in contrast to an LMS, does not need to be 
+course-bound. Peer-to-peer and student-teacher contact through the PLE can easily continue independent 
+of the academic calendar. This makes the PLE seem a more compelling environment for informal and 
+life-long learning. In fact, there is some work being done on PLEs as forms of e-portfolios. 
+At the same time, there are compelling arguments for an institution to maintain an LMS. Typically an 
+institution has put time, energy and manpower into setting up and running an LMS. This is also a system 
+that offers robust support services, even if they may be quite expensive. PLEs use services not hosted by 
+the institution. As a consequence, the institution will not have control over that content or be responsible 
+for its maintenance. This raises issues of security and reliability. E-learning services have become 
+mission-critical on campuses and institutions may be leery of having essential services and data located 
+on third-party servers. 
+There are also some specific services offered by an LMS that are more difficult to implement within a 
+PLE. User authentication may be at the top of that list. This is awkward in a tool like Pageflakes, but is 
+handled automatically and seamlessly in an LMS like Blackboard (assuming integration with student 
+services has been done). Assessment options tend to be much more limited in a PLE, and less secure. It is 
+possible to use tools like Hot Potatoes or Blog Quiz with a PLE, but they do not provide robust options 
+for formal assessment. Electronic gradebook integration is also much easier in an LMS. Finally, both 
+teachers and students may feel more comfortable with a known and uniform learning environment. The 
+decentralization that a PLE offers promises more flexibility but also greater complexity. Currently, it is 
+Language Learning & Technology 6
+Robert Godwin-Jones Personal Learning Environments 
+ 
+not nearly as quick and easy to set up a course Web site in Pageflakes or iGoogle as it is in Blackboard or 
+Moodle. 
+OUTLOOK 
+LMSs have been slow in adapting to new developments on the Web in terms of social networking and 
+widgets. They also tend to remain fixed in the instructor-designated, top-down approach, which differs 
+markedly from the ever more collaborative environment which is the hallmark of Web 2.0. There has 
+been some movement among LMSs, with Blackboard, for example, adding blogs and allowing third-party 
+tools to be integrated through its Building Blocks initiative. Despite Blackboard’s stated plans several 
+years ago to support Web 2.0 tools, Desire2Learn and Angel have gone further in providing new 
+collaborative options for users. The most flexible major LMS remains Moodle. With its modular design, 
+it is fairly easy to add functions and features through installation of additional modules. For language 
+learning, the additional flexibility and interactivity of Moodle tend to tip the scales in its favor. 
+Epoche.net gives an interesting example of enhancing Moodle for language learning through the addition 
+of social networking sites. One of the developments which may be helpful in allowing and encouraging 
+more mainstream LMSs to offer more options is the IMS Tools Interoperability standard. This provides a 
+means for third-party tools to be integrated into an LMS. 
+PLEs are intriguing to many educators because they seem to hold out the promise of using technology in 
+a way that better parallels the student-centered approach of today's classrooms. Some proponents of PLEs 
+see this approach as the needed counterpoint to intelligent tutors. In “Designing for Change,” Wild, 
+Mödritscher, and Sigurdarson (2008) write,  
+Planned adaptation takes experiences away from the learners: external planning keeps them from 
+becoming competent, as it takes chances to self-organise away and personal discovery is 
+prevented. Learners, however, are not only sense-makers instructed by teachers along a 
+predefined path. Learners need to actively adapt their learning environment to their needs so that 
+they can construct the competences necessary for successful learning. (p. 3)  
+The authors argue that the process of creating a PLE can itself be a learning outcome. It certainly is the 
+case that if an easy-to-use PLE could provide a common site for institutional instructional use, informal 
+learning, on-the-job training, and a form of e-portfolio, this would offer a compelling alternative to an 
+LMS. 
+ 
+REFERENCES 
+Wild, F., Mödritscher, F., & Sigurdarson, S. (2008). Designing for change: Mash-up personal learning 
+environments. eLearning Papers, 9. Retrieved April 15, 2009 from 
+http://www.elearningeuropa.info/files/media/media15972.pdf 
+ 
+RESOURCE LIST 
+Personal Portal Services & Integrator Tools 
+• Create a Customized Web Portal with Netvibes From PC World 
+• Creating a Librarian's Info-Portal with Netvibes and RSS 
+• iGoogle 
+• My Yahoo 
+Language Learning & Technology 7
+Robert Godwin-Jones Personal Learning Environments 
+ 
+• Netvibes 
+• Ning 
+• OUseful Info: An Institutional Dashboard Using Pageflakes 
+• Pageflakes 
+• Pageflakes - Teacher Edition 
+• Pageflakes - Teacher Start Page 
+• Personalized Start Pages from About.com 
+• Protopage 
+ 
+Personal Learning Environments: Info & Projects 
+• Colloquia 
+• Developing a Personal Learning Environment for Language Learning Using Web 2.0 Tools Video 
+• EuroCALL 2008 Virtual Strand: Developing Personal Learning Environments Using Web 2.0 Tools 
+• Personal Learning Environments 
+• Phillip D. Long on Virtual Learning Environments 
+• Ple/Report - CETISwiki 
+• Social Web and Language Learning 
+• The Personal Learning Environments Blog 
+• The Present and Future of Personal Learning Environments 
+• Virtual Learning 
+ 
+Learning Management Systems vs. Personal Learning Environments 
+• CopperCore Run Time (CCRT) Environment 
+• Desire2Blog: Web 2.0 Inside D2L - Netvibes as Home Page 
+• Desire2Blog: Web 2.0 Inside D2L - ProtoPage Widgets 
+• Facilitating Language Learning with LMS: (A Brief Review on Blackboard and Moodle) 
+• From VLE via PLE to SLN 
+• LAMS: Learning Activity Management System 
+• Pageflakes vs Blackboard 
+• The Ed Techie: The VLE/LMS is Dead 
+ 
+Widget Collections 
+• Clearspring 
+• Etiqueta Language Learning - Widgets de Netvibes 
+• Gadgets API - Google Code 
+• Gadgets MS 
+• Language Widgets From Widgipedia 
+• SpringWidgets 
+• Top iGoogle Gadgets Series - Continuous Learning & Development 
+• Widgetbox 
+Language Learning & Technology 8
+Robert Godwin-Jones Personal Learning Environments 
+ 
+Language Learning & Technology 9
+• Widgetbox - Language Widgets 
+• Widgets 1.0: The Widget Landscape (Q1 2008) 
+• Widgipedia 
+• Laowai Chinese “Learn Chinese” iGoogle Page Grand Unveiling 
+ 
+Standards 
+• OpenAjax Alliance - Architecture 
+• OpenAjax Alliance - Wikipedia, the Free Encyclopedia 
+• OpenACS Home 
+• OpenSocial 
+• IMS Learning Design Specification 
+• IMS Tools Interoperability Guidelines 

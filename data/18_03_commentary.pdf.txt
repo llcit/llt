@@ -1,0 +1,165 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2014/commentary.pdf 
+October 2014, Volume 18, Number 3 
+pp. 1–4 
+ 
+Copyright © 2014, ISSN 1094-3501 1 
+THE VALUE OF SCMC IN SLA:  
+COMMENTS ON LIN, HUANG & LIOU (2013) 
+ Alan M. Taylor, Brigham Young University-Idaho 
+Meta-analytic methods are often used to determine the effectiveness of certain treatments 
+across studies. However, we are often unaware of how a meta-analysis can provide value 
+to researchers and practitioners. This paper offers a brief commentary on a meta-analysis 
+conducted by Lin, Huang and Liou (2013) in LLT, providing further statistical evidence of 
+the importance of their results.  
+Keywords: Computer-Mediated Communication, Research Methods, Computer-Assisted 
+Language Learning, Language Learning Strategies. 
+APA Citation: Taylor, A. M.  (2014). The value of SCMC in SLA: Comments on Lin, 
+Huang & Liou (2013). Language Learning & Technology, 18(3), 1–4. Retrieved from 
+http://llt.msu.edu/issues/october2014/commentary.pdf 
+Copyright: © Alan M. Taylor 
+INTRODUCTION 
+Since meta-analytic research can provide robust conclusions about experimental treatments and their 
+effects across studies, I found of great interest the recent LLT article by Lin, Huang and Liou (2013). 
+More importantly, I think it can be very helpful to our field because it provides further evidence for 
+improving L2 learning through computer-assisted language learning.  The value of meta-analytic methods 
+was effectively shown in their study because, at first glance, the results of the studies do not seem 
+substantial but they turn out to be so if we look more closely at the statistics reported in the study. I would 
+like to further demonstrate the value of meta-analysis by shedding more light on their results. 
+Meta-Analytic Methods 
+Meta-analysis has the benefit of allowing practitioners to look across experiments to see the overall 
+effectiveness of particular treatments.  In the medical field, meta-analytic methods are very important 
+because the effects of certain treatments on patients can determine the health of an individual.  Similarly, 
+when certain techniques or treatments in second language (L2) settings are applied, sometimes they are 
+viewed with either evangelical fervor or deep suspicion.  Occasionally, practitioners will cite different 
+studies on the same experimental question to justify their own results.  Meta-analyses address such 
+situations because they provide a more general statistical perspective only a synthesis of studies can 
+provide.  
+One of the major benefits of meta-analytic methods is their use of the effect size.  The effect size is hugely 
+important because it essentially takes the idea of significance and p-values and renders them almost 
+useless.  The major weakness in using a p-value in determining the importance of a study lies in the box 
+score nature of them.  In other words either a study has obtained significance below the .05 level (or. 01, 
+depending on who is setting the level of significance) or not.  This is a somewhat unhelpful method of 
+looking across studies at the overall effectiveness of a treatment. In the early 1980s, two statisticians, 
+Hedges and Olkin (1980) demonstrated that, statistically, if we were to only consult statistical tests such 
+as p-values, more often than not, we would arrive at the wrong conclusion as to the effectiveness of a 
+particular treatment.  
+Because p-values are outdated, we should use a more modern statistic such as an effect size.  An effect 
+size is basically the standardized difference between two means.  To calculate the effect size, we use the 
+following equation:  
+Alan Taylor The Value of SCMC 
+ 
+Language Learning & Technology 2 
+ 
+These are, in essence, adjusted normal curve deviants of the differences between the averages of the 
+experimental and comparison groups divided by the pooled natural standard deviations of the two groups, 
+where d is the effect size estimate, EX  is the mean of the experimental group, CX  is the mean of the 
+comparison group, and Ps  is the pooled average standard deviation, 
+where n  is the sample size and s  is the standard deviation of the respective experimental or control 
+group (Hedges & Olkin, 1980, p. 79). The d, along with the sample sizes were taken from Lin, Huang, 
+and Liou (2013) and entered into the software Comprehensive Meta-Analysis (2001) from which all other 
+statistics were calculated.  
+If we look closely at the statistics in Lin, Huang and Liou (2013), we can see that the authors are correct 
+in commenting that there are generally quite small effect sizes for synchronous computer mediated 
+communication (SCMC).  Further, we can ascertain the benefits of meta-analytic methods by noting the 
+overall effect size of .33, which means that on average, those with SCMC treatment will perform 
+approximately one third of a standard deviation higher than those without such treatment.  Moreover, if 
+we assume that 34% of variance occurs in the first standard deviation of a standardized scale on which a 
+score such as an effect size is based, and if we further assume that an effect size of .0 would mean that 
+50% of learners with treatment performed as well as those without treatment (no effect, in other words), 
+then an effect size of 1 (one standard deviation above a .0, that is) would indicate that 84% of learners 
+with the treatment should perform higher on test tasks than those without such treatment  (50% + 34% 
+=84%). Similarly, an effect size of .5 would indicate that 67% (50%+17%) of learners would perform 
+higher.  Thus, using proportions, we can assume that an average overall effect size of .33 would be 
+approximately 61%. Thus, we can suggest that approximately 61% of L2 learners provided with SCMC 
+treatment will perform higher than those without such treatment. In order to more accurately demonstrate 
+the benefits of the use of effect sizes in meta-analysis, I extracted p-values from each study report using 
+the following methods:  
+For each study and its effect size estimate, equation (16-6) can be used from Cooper and Hedges (1994) 
+to convert an effect size (d) to a t statistic from which a p-value can be extracted. Essentially, we start out 
+with the following formula: 
+t = d * 
+)(
+)(
+21
+21
+nn
+nn
++
+df*  
+Once we have the t statistic and degrees of freedom df, we can obtain a p-value using the t distribution 
+function TDIST function in Excel: pval = TDIST(t,df,2). A t distribution function, otherwise known as a t 
+value, is often used to determine the statistical significance of the difference between two sample means.  
+Example from our data: For instance, let us take the example of Sequiera (2009) from Table 1 below, 
+whose study obtained an effect size (d) of .86 with a sample size of 56.  Using the above formula, we 
+would have the following calculations:  
+P
+CE
+s
+XXd −=
+)2(
+))(1())(1( 22
+−+
++
+=
+−−
+ce
+ccee
+P nn
+snsns
+Alan Taylor The Value of SCMC 
+ 
+Language Learning & Technology 3 
+ 
+which in turn, produced the following calculations: 
+56
+28  
+which equals 3.705.  We then multiply 3.705 by the Cohen’s d which, in this case is .86 and we obtain the 
+t value of 3.19 which is easily converted into a p-value via Excel, which in turn reveals the p-value to be 
+significant at the .02 level.  
+Given the statistics provided by Lin, Huang and Liou (2013), I observed the p-values of each study and 
+found that, out of the 19 outcomes, only 6 actually had significant results.  That is, only 6 studies (32%) 
+obtained a significant p-value result at the .05 level or lower in favor of the treatment.1 Thus, the 
+researcher who does not have access to Lin, Huang and Liou’s (2013) meta-analysis may incorrectly 
+conclude, based on the number of p-values showing significant results, that SCMC may not be effective.  
+Of course, with the use of effect sizes and especially the combining of them, Lin, Huang and Liou’s study 
+generally suggests otherwise.  Please see Figure 1 taken from the software program Comprehensive Meta-
+Analysis.  
+CONCLUDING REMARKS 
+In sum, because of their methods and what we have demonstrated above, Lin, Huang and Liou (2013) are 
+to be commended on a study that not only has shown the potential of SCMC learning, but also more 
+generally how computer assisted language learning may be even more effective than otherwise thought to 
+be in certain contexts. Meta-analysis, by combining results and not using p-values as the final word in 
+determining the effects of a particular treatment, should be used more to show the effects of experimental 
+results that can, in turn, greatly empower the L2 learner and teacher.  
+ 
+Figure 1. P-values in descending order. 
+ 
+Alan Taylor The Value of SCMC 
+ 
+Language Learning & Technology 4 
+NOTE 
+1. There are actually 7 studies that obtained significant results but one actually had significant results 
+against the treatment in question.  In other words, the control group significantly outperformed the 
+experimental group. 
+ 
+ACKNOWLEDGEMENTS 
+The author would like to thank the anonymous reviewers for their comments on the manuscript.  
+ 
+ABOUT THE AUTHOR 
+Alan Taylor is French section head in the department of Languages and International Studies at BYU-I.  
+His research interests include meta-analysis, reading comprehension, computer-assisted language 
+learning, and reading strategies.  
+E-mail: tayloral@byui.edu 
+ 
+REFERENCES 
+Comprehensive Meta-Analysis 1.12. [Computer software]. (2001). Englewood, NJ: Biostat. 
+Cooper, H. & Hedges, L. V. (1994). (Eds.). The handbook of research synthesis. New York, NY: Russell 
+Sage Foundation. 
+Hedges, L. V., & Olkin, I. (1980). Vote counting methods in research synthesis. Psychological Bulletin, 
+88, 359–369. 
+Lin, W., Huang, H., & Liou, H. (2013). The effects of text-based SCMC on SLA:  A Meta-Analysis. 
+Language Learning & Technology, 17(2), 123–142. Retrieved from 
+http://llt.msu.edu/issues/june2013/linetal.pdf 
+Sequeira, C. A. (2009). Synchronous computer mediated communication and second language 
+proficiency. (Unpublished doctoral dissertation). University of Oregon, USA. 

@@ -1,0 +1,1216 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/june2014/allenetal.pdf 
+June 2014, Volume 18, Number 2 
+pp. 124–150 
+ 
+Copyright © 2014, ISSN 1094-3501 124 
+L2 WRITING PRACTICE: GAME ENJOYMENT AS A KEY TO 
+ENGAGEMENT 
+Laura K. Allen, Arizona State University 
+Scott A. Crossley, Georgia State University 
+Erica L. Snow, Arizona State University 
+Danielle S. McNamara, Arizona State University 
+The Writing Pal (W-Pal) is an intelligent tutoring system (ITS) designed to provide 
+students with explicit writing strategy instruction and practice. W-Pal includes a suite of 
+educational games developed to increase writing engagement and provide opportunities to 
+practice writing strategies. In this study, first (L1) (n = 26) and second (L2) language (n = 
+16) students interacted with W-Pal over eight sessions. We collected students’ daily self-
+reports of engagement, motivation, and perceptions of performance, as well as their 
+reported game attitudes (difficulty, helpfulness for learning, and enjoyment). Results 
+indicated that, for all students, interactions with W-Pal led to increases in writing 
+performance and more positive attitudes towards the system (engagement, motivation, and 
+perceived performance). For L1 students, game difficulty was a significant predictor of 
+boredom; however, for the L2 students, game enjoyment predicted both their motivation 
+and perceived writing improvement. Notably, the L2 students’ game ratings accounted for 
+more variance in these daily reports than did the ratings of L1 students. This study 
+suggests that L1 and L2 students experience similar benefits offered by game-based 
+strategy practice in an ITS. Further, the link between game attitudes and overall daily 
+perceptions of training may be stronger for L2 students than L1 students. 
+Keywords: Strategy Instruction, Second Language Writing, Writing Instruction, 
+Motivation, Game-Based Practice. 
+APA Citation: Allen, L. K., Crossley, S. A., Snow, E. L., & McNamara, D. S., (2014). L2 
+writing practice: Game enjoyment as a key to engagement. Language Learning & 
+Technology, 18(2), 124–150. Retrieved from http://llt.msu.edu/issues/june2014/varneretal.pdf 
+Received: March 1, 2013; Accepted: February 19, 2014; Published: June 1, 2014 
+Copyright: © Laura K. Allen, Scott A. Crossley, Erica L. Snow & Danielle S. McNamara 
+INTRODUCTION 
+Within the context of a native language, writing is a complex and demanding process that requires 
+individuals to coordinate a number of cognitive skills and knowledge sources, such as goal setting, 
+discourse awareness, memory management strategies, and social-cultural knowledge (Flower & Hayes, 
+1980; Hayes, 1996; Torrance & Galbraith, 2006). The writing process is further complicated for students 
+who are learning a second language (L2), because text production in a second language introduces 
+demands associated with lower-level language skills, such as grammar and vocabulary knowledge 
+(Myles, 2002; Schoonen, Snellings, Stevenson, & van Gelderen, 2009). Accordingly, L2 writing is a more 
+difficult task and often results in a less effective product than writing in one’s native language (Roca de 
+Larios, Murphy, & Marin, 2002; Silva, 1993). 
+A primary concern amongst L2 instructors is the lack of preparation and focus given to developing L2 
+students’ writing skills (Matsuda, 1999; 2003; Reichelt, 2001; Silva, Leki, & Carson, 1997). Although the 
+field of L2 writing has experienced significant growth in recent years (Matsuda, 2003), much less 
+information is understood about the unique nature of the L2 writing process compared to writing in the 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  125 
+first language (L1). Many educators have, therefore, been left with less guidance on how to provide 
+effective and engaging writing instruction to their L2 students. In contrast, a wealth of research has been 
+conducted on L1 composition processes, resulting in a number of beneficial pedagogical techniques for 
+teaching writing (Graham & Perin, 2007; Hillocks, 1984; Rogers & Graham, 2008). Chief among these 
+techniques is writing strategy training. Writing strategies can help reduce the complex demands of the 
+writing process, particularly for struggling students (Graham & Perin, 2007; Hillocks, 1984; Rogers & 
+Graham, 2008). However, the appropriate methods for training these strategies, as well as their 
+effectiveness for L2 students are relatively unknown. An important caveat is that a number of empirical 
+investigations have examined the effectiveness of L2-specific writing strategies on the writing 
+performance of L2 students. What remains less clear, however, is how more traditional, writing-specific 
+strategies (that are typically applied in high school classrooms) differentially affect the writing process 
+and performance of L1 and L2 students. 
+Additionally, educational games have been proposed as another method for providing effective and 
+engaging instruction (for a review, see Clark, Nelson, Sengupta, & D’Angelo, 2009; Jackson & 
+McNamara, 2013) by leveraging students’ intrinsic enjoyment of gaming (Barab, Thomas, Dodge, 
+Carteaux, & Tuzun, 2005; Gee, 2003, 2007). Educational games may be particularly beneficial for L2 
+writing strategy training, as games have been shown to offset the boredom and disengagement often 
+associated with extended (i.e., over weeks or months) training sessions (Jackson & McNamara, 2013; 
+McNamara, Jackson, & Graesser, 2010). In this paper, we address two gaps in the L2 composition 
+literature; namely, the effectiveness of writing strategy instruction and educational games for L2 writers. 
+Specifically, we examine the efficacy of a game-based writing strategy tutoring system, the Writing Pal 
+(W-Pal; McNamara et al., 2012; Roscoe & McNamara, 2013; Roscoe, Varner, Weston, Crossley, & 
+McNamara, in press), to support the learning, engagement, and motivation of L2 students. We first 
+discuss relevant research in the L1 and L2 writing domains, as well as provide a description of the W-Pal 
+system and games. We then examine students’ attitudes towards game-based strategy practice in W-Pal 
+and how those attitudes relate to their overall engagement and motivation during training.  
+L2 Writing Research and Instruction 
+The ability to effectively produce written text plays a predominant role in the success of individuals in 
+school and in the workplace (Geiser & Studley, 2001; Light, 2001; Powell, 2009). Unfortunately, national 
+assessments of writing proficiency suggest that students in the United States struggle to reach proficiency 
+levels throughout their high school years (NAEP, 2007; NAEP, 2011). Second language (L2) students are 
+at a particular disadvantage in this area. According to the 2011 National Assessment of Educational 
+Progress (NAEP) report, 8th grade L2 students scored a total of 42 points (out of 300) below average on 
+the national writing assessment. This difference grew to 54 points among L2 students in the 12th grade. 
+Thus, despite the importance of developing writing proficiency, many L2 students in the US exit high 
+school lacking these necessary skills.  
+In many ways, the writing process for an L2 student is similar to that of a native speaker. Both L1 and L2 
+students must set goals for their writing, establish a clear purpose, translate their ideas into words, and 
+participate in a variety of other cognitive activities. In addition, L1 and L2 students must maintain 
+motivation and an overall awareness of the social and cultural purpose for the writing task (Graham, 
+2006; Hayes, 1996; Prior, 2006). Flower and Hayes (1980), for instance, claimed that writers must 
+maintain knowledge of their task environment (e.g., topic, audience, etc.) and knowledge of their own 
+goals (e.g., knowledge of topic, writing plans, etc.), while simultaneously engaging in a complex writing 
+process that involves stages of planning, translating, and reviewing. This process can be difficult for a 
+number of reasons (Graham, 2006). For example, in addition to the cognitive demands brought about by 
+maintaining task and author goals in memory, students must efficiently regulate their cognitive processes 
+and attend to the countless demands associated with the different writing stages (e.g., accessing 
+information from long-term memory, organizing ideas, etc.).  
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  126 
+Despite the similar cognitive activities employed during the L1 and L2 writing processes, a number of 
+marked differences can be identified between the two groups (Myles, 2002; O’Malley & Chamot, 1990; 
+Silva, 1993). First, L2 writing is a more cognitively demanding task, which requires individuals to 
+consciously attend to more factors than in the first language. For many L1 writers, lower-level writing 
+processes, such as lexical access and syntactic construction, have become automatized (DeKeyser, 2007). 
+The writing process is therefore less constrained by working memory and cognitive control limitations 
+(Baddeley, 1986; McCutchen, 2000; Shiffrin & Schneider, 1977) hence L1 students can place a stronger 
+emphasis on higher-level writing processes (e.g., the development of coherence; Ransdell and Levy, 
+1996). However, writing in an L2 requires students to attend to both lower- and higher-level writing 
+features (Schoonen et al., 2009). By placing an emphasis on lower-level writing processes, L2 students 
+may spend less time on higher-level ones (Weigle, 2005) and produce lower-quality texts (Schoonen et 
+al., 2009). Further, because L2 students’ reading processes are less automatic than for L1 students, phases 
+of the writing process such as planning and revising may require more time and effort (Kormos, 2012).  
+Another primary distinction between writing in an L1 and L2 is the influence of language proficiency 
+level. Because students often lack fluency and familiarity in their L2 (Paltridge, 2004), their writing 
+processes are subject to more constraints (e.g., translating and transcribing into their non-native 
+language), which may negatively impact their writing performance (Myles, 2002; O’Malley & Chamot, 
+1990). In a thorough review of the L2 writing research literature available at the time, Silva (1993) 
+investigated the documented differences between both the processes and products of L1 and L2 writers. 
+Several of the studies suggested that the L2 writing process was different from the L1, with L2 writers 
+spending more time transcribing, and significantly less time planning and organizing their ideas. 
+Additionally, the selected studies reported by Silva reported that the written products of L2 students 
+contained fewer cohesive devices, subordination, and noun modifiers, but more t-units (i.e., the main 
+clauses plus additional embedded and subordinating clauses in a sentence) and longer clauses than those 
+of L1 students.  
+This added complexity of the L2 writing process often results in a less effective overall product as 
+compared to L1 writing (Roca de Larios, Murphy, & Marin, 2002; Silva, 1993). Paltridge (2004), for 
+instance, found that L2 writers struggle to establish a clear purpose and organization in their written 
+essays. Additionally, L2 writing has been characterized by a lack of awareness and ability to adapt to 
+different audiences (Casanave, 2004; Johns, 1997; Paltridge, 2004). Finally, L2 writing has been shown to 
+contain less lexical diversity and sophistication than L1 writing (Crossley & McNamara, 2009; Linnarud, 
+1986; Silva, 1993).  
+Overall, the literature suggests that educators need to place a stronger emphasis on writing instruction for 
+L2 students. For instance, Silva (1993) concluded that L2 writing instruction would benefit from more 
+classroom time devoted to “strategic, rhetorical, and linguistic concerns” (p. 670). This instruction would 
+involve explicit strategy instruction, as well as a focus on the various stages of the writing process such as 
+planning, drafting, and revising. Thus, rather than simply spending more time writing in the classroom, 
+L2 writers need to be given instruction that targets the most efficient methods and strategies for writing. 
+Additionally, students needed to be provided training in a motivating environment in order to avoid 
+fatigue and disengagement during practice. 
+Strategy Instruction  
+Considerable research has been conducted to support the notion of strategy instruction as a powerful 
+pedagogical technique in the L1 writing classroom (Graham & Perin, 2007; Hillocks, 1984; Rogers & 
+Graham, 2008). However, the effectiveness of these methods in the L2 classroom appears to have been 
+under researched. In a meta-analysis of over 120 published studies, Graham and Perin (2007) summarized 
+the results from writing interventions conducted on students in grades 4–12. They separated the 
+interventions into 11 distinct categories: strategy instruction, summarization, peer assistance, setting 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  127 
+product goals, word processing, sentence combining, inquiry, prewriting activities, process writing 
+approach, study of models, and grammar instruction. They found that all of the interventions, with the 
+exception of explicit grammar instruction, were beneficial to students (i.e., they reported moderate to 
+large effect sizes). In particular, strategy instruction was the most effective form of pedagogy (large mean 
+weighted effect size = 0.82), and was especially successful for struggling writers (large mean weighted 
+effect size = 1.02).  
+A year later, Rogers and Graham (2008) extended this investigation in a separate meta-analysis of studies 
+involving single-subject designs. They reported nine writing interventions that were beneficial to student 
+writers. Again, the most effective writing treatment was strategy instruction for planning and drafting 
+texts. Notably, all of these investigations utilized the Self-Regulated Strategy Development (SRSD) 
+model developed by Harris and Graham (1996) to teach the writing strategies. In addition to improving 
+writing performance immediately following training, strategy instruction maintained treatment effects 
+over a period of three weeks or longer and transferred to writing genres for which students had received 
+no instruction. 
+Despite its apparent benefits for struggling writers, research on the effect of explicit writing-specific 
+strategy instruction for L2 students is fairly scant. As mentioned previously, L2-specific writing strategies 
+have been empirically investigated in L2 classrooms; however, it is unclear how more general, writing-
+specific strategies apply to L2 students. Additionally, although the effects of strategy instruction for L2 
+writing have been addressed in the literature (Negari, 2011; O’Malley & Chamot, 1990), most of these 
+strategies are subsumed under the general category of “language learning strategies” and have little 
+relation to the actual writing process. For instance, L2 students are frequently taught to “analyze” and 
+“translate” their ideas; however, they are much less frequently provided with training on strategies 
+specific to the writing process (e.g., strategies for freewriting or developing flowcharts). A number of L2 
+writing researchers have suggested that L1 writing strategies can be transferred to the L2 in some 
+situations (Arndt, 1987; Berman, 1994; Matsumoto, 1995; Woodall, 2002). However, it is currently 
+unclear how, and if, the instruction of writing-specific strategies should differ for L1 and L2 students. 
+Therefore, further research is needed to investigate the effects of writing strategy interventions, such as 
+those detailed by Graham and Perin (2007), on samples of L2 writers.  
+Educational Games and Student Engagement  
+One concern regarding strategy instruction is that it requires extensive training and practice, which 
+requires a lot of time and can negatively affect students’ motivation and engagement towards learning 
+tasks (Bell & McNamara, 2007; Jackson & McNamara, 2013; McNamara, Jackson, & Graesser, 2010). 
+To offset these concerns, educational games have been introduced as a method for increasing students’ 
+motivation, engagement, and persistence throughout training (Barab, Gresalfi, & Arici, 2009; Corbett & 
+Anderson, 2001; Gee, 2005; Malone & Lepper, 1987; Shaffer, 2007). Educational games can increase 
+students’ motivation towards a particular task by leveraging the enjoyable and engaging properties of 
+games (Orbach, 1979; Shank & Neeman, 2001). Additionally, game-based elements, such as narrative or 
+competition, can be integrated into learning environments to increase students’ enjoyment of and 
+engagement in a task (McNamara et al., 2010).  
+Educational games require students to apply target skills or knowledge to successfully explore an 
+environment and complete given tasks (Gredler, 2004). Thus, in addition to completing tasks for the 
+purpose of learning new material, students can be offered additional motivation to engage in learning 
+activities throughout educational gameplay. In other words, while training in a game-based system, 
+students may practice a given skill or strategy for the purpose of learning the material and improving their 
+understanding of a topic, or they may engage in practice to compete with other students or earn rewards 
+(e.g., trophies, points, etc.). 
+In general, educational games have been linked to increased learning and motivation (e.g., Ricci, Salas, & 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  128 
+Cannon-Bowers, 1996; Rowe, Shores, Mott, & Lester, 2011) in a variety of contexts. Across a wide range 
+of populations that vary in gender, age, and numerous other characteristics, meta-analyses have reported 
+that educational games lead to increases in cognition, skills, and positive affect (Vogel et al., 2006; 
+Wilson et al., 2009). Educational games are designed to offer more engaging learning environments than 
+do traditional, classroom instruction; therefore, it has been suggested that they can lead to more persistent 
+and successful learning (Barab et al., 2007, 2012; Garris, Ahlers, & Driskell, 2002; Steinkuehler, 2006). 
+In addition, if students are engaged, they tend to not grow bored with the learning task, to not lose 
+attention, nor to fail to learn the presented material (e.g., Craig et al., 2004). Further, these learners are 
+more likely to reengage in beneficial learning processes if they have become disinterested (Boekaerts, 
+Pintrich, & Zeidner, 2000; D’Mello & Graesser, 2006; D’Mello, Taylor, & Graesser, 2007). 
+The Writing Pal 
+Previous research suggests that deliberate practice is necessary for students to acquire and internalize 
+newly learned strategies (Kellogg, 2008) and that the combination of deliberate practice with writing and 
+revising can improve students’ overall performance (Johnstone, Ashbaugh, & Warfield, 2002). 
+Accordingly, for strategy instruction to be effective, L2 students should be provided with opportunities to 
+practice writing strategies for extended periods of time. A number of computerized tools have been 
+developed to provide students with practice opportunities and feedback on their written essays (Grimes & 
+Warschauer, 2010; Shermis & Burstein, 2003), such as e-rater (Attali & Burstein, 2006) and IntelliMetric 
+(Rudner, Garcia, & Welch, 2006). However, the development of these systems tends to focus on reliable 
+and accurate scoring systems, rather than on providing feedback and instruction grounded in effective 
+writing pedagogy (Roscoe et al., in press). As such, explicit instruction and deliberate practice related to 
+effective writing strategies is relatively uncommon among such educational technologies.  
+The Writing Pal (W-Pal) is an intelligent tutoring system (ITS) designed to provide students with explicit 
+writing strategy instruction, as well as opportunities to engage in deliberate practice with such strategies 
+(McNamara et al., 2012; Roscoe et al., in press). Within W-Pal, students are provided with strategy 
+instruction and strategy practice within the context of eight modules, which contain instructional videos 
+and educational mini-games. The mini-games are intended to offer students’ deliberate strategy practice 
+in an effective and engaging environment. Additionally, W-Pal contains an essay practice module, where 
+students can practice applying the writing strategies in the context of a complete essay. 
+Knowing that deliberate practice with writing and revising can improve students’ overall performance 
+(Johnstone et al., 2002), W-Pal contains an Automated Writing Evaluation (AWE) system that allows 
+students to write essays and receive feedback on the quality of their writing. In this system, students 
+compose timed, persuasive essays in response to a number of built-in SAT1-style essay prompts. Essay 
+scores are provided to students using a natural language processing algorithm that assigns scores (1-6) 
+ranging from “Poor” to “Great” (McNamara, Crossley, & Roscoe, 2013). In addition to receiving a 
+holistic score, students are provided with formative feedback that addresses specific writing strategies that 
+can improve the quality of their essays. For instance, if a student’s essay lacked paragraph structure and 
+organization, the system might provide feedback suggesting that the student construct an outline before 
+writing essays; additionally, the student would be provided with tips on how to most effectively outline an 
+essay. Students can select to receive up to 10 pieces of formative feedback (minimum of one piece of 
+feedback) on two different topics from the system. After students review their assigned feedback, they are 
+given the opportunity to complete a revision of their essay and resubmit it for a new score.  
+In addition to essay writing practice, W-Pal offers students the opportunity to receive explicit instruction 
+and strategy-focused practice. Each of the eight strategy modules in W-Pal is based on a specific 
+component of the writing process (e.g., planning, introduction building, and revising). Animated 
+pedagogical agents provide explanations, examples, and demonstrations of each writing strategy within 
+short instructional videos. After watching the videos, students are given the opportunity to practice the 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  129 
+newly acquired strategies in the context of educational mini-games, which allow students to practice each 
+strategy in isolation, as opposed to engaging in a complete writing task. This isolated instruction and 
+practice allows students to individually master specific writing strategies without becoming overwhelmed 
+by the complex demands of the writing process. Within the Planning module, for example, students watch 
+four short videos that provide an introduction to strategies that can increase the organization and “flow” 
+of their essays. Some of the targeted strategies include the use of graphic organizers, such as flowcharts or 
+outlines to increase the cohesion of their essays. After students view the videos, they are transitioned to 
+educational mini-games that provide practice on the specific strategies covered in the lessons such as 
+constructing essay outlines or identifying arguments and evidence. 
+As discussed earlier, a common concern regarding extended practice environments is that students may 
+disengage or develop negative opinions toward the practice task. Indeed, student disengagement is a well-
+documented problem, especially within the context of learning technologies (McNamara, Jackson, & 
+Graesser, 2010). Educational games and game-based features (e.g., narratives and incentives) have been 
+proposed as a method for increasing engagement by leveraging the inherent enjoyment of games 
+(Cordova & Lepper, 1996; Malone & Lepper, 1987; Quick, Atkinson, & Lin, 2012; Young et al., 2012). 
+Therefore, a predominant goal of the W-Pal system is to establish and maintain students’ motivation and 
+engagement through the use of game-based practice. Housed within the W-Pal system is a suite of 16 
+educational games (see Table 1), which include a brief narrative and include either generative or 
+identification tasks intended to engage students in strategy practice (see Appendix A for a more detailed 
+description of the W-Pal games) 
+Table 1. W-Pal Modules and Corresponding Mini-Games. 
+Module Practice Games 
+Freewriting Freewrite Flash 
+Planning Mastermind Outline 
+ Planning Passage 
+Introduction Building Essay Launcher 
+ Dungeon Escape 
+ Fix It 
+Body Building RoBoCo 
+ Fix It 
+Conclusion Building Lockdown 
+ Dungeon Escape 
+ Fix It 
+Paraphrasing Adventurer’s Loot 
+ Map Conquest 
+Cohesion Building CON-Artist 
+ Undefined & Mined 
+Revising Speech Writer 
+Planning Passage is an example of a mini-game included within the Planning module. In this game, 
+students are asked to identify certain planning strategies within the narrative of a road-trip adventure (see 
+Figure 1). The various planning strategies include: outlining, identifying evidence, and organizing 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  130 
+arguments. Throughout this game, students visit lakes, parks, and monuments. At each stop, students are 
+prompted to answer a question about the planning strategies (i.e., identify the correct evidence for a 
+particular argument). Correct answers earn trip pictures (corresponding to score increases) and incorrect 
+answers can cause the car to lose fuel (corresponding to score decreases). In this task, students are only 
+presented with one question at a time. This allows them to consider the question and focus on the key 
+elements of the planning strategy. Correct answers early on in the “road trip” are rewarded heavily, as 
+students are able to visit more places on their trip. Overall, the Planning Passage mini-game allows 
+students to implement the planning strategies they were taught in the lesson videos.  
+ 
+Figure 1. Screenshot of Planning Passage. 
+Another mini-game offered within the W-Pal system is Map Conquest. Map Conquest is a generative 
+practice game in which students are asked to use strategies to paraphrase given sentences (see Figure 2). 
+The strategies covered in Map Conquest include: condensing, word variety, and sentence structure. In this 
+game, students attempt to take control of a map, which contains their own flags as well as flags from a 
+computer opponent. To earn additional flags, students are prompted to use strategies to paraphrase given 
+sentences. Once students submit their answers, an algorithm assigns a score (0–3) based on the quality of 
+their paraphrasing. This score reflects the number of “moves” a student can make on the board. Students’ 
+use their “moves” to place their flags on the map; thus, more moves typically correspond to gaining more 
+control of the map than their computer opponent. The final score in Map Conquest is based on overall 
+task performance and the number of flags students control on the map. Similar to the Planning Passage 
+game, Map Conquest rewards students for the quality of their work. This ensures that students exert 
+thoughtful effort in the generation of their paraphrases. 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  131 
+ 
+Figure 2. Screenshot of Map Conquest. 
+Overall, the W-Pal system leverages educational games to support students’ strategy acquisition and 
+practice. The W-Pal games are intended to offset the disengagement and negative emotions commonly 
+associated with redundant practice tasks such as those common in developing writing proficiency (i.e., 
+deliberate practice). Therefore, these games play a unique role in the learning process by providing 
+students a chance to practice strategies within an engaging and novel environment. Because these games 
+afford students the opportunity to repeatedly practice isolated writing strategies, they may be appropriate 
+for L2 students who need additional practice and feedback. 
+Research Questions 
+The purpose of the current study is to investigate the efficacy of a game-based writing strategy tutoring 
+system (W-Pal) to improve the writing performance, engagement, and motivation of L2 students. In 
+particular, we aim to investigate how L2 students’ experiences with the Writing Pal system were similar 
+to or different from those of L1 students. Our primary research questions are outlined below. 
+1) Do L1 and L2 students experience learning gains from interacting with W-Pal and, if so, how do 
+these learning gains compare across extended strategy training with the W-Pal system? 
+2) Do L2 students experience similar engagement and motivation in W-Pal as do L1 students? 
+3) How do L1 and L2 students’ attitudes towards the W-Pal games relate to their daily reports of 
+engagement, motivation, and perceived learning gains? 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  132 
+METHOD 
+Participants 
+The participants in this study were part of a larger experiment (n = 88), which compared the Writing Pal 
+tutoring system to an automated writing evaluation (AWE) system condition (Crossley, Roscoe, & 
+McNamara, 2013). In this study, we focus on the students who were in the Writing Pal tutoring system 
+condition (n =42), which included writing strategy practice within the mini-games. All participants were 
+recruited from local high schools in the metropolitan Phoenix area using Internet advertisements, flyers 
+posted in the community and classrooms, and through word-of-mouth communication. The high school 
+students were, on average, 16 years of age, with a mean reported grade level of 10.4. Of the 42 students, 
+57.1% were female (n = 24) and 42.9% were male (n = 18); 45.2% were Hispanic (n = 19), 33.3% were 
+Caucasian (n = 14), 11.9% were Asian (n = 5), 4.8% were African-American (n = 2), and 4.8% reported 
+“other.” (n = 2). All participants were monetarily compensated for their participation in this study. 
+L2 Participants 
+Of the 42 students in the W-Pal condition, 38.1% reported that they were L2 speakers of English, while 
+61.9% reported that they were L1 speakers. The majority of these L2 students (81.3%) had been studying 
+English for over 7 years, whereas the remaining students (6.3%) reported that they had been studying 
+English for 3 years. Spanish was the native language of 75.1% of the L2 students, with two students 
+missing responses to this question and the remaining two students speaking either Mandarin/Cantonese (n 
+= 1) or Gujarati (n = 1). Students self-reported that they typically used English in multiple formats, 
+including emails (62.5%), letters (62.5%), notes (81.3%), essays (87.5%), research papers (81.3%), 
+reports (81.3%), creative writing (62.5%), and other formats (31.3%). 
+Study Procedure 
+The participants were required to complete all sessions of the 10-session study that lasted between two 
+and four weeks. The study was conducted during the summer holiday; therefore, it was unlikely that the 
+students were receiving alternative forms of writing instruction or training during the time of the study. 
+On the first day of the study (session 1), all of the students completed a pretest (approximately 1 hour in 
+duration), which contained measures of their prior knowledge of writing strategies, attitudes (motivation, 
+expected enjoyment and eagerness to participate) and literacy skills. During the following eight sessions, 
+the students completed training sessions with the complete W-Pal system (approximately 1.5–2 hours in 
+duration). The last day (session 10) consisted of a posttest, which comprised similar measures to the 
+pretest (approximately 1 hour in duration). All students were required to complete the same materials 
+throughout the pretest, training sessions, and posttest.  
+Pretest.  
+The pretest lasted approximately 1 hour in duration and included a number of individual difference 
+measures: Demographics survey, writing proficiency (25-minute SAT-style essay), reading 
+comprehension ability (assessed through the Gates-MacGinitie (4th ed.) reading skill test (form S) level 
+10/12; MacGinitie & MacGinitie, 1989), vocabulary knowledge (assessed through the Gates MacGinitie 
+Vocabulary Test), a writing attitudes and perceptions survey, and writing strategy knowledge survey. The 
+measures that are relevant to this study are described in the Measures section. 
+Training 
+At the beginning of each training session, students completed a 12-item survey that related to their 
+attitudes and expectations for the training session. During each training session (sessions 2-9), students 
+first wrote a timed (25-minute) essay on an SAT-style prompt. Upon completion of this essay, students 
+received automated feedback from the W-Pal AWE system and were given 10 minutes to revise their 
+essay based on this feedback. Following this essay revision, the students completed one W-Pal module, 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  133 
+which contained lesson videos and game-based practice for a specific component of the writing process 
+(e.g., planning, introduction building, and revising). All students were first required to watch all of the 
+videos for a given module. After completion of the videos, the games were unlocked and students were 
+asked to play each game twice. After each game play, students completed a short survey on their overall 
+perceptions of the game. Although students varied in the amount of time they took to complete the essays, 
+revisions, surveys, and game-based practice tasks, each of the students’ training sessions lasted 
+approximately 1.5–2 hours. 
+Posttest 
+During their last session, all of the participants completed a posttest, which lasted approximately 1 hour. 
+This test consisted of a daily survey as well as assessments that were similar to the pretest, including: 
+writing proficiency (25-minute SAT-style essay), a writing attitudes and perceptions survey, and a writing 
+strategy knowledge survey.  
+Measures 
+Self-report and performance measures were collected from students at pretest, before and during each 
+training session, and finally at posttest. These measures assessed students’ writing ability in addition to 
+their attitudes, perceptions, and motivation toward various aspects of the training sessions. They are 
+discussed in greater detail below. 
+Writing Ability 
+At pretest and posttest, each student wrote a timed (25-minute), SAT-style essay. The SAT-style essay 
+was chosen because it is a common form of writing assessment that is given to both L1 and L2 high 
+school students in the United States. The prompts and instructions were counterbalanced at pretest and 
+posttest for all participants (see Appendix B).  Using a 6-point rating scale developed for the Scholastic 
+Aptitude Test (see Appendix C) to holistically assess the quality of the essays, each essay was scored 
+independently by two expert raters. This rubric was chosen to reflect the actual assessment criteria that 
+would be used for high-stakes tests, such as the SAT. Raters were first trained to use the rubric with a 
+small sample of similar essays. A Pearson correlation analysis was used to assess inter-rater reliability. 
+When the raters reached a correlation of r = .70, the ratings were considered reliable and the raters scored 
+a larger subsection of the corpus. The final inter-rater reliability for the raters for the essays was r > .60. 
+While this was lower than the .70 reached in training, adjacent agreement between raters was 100% (i.e., 
+in all cases the raters assigned scores to the essays that were within 1 point of each other). Average scores 
+between the raters were calculated for each essay to provide a holistic score. 
+Daily Surveys 
+The daily surveys administered before each training session assessed students’ experiences from their 
+previous session and their motivation to participate in the upcoming session. The measures related to the 
+previous session asked students to report on their overall impressions of the system, as well as their 
+enjoyment, boredom, frustration, perceptions of learning and improvement, as well as if they had any 
+problems with W-Pal. Additionally, the daily survey asked students to self-report their attitudes and 
+expectations concerning the upcoming training session, including their mood, motivation to participate in 
+the training session, their intention to perform well, and their desire to outperform their peers (see 
+Appendix D for the 12 daily survey questions). 
+Game Attitude Surveys 
+Following the completion of each game play, the students were presented with surveys about their 
+attitudes towards and enjoyment of the W-Pal games (see Appendix E). Each question was on a 4-point 
+Likert scale that ranged from negative to positive. The surveys asked students to report their enjoyment of 
+the games (1 = not enjoyable at all and 4 = very enjoyable), as well as their perceptions of how helpful 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  134 
+each game was for strategy practice (1 = not helpful at all and 4 = very helpful) and how difficult each 
+game was to play (1 = difficult and 4 = easy). Finally, students were asked to report on the mechanics of 
+each game, including the quality of the graphics, instructions, and controls.  
+Statistical Analyses 
+To examine differences between L1 and L2 students’ writing performance and attitudes toward the W-Pal 
+system, we conducted ANOVA, correlation, and regression analyses using pretest and posttest essay 
+scores, daily survey responses, and game survey responses. Differences in L1 and L2 students’ 
+performance and attitudes (i.e., engagement, motivation, and perceived learning) were assessed with 
+mixed-design ANOVAs. For each of these analyses, there was a between-subjects factor of language and 
+a within-subjects factor of session (for daily surveys) or test (for pretest and posttest essay scores). 
+Additionally, one-way (language) between-subjects ANOVAs were conducted on the game survey 
+responses to assess whether L1 and L2 students rated the games similarly or differently. Finally, 
+correlation and stepwise regression analyses were conducted to assess the relation between the posttest 
+daily survey responses (to the posttest session, or session 9) and the students’ reported perceptions of the 
+W-Pal games. Due to system logging issues, posttest surveys were not recorded for 4 students (2 L1 and 2 
+L2 students). 
+RESULTS 
+The current study investigated the effect of W-Pal writing strategy training on L1 and L2 students’ 
+writing performance, engagement, and perceived learning gains. Our analyses investigate whether 
+changes in these dependent variables across time are similar or different for L1 and L2 writers. 
+Additionally, we examine whether students’ self-reported perceptions of helpfulness, difficulty, and 
+enjoyment of the W-Pal games are related to learning gains and self-reported engagement within the 
+system.  
+Writing Performance  
+We examined students’ holistic essay scores both prior to and after receiving writing strategy training in 
+W-Pal. The means, standard deviations, and ranges for L1 and L2 students’ pretest and posttest essays are 
+reported in Table 2. An ANOVA including participants’ reported language (L1, L2) and test (pretest, 
+posttest) yielded a significant main effect of test, F (1, 40) = 102.87, p < .05, confirming that both L1 and 
+L2 students’ writing improved from W-Pal training. However, there was no significant main effect of 
+language and no interaction between test and language (Fs<1). Based on these results, we can assume that 
+this particular sample of L2 students had a relatively high level of writing proficiency in English. These 
+results also suggest that all participants, regardless of their native language, improved in terms of their 
+holistic essay scores between pretest and posttest.  
+Table 2. Pretest and Posttest Holistic Essay Scores as Functions of Test and Language. 
+Variable M* SD 
+First Language (L1) Students 
+   Pretest Holistic Score  
+   Posttest Holistic Score 
+Second Language (L1) Students 
+ 
+2.67 
+3.13 
+ 
+.53 
+.48 
+   Pretest Holistic Score 
+   Posttest Holistic Score 
+2.97 
+3.22 
+.62 
+.80 
+*Note: Range = 2-4. 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  135 
+Self-Reported Motivation, Engagement, and Perceived Learning 
+Our next series of analyses examined L1 and L2 students’ perceptions of their writing performance and 
+experiences engaging with W-Pal (see Table 3).  Using the daily survey questions related to perceived 
+learning (perceived learning of the material and perceived writing improvement), engagement (enjoyment 
+of session and boredom), and motivation (eagerness to participate and motivation to perform well), we 
+examined differences between these two groups. Mauchly’s test of sphericity indicated that the 
+assumption of sphericity had been violated for each variable (p < .05 for all X2 values); therefore, degrees 
+of freedom were corrected using the Greenhouse-Geisser estimates of sphericity.  
+Table 3. Daily Survey Responses as Functions of Session (S) and Language (L1 and L2). 
+Variable 
+ 
+Perceived 
+Learning 
+Perceived 
+Improvement 
+Enjoyment 
+of Session 
+Boredom Eagerness to 
+Participate 
+Motivation to 
+Perform Well 
+M SD M SD M SD M SD M SD M SD 
+L1 Students 
+S 1 4.14 1.15 3.29 1.23 4.05 1.20 2.81 1.03 4.10 1.14 5.38 .67 
+S 2 4.38 .97 4.19 1.21 4.14 1.20 2.71 1.01 4.29 1.15 5.29 .85 
+S 3 4.62 .81 4.10 1.00 4.29 1.06 2.43 .93 4.29 1.15 5.10 .89 
+S 4 4.52 1.17 3.95 1.2 4.19 1.37 2.52 .93 4.14 1.24 5.00 1.27 
+S 5 4.43 1.02 4.33 1.16 4.10 1.14 2.43 1.08 4.14 1.28 4.90 1.18 
+S 6 4.38 1.16 4.29 1.06 4.05 1.20 2.48 1.08 4.19 1.21 4.95 .92 
+S 7 4.52 .93 4.38 .74 4.29 .96 2.29 1.01 4.24 1.18 4.81 1.08 
+S 8 4.38 .92 4.43 .81 4.14 1.11 2.33 .97 4.05 1.20 4.86 1.20 
+S 9 4.71 .85 4.57 .93 4.52 1.03 2.24 .89 4.81 .81 5.10 .89 
+L2 Students 
+S 1 3.86 1.70 3.00 1.47 4.07 1.59 2.57 1.02 4.43 1.02 5.36 1.01 
+S 2 4.57 1.22 3.71 1.14 4.29 1.44 2.50 .94 4.50 1.23 4.93 1.33 
+S 3 4.86 .66 4.50 .86 4.64 .84 2.57 .94 4.43 1.16 4.86 1.23 
+S 4 4.50 1.29 4.21 1.25 4.50 1.00 2.36 .93 4.57 .94 5.00 1.24 
+S 5 4.57 .94 4.43 1.02 4.50 1.09 2.36 1.01 4.43 1.34 4.57 1.51 
+S 6 4.36 1.01 4.36 1.15 4.57 1.02 2.21 .98 4.64 1.01 4.93 1.21 
+S 7 4.79 .98 4.50 1.02 4.71 1.14 2.57 1.51 4.79 .98 5.00 1.18 
+S 8 4.79 1.05 4.79 1.12 4.79 .98 2.57 1.02 4.64 .93 4.93 1.00 
+S 9 4.64 1.01 4.64 .93 4.64 1.01 2.50 1.12 5.00 1.04 5.21 .98 
+Note: All daily survey responses were rated on a 1-to-6 scale from negative to positive. 
+The results revealed that there was a significant effect of training session for the following daily survey 
+measures: perceived learning of the material, F (8, 5.35) = 3.50, p = .004, perceived writing improvement, 
+F (8, 4.83) = 14.61, p < .001, eagerness to participate, F (8, 5.05) = 2.72, p = .021, and motivation to 
+perform well, F (8, 4.04) = 3.75, p = .006. These four daily survey measures are displayed in Figure 3 as a 
+function of session, indicating that perceived learning, engagement, and motivation increase across the 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  136 
+nine training sessions. However, there were no significant effects of variables related to engagement: 
+enjoyment of session, F (8, 3.71) = 1.83, p = .133, or boredom, F (8, 4.23) = 1.33, p = .262, nor were 
+there significant interactions between training session and language on the daily survey responses. These 
+results suggest that all participants, regardless of their native language, experienced increases in their 
+perceptions of learning and motivation across the training sessions. Therefore, it appears that the second 
+language students in this study experienced similar attitudinal benefits from game-based practice as did 
+L1 students. 
+ 
+Figure 3. Daily survey measures as a function of training session. 
+Attitudes towards W-Pal Games 
+In addition to the daily surveys, students’ responses on the game surveys were analyzed. In particular, we 
+examined whether L1 and L2 students reported similar levels of enjoyment, difficulty, and helpfulness for 
+the W-Pal games. Students’ responses were averaged across all of the games to provide a mean game 
+enjoyment, difficulty, and helpfulness response for each student. The descriptive statistics for game 
+responses are provided in Table 4. 
+Table 4. Game Survey Responses as Functions of Language. 
+Game Survey Response M SD Range 
+First Language (L1) Students 
+ Game Enjoyment 3.06 .53 1.63–4.00 
+ Game Difficulty 2.90 .62 1.75–4.00 
+ Game Helpfulness 3.18 .49 1.88–4.00 
+Second Language (L1) Students 
+ Game Enjoyment 3.15 .41 2.56–3.94 
+ Game Difficulty 3.03 .51 2.19–3.94 
+ Game Helpfulness 3.10 .60 1.90–3.94 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  137 
+The descriptive statistics for the mean game responses suggest that, on average, students enjoyed the 
+games, and felt they were helpful and easy to play (i.e., mean self-reported game ratings were above 2.5 
+on a 4-point scale). ANOVAs including language as a between-subjects factor for each mean game score 
+(i.e., enjoyment, difficulty, and helpfulness) indicated that there were no significant differences in L1 and 
+L2 students’ perceptions of the games (all Fs < 1). Therefore, it appears that L1 and L2 students had 
+similar, positive attitudes towards the game-based practice environments within the W-Pal system. 
+Game Attitudes and System Engagement 
+We investigated the relation between students’ attitudes towards the W-Pal games and their engagement 
+and motivation when interacting with the system. These analyses were intended to provide a more fine-
+grained investigation into the specific effects of the games on students’ attitudes during training. Table 5 
+presents the correlations between the daily survey responses for the posttest day (session 9) and the mean 
+game survey responses for both L1 and L2 students. The session 9 daily survey responses were reported 
+on the day of the posttest; therefore, it was assumed that they were most indicative of students’ final 
+system perceptions after training. 
+Table 5. Correlations between Mean Game Survey Responses and Session 9 Survey Responses for both 
+L1 and L2 Students. 
+Session 9 Survey Questions Enjoyment Difficulty Helpfulness 
+Perceived learning of the material .54** .29 .62** 
+Perceived writing improvement .61** .40* .55** 
+Enjoyment of session .59** .43** .45** 
+Boredom -.60** -.50** -.58** 
+Eagerness to participate .56** .43* .43* 
+Motivation to perform well .37* .15 .30 
+The correlation analyses indicate that L1 and L2 students’ reports of game enjoyment, difficulty, and 
+helpfulness were significantly related to their overall enjoyment, motivation, and perceived learning gains 
+within the W-Pal system. Students’ perception of learning gains and writing improvement were positively 
+related to their ratings of game helpfulness and enjoyment. However, students’ perceptions of game 
+difficulty had little to no relation to their perceived learning gains. In addition, students’ enjoyment of the 
+W-Pal system (i.e., the enjoyment and boredom questions on the daily survey) was significantly related to 
+their mean game survey responses. In particular, students’ self-reported enjoyment during the training 
+sessions was positively related to their perceptions of both the helpfulness and enjoyment of the games.  
+Boredom, on the other hand, was negatively related to reports of the games’ helpfulness, enjoyment, and 
+ease. Thus, the more enjoyable, helpful, and easy students perceived the games, the less likely they were 
+to report feeling bored during the sessions. Finally, students’ self-reported eagerness to participate on the 
+last day of training (looking forward to participating) was significantly related to their perceived 
+helpfulness, difficulty, and enjoyment of games. Thus, the more students felt the games were beneficial, 
+difficult, and enjoyable, the more motivated they were to participate in the training session. 
+To further examine these relations, we conducted three separate stepwise regression analyses on students’ 
+reports of engagement, motivation, and perceived learning (on session 9) from their mean game survey 
+responses. For the dependent variables, we chose the daily survey measures from each category 
+(engagement, motivation, and perceived learning) that were most highly correlated with the game 
+responses. Our dependent variables were: perceived writing improvement, boredom, and eagerness to 
+participate. The regression for the perceived writing improvement variable yielded a significant model,  
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  138 
+F (1, 36) = 20.83, p <.001 R2 = .37 with one predictor: game enjoyment [β = .60, t (1, 36)= 4.56, p 
+<.001]. These results suggest that students were more likely to perceive they had learned the W-Pal 
+material when they rated the games as more enjoyable. Additionally, the regression on boredom yielded a 
+significant model, F (1, 36) = 20.30, p < .001 R2 = .36 with one predictor: game enjoyment [β = -.60, t (1, 
+36)= -4.51, p < .001]. Students were less likely to experience boredom during strategy training and 
+practice if they perceived the W-Pal games to be enjoyable overall. Finally, the regression for eagerness 
+to participate yielded a third significant model, F (1,36) = 16.65, p < .001; R2 = .32 with one predictor: 
+game enjoyment [β = .56, t (1, 36)= 4.08, p < .001]. Similar to the boredom analysis, the results of this 
+regression suggest that students’ enjoyment during training is significantly related to their enjoyment of 
+the W-Pal games. 
+These results provide confirmatory evidence for the correlation analyses and suggest that students' 
+engagement, motivation, and perceived learning gains during the W-Pal training sessions were strongly 
+tied to their perceptions of the games. In particular, students' reported enjoyment of the W-Pal practice 
+games was the strongest predictor of students’ perceived writing improvement, boredom, and eagerness to 
+participate on the final day of training. 
+A driving research question for this study regarded the degree to which the usefulness of the Writing Pal 
+system differed as a function of primary language. In particular, we were interested in examining whether 
+the game-based practice elements of W-Pal had differential effects on L1 and L2 students’ engagement 
+and perceptions towards the training sessions. Hence, in the following regression analyses, we examined 
+these relations separately for these two groups. 
+L1 Regression Analyses 
+Three stepwise regression analyses were conducted including only L1 students. This analysis served as a 
+baseline with which to compare the results of the L2 regression analysis. The regression for the perceived 
+writing improvement response yielded a significant model, F (1, 22) = 8.96, p =.007; R2 = .29 with one 
+predictor: perceived enjoyment [β = .54, t (1, 22)= 2.99, p =.007]. These results suggest that L1 students 
+were more likely to perceive they had learned the W-Pal material when they rated the games as more 
+enjoyable. Additionally, the regression on boredom yielded a significant model, F (1, 22) = 19.84, p < 
+.001; R2 = .47, with one significant predictor: game difficulty [β = -.69, t (1, 22) = -4.45, p < .001]. L1 
+students reported more boredom during W-Pal when they had also perceived the games to be easier, and 
+less boredom when the games were more difficult.  Finally, the regression for eagerness to participate 
+yielded a third significant model, F (1, 22) = 7.47, p =. 012; R2 = .25 with one predictor: game enjoyment 
+[β = .50, t (1, 22)= 2.73, p = .012. Similar to the results for the writing improvement and boredom 
+analyses, the findings of this regression suggest that L1 students’ enjoyment during training is 
+significantly related to their ratings enjoyment of the W-Pal games. Overall, the results of these regression 
+analyses indicate that, for L1 students, the perceived enjoyment of the W-Pal games was strongly related 
+to students’ overall engagement during the W-Pal training sessions. 
+L2 Regression Analyses 
+Similar stepwise regression analyses (three analyses) were conducted including only L2 students. All 
+three of the regression analyses yielded significant models: perceived writing improvement, boredom, and 
+eagerness to participate. The perceived writing improvement regression analysis, F (1, 12) = 21.36, p = 
+.001; R2 = .64, had one significant predictor: game enjoyment [β = .80, t (1, 12)= 4.62, p = .001]. The 
+boredom response yielded a significant model, F (1, 12) = 8.06, p = .015; R2 = .40, with one significant 
+predictor: perceived helpfulness [β = -.63, t (1, 12) = -2.84, p = .015]. Finally, the eagerness to participate 
+response yielded a significant model, F (1, 12) = 14.04, p = .003; R2 = .54, with one significant predictor: 
+game enjoyment [β = .73, t (1, 12) = 3.75, p = .003]. The results of these regression analyses indicate that, 
+for L2 students, game enjoyment was a significant predictor of both perceived writing improvement and 
+motivation to participate in the training session. In particular, this variable alone accounted for 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  139 
+approximately three-quarters of the variance in L2 students’ perceived learning of the system, and over 
+half of the variance in their eagerness to participate in the session. Additionally, for L2 students, the 
+perceived helpfulness of the W-Pal games was a significant predictor of their boredom during the daily 
+training sessions (i.e., students were less bored when the games were perceived to be helpful for learning). 
+Therefore, it appears that game enjoyment and perceived helpfulness played strong roles in L2 students’ 
+overall engagement, boredom, and perceived learning from the W-Pal system. 
+DISCUSSION 
+Compared to L1 writers, L2 writers more frequently struggle to produce high quality writing, primarily 
+because of the added difficulties associated with weaker language skills (NAEP, 2007; NAEP, 2011). One 
+method that has been proposed to improve the writing skills of L1 writers is explicit writing strategy 
+instruction. Such training has proven successful among native language writers (Graham & Perin, 2007; 
+Hillocks, 1984; Rogers & Graham, 2008); however, the efficacy of such writing strategy interventions for 
+L2 students has not been widely studied. In this study, both L1 and L2 writers interacted with a game-
+based writing strategy tutoring system designed to provide instruction and practice in an engaging 
+environment. Using these interactions, we investigated whether the L2 students benefited from this game-
+based training intervention similarly or differently to the L1 students. 
+We examined changes in students’ writing performance (i.e., pretest and posttest holistic essay scores) 
+and system attitudes (i.e., daily reports of engagement, motivation, and perceived learning gains) across 
+training sessions. Additionally, we analyzed the relation between these reported system perceptions and 
+students’ ratings of the strategy practice games in the W-Pal system. The results of the current study 
+indicate that L2 students can indeed benefit from explicit writing strategy instruction within a game-based 
+learning environment. Additionally, their enjoyment of strategy practice games is strongly linked to their 
+overall engagement, motivation, and perceived performance towards strategy training sessions. Our 
+results, therefore, support our predictions that writing strategy interventions that have been developed and 
+tested for L1 students can be beneficial for L2 writers. Additionally, they suggest that game-based 
+practice environments can be used as an engaging alternative to repetitive strategy training sessions, such 
+as practice drills.  
+One substantial contribution of this study is the comparison of L1 and L2 students’ development of 
+writing performance (holistic essay scores) and system perceptions (daily reports of engagement, 
+motivation, and perceived learning gains) across extended exposure to explicit writing strategy 
+instruction. Although researchers have investigated the effects of writing-specific strategy interventions 
+for L1 students, far fewer studies have focused on the benefits of such instruction for L2 students. A 
+second contribution of this study is the examination of L2 students’ perceptions of game-based strategy 
+practice. Specifically, we investigated how students’ reported perceptions of the games were related to, 
+and predictive of, their overall reported engagement, motivation, and perceived learning after training. 
+These analyses provided a glimpse into the similarities and differences between L1 and L2 writers during 
+interactions with a game-based tutoring system. Additionally, they allow us to confirm a strong link 
+between second language students’ perceptions of strategy practice games and their overall perceptions of 
+the Writing Pal training sessions.  
+L2 Writing Strategy Training 
+The results of this study provide an extensive analysis of the development of L2 students’ writing 
+performance and system perceptions across writing strategy-training sessions. Students in this study 
+repeatedly interacted with W-Pal during which they received explicit strategy instruction, game-based 
+strategy practice, and holistic essay writing practice (McNamara et al., 2012; Roscoe et al., in press). A 
+series of instructional videos provided students with explanations, examples, and demonstrations on how 
+to effectively apply writing strategies to their own essays. In addition, strategy practice games allowed 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  140 
+students to practice applying the strategies within isolated tasks, minimizing the potential to grow 
+overwhelmed with the complex demands of the writing process. Finally, W-Pal offered students the 
+opportunity to combine the strategies they had learned in a holistic essay-writing module.  
+Because the writing process is a complex cognitive task, L2 students may benefit from supplementary 
+instruction and practice in engaging environments in a similar manner to L1 writers. Writing Pal provides 
+such an environment, where these students can receive instruction and repeated, deliberate practice in an 
+engaging and adaptive environment. The current study investigated whether L2 students would benefit 
+from exposure to this system, in terms of writing performance or attitudinal measures. Our analyses 
+revealed that L1 and L2 students exhibited similar positive developmental patterns across training session. 
+Regardless of their native language, students improved in terms of writing performance as well as self-
+reported levels of engagement, motivation, and perceived writing improvement.  
+Student engagement plays a vital role in the efficacy of extended practice training sessions (McNamara et 
+al., 2010). When practice tasks become repetitive and redundant, students can disengage from training. 
+This may be particularly troubling for L2 students, who may need more practice than L1 students. Our 
+results suggest that game-based strategy practice may offset potential negative training effects. In 
+particular, repeated strategy training interspersed with game-based strategy practice in W-Pal not only 
+maintained students’ levels of engagement and motivation, it also led to overall increases in writing 
+performance and affect (i.e., motivation, engagement, and perceived performance) for both L1 and L2 
+students. Therefore, the results of this study suggest that the addition of game-based features to repeated 
+practice tasks has the potential to increase L2 students’ engagement and motivation.  
+An obvious limitation of the current analyses is the equivalence of the pretest essay scores for L1 and L2 
+students. Although the L2 students in this study benefitted from the writing strategy training and game-
+based practice, it is unknown whether less proficient L2 students would experience similar benefits. 
+Nonetheless, the results of this study provide confirmation that writing strategy training can benefit more 
+advanced L2 writers in a similar manner as L1 writers. In addition to writing proficiency increases, the 
+results of this study suggest that the L2 students experienced similar affective benefits from game-based 
+practice as L1 students. Thus, we can conclude that, at least for highly proficient L2 students, game-based 
+strategy training can lead to increases in writing performance, as well as motivation and engagement 
+towards practice. 
+Game-based Writing Strategy Practice 
+Beyond our analysis of students’ performance and attitudinal changes, we further investigated the degree 
+to which students’ perceptions of the practice games were related to their posttest reports of engagement, 
+motivation, and perceived learning. Although students’ daily perceptions of the W-Pal system increased 
+throughout training, it was unclear whether these positive attitudinal ratings could be attributed to the W-
+Pal games. Hence, we further examined the game ratings that were associated with students’ daily survey 
+responses in order to determine the degree to which students’ attitudes towards the games affected 
+students’ perceptions of strategy training. 
+The correlation and regression analyses confirmed that there was, indeed, a relation between attitudes 
+towards the games and students’ perceptions of their performance. Further, these relations were different 
+for L1 and L2 students. Averaging across first and second language, students tended to rate their training 
+perceptions more highly if they also found the games to be enjoyable, easy to play, and helpful for 
+learning. However, L1 and L2 students’ game ratings were predictive of different measures of motivation 
+and engagement. Namely, game enjoyment and difficulty were predictive of L1 students’ daily self-
+reports of perceived learning, motivation, and engagement during W-Pal training, whereas for L2 
+students, game enjoyment and perceived game helpfulness were both predictive of daily self-reports. 
+Importantly, the L2 students’ attitudes towards game-based practice also accounted for more variance in 
+their engagement, motivation, and perceived performance than did the ratings of L1 students. Overall, the 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  141 
+results of these analyses suggest that L1 and L2 students may experience similar benefits from 
+educational games. However, these results further suggest that the link between game enjoyment and 
+overall engagement and perceived performance may be stronger for L2 students than L1 students. 
+A potential explanation for the stronger game enjoyment-engagement connection amongst L2 students 
+may be a result of the isolated strategy practice offered by the W-Pal games. The game-based practice 
+allows students to practice individual components of the writing process, such as outlining or revising, 
+without having to produce an entire essay. This process reduces many of the demands associated with the 
+writing process. Thus, students may be less overwhelmed and more likely to remain engaged in the task. 
+This result may be particularly strong for L2 students because the L2 writing process is typically more 
+resource demanding, as students must attend to lower- and higher-level aspects of their writing (e.g., 
+DeKeyser, 2007; Schoonen et al., 2009). An obvious limitation of this study is the relatively low number 
+of L1 and L2 participants. Based on this small sample of students, it is worth noting that more attention 
+should be paid to the results that were significant at the p <. 001 levels. Indeed, future studies should 
+attempt to replicate these findings with a larger sample of students. Nonetheless, the results of this study 
+provide a starting point as well as important insights into the potential efficacy of strategy training for L2 
+students.  
+The current study did not afford the opportunity to analyze how the various W-Pal games may have 
+differentially impacted students’ engagement, motivation, and perceptions of performance. Future studies, 
+however, should attempt to identify the specific features of educational games that contribute most 
+strongly to increases in motivation and engagement. Further, research should investigate whether these 
+features differentially impact L1 and L2 students who interact with these games. For example, it may be 
+that there are differential effects of generative and identification tasks on L1 and L2 students. Because the 
+L2 writing process can be overwhelming, students may grow more disengaged during game-based 
+practice that requires them to produce larger quantities of text. Results from such studies could provide 
+critical information for researchers and designers that could inform the adaptation of game-based systems 
+for L2 students. 
+CONCLUSIONS 
+Our results indicate that L2 students can improve their writing performance through a combination of 
+explicit writing strategy instruction, game-based practice, and holistic essay writing practice. Despite the 
+apparent benefits of repetitive strategy practice, students can easily grow disengaged with extended 
+learning tasks. The current study suggests that L2 students’ engagement towards learning tasks is strongly 
+related to their enjoyment of the practice environment. Therefore, L2 students’ inherent interest in games 
+can be leveraged to improve their engagement and motivation towards strategy training. 
+The results of this study revealed a connection between game enjoyment and overall perceptions of the 
+training system; however, it did not provide specific information about the game features that were most 
+strongly related to the L2 students’ engagement and perceived learning gains. Future work should 
+investigate the impact of different features of the games, such as narrative or personalization, to determine 
+what game characteristics are more beneficial to the writing process. In addition, because L2 students’ 
+engagement and motivation was strongly predicted by their game enjoyment, future research should be 
+conducted to examine which types of games are most enjoyable and beneficial for L2 students. 
+Potential limitations of this study lie in the relatively high English proficiency level of the L2 students and 
+the relatively low number of participants. Indeed, these factors deserve further attention in future studies. 
+Nonetheless, the results of this study provide a starting point as well as important insights into the 
+potential efficacy of strategy training for L2 students. A more complete understanding of the questions 
+explored in this study will hopefully emerge from future studies that investigate the effects of language 
+skills on the effectiveness of strategy training and game-based practice. 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  142 
+APPENDIX A. Description of the Writing Pal Games. 
+Game Description 
+Freewrite Flash Freewrite on a given prompt to fill the Idea Meter and earn Idea Flash Cards 
+Mastermind Outline Create an outline from argument and evidence statements that are provided in 
+order to repair the Mastermind Mainframe 
+Planning Passage Select appropriate arguments and evidence to advance to new travel destinations 
+and earn souvenirs 
+Dungeon Escape Label attention-grabbing techniques by selecting appropriate doors to avoid the 
+castle guards and the rising floodwaters. 
+Essay Launcher Select thesis statements and attention-grabbers for given introduction paragraphs 
+in order to rescue spaceships 
+Fix It Fix a broken circuit board by evaluating paragraphs for their missing elements, 
+such as evidence or thesis statements 
+RoBoCo Write topic and evidence sentences for a given thesis statement to earn the 
+necessary parts to build a robot 
+Lockdown Write conclusion paragraphs for a given essay outline in order to stop computer 
+hackers 
+Adventurer’s Loot Identify the correct use of paraphrasing strategies to explore various locations 
+and obtain treasure 
+Map Conquest Identify paraphrasing strategies to earn flags that can be used to conquer the 
+game board 
+Undefined & Mined Identify undefined referents in texts to disarm mines 
+CON-Artist Solve clues by selecting transition words that link sentences. These clues then 
+allow students to catch a thief 
+Speech Writer Identify the main problems in a friend’s speech and then help your friend edit the 
+speech to improve it 
+APPENDIX B. Pretest and Posttest Essay Prompts. 
+Essay Title Prompt 
+Images and 
+Impressions 
+All around us appearances are mistaken for reality. Clever advertisements create 
+favorable impressions but say little or nothing about the products they promote. In 
+stores, colorful packages are often better than their contents. In the media, how 
+certain entertainers, politicians, and other public figures appear is sometimes 
+considered more important than their abilities. All too often, what we think we see 
+becomes far more important than what really is. 
+Do images and impressions have a positive or negative effect on people? 
+Competition and 
+Cooperation 
+While some people promote competition as the only way to achieve success, others 
+emphasize the power of cooperation. Intense rivalry at work or play or engaging in 
+competition involving ideas or skills may indeed drive people either to avoid failure 
+or to achieve important victories. In a complex world, however, cooperation is much 
+more likely to produce significant, lasting accomplishments. 
+Do people achieve more success by cooperation or by competition? 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  143 
+APPENDIX C. Holistic Rating Form 
+After reading each essay, assign a holistic score based on the rubric below. For the following evaluations you 
+will need to use a grading scale between 1 (minimum) and 6 (maximum). The distance between each grade 
+(e.g., 1–2, 3–4, 4–5) should be considered equal. 
+Score Criteria 
+6 An essay in this category demonstrates clear and consistent mastery, although it may have a few 
+minor errors. A typical essay effectively and insightfully develops a point of view on the issue and 
+demonstrates outstanding critical thinking, using clearly appropriate examples, reasons, and other 
+evidence to support its position is well organized and clearly focused, demonstrating clear coherence 
+and smooth progression of ideas exhibits skillful use of language, using a varied, accurate, and apt 
+vocabulary demonstrates meaningful variety in sentence structure is free of most errors in grammar, 
+usage, and mechanics. 
+5 An essay in this category demonstrates reasonably consistent mastery, although it will have 
+occasional errors or lapses in quality. A typical essay effectively develops a point of view on the 
+issue and demonstrates strong critical thinking, generally using appropriate examples, reasons, and 
+other evidence to support its position is well organized and focused, demonstrating coherence and 
+progression of ideas exhibits facility in the use of language, using appropriate vocabulary 
+demonstrates variety in sentence structure is generally free of most errors in grammar, usage, and 
+mechanics. 
+4 An essay in this category demonstrates adequate mastery, although it will have lapses in quality. A 
+typical essay develops a point of view on the issue and demonstrates competent critical thinking, 
+using adequate examples, reasons, and other evidence to support its position is generally organized 
+and focused, demonstrating some coherence and progression of ideas exhibits adequate but 
+inconsistent facility in the use of language, using generally appropriate vocabulary demonstrates 
+some variety in sentence structure has some errors in grammar, usage, and mechanics. 
+3 An essay in this category demonstrates developing mastery, and is marked by ONE OR MORE of 
+the following weaknesses: develops a point of view on the issue, demonstrating some critical 
+thinking, but may do so inconsistently or use inadequate examples, reasons, or other evidence to 
+support its position is limited in its organization or focus, or may demonstrate some lapses in 
+coherence or progression of ideas displays developing facility in the use of language, but sometimes 
+uses weak vocabulary or inappropriate word choice lacks variety or demonstrates problems in 
+sentence structure contains an accumulation of errors in grammar, usage, and mechanics. 
+2 An essay in this category demonstrates little mastery, and is flawed by ONE OR MORE of the 
+following weaknesses: develops a point of view on the issue that is vague or seriously limited, and 
+demonstrates weak critical thinking, providing inappropriate or insufficient examples, reasons, or 
+other evidence to support its position is poorly organized and/or focused, or demonstrates serious 
+problems with coherence or progression of ideas displays very little facility in the use of language, 
+using very limited vocabulary or incorrect word choice demonstrates frequent problems in sentence 
+structure contains errors in grammar, usage, and mechanics so serious that meaning is somewhat 
+obscured. 
+1 An essay in this category demonstrates very little or no mastery, and is severely flawed by ONE OR 
+MORE of the following weaknesses: develops no viable point of view on the issue, or provides little 
+or no evidence to support its position is disorganized or unfocused, resulting in a disjointed or 
+incoherent essay displays fundamental errors in vocabulary demonstrates severe flaws in sentence 
+structure contains pervasive errors in grammar, usage, or mechanics that persistently interfere with 
+meaning. 
+Holistic score based on attached rubric (1-6): ___ 
+ 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  144 
+APPENDIX D.  Daily Surveys. 
+Please answer the following questions about your MOST RECENT Writing Pal session. 
+1:  My Most recent session in W-Pal was… 
+ Very Bad     Bad      Poor      Fair      Good     Very Good 
+   1            2         3         4          5              6 
+2:  I felt like I learned the material during my MOST RECENT SESSION 
+ Not At All                                                                Very Much 
+   1              2           3           4            5               6 
+3:  I feel like my writing skills improved during my MOST RECENT SESSION 
+ Not At All                                                                Very Much 
+          1              2           3           4            5               6 
+4:  I enjoyed my MOST RECENT SESSION 
+ Not At All                                                                   Very Much 
+          1              2           3           4            5               6 
+5:  I was bored during my MOST RECENT session 
+ Never     Rarely    Sometimes      Often        Most of the Time     All the Time 
+      1             2          3                   4             5                               6 
+6:  I was frustrated during my MOST RECENT session 
+ Never     Rarely    Sometimes      Often        Most of the Time     All the Time 
+      1             2          3                   4             5                               6   
+7:  I had problems with the program during my MOST RECENT session 
+ Never     Rarely    Sometimes      Often        Most of the Time     All the Time 
+      1             2              3                   4               5                       6  
+ 
+Please answer the following questions about how you feel about TODAY'S Writing Pal session. 
+8:  My mood right now is... 
+ Very negative                                                           Very Positive 
+          1                 2            3                4         5           6 
+9:  I am looking forward to participating in TODAY'S SESSION 
+ Not At All                                                                   Very Much 
+          1              2           3           4            5               6 
+10: I am motivated to participate in TODAY'S SESSION 
+ Not At All                                                                   Very Much 
+          1              2           3           4            5               6 
+11: I plan to do my best during TODAY'S SESSION 
+ Not At All                                                                    Very Much 
+          1              2           3           4            5               6 
+12: I plan to do better than anyone else during TODAY'S SESSION 
+ Not At All                                                                     Very Much 
+          1              2           3           4            5               6 
+ 
+ 
+APPENDIX E. Daily Game Surveys. 
+ 
+1: Was this challenge helpful for practicing or learning a writing strategy?  
+ Very Helpful Somewhat Helpful      Only a Little Helpful            Not Helpful at All 
+          1         2            3                          4 
+2: Was this challenge enjoyable to play?  
+ Very Enjoyable  Somewhat Enjoyable Only a Little Enjoyable     Not Enjoyable at All 
+          1          2                      3                            4 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  145 
+3: Was this challenge easy or difficult to play?  
+ Very Easy Somewhat Easy    Somewhat Difficult            Difficult 
+          1         2               3                                   4 
+4: Were the instructions for this challenge understandable?  
+       Easy   Somewhat Easy   Somewhat Hard                     Hard   
+          1         2               3                   4 
+5: Were the graphics for this challenge appealing?  
+ Very Appealing      Appealing       Somewhat Unappealing         Unappealing 
+          1         2            3                            4 
+6:  Did the game controls for this challenge make sense?  
+ Completely        Mostly            Somewhat         Made no Sense 
+          1         2        3        4 
+ 
+NOTES 
+1. The Scholastic Aptitude Test (SAT) is a standardized assessment used for most college admissions 
+decisions in the United States 
+ 
+ACKNOWLEDGEMENTS 
+This research was supported in part by the Institute for Education Sciences (IES R305A080589 and IES 
+R305G20018-02). Ideas expressed in this material are those of the authors and do not necessarily reflect 
+the views of the IES. The authors would like to also thank the anonymous reviewers and the editorial staff 
+at Language Learning & Technology.  
+ 
+ABOUT THE AUTHORS 
+Laura K. Allen is a PhD student in Cognitive Science and the Learning Sciences Institute at Arizona State 
+University. Her research examines the cognitive processes and abilities underlying reading and writing 
+proficiency. She is also interested in the impact of these factors in second language learning. 
+E-mail: laurakallen@asu.edu 
+Scott A. Crossley is an Assistant Professor at Georgia State University. His interests include 
+computational linguistics, corpus linguistics, and second language acquisition. He has published articles 
+in second language lexical acquisition, second language reading, multi-dimensional analysis, cognitive 
+science, and text linguistics. 
+E-mail: scrossley@gsu.edu 
+Erica L. Snow is a PhD student in Cognitive Science and the Learning Sciences Institute at Arizona State 
+University. Her current research explores the interplay of students' learning outcomes, learning behaviors, 
+and individual differences within intelligent tutoring systems and educational games.  
+E-mail: erica.l.snow@asu.edu 
+Danielle S. McNamara is a Professor at the Arizona State University. Her work involves the theoretical 
+study of cognitive processes as well as the application of cognitive principles to educational practice. Her 
+current research ranges a variety of topics including text comprehension, writing strategies, tutoring 
+technologies, and developing natural language algorithms. 
+E-mail: dsmcnama@asu.edu 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  146 
+REFERENCES 
+Arndt, V. (1987). Six writers in search of texts: A protocol-based study of L1 and L2 writing. ELT 
+Journal, 41, 257–267. 
+Attali, Y. & Burstein, J. (2006). Automated essay scoring with e-rater V.2. Journal of Technology, 
+Learning, and Assessment, 4(3). Retrieved from http://www.jtla.org 
+Baddeley, A. D. (1986). Working memory. New York, NY: Oxford University Press. 
+Barab, S. A., Gresalfi, M. S., & Arici, A. (2009). Transformational play: Why educators should care 
+about games. Educational Leadership, 67, 76–80. 
+Barab, S. A., Pettyjohn, P., Gresalfi, M., Volk, C., & Solomou, M. (2012). Game-based curriculum and 
+transformational play: Designing to meaningfully position person, content, and context. Computers & 
+Education, 58, 518–533. 
+Barab, S. A., Thomas, M., Dodge, T., Carteaux, R., & Tuzun, H. (2005). Making learning fun: Quest 
+Atlantis, a game without guns. Educational Technology Research and Development, 53, 86–107. 
+Barab, S. A., Zuiker, S., Warren, S., Hickey, D., Ingram-Goble, A., Kwon, E.-J., Kouper, I., & Herring, S. 
+(2007). Situationally embodied curriculum: Relating formalisms and contexts. Science Education, 91, 
+750–782. 
+Bell, C., & McNamara, D.S. (2007). Integrating iSTART into a high school curriculum. Proceedings of 
+the 29th Annual Meeting of the Cognitive Science Society (pp. 809–814). Austin, TX: Cognitive Science 
+Society. 
+Berman, R. (1994). Learners’ transfer of writing skills. TESL Canadian Journal, 12, 29–46. 
+Boekaerts, M., Pintrich, P. R., & Zeidner, M. (Eds.). (2000). Handbook of self-regulation. San Diego, 
+CA: Academic Press. 
+Casanave, C. P. (2004). Controversies in second language writing: Dilemmas and decisions in research 
+and instruction. Ann Arbor, MI: University of Michigan Press. 
+Clark, D., Nelson, B., Sengupta, P., & D’Angelo, C. (2009). Rethinking science learning through digital 
+games and simulations: Genres examples, and evidence. Washington, DC: National Research Council. 
+Corbett, A. T. & Anderson, J. R. (2001). Locus of feedback control in computer-based tutoring: Impact of 
+learning rate, achievement and attitudes. In Proceedings of ACM CHI-2001 Conference on Human 
+Factors in Computing Systems (pp. 245–252). 
+Cordova, D. I., & Lepper, M. R. (1996). Intrinsic motivation and the process of learning: Beneficial 
+effects of contextualization, personalization, and choice. Journal of Educational Psychology, 88, 715–
+730. 
+Craig, S. D., D’Mello, S. K., Gholson, B., Witherspoon, A., Sullins, J., & Graesser, A. C. (2004). 
+Emotions during learning: The first steps toward an affect sensitive intelligent tutoring system. In J. Nall, 
+& R. Robson (Eds.), Proceedings of E-learn 2004: World Conference on E-learning in Corporate, 
+Government, Healthcare, & Higher Education (pp. 284–288). Chesapeake, VA: AACE. 
+Crossley, S. A., & McNamara, D. S. (2009). Computational assessment of lexical differences in L1 and 
+L2 writing. Journal of Second Language Writing, 18, 119–136. 
+Crossley, S. A., Roscoe, R. D., & McNamara, D. S. (2013). Using automatic scoring models to detect 
+changes in student writing in an intelligent tutoring system. In C. Boonthum-Denecke & G. M. 
+Youngblood (Eds.), Proceedings of the 26th Annual Florida Artificial Intelligence Research Society 
+(FLAIRS) Conference (pp. 208–213). Menlo Park, CA: The AAAI Press. 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  147 
+DeKeyser, R. (2007). Skill acquisition theory. In B. VanPatten & J. Williams (Eds.), Theories in second 
+language acquisition: An introduction (pp. 97–113). Mahwah, NJ: Lawrence Erlbaum. 
+D’Mello, S., & Graesser, A. (2006). Affect detection from human-computer dialogue with an intelligent 
+tutoring system. In J. Gratch, M. Young, R. Aylett, D. Ballin, & P. Oliver (Eds.), Lecture Notes in 
+Computer Science: Intelligent Virtual Agents: 6th International Conference (pp. 54–67). 
+Berlin/Heidelberg, Germany: Springer. 
+D'Mello, S. K., Taylor, R., & Graesser, A. C. (2007). Monitoring affective trajectories during complex 
+learning. In D. S. McNamara & J. G. Trafton (Eds.), Proceedings of the 29th Annual Meeting of the 
+Cognitive Science Society (pp. 203–208). Austin, TX: Cognitive Science Society. 
+Flower, L. & Hayes, J. (1980). Identifying the organization of writing processes. In L. Gregg & E. 
+Steinberg (Eds.), Cognitive processes in writing (pp. 3–30). Hillsdale, NJ: Erlbaum. 
+Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice 
+model. Simulation Gaming, 33, 441–467. 
+Gee, J. P. (2003). What video games have to teach us about learning and literacy. New York, NY: 
+Palgrave Macmillan. 
+Gee, J. P. (2005). Why video games are good for your soul: Pleasure and learning. Melbourne, Australia: 
+Common Ground Press. 
+Gee, J.P. (2007). Good video games and good learning: Collected essays on video games, learning and 
+literacy. New York, NY: Peter Lang. 
+Gesier, S., & Studley, R. (2001). UC and SAT: Predictive validity and differential impact of the SAT I and 
+SAT II at the University of California. Oakland, CA: University of California Press. 
+Graham, S. (2006). Writing. In P. Alexander & P. Winne (Eds.), Handbook of educational psychology 
+(pp. 457–478). Mahwah, NJ: Erlbaum. 
+Graham, S. & Perin, D. (2007). A meta-analysis of writing instruction for adolescent students. Journal of 
+Educational Psychology, 99, 445–476. 
+Gredler, M. E. (2004). Games and simulations and their relationships to learning. In D. H. Jonassen (Ed.), 
+Handbook of research on educational communications and technology (pp. 571–581). Mahwah, NJ: 
+Lawrence Erlbaum. 
+Grimes, D. & Warschauer, M. (2010). Utility in a fallible tool: A multi-site case study of automated 
+writing evaluation. Journal of Technology, Learning, and Assessment, 8, 4–43. 
+Harris, K. R., & Graham, S. (1996). Making the writing process work: Strategies for composition and 
+self-regulation (2nd ed.). Cambridge, MA: Brookline Books.  
+Hayes, J. R. (1996). A new framework for understanding cognition and affect in writing. In C. M. Levy & 
+L. S. Ransdell (Eds.), The science of writing: Theories, methods, individual differences and applications 
+(pp. 1–27). Hillsdale, NJ: Erlbaum. 
+Hillocks, G. (1984). What works in teaching composition: A meta-analysis of experimental treatment 
+studies. American Journal of Education, 93, 133–170.  
+Jackson, G. T., & McNamara, D. S. (2013). Motivation and performance in a game-based intelligent 
+tutoring system. Journal of Educational Psychology. Advance online publication. doi: 10.1037/a0032580 
+Johns, A. M. (1997). Text, role, and context: Developing academic literacies. New York, NY: Cambridge 
+University Press.   
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  148 
+Johnstone, K. M., Ashbaugh, H., & Warfield, T. D. (2002). Effects of repeated practice and contextual-
+writing experiences on college students' writing skills. Journal of Educational Psychology, 94, 305–315. 
+Kellogg, R. (2008). Training writing skills: a cognitive development perspective. Journal of Writing 
+Research, 1, 1–26. 
+Kormos, J. (2012). The role of individual differences in L2 writing. Journal of Second Language Writing, 
+21, 390–403. 
+Light, R. J. (2001). Making the most of college: Students speaking their minds. Cambridge, MA: Harvard 
+University Press. 
+Linnarud, M. (1986). Lexis in composition: A performance analysis of Swedish learners’ written English. 
+Malmo, Sweden: Liber Forlag Malmo. 
+Malone, T. & Lepper, M. (1987). Making learning fun: A taxonomy of intrinsic motivations of learning. 
+In R. Snow and M. Farr (Eds.), Aptitude, learning, and instruction: Vol. 3. Cognition and affective 
+process analyses (pp. 223–253). Hillsdale, NJ: Lawrence Erlbaum. 
+Matsumoto, K. (1995). Research paper writing strategies of professional Japanese EFL writers. TESL 
+Canadian Journal, 13, 17–27. 
+Matsuda, P. (1999). Composition Studies and ESL Writing: A Disciplinary Division of Labor. College 
+Composition and Communication, 50, 699–721. 
+Matsuda, P. K. (2003). Second language writing in the twentieth century: A situated historical 
+perspective. In B. Kroll (Ed.), Exploring the dynamics of second language writing (pp. 15–34). New 
+York, NY: Cambridge University Press. 
+McCutchen, D. (2000). Knowledge processing and working memory: Implications for a theory of writing. 
+Educational Psychologist, 35, 13–23. 
+MacGinitie, W. H., & MacGinitie, R. K. (1989). Gates MacGinitie reading tests. Chicago, IL: Riverside. 
+McNamara, D. S., Crossley, S. A., & Roscoe, R. D. (2013). Natural language processing in an intelligent 
+writing strategy tutoring system. Behavior Research Methods, 45, 499–515.  
+McNamara, D. S., Jackson, G. T., & Graesser, A. C. (2010). Intelligent tutoring and games (ITaG). In Y. 
+K. Baek (Ed.), Gaming for classroom-based learning: Digital role-playing as a motivator of study (pp. 
+44–65). Hershey, PA: IGI Global. 
+McNamara, D., Raine, R., Roscoe, R., Crossley, S., Jackson, G., Dai, J., Cai, Z., Renner, A., Brandon, R., 
+Weston, J., Dempsey, K., Carney, D., Sullivan, S., Kim, L., Rus, V., Floyd, R., McCarthy, P., & Graesser, 
+A. (2012). The Writing-Pal: Natural language algorithms to support intelligent tutoring on writing 
+strategies. In P. McCarthy & C. Boonthum-Denecke (Eds.), Applied natural language processing and 
+content analysis: Identification, investigation, and resolution (pp. 298–311). Hershey, PA.: IGI Global. 
+Myles, J. (2002). Second language writing and research: The writing processes and error analysis in 
+student texts. The Electronic Journal for English as a Second Language, 6(2), A–1.  
+National Assessment of Educational Progress. (2007). The Nation’s Report Card: Writing 2007. 
+Retrieved from nces.ed.gov/nationsreportcard/writing/ 
+National Assessment of Educational Progress. (2011). The Nation’s Report Card: Writing 2011. 
+Retrieved from http://nationsreportcard.gov/writing_2011/writing_2011_report/ 
+Negari, G. M. (2011). A study on strategy instruction and EFL learners’ writing skill. International 
+Journal of English Linguistics, 1, 299–307. 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  149 
+O’Malley, J., & Chamot, A. (1990). Learning strategies in second language acquisition. Cambridge, UK: 
+Cambridge University Press. 
+Orbach, E. (1979). Simulation games and motivation for learning: A theoretical framework. Simulation 
+and Games, 10, 3–40. 
+Paltridge, B. (2004). Academic writing. Language Teaching, 37, 87–105. 
+Powell, P. (2009). Retention and writing instruction: Implications for access and pedagogy. College 
+Composition and Communication, 60, 664–682. 
+Prior, P. (2006). A sociocultural theory of writing. In C. A. MacArthur, S. Graham, & J. Fitzgerald (Eds.), 
+Handbook of writing research (pp. 54–68). New York, NY: Guilford. 
+Quick, J., Atkinson, R., & Lin, L., (2012). Empirical taxonomies of gameplay enjoyment: Personality and 
+video game preference. International Journal of Game-Based Learning, 2, 11–31. 
+Ransdell, S. & Levy, C. M. (1996). Working memory constraints on writing quality and fluency. In C. M. 
+Levy & S. E. Ransdell (Eds.), The science of writing: Theories, methods, individual differences, and 
+applications (pp. 93–106). Mahwah, NJ: Lawrence Erlbaum. 
+Reichelt, M. (2001). A critical review of foreign language writing research on pedagogical approaches. 
+Modern Language Journal, 85, 578–598. 
+Ricci, K., Salas, E., & Cannon-Bowers, J. A. (1996). Do computer-based games facilitate knowledge 
+acquisition and retention? Military Psychology, 8, 295–307. 
+Roca de Larios, J. R., Murphy, L., & Marin, J. (2002). A critical examinations of L2 writing process 
+research. In S. Ransdell & M.-L. Barbier (Eds.), New directions for research in L2 writing (pp. 11–48). 
+Dordrecht, The Netherlands: Kluwer Academic. 
+Rogers, L. A., & Graham, S. (2008). A meta-analysis of single subject design writing intervention 
+research. Journal of Educational Psychology, 100, 879–906. 
+Roscoe, R. D., & McNamara, D. S. (2013). Writing Pal: Feasibility of an intelligent writing strategy tutor 
+in the high school classroom. Journal of Educational Psychology. Advance online publication. doi: 
+10.1037/a0032340 
+Roscoe, R. D., Varner, L. K., Weston, J. L., Crossley, S. A., & McNamara, D. S. (in press). The Writing 
+Pal intelligent tutoring system: Usability testing and development. Computers and Composition. 
+Rowe, J., Shores, L., Mott, B., & Lester, J. (2011). Integrating learning, problem solving, and engagement 
+in narrative-centered learning environments. International Journal of Artificial Intelligence in Education, 
+21, 115–133. 
+Rudner, L., Garcia, V., & Welch, C. (2006). An evaluation of the IntelliMetric essay scoring system. 
+Journal of Technology, Learning, and Assessment, 4(4), 3–21. 
+Shaffer, D. W. (2007). How computer games help children learn. New York, NY: Palgrave. 
+Shank, R., & Neaman, A. (2001). Motivation and failure in educational systems design. In K. Forbus & P. 
+Feltovich (Eds.), Smart machines in education. Cambridge, MA: AAAI / MIT. 
+Shiffrin, R. M., & Schneider, W. (1977). Controlled and automatic human information processing: II. 
+Perceptual learning, automatic attending, and a general theory. Psychological Review, 84, 127–190. 
+Schoonen, R., Snellings, P., Stevenson, M., & van Gelderen, A. (2009). Towards a blueprint of the 
+foreign language writer: The linguistic and cognitive demands of foreign language writing. In R. M.  
+Manchon (Ed.), Writing in foreign language contexts: Learning, teaching, and research (pp. 77–101). 
+Laura K. Allen, Scott A. Crossley, Erica L. Snow and Danielle S. McNamara Game Enjoyment as a Key to Engagement  
+ 
+Language Learning & Technology  150 
+Buffalo, NY: Multilingual Matters. 
+Shermis, M. & Burstein, J. (Eds.). (2003). Automated essay scoring: A cross-disciplinary perspective. 
+Mahwah, NJ: Erlbaum. 
+Silva, T. (1993). Toward an understanding of the distinct nature of L2 writing. TESOL Quarterly, 27, 
+657–677. 
+Silva, T., Leki, L., & Carson, J. (1997). Broadening the perspective of mainstream composition studies. 
+Written Communication, 14, 398–428. 
+Steinkuehler, C. A. (2006). Why game (culture) studies now? Games and Culture, 1, 1–6. 
+Torrance, M., & Galbraith, D. (2006). The processing demands of writing. In C. MacArthur, S. Graham, 
+and J. Fitzgerald (Eds.), Handbook of writing research (pp. 67–89). New York, NY: The Guilford Press. 
+Vogel, J. F., Vogel, D. S., Cannon-Bowers, J., Bowers, C. A., Muse, K., & Wright, M. (2006). Computer 
+gaming and interactive simulations for learning: A meta-analysis. Journal of Educational Computing 
+Research, 34, 229–243. 
+Weigle, S. C. (2005). Second language writing expertise. In K. Johnson (Ed.), Expertise in second 
+language learning and teaching (pp. 128–149). Basingstoke, Hampshire/New York, NY: Palgrave 
+Macmillan. 
+Wilson, K. A., Bedwell, W. L., Lazzara, E. H., Salas, E., Burke, S., Estock, J. L., Orvis, K. L., & Conkey, 
+C. (2009). Relationships between game attributes and learning outcomes: Review and research proposals. 
+Simulation and Gaming, 40, 217–266. 
+Woodall, B. R. (2002). Language-switching: Using the first language while writing in a second language. 
+Journal of Second Language Writing, 11, 7–18. 
+Young, M., Slota, S., Cutter, A., Jalette, G., Mullin, G., Lai, B., Simenoi, Z., Tran, M., & Yukhymenko, 
+M. (2012). Our princess is in another castle: a review of trends in serious gaming for education. Review of 
+Educational Research, 82, 61–89. 

@@ -1,0 +1,938 @@
+Language Learning & Technology 
+http://llt.msu.edu/vol11num3/huangliou/ 
+October 2007, Volume 11, Number 3 
+pp. 64-82 
+ 
+Copyright © 2007, ISSN 1094-3501 64 
+VOCABULARY LEARNING IN AN AUTOMATED GRADED READING 
+PROGRAM 
+Hung-Tzu Huang 
+University of Hawai'i at Mānoa 
+Hsien-Chin Liou 
+National Tsing Hua University 
+Adult L2 learners are often encouraged to acquire new words through reading in order to 
+promote language proficiency. Yet preparing suitable reading texts is often a challenge for 
+teachers because the chosen texts must have a high percentage of words familiar to 
+specific groups of learners in order to allow the inference of word meanings from context. 
+With the help of word lists research and advances in quantitative corpus analyses using 
+word frequency computer programs, this study selected sixteen articles from the computer 
+corpus of a local Chinese-English magazine and used them to construct an online English 
+extensive reading program. A preliminary assessment of the reading program was 
+conducted with 38 college students over twelve weeks based upon vocabulary gains from 
+a pretest to a posttest. The results showed that learners improved their vocabulary scores 
+after using the reading program. The online extensive reading syllabus demonstrated that 
+such a design for a reading program is technically feasible and pedagogically beneficial 
+and provides value in both vocabulary gains and learner satisfaction. 
+INTRODUCTION 
+Extensive reading, reading with "large quantities of materials that is within learners' linguistic 
+competence" (Grabe & Stroller, 2002, p. 259), purportedly helps in vocabulary learning by creating 
+opportunities for inferring word meaning in context (see, e.g., Krashen, 2004). However, studies have 
+revealed that extensive reading for second language (L2) vocabulary development may lead to such 
+problems as incorrect inferences, lack of retention, and, ultimately, vocabulary learning that does not 
+allow learners to use words actively and productively (Hulstijn, 1993; Wesche & Paribakht, 2000). The 
+problem of guesses that are incorrect can be ascribed to the fact that unlike native speakers, L2 learners 
+often lack the word knowledge necessary to make accurate inferences of word meanings from context. 
+Correct inferences of word meanings are conditional upon accurate recognition of surrounding words and 
+sensitive use of reading strategies (Huckin & Coady, 1999). Laufer (1989) observed that learners whose 
+vocabulary size enabled them to cover 95% of the words in a text were successful in developing an 
+adequate level of comprehension. However, other studies show that L2 learners commonly lack sufficient 
+word knowledge to support successful guessing and often do not actively use the reading strategies that 
+might aid successful comprehension (Chen, 1998; Grabe & Stoller, 1997). Thus the chances of 
+comprehending unsimplified authentic texts are frustratingly low, with the chances of effective 
+vocabulary acquisition lower still. 
+In addition to learners' limited language competence, restricted reading opportunities with re-encounters 
+of new words pose yet another stumbling block. Word knowledge is a continuum gradually developed 
+with each encounter of a word in different contexts. Acquiring a word is not simply a process of 
+connecting word form to word meaning, but a complex development involving the learning of 
+grammatical functions such as parts of speech, sociolinguistic factors such as word connotation, and 
+frequency intuitions such as collocation, all over the course of multiple encounters of target words in 
+diverse contexts (Nation, 1990, 2001). However, the frequent and repetitive exposure to target words 
+necessary for the development of word knowledge is often not available in an extensive reading context 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 65 
+because either students have limited time or the reading materials are not appropriate (Paribakht & 
+Wesche, 1997).  
+The current study reports a research-informed attempt to address the difficulties outlined above by 
+developing an online extensive reading syllabus. The experimental web-based extensive reading 
+environment was designed to facilitate vocabulary learning in two main ways: by providing 
+comprehensible texts sequenced according to word difficulty levels and by ensuring repetition of target 
+words. As in a similar project by Ghadirian (2003), the program sequences reading texts according to the 
+''coverage'' offered by lists of high frequency words and offers highlighting of target words, glossing, and 
+online referencing. The program differs from Ghadirian's in that an algorithm for prioritizing texts that 
+offer multiple exposures to target words was devised and built in. To assess the usefulness of our reading 
+program, 38 EFL learners whose mother tongue is Chinese were recruited for participation in the project. 
+We observed the learners' performance on measures of receptive and productive vocabulary knowledge in 
+relation to numbers of encounters with target words in the extensive reading program. Research that 
+explored the effects of three types of computerized assistance-- glosses, sequenced reading, multiple 
+encounters--informed the design of the experimental program and is outlined below.  
+Computerized Glosses and Vocabulary Learning While Reading 
+Researchers have maintained that to initiate word acquisition, learners' attention must, at some point, be 
+directed to form-meaning relationships of new, unfamiliar target words to be learned (Ellis, 1995; 
+Schmidt, 2001; VanPatten, Williams, & Rott, 2004; Wong, 2005). Provision of glosses in reading can 
+facilitate vocabulary learning by directing readers' attention toward the meaning of target words when 
+they encounter the word forms, as long as the annotation is not intrusive (Davis, 1989; Hulstijn, 
+Hollander, & Greidanus, 1996; Leefa, 1992; Liou, 2000). Results from empirical studies in learner 
+behavior have pointed to the usefulness of developing simple textual glosses for extensive reading 
+purposes. For instance, a study conducted by Davis and Lyman-Hager (1997) showed that the most 
+frequently consulted annotation type was word translation, which constituted 85% of the information 
+learners had accessed. Likewise, Lomicka (1998) reported students' strong dependence on first language 
+(L1) definitions when word meanings were unknown. Studies of multimedia glosses (Davis & Lyman-
+Hager, 1997) indicate that even though learners have the options of various annotation types (e.g., 
+pictures, videos, or audio glosses), they nevertheless tend to rely largely on L1 definitions and ignore 
+other options, as their use of glosses is oriented toward the goal of translation and paraphrasing to achieve 
+basic comprehension. Gettys, Imhof, and Kautz (2001) further explained students' behaviors with the 
+concept of human mental capacity. They contended that offering various modes of information might 
+overrun the real needs of readers and thus cause cognitive overload in the process of reading. Similarly, 
+Hegelheimer & Tower (2004) pointed out that, because of the limited capacity of learners' working 
+memory and attention, providing readers with rich kinds of information will likely create unnecessary 
+distraction and disruption. Given technical difficulties and learners' limited cognitive capacity, we 
+reasoned that L1 textual glosses are both feasible and effective for use in computerized extensive reading 
+environments.    
+Vocabulary Learning Through Sequencing of Reading Texts 
+Laufer (1989) and Nation (2001) observed that learners whose vocabulary size enabled them to 
+understand the meanings of 95% of the words in a text were successful in developing an adequate level of 
+comprehension. Assuming that learners are able to use contextual inference strategies for vocabulary 
+acquisition, Laufer (1997) and Nation (1993) suggested that a 5,000 word lexicon of general English 
+vocabulary is sufficient for reaching this 95% criterion in non-specialized texts. However, most high 
+school graduates in EFL countries have a far smaller vocabulary than this (Chen, 1998). Thus, many 
+English teachers turn to abridged or simplified texts that can scaffold learners along the process of 
+learning words while reading. Though some researchers have argued against the use of simplified texts 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 66 
+(e.g. Bernhardt, 1984), their role in promoting the acquisition of vocabulary and other aspects of language 
+is widely acknowledged (see Day & Bamford, 1998, for an overview).  
+However, the sequencing of such graded materials is often based on textbook editors' subjective 
+judgments and instructors' teaching experiences, and can be a very labor-intensive process. Fortunately, 
+recent advances in quantitative corpus analyses and the availability of new frequency-based word lists 
+offer promising solutions to these problems. For instance, Ghadirian (2003) used word frequency analyses 
+as a basis for sequencing a large number of English texts for L2 learners in his experimental TextLadder 
+program. The assumption was that the learning burden could be kept to a minimum and the online 
+vocabulary learning environment enhanced by ordering texts so that those containing the most frequently 
+recurring words were presented first. This is based on the principle that words encountered often are 
+likely to be learned before low frequency ones (Cobb & Horst, 2001; Kyongho & Nation, 1989; Nation, 
+2001). Ghadirian's procedures created an order for arranging reading texts that facilitated incremental 
+vocabulary acquisition.  
+Close scrutiny of Ghadirian's reading resource suggests room for improvement. First, the quantitative 
+results of Ghadirian's (2003) study show that the percentage of words likely to be unfamiliar was 
+particularly high in the first 10 to 20 texts, ranging from 8% to 16% and about 15 to 40 new words within 
+a 300-word text. This is well above the known-word level recommended by Nation (2001); he has pointed 
+out that "extensive reading should contain no more than 5% unknown tokens and no less than 1-2% to 
+ensure that there is new vocabulary to learn" (p. 150). Second, TextLadder was not able to control when 
+or how often learners encountered target words again during the process of extensive reading, and low 
+levels of the reappearance of target words would likely limit incidental vocabulary learning. Only in the 
+tenth or twentieth text could learners re-encounter some of the target words they read in the first text. By 
+this time, these words were already considered as familiar words by the program, yet whether learners had 
+actually acquired them after merely one exposure is questionable. Lastly, Ghadirian (2003) discussed the 
+sequencing and design of TextLadder but did not report the effects of using it with actual language 
+learners.  The research reported here is based on Textgrader, a computerized text sequencing program that 
+draws on Ghadirian's ideas for creating supportive conditions for vocabulary acquisition but includes 
+improvements such as a further reduction of vocabulary load and more frequent exposures to target 
+words. In addition, an investigation of the effects of using Textgrader with EFL learner-readers is 
+reported below.  
+Amount of Word Exposure Needed for Successful Vocabulary Acquisition 
+Although it has been consistently emphasized that repeated exposure to a word is needed for an 
+incremental learning process, previous studies in both L1 and L2 research have not shown agreement 
+concerning how much exposure is necessary for successful vocabulary acquisition (Horst, Cobb, & 
+Meara, 1998; Nagy, Herman, & Anderson, 1985, 1987; Nation, 1990; Rott, 1999; Saragi, Nation, & 
+Meister, 1978). The likely explanation for these disparate results is the incremental nature of the word 
+learning process. A single encounter with a word in context could already result in some amount of ability 
+to recognize its meaning, while 50 exposures might still not enable learners to build the complete and 
+complex word knowledge needed for productive use. Receptive and productive types of knowledge of a 
+word have commonly been used to describe the degree of learners' word knowledge (Nation, 2001; Read, 
+2000), and it is generally agreed that learners' vocabulary knowledge can be located on a receptive to 
+productive continuum (Nation, 2001). Learners are likely to first recognize a word's form, pronunciation, 
+and basic meanings; then with further experiences or practice, their word knowledge will move along the 
+continuum and finally reach the point of being able to use these words freely in productive mode. Due to 
+its currency among the measures devised to assess the incremental development of vocabulary learning, 
+Paribakht and Wesche's (1993) Vocabulary Knowledge Scale (VKS) was adopted in the present study. 
+The measure is described in detail in a later section. 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 67 
+THE PRESENT STUDY 
+The review of selected literature suggests that material developers interested in using technology to 
+construct an environment that facilitates vocabulary learning during reading would do well to build in 
+access to L1 textual glosses, and to draw on the computer's capacity to identify and sequence texts so that 
+learners read those with high levels of known words first and encounter unknown words frequently as 
+they move through the reading materials.  
+In this study, an online extensive reading syllabus called Textgrader was developed following these 
+principles and tested with learners of English. As discussed, the program aims to address the two major 
+difficulties commonly encountered by second language learners in processing unsimplified texts: limited 
+word knowledge and insufficient exposure to target words. The research had two main goals: to evaluate 
+the participants' vocabulary learning outcomes and to determine how much exposure to target words was 
+needed for the development of receptive and productive word knowledge. A set of research questions 
+guides the current study.    
+1) If the online extensive reading program can lead to vocabulary gains on the target learners, what is 
+the relation between amount of word exposure and successful receptive and productive word 
+acquisition? 
+2) What feedback will the learners offer in response to the use of the online extensive reading program? 
+METHOD 
+Participants 
+The participants were 38 Chinese-speaking EFL college freshmen in a public university in Taiwan. These 
+students were from two intact sections of a required Freshman English course. All 38 participants had at 
+least six years of formal instruction from junior to senior high schools and were estimated to be at the 
+intermediate level regarding their overall English competence. Their previous learning experience in 
+schools centered on intensive reading of English texts for grammar instruction with rare extensive reading 
+opportunities. 
+Designing An Online Extensive Reading Syllabus 
+Reading texts and four word lists. 
+The first step in constructing the online syllabus that would provide comprehensible input and offer 
+learners repeated contacts with target words was to find suitable reading texts for Taiwanese college 
+learners. Our goal was to identify texts that provided good opportunities to learn from authentic materials 
+related to home culture. In our view, imported reading materials are too often focused on introducing the 
+culture of English-speaking countries. We sought texts that would minimize any reading difficulties 
+associated with lack of background knowledge. With this goal in mind, we selected texts from issues of 
+the Sinorama magazine (recently renamed as Taiwan Panorama, http://www.taiwan-
+panorama.com/en/index.php). The Sinorama articles are mainly about issues in Taiwan in such areas as 
+politics, economics, arts, society, culture, and ecology. An electronic corpus consisting of 5008 texts 
+dating from 1999 to 2001 was selected for possible use in the project. Next, to ensure that target words 
+appear frequently in the texts so that learners could repetitively encounter them while reading, the 
+procedures implemented in Ghadirian (2003) were followed, using word lists as criteria for screening 
+appropriate texts. A new method of ensuring repeated encounters with new words was devised 
+specifically in our study.  
+In order to identify texts in the Sinorama corpus that offered the 95% known word coverage needed for 
+successful inferring of the targeted unknown words and to sequence them according to percentages of 
+target words in the texts, we drew on lists of high-frequency English words. Based on our knowledge of 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 68 
+the previous English learning experiences of our learners, we felt it was reasonable to assume that the 
+participants would already know items on West's (1953) General Service List (GSL), a list of the 2000 
+most basic English word families, and the High School Frequent Word List (HSF, Cheng, 2002). The 
+HSF was used as a guideline for writing high school English textbooks in Taiwan.1 
+In addition to the two 'familiar' word lists, we also created two lists of target words. Considering our 
+college learners' need to read English academic texts, the University Word List (UWL, Xue & Nation, 
+1984) was chosen as the first target word list. It consists of 800 word families not included in the GSL or 
+the HSF, but frequently found in academic texts (Nation & Kyongho, 1995). The Sinorama High-
+Frequency Word list (SHF) was selected as the second target word list.  It contains 781 word families not 
+in GSL, HSF, or UWL, but frequently used in the 5008 Sinorama texts. In sum, words contained in the 
+GSL and HSF were treated as familiar words already acquired by learners, and those in the UWL and 
+SHF were target words that learners were expected to acquire while reading in the syllabus. These four 
+lists together were able to meet the 95% coverage within the Sinorama texts. Table 1 contains 
+summarized data relating to the four word lists. 
+Table 1. Number of Cumulated Words from Four Word Lists and Text Coverage 
+Word list Number of cumulated words Cumulated percentage coverage 
+Familiar word list   
+GSL 7,827 84.70% 
+HSF 9,712 92.01% 
+Target word list   
+UWL 12,833 93.48% 
+SHF 13,614 96.61% 
+Total 13,614 96.61% 
+ 
+Sequencing of reading texts. 
+After determining suitable reading texts and word lists, we began to sequence reading texts in an order 
+that could provide learners with comprehensible input and increase their exposure to target words with the 
+aid of a computer database program. First, from the 5008 texts in Sinorama, we selected only those with a 
+length of 1500 to 3000 words. Second, we examined the remaining texts by comparing them to the four 
+word lists; texts not reaching 95% coverage of words in the four lists were excluded.  These processes left 
+us with 124 reading texts out of the 5008 in the Sinorama corpus. Third, running words in these 124 texts 
+were compared with those in the familiar word lists, GSL and HSF, and target word lists, UWL and SHF. 
+Our computer program sifted through the texts and sequenced them according to vocabulary difficulty.  
+The text that contained the smallest number of target words and highest number of familiar words 
+occurred first in the sequence as the easiest. Up to this point, the ordering procedures replicated those in 
+Ghadirian's (2003) except for the use of HSF and SHF word lists. However, we took several additional 
+steps to increase encounters with target words to ease the learning.  
+In order to create more favorable vocabulary learning conditions in our reading program, we highlighted 
+all target words in the reading texts in red on the screen and glossed them with Chinese translations to 
+raise readers' awareness and attention. After the target words appeared for the first time in red, they were 
+highlighted in green and also glossed with translations in later readings. Such highlighting is in line with 
+the studies on textual enhancement which found typographical enhancements effectively draw learners' 
+attention to target forms (Jourdenais, Ota, Stauffer, Boyson, & Doughty, 1995; Shook, 1994; Wong, 
+2003, 2005).  
+After the learners read the first text in the sequence, the program did not immediately add the target words 
+in the first text to the familiar word lists as was done in Ghadirian's TextLadder. Instead, to ensure 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 69 
+repetition, our program put exposed target words in another newly created word list, the Exposed Word 
+List, for target words that had appeared once. With this new list, our program sifted through texts again 
+looking for the one that contained the smallest number of target words and the highest number of familiar 
+words; however, this time a new screening criterion was added by using the Exposed Word List.  In order 
+to ensure repetitive exposure of target words, the program searched for a text that not only contained the 
+highest number of familiar words and the smallest number of target words; but one that also contained the 
+highest number of words in the Exposed Word list (target words from previous texts in the sequence). 
+Table 2. Procedures in Sequencing Reading Texts 
+Sequence of 
+procedures 
+Purpose Program Action Outcome 
+Step 1 For appropriate 
+length of reading 
+texts 
+Select texts with 1500 to 
+3000 words 
+959 texts met the 
+qualification 
+Step 2 For trimming off the 
+texts that do not meet 
+95% coverage from 
+the four word lists 
+Compare the running 
+words in every text to the 
+four word lists (GSL, 
+HSF, UWL, and SHF) 
+ 
+Step 3 To select the easiest 
+text (the first reading 
+text on the sequence) 
+for learners 
+Compare words in every 
+text with the familiar 
+word lists (GSL and 
+HSF) and target word 
+lists (UWL and SHF) 
+ 
+Step 4 Same as Step 3 Select the easiest text 
+that has the highest 
+number of familiar words 
+and least number of 
+target words 
+Text #1 (the easiest text 
+or the first text on the 
+reading sequence) is 
+selected 
+Step 5 To select the second 
+text on the sequence 
+Target words in Text #1 
+are added into the 
+Exposed Word List 
+The Exposed Word List 
+has target words from 
+Text #1 
+Step 6 Same as Step 5 Select the one text that 
+meets the following three 
+criteria: 
+a. The highest number of 
+familiar words. 
+b. The least number of 
+target words. 
+c. The highest number of 
+words in the Exposed 
+Word List. 
+Text #2 (the second 
+easiest text or the 
+second text on the 
+sequence) is selected 
+ 
+ 
+ 
+Text #2 is not only the 
+second easiest text but 
+also contains the most 
+target words from Text 
+#1 
+ 
+For example, if the first text in the sequence order had four target words, e.g., administrative, hypnosis, 
+entrepreneur, and faculty, after learners read the text, the four words would be removed from the target 
+word list and included in the Exposed Word List. After the first text in the sequence was selected, the 
+program then went through the remaining texts looking for the next easiest by comparing familiar words 
+and target words to texts, and also with one more searching guideline, identifying the particular text that 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 70 
+contained the highest number of words from the Exposed Word List. The second text selected then might 
+have a new set of target words, for example, epidemic, calligraphy, and deputy (highlighted in red), but 
+also include target words from the first text, administrative, hypnosis, entrepreneur, or faculty 
+(highlighted in green). The second text was the second easiest, and the text that had the greatest number 
+of target words from the first text. After the second reading, the program automatically added the target 
+words in the second text to the Exposed Word List (which would now contain target words from the first 
+two texts) and again went through the same sifting process for the next text.  In other words, the Exposed 
+Word List ensured that the target words appearing in the previous texts would reappear in the following 
+texts. The above procedures are presented in Table 2.  
+For the purpose of a preliminary assessment on learners' vocabulary acquisition within a manageable 
+instructional period of twelve weeks, we used only the first sixteen texts in the sequence of all chosen 
+texts for extensive reading practice.  These sixteen texts contained a total of 223 target words that varied 
+in numbers of occurrences. Three comprehension questions focusing on the content of the text rather than 
+the target words were devised and presented at the end of every text. Learners were able to respond to 
+these questions online and received immediate feedback concerning the correctness of their answers.  
+Figure 1 illustrates the first reading text from the syllabus (The page can be accessed by going to 
+http://candle.cs.nthu.edu.tw. Use candle/candle to login, choose Textgrader under the Reading 
+component, and click on the first article to start).  
+ 
+Figure 1. A reading text from the online extensive reading syllabus 
+After the sequencing procedures and web programming, the sixteen texts in the syllabus demonstrated a 
+satisfactory average target word rate (the proportion of target words per words of running text) of 1.9%. 
+For example, the first two reading texts placed on the syllabus demonstrated target word coverage rates of 
+2.4% and 3.4% respectively. That is, the first two texts contain 97.6% and 96.6% of 'familiar' words. Of 
+the 223 target words in the sixteen texts, 151 appeared one to two times, and 72 appeared three times or 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 71 
+more. The distribution of the amount of word exposure in the sixteen reading texts is shown in Table 3. 
+This distribution differed considerably from Ghadirian's TextLadder (2003), in which five exposures of 
+target words were dispersed over 300 texts with no control on the interval of exposure. As is shown in the 
+statistical results, our goals of controlling new word rate and ensuring repetitive target word exposure 
+were thus achieved.  
+Table 3. Distribution of Target Words in the Sixteen Reading Texts 
+Group Number Number of target word exposures Number of target words 
+Group 1 Words appearing 1-2 times 151 
+Group 2 Words appearing 3-4 times 43 
+Group 3 Words appearing 5-6 times 13 
+Group 4 Words appearing 7-8 times 4 
+Group 5 Words appearing more than 9 times 12 
+Research Instruments 
+Pretest  
+For the purpose of exploring the amount of exposure needed for successful vocabulary acquisition, the 
+pretest aimed to identify target words that were totally unfamiliar to all 38 learners and to assess learners' 
+entry vocabulary level before the extensive reading activity.  The pretest consisted of a total of 60 items, 
+including 50 target words (see Appendix) randomly chosen from the 223 in the target word pool and 10 
+familiar words from the familiar word lists. Participants reported their knowledge of these words by 
+marking a check by the words they had seen before and tried to provide an English definition or Chinese 
+translation beside these words. The 50 target words and 10 familiar words in the pretest items were 
+marked separately, with each correct familiar word receiving 10 points and each correct target word 2 
+points, for a maximum of 100 points in each case (50x2, 10x10). Words with correct answers from any of 
+the learners were considered 'known' words and excluded from the list of targets.  
+Posttest  
+To measure vocabulary gains after the online extensive reading activity, we selected the Vocabulary 
+Knowledge Scale (Paribakht & Wesche, 1997; Wesche & Paribakht, 1996). According to its creators, the 
+VKS aims "to capture initial stages or levels in word learning that are subject to accurate self-report or 
+efficient demonstration, and that are precise enough to reflect gains during a relatively brief instructional 
+period" (Wesche & Paribakht, 1996, p. 33). An example of the scale with the self-report categories for an 
+example word institute appears in Table 4.  
+Table 4. Examples of Self-Report Categories in the VKS Elicitation Scale 
+Word: Institute Self-Report Category 
+I. I don’t remember having seen this word before. 
+II. I have seen this word before, but I don’t know what it means. 
+III. I have seen this word before, and I think it means ____________.  
+(synonym or translation) 
+IV. I know this word.  It means ___________.  
+(synonym or translation) 
+V. I can use this word in a sentence: _____________.  
+(If you do this section, please also do section IV). 
+ 
+The self-report categories were translated into the learners' native language, Chinese, so that learners 
+could fully understand how to do this test. The VKS posttest consisted of the same 50 target words used 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 72 
+in the pretest. The scoring followed procedures outlined by Wesche and Paribakht (1996). For each target 
+word it yielded a score from 1 to 5, from "never having seen the word before" to "being able to make a 
+correct sentence with it". For sentence scoring, two English teachers were involved and their scores were 
+averaged to obtain the final score. When there were discrepancies, they met to discuss in order to achieve 
+a consensus.  
+Questionnaires 
+Questionnaires of two kinds were designed to examine the participants' background and their attitudes 
+toward extensive reading. The questionnaires were in Chinese to limit the possibility of misunderstanding 
+due to their limited English ability. The first questionnaire, the Background Questionnaire, enabled us to 
+obtain information on learners' computer use and Internet access at home, their perspectives on English 
+learning, and their experiences with extensive reading. This 17-item questionnaire was designed on a 5-
+point scale in the Likert format. Similar in format, the Evaluation Questionnaire had 20 items relating to 
+the participants' perceptions of the effectiveness of the online extensive reading syllabus concerning four 
+aspects: system interface design, features fostering vocabulary learning, features of reading texts, and 
+motivation for future use.   
+Procedures 
+The design and implementation of the online extensive reading syllabus was constructed on a web 
+platform first. Then, the participants completed the Background Questionnaire and pretest. They 
+subsequently completed 16 reading texts online at home in a period of 12 weeks, which included both 
+their winter break, when there was no formal English instruction and only a limited amount of English 
+exposure was available, and the first month of a new semester. We monitored the learning process from 
+the records of an online tracker program and offered help via email when necessary.  Finally, participants 
+completed the posttest and the Evaluation Questionnaire.  
+RESULTS 
+From learners' responses to items in the Background Questionnaire, we discovered that a very high 
+percentage of the learners (94.7%) used computers frequently; however, only 7.9% of them used Internet 
+resources to learn English on a regular basis, and only 26.3% had past experience in using computers to 
+assist language learning in English classes. For questions on learners' past extensive reading experiences, 
+up to 78.9% had been encouraged to form the habit of reading regularly by their English teachers before, 
+yet only 13.2% of them had extensive reading habits. The main reasons for not having extensive reading 
+habits were that they did not have time for reading or they could not locate suitable materials. 
+Comparison of Scores in the Pretest and Posttest 
+In order to address the first research question, several statistical analyses were conducted. First, the 
+independent t-test was used to examine whether learners' performances for familiar and unfamiliar words 
+differed. As Table 5 shows, there was a significant difference in accuracy between familiar and target 
+words (t=12.737, p<0.01), with mean scores of 84.74 (SD=15.89) and 39.00 (SD=15.41), respectively. 
+This indicates familiar words were those mostly learned by this group, and target words seemed 
+unfamiliar to most of the participants. This confirmed our estimation of learners' vocabulary level with 
+either familiar or target words when we used the four wordlists as criteria for selection.   
+Table 5. The Independent T-test for Familiar and Target Words in Pretest 
+Words in pretest n Mean SD t-value df p 
+Familiar Words 38 84.74 15.89 12.737 74 .000* 
+Target Words 38 39 15.41    
+Note: *significance level p<.01; Total score: 100 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 73 
+As mentioned above, scores for the VKS, i.e., the posttest, were based on learners' self-reported 
+knowledge. In order to compare learners' vocabulary level in the pretest and the posttest, of the 50 target 
+words used in both tests, those for which the learners were able to provide a correct translation or 
+definition were identified as "known" words (words which scored 3-5 points) in both cases. The mean 
+score differences of known words in the pretest and in the posttest were compared using the paired t-test. 
+As is apparent from Table 6, significant overall vocabulary gains (t=8.849, p<.01) were achieved by 
+learners. With a mean of 39.00 (SD=15.41) in the pretest and 49.50 (SD=17.13) in the posttest, about one 
+tenth of the words were moved from "not known" (words scoring 1-2 points) to "known". 
+Table 6. Learners’ Overall Vocabulary Gains by Paired t-test 
+Test n Mean SD t value df p 
+Pretest 38 39 17.13 8.849 37 .000* 
+Posttest 38 49.5 15.41    
+Note: *significance level p<.01; Total score: 100 
+Cross-comparison of learners' responses in the pretest showed that a total of 10 of the 50 target words 
+were completely unfamiliar to all 38 learners. On the basis of the number of times that each word 
+appeared across the sixteen reading texts, the ten words were grouped into five groups as shown in Table 
+7. Group One included words that appeared once or twice; Group Two, words that appeared 3-4 times; 
+Group Three, words that appeared 5-6 times; Group Four, words that appeared 7-8 times; and Group Five, 
+words that appeared more than 9 times. Comparisons of the word knowledge gains of these ten words 
+would help us answer the question of how much exposure is needed for successful word learning within 
+the online extensive reading environment.  
+Table 7. Target Words Completely Unfamiliar to Learners 
+Group Number Number of exposures Words in the group Word class 
+Group 1 (1-2 times) 2 times monopoly Noun 
+ 1 time recruitment Noun 
+Group 2 (3-4 times) 4 times startling Adjective 
+ 4 times deputy Adjective 
+Group 3 (5-6 times) 6 times calligraphy Noun 
+ 5 times epidemic Adjective 
+Group 4 (7-8 times) 8 times faculty Noun 
+Group 5 (more than 9 
+times) 
+15 times entrepreneur Noun 
+ 
+A repeated-measure analysis of variance (ANOVA) was computed to compare the mean scores of the five 
+groups of target words, which differed in the amount of exposure. Results are shown in Table 8.   
+Table 8. Analysis of Variance for Target Words with Different Amounts of Exposure 
+Variable df SS MS F 
+Group difference in amount of exposure (G) 4 12.663 3.166 3.589 
+Subjects (S) 37 30.034 0.812  
+G X S 148 130.537 0.882  
+Total 189 173.234   
+ 
+The results of the ANOVA showed that a certain degree of word knowledge was gained in all the five 
+groups, including the words that merely appeared once or twice.  Also, the amount of vocabulary gain 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 74 
+varied significantly as a function of amount of exposure (F=3.589, p<.05), with Group Five, words which 
+appeared more than nine times, achieving the highest mean score of 2.39 and Group One, words that 
+appeared once or twice, having the lowest 1.68. Post hoc analysis using Least Significant Difference 
+(LSD) indicated where the significant differences between groups lay, as shown in Table 9. Except for 
+Group Two, which displayed a surprisingly high mean score (2.37), the mean scores demonstrated a 
+gradual rise in word gains with the increase in amount of exposure. However, none of the mean scores in 
+the five groups reached 3.0 or above (which required the provision of a correct Chinese translation). This 
+indicated that word gains were not sufficient to bring learners from "not known" to "known" scoring 
+categories.  
+Table 9. Variance for Posttest Scores Among Words with Different Exposure Amount 
+Group Mean SD Group 1 Group 2 Group 3 Group 4 Group 5 
+Group 1 (1-2 times) 1.68 0.74  *  * * 
+Group 2 (3-4 times) 2.37 0.94 *     
+Group 3 (5-6 times) 2.05 1.35      
+Group 4 (7-8 times) 2.08 0.67 *     
+Group 5  
+(more than 9 times) 2.39 1.03 *     
+Note: * Sig. p<.05 
+Compared with previous studies, the target words in ours might have been intrinsically more difficult. To 
+explore such speculation, we compared the ten target words (those unknown to all participants) to ones in 
+the word lists in the COBUILD Dictionary (Sinclair, 1995), which organizes words into five frequency 
+bands, with band five being the most frequently used and easiest words, and band one the least frequent 
+and most difficult words. A listing of target words in the study and the COBUILD frequency bands to 
+which each word belongs appear in Table 10. As can be seen, except for words in Group Two, startling 
+and deputy, which belong to band 4, most words were in band 1 or band 2, the least frequent and most 
+difficult bands.  This word difficulty difference was also evident in the posttest results. Whereas the mean 
+scores in other word groups showed a gradual rise in word gains with the increase of amount of exposure, 
+group two displayed an unusually high mean score, almost as high as words in group five, the ones that 
+appeared nine or more times. This suggested that words in Group Two could be easier to acquire than 
+others.  The inherent low frequency of target words, therefore, might increase the demands on amount of 
+exposure necessary for target words to be acquired in the current study.   
+Table 10. Target Words and COBUILD Frequency Bands 
+Group Amount of exposure Words in the group GOBUILD frequency bands 
+Group 1 (1-2 times) 2 times monopoly Band 1 
+ 1 time recruitment Band 3 
+Group 2 (3-4 times) 4 times startling Band 2 
+ 4 times deputy Band 4 
+Group 3 (5-6 times) 6 times calligraphy Not found 
+ 5 times epidemic Band 2 
+Group 4 (7-8 times) 8 times faculty Band 2 
+Group 5 (more than 
+9 times) 15 times entrepreneur Band 1 
+ 15 times hypnosis Band 1 
+ 10 times administrative Band 2 
+ 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 75 
+Results of the Evaluation Questionnaire 
+The Evaluation Questionnaire included items addressing four aspects of the delivery of the reading 
+program: system interface design, features fostering vocabulary learning, features of the online reading 
+texts, and motivation for future use. In order to address the second research question, responses to the 
+questionnaire were analyzed. As one can see in Table 11, for questions relating to learners' motivation for 
+future use, 81.6% of the learners expressed their wish to continue to use a similar online reading program 
+in the future. Being able to improve English reading skills (42%) and to facilitate vocabulary learning 
+(33%) were the two main reasons reported by the learners. Only 18.4% of the learners indicated that they 
+would not use similar tools for learning English in the future, the main reason being that they were not 
+used to reading online (51%).  Of the seven learners (18.4%) who indicated that they would not use 
+similar online reading programs in the future, four explained that they regarded the online extensive 
+reading syllabus as a helpful tool; however, they already had well-developed extensive reading habits and 
+satisfactory reading materials in print. 
+Table 11. Learners’ Motivation of Future Program Use 
+Questions Responses Percentage 
+Will I use a similar online 
+extensive reading syllabus in 
+the future? 
+Yes, I will 81.6%(31/38) 
+ No, I will not 18.4% (7/38) 
+The reason why I will use a 
+similar online extensive reading 
+syllabus in the future: 
+Able to improve reading skills 42% (24/64) 
+ Able to enhance vocabulary 33% (21/64) 
+ The articles are interesting 11% (7/64) 
+ There are various tools fostering 
+vocabulary learning 
+16% (10/64) 
+ Others 3% (2/64) 
+The reasons why I will not use a 
+similar online extensive reading 
+syllabus in the future: 
+Not used to reading long articles 8% (1/12) 
+ Not used to online reading 51% (6/12) 
+ Dislike the fixed set schedules 
+organized by the online extensive 
+reading syllabus 
+8% (1/12) 
+ Others 33% (4/12) 
+ 
+As for learners' responses regarding features that foster vocabulary learning in the online reading 
+program, learners rated two of the four features positively with an overall mean score of 3.3 (out of 5.0).  
+Repetitive exposure (mean=3.9) and highlighting with different colors on target words and exposed words 
+(mean=3.8) were considered most helpful; however, the amount of gloss was reportedly least beneficial, 
+with a mean of 2.9. The learners indicated that more words should be glossed to help reading 
+comprehension. Regarding learners' perceptions of the reading texts, they agreed that the text genre was 
+dynamically varied (mean=3.8) and the topics were interesting (mean=3.4).  Moreover, they indicated 
+that, compared to selecting reading texts on their own, they preferred the online extensive reading 
+syllabus that had prepared texts beforehand for them (mean=3.7). Nevertheless, the lengthy texts chosen 
+in the program caused the greatest difficulties for most learners. The students felt that their reading 
+comprehension dropped with such long texts. Finally, learners' reactions to the interface design of the 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 76 
+system had a mean of 3.7.  Overall, learners were satisfied with the layout of the online extensive reading 
+syllabus. 
+DISCUSSION 
+Benefits of the Online Extensive Reading Program for Vocabulary Learning 
+In this study, we incorporated textual gloss, highlighting, a bilingual Chinese-English concordancer, and 
+high frequency word lists for computerized text selection and sequencing techniques in the design of an 
+online extensive reading syllabus for vocabulary learning purposes.  To ensure comprehensible input, the 
+sixteen texts included in the syllabus demonstrated an average target word rate of 1.9%, a percentage just 
+under the optimal range of 2% to 5% suggested by Nation (2001).  Most of the text selection techniques 
+were based on Ghadirian's work (2003). However, the distribution in our Textgrader syllabus differed 
+greatly from Ghadirian's TextLadder, as we added another criterion: the Exposed Word list. This suggests 
+that our goals of providing comprehensible input and repeated exposure of target words were achieved. 
+The exploratory assessment with pretest-posttest comparison indicates measurable vocabulary learning 
+occurred for the 38 participants, in that the percentage of learners' "known" words increased and "not 
+known" words decreased after twelve weeks of extensive reading online. The learners' improved word 
+knowledge may support the claim that such an online extensive reading syllabus with various learning 
+tools could aid vocabulary learning via extensive reading. Similarly, feedback from the Evaluation 
+Questionnaire also showed learners' overall positive perception of the online reading environment. This 
+may provide positive evidence for utilizing the online extensive reading syllabus to enhance learners' 
+word acquisition through reading.   
+Learners' Feedback on the Online Extensive Reading Syllabus 
+After the twelve-week online extensive reading experience, learners' reactions to the syllabus were largely 
+positive. They appeared to approve of the various online vocabulary enhancement features as being 
+effective for vocabulary acquisition. Improved reading and vocabulary abilities were outcomes the 
+learners indicated as the major advantages of the syllabus.  
+The feedback regarding glossing conflicted with our previous estimation of learner vocabulary level as 
+suggested by the pretest. The pretest results confirmed our familiar words were indeed what had been 
+mostly acquired by learners, compared with target words. Yet, our online tracking program reveals that 
+the learners looked up some familiar words using the concordancer but seldom looked up target words; 
+thus, we suspect that the difficulties might have originated from a common problem—learners' 
+inexperience in extensive reading or look-up strategies. Learners further reported that they were not used 
+to long texts and that they either lost patience or their eyes easily tired from reading online.  
+Comprehensibility dropped as they increasingly struggled toward the end of the texts.  Possibly, instead 
+of using extensive reading strategies, such as contextual guessing, the participants immediately sought 
+help whenever they stumbled across words they did not understand.  Furthermore, they exhibited a 
+tendency to make clear every single sentence before proceeding, a practice not encouraged in extensive 
+reading.  This intensive reading habit, in turn, makes reading long texts more tiresome and lowers reading 
+comprehension. Thus, although the new word rate had been controlled by sequencing procedures and the 
+pretest results had confirmed our estimation of their vocabulary level, the participants' heavy reliance on 
+glosses suggested that they still had not outgrown habits they acquired in senior high instruction—
+intensive reading.   
+Day and Bamford (1998) have pointed out that learners' previous experiences in reading might predispose 
+them unfavorably toward extensive reading. Since intensive reading was the common in-class practice in 
+Taiwan, the learners' reading habits most likely were difficult to adjust even with extensive strategy 
+instruction. One other explanation is that learners' comprehension difficulty might derive from sources 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 77 
+other than vocabulary, such as complicated sentence patterns, their limited ability to grasp main ideas 
+(Nuttall, 2000), or the different contexts and idiomatic nature of familiar words. The question of whether 
+learners' reading difficulty would gradually diminish with an increase in extensive reading experience 
+awaits further exploration. 
+Amount of Exposure Necessary for Vocabulary Acquisition While Reading 
+In this study, ten target words identified in the pretest as completely unknown to every learner were 
+divided into five word groups according to their differences in the number of appearance in the sixteen 
+texts. Word gains occurred for all five groups, including words in Group One, which appeared only once 
+or twice. This is consistent with the findings from studies by Nagy et al. (1985, 1987) and Rott (1999) 
+showing that, although improvements were minor, merely one or two exposures to a target word could 
+still contribute to a learner's initial word knowledge. One or two encounters, of course, were not adequate 
+for successful acquisition of more in-depth knowledge. In fact, the results from our study indicated that 
+with scores below 3 on the VKS scale, learners were unable to recall the Chinese meanings of target 
+words successfully even for words in Group Five, which appeared in the texts from 9 to 15 times.  
+The limited word acquisition in our study adds yet another piece of evidence to previous research 
+suggesting that vocabulary acquisition while one is reading can take place, but the gains may be 
+superficial and unstable (Huckin & Coady, 1999; Hulstijn, 1993; Wesche & Paribakht, 2000).  Given our 
+efforts to foster a favorable reading environment for vocabulary acquisition, the learners' performance 
+seems unsatisfactory at first glance in comparison to some previous L2 studies.  Four possible factors 
+might have contributed to the difference, namely, the use of authentic material, learners' depth of 
+processing, target word difficulty, and individual differences.   
+Unlike in Rott (1999), our study was more like ones by Knight (1994) and Paribakht and Weshche 
+(1997), in that we used authentic texts. Paribakht and Wesche (1997) used VKS to assess learners' word 
+gains in reading and found that their learners' knowledge of target words mainly reached only the 
+recognition level, a result similar to the present study. When one's purpose is to grasp information rather 
+than fostering vocabulary learning, it may be more difficult for authentic materials to provide adequate 
+contextual cues conducive to vocabulary acquisition. Therefore, the minimally necessary amount of word 
+exposure for successful acquisition might increase as a consequence of the interplay of inadequate 
+contextual cues and lower inferenceability of word meanings in authentic materials. Distinguishing 
+authentic texts from pre-written texts, such as those in Rott's study, is a factor that could lead to different 
+results.  
+Another factor influencing word acquisition outcome could have been learners' shallow processing.  It 
+seems that textual gloss of Chinese translations and highlighting as preliminary noticing did not 
+encourage the learners to engage in deeper mental processing to form semantic-syntactic relationships. In 
+light of the nature of extensive reading, the participants' processing of texts was presumably meaning-
+based.  Wesche and Paribakht (2000) indicated that, in the context of extensive reading, "[O]nce the 
+immediate communicative need has been met, the learner does not undertake future mental processing of 
+the word" (p. 197). The gloss originally included for ensuring correct target word meaning, although 
+suggested by previous researchers as being beneficial to vocabulary acquisition, may have attenuated the 
+possibility of learners' deeper mental processing. A dilemma existed here, in that precision of word 
+meaning and depth of processing were both desired. A possibly more promising alternative for quality 
+vocabulary acquisition is to use a combination of explicit vocabulary instruction and implicit extensive 
+reading.  
+As shown in our findings, based on the five frequency bands for words (Sinclair, 1995), the target words 
+in our study were more difficult and, therefore, needed more exposure compared with those in previous 
+studies. Last, it seems that the complex issue of the amount of exposure required for successful 
+vocabulary acquisition through reading cannot be disentangled without considering the impact of possible 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 78 
+individual difference factors, such as effective use of reading strategies. As Pulido (2003) pointed out, the 
+automaticity of reading strategies allows advanced readers to "free up the attentional resources for further 
+vocabulary development" (p. 239). A similar observation was also made by VanPatten et al. (2004), 
+which indicated that while higher frequency of input exposure does facilitate the establishment of form-
+meaning connections, context specific factors such as learners' readiness, form saliency, and the need for 
+explicit learning may also come into play. 
+CONCLUSION 
+The study demonstrated that using word list research and computation processing can select 
+comprehensible texts for a particular group of EFL learners in order to acquire unfamiliar target words 
+through reading. Advanced corpus processing techniques were used to screen and arrange appropriate 
+texts for EFL learners, construct an online reading program, and put it into use with a group of learners. In 
+terms of technology, texts with comprehensible vocabulary were successfully chosen and arranged with 
+the help of various online tools. Pedagogically, word gains occurred, though not to a great extent, and 
+learners' attitudes toward the online extensive reading syllabus were predominantly positive. 
+Nevertheless, the design of the syllabus was based on a rough estimation of the general vocabulary level 
+of a group of learners rather than particular individual learners' needs. Text selection will be more precise 
+if syntactic complexity can be incorporated in the computation processing. In the assessment phase of the 
+study, the use of a control group may yield stronger evidence.  
+With regard to the measures used for assessing degree of vocabulary acquisition, it should also be noted 
+that although the VKS fits the design of the current study, it is not without limitation. One of the 
+limitations commonly mentioned by researchers is that it assumes a linear progress of vocabulary 
+learning, implying that receptive knowledge will be acquired before productive knowledge (Waring, 
+2000). Also, the VKS does not explore certain aspects of word knowledge, such as polysemy, collocation, 
+and synonyms. It is clear that vocabulary measures able to address the above limitations still require 
+further research. 
+Still, several implications may be drawn from the current study. The online extensive reading syllabus 
+could be refined to incorporate substantive corpora and word lists of various levels to accommodate the 
+learning demands of different learners and even those with a different first language. Further, the online 
+extensive reading syllabus appears to be especially useful for incorporating explicit teaching and implicit 
+learning in light of the fact that the syllabus selected by instructors was constructed on the basis of word 
+lists targeting learner groups' English proficiency. The same sets of word lists could be utilized as both in-
+class direct and explicit instruction and for the online self-access extensive reading practice. Online 
+extensive reading could provide more diverse usage and contexts to stabilize the vocabulary acquisition, a 
+step further along the continuum of vocabulary learning. Pedagogically, we should schedule practice 
+sessions in a way that provides guidance for an extensive reading program. Moreover, online material 
+designers could incorporate on-going reminders on goals and strategies of extensive reading throughout 
+the activity. In sum, with instructor's input in reading strategy training and word instruction, the online 
+extensive reading syllabus can serve as a bridge linking explicit teaching and implicit learning for 
+constructive vocabulary acquisition. 
+ 
+APPENDIX 
+Target words tested in pretest and posttest 
+1. entrepreneur 
+2. institute 
+3. calorie 
+4. hypnosis 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 79 
+5. perform 
+6. administrative 
+7. immune 
+8. finally 
+9. constant 
+10. psychiatric 
+11. session 
+12. virtual 
+13. therapy 
+14. faculty 
+15. achievement 
+16. concept 
+17. series 
+18. combat 
+19. strain 
+20. personnel 
+21.calligraphy 
+22. clinical 
+23. potential 
+24. symbolic 
+25. negotiate 
+26. optimistic 
+27. consumption 
+28.interview 
+29. epidemic 
+30. inadequate 
+31. altitude 
+32. startling 
+33. deputy 
+34. accommodate 
+35. accumulate 
+36. embark 
+37. initial 
+38. precisely 
+39. import 
+40. inevitably 
+41.insufficient 
+42. monopolistic 
+43. undertaking 
+44. sustain  
+45.abolish 
+46. inhibit 
+47. innovative 
+48. recruitment 
+49. sophisticated 
+50. eloquently 
+ 
+NOTES 
+1. The HSF was constructed by consulting previously developed popular word lists, such as GSL and 
+COBUILD (Sinclair, 1995). It was assumed that college freshmen in the current study should have 
+already learned words from the HSF in high school. 
+ 
+ACKNOWLEDGMENTS 
+The paper was supported by a grant from National Science Council, Taipei, Taiwan (under the project 
+number NSC92-2524-S007-002). We would like to thank Dr. Jason S. Chang, Chieh-Cheng Wu and 
+Hsin-Ping Yu for programming help and the participating students involved in the assessment phase. 
+Thanks are also extended for the valuable comments on the manuscript from anonymous reviewers and 
+editing efforts by Professor John Truscott. 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 80 
+ 
+ABOUT THE AUTHORS 
+Hung-Tzu Huang is a doctoral candidate in Second Language Studies at the University of Hawai'i. Her 
+research includes second language writing development, vocabulary acquisition, and corpus linguistics. 
+Email: hungtsu@hawaii.edu  
+Hsien-Chin Liou is a professor in the Department of Foreign Languages and Literature at National Tsing 
+Hua University in Taiwan. Her research focuses on teacher education and computer assisted language 
+learning. 
+Email: hsienchin@gmail.com  
+ 
+REFERENCES 
+Bernhardt, E. B. (1984). Towards an information processing perspective in foreign language reading. The 
+Modern Language Journal, 68, 322-31. 
+Chen, H. J. (1998). A preliminary investigation on Taiwanese EFL learners' vocabulary size. In English 
+Teachers' Association (Ed.), Proceedings of the fifteenth conference on English teaching and learning in 
+the Republic of China (pp. 193-211). Taipei, Taiwan: The Crane Publishing Co.  
+Cheng, H. S. (2002). The high school frequent word list. Taipei, Taiwan: The College Entrance Exam 
+Center.  
+Cobb, T., & Horst, M. (2001). Reading academic English: Carrying learners across the lexical threshold.  
+In J. Flowerdew & M. Peacock (Eds.), Research perspectives on English for academic purposes (pp. 315-
+329). Cambridge: Cambridge University Press. 
+Davis, J. (1989). Facilitating effects of marginal glosses on foreign language reading. The Modern 
+Language Journal, 73, 41-47. 
+Davis, N., & Lyman-Hager, M. (1997). Computers and L2 reading: Student performance, student 
+attitudes. Foreign Language Annals, 30, 58-72. 
+Day, R., & Bamford, J. (1998). Extensive reading in the second language classroom. Cambridge: 
+Cambridge University Press. 
+Ellis, N. (1995). Consciousness in second language acquisition: A review of field studies and laboratory 
+experiments. Language Awareness, 4, 123-146. 
+Gettys, S., Imhof, L., & Kautz, J. (2001). Computer-assisted reading: The effect of glossing format on 
+comprehension and vocabulary retention. Foreign Language Annals, 34, 91-101. 
+Ghadirian, S. (2003). Providing controlled exposure to target vocabulary through the screening and 
+arranging of texts. Language Learning & Technology, 6, 147-164. Retrieved September 5, 2007, from 
+http://llt.msu.edu/vol6num1/ghadirian/default.html 
+Grabe, W., & Stoller, F. (1997). Reading and vocabulary development in a second language: A case 
+study. In J. Coady & T. Huckin (Eds.) Second language vocabulary acquisition (pp. 98-122). Cambridge: 
+Cambridge University Press. 
+Grabe, W., & Stroller, F. L. (2002). Teaching and researching reading. Harlow, UK: Longman.  
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 81 
+Hegelheimer, V. & Tower, D. (2004). Using CALL in the classroom: Analyzing student interactions in an 
+authentic classroom. System, 32, 185-205. 
+Horst, M., Cobb. T., & Meara, P. (1998). Beyond a clockwork orange: Acquiring second language 
+vocabulary through reading. Reading in a Foreign Language, 11(2), 207-233.  
+Huckin, T., & Coady, J. (1999). Incidental vocabulary acquisition in a second language: A review. Studies 
+in Second Language Acquisition, 21, 181-193.  
+Hulstijn, J. H. (1993). When do foreign-language readers look up the meaning of unfamiliar words? The 
+influence of task and learner variables. The Modern Language Journal, 77, 139-147.  
+Hulstijn, J. H., Hollander, M., & Greidanus, T. (1996). Incidental vocabulary learning by advanced 
+foreign language students: The influence of marginal glosses, dictionary use, and reoccurrence of 
+unknown words. The Modern Language Journal, 80, 327-339. 
+Jourdenais, R., Ota, M., Stauffer, S., Boyson, B., & Doughty, C. (1995). Does textual enhancement 
+promote noticing? A think-aloud protocol analysis. In R. Schmidt (Ed.), Attention and awareness in 
+second language learning (Technical Report 9) (pp. 183-216). Honolulu, HI: University of Hawaii, 
+Second Language Teaching and Curriculum Center.  
+Knight, S. (1994). Dictionary use while reading: The effects on comprehension and vocabulary 
+acquisition for students of different verbal abilities. The Modern Language Journal, 78, 285-299. 
+Krashen, S. (2004). The power of reading. 2nd. Ed. Englewood, CO: Libraries unlimited.  
+Kyongho, H., & Nation, P. (1989). Reducing the vocabulary load and encouraging vocabulary learning 
+through reading newspaper. Reading in a Foreign Language, 6, 323-335. 
+Laufer, B. (1989). What percentage of text-lexis is essential for comprehension? In C. Lauren & M. 
+Nordman (Eds.), Special language: From humans thinking to thinking machine (pp. 69-75). Clevedon, 
+England: Multilingual Matters.  
+Laufer, B (1997). The lexical plight in second language reading: Words you don't know, words you think 
+you know, and words you can't guess. In J. Coady & T. Huckin (Eds.). Second language vocabulary 
+acquisition: A Rationale for pedagogy. (pp. 20-34). Cambridge: Cambridge University Press. 
+Leefa, V. J. (1992). Making foreign language texts comprehensible for beginners: An experiment with an 
+electronic glossary. System, 20, 63-73. 
+Liou, H. C. (2000). The electronic bilingual dictionary as a reading aid to EFL learners: Research findings 
+and implications. Computer Assisted Language Learning, 13, 467-476. 
+Lomicka, L. (1998). To gloss or not to gloss: An investigation of reading comprehension online. 
+Language Learning & Technology, 1, 41-50. Retrieved September 5, 2007, from 
+http://llt.msu.edu/vol1num2/article2/default.html 
+Nagy, W. E., Herman, P. A., & Anderson, R. C. (1985). Learning words from context. Reading Research 
+Quarterly, 20, 233-253. 
+Nagy, W. E., Herman, P. A., & Anderson, R. C. (1987). Learning word meanings from context during 
+normal reading. American Educational Research Journal, 24, 237-270. 
+Nation, P. (1990). Teaching & learning vocabulary. Rowley, MA: Newbury House. 
+Nation, P. (1993). Vocabulary size, growth, and use. In R. Schreuder & B. Welterns (Eds.), The bilingual 
+lexicon (pp. 115-134). Philadelphia: John Benjamins. 
+Nation, P. (2001). Learning vocabulary in another language. Cambridge: Cambridge University Press. 
+Hung-Tzu Huang & Hsien-Chin Liou Vocabulary Learning in an Automated Reading Program 
+ 
+Language Learning & Technology 82 
+Nation, P., & Kyongho, H. (1995). Where would general service vocabulary stop and special purposes 
+vocabulary begin? System, 23, 35-41. 
+Nuttall, C. (2000). Teaching reading skills in a foreign language. London: Macmillan Education. 
+Paribakht, T. S. & Wesche, M. B. (1993). Reading comprehension and second language development in a 
+comprehension-based ESL program. TESL Canada Journal, 11, 9-29.  
+Paribakht, T. S., & Wesche, M. (1997). Vocabulary enhancement activities and reading for meaning in 
+second language vocabulary development. In J. Coady & T. Huckin (Eds.). Second language vocabulary 
+acquisition: A rationale for pedagogy (pp. 174-200). Cambridge: Cambridge University Press. 
+Pulido, D. (2003). Modeling the role of second language proficiency and topic familiarity in second 
+language incidental vocabulary acquisition through reading. Language Learning, 53, 233-284. 
+Read, J. (2000). Assessing vocabulary. Cambridge: Cambridge University Press. 
+Rott, S. (1999). The effect of exposure frequency on intermediate language learners' incidental 
+vocabulary acquisition and retention through reading. Studies in Second Language Acquisition, 21, 589-
+620. 
+Saragi, T., Nation, P., & Meister, G. (1978). Vocabulary learning and reading. System, 6, 72-80. 
+Schmidt, R. (2001). Attention. In P. Robinson (Ed.), Cognition and second language instruction (pp. 3-
+32). Cambridge: Cambridge University Press.  
+Sinclair, J. M. (1995). Collins COBUILD Dictionary (2nd ed.). London: HarperCollins. 
+Shook, J. D. (1994). FL/L2 reading, grammatical information, and the input to intake phenomenon. 
+Applied Language Learning, 5, 57-93.  
+VanPatten, B. Williams, J., & Rott, S. (2004). Form-meaning connections in second language acquisition 
+In B. VanPatten, J. Williams, S.Rott, & M. Overstreet (Eds.), Form-meaning connections in SLA (pp. 1-
+27). Mahwah, NJ: Lawrence Erlbaum Associates. 
+Waring, R. (2000). The "State Rating Task" - an alternative method of assessing receptive and productive 
+vocabulary. Kiyo, Notre Dame Seishin University: Studies in Foreign Languages and Literature. 24, 125-
+154. 
+Wesche, M., & Paribakht, T S. (1996). Assessing second language vocabulary knowledge: Depth vs. 
+breadth. Canadian Modern Language Review, 53, 13-39. 
+Wesche, M., & Paribakht, T S. (2000). Reading-based exercises in second language vocabulary learning: 
+An introspective study. The Modern Language Journal, 84, 196-213. 
+West, M. (1953). A general service list of English words. London: Longman, Green & Co. 
+Wong, W. (2003). Textual enhancement and simplified input: Effects on L2 comprehension and 
+acquisition of non-meaningful grammatical form. Applied Language Learning, 13, 109-132.  
+Wong, W. (2005). Input enhancement: From theory and research to the classroom. New York: McGraw-
+Hill.  
+Xue, G., & Nation, I. S. P. (1984). A university word list. Language Learning and Communication, 3, 
+215-229.  
+ 

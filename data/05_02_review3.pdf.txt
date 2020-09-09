@@ -1,0 +1,225 @@
+Language Learning & Technology May 2001, Vol. 5, Num. 2
+http://llt.msu.edu/vol5num2/review3/default.html pp. 28-33
+Copyright ª  2001,  ISSN 1094-3501 28
+REVIEW OF HOT POTATOES
+Title Hot Potatoes, Version 5
+Authors Stewart Arneil, Martin Holmes, and Hilary Street
+Platforms Windows and Macintosh
+Minimum Software
+Requirements
+Netscape Navigator or MS Internet Explorer versions 4 or above, with JavaScript
+enabled. Some modules, JMix and JMatch, use DHTML and require version 5+
+browsers.
+Publishers Half-Baked Software, Inc.
+http://web.uvic.ca/hrd/hotpot
+Support Offered
+E-mail support direct from author, Martin Holmes, at mholmes@uvic.ca. The
+Hot Potatoes Web site posts frequently asked questions and has a bulletin board
+where questions can be posted to be answered by users.
+Target Language Any Roman character set language (program supports the use of accented
+characters)
+Target Audience Language teachers
+Price
+Free for non-profit individuals or educational institutions, with the condition that
+materials produced are freely available to anyone via the Web. Otherwise,
+license starts with 1 user for $100 US. Large publication license: US $350.
+Reviewed by Paula Winke, Georgetown University, and David MacGregor, the Center for Applied
+Linguistics
+Overview
+The program Hot Potatoes, currently produced by Half-Baked Software, Inc., was designed to allow
+teachers to make interactive, Web-based exercises that can be accessed by students at any Internet-
+capable computer terminal with a standard Web browser. Hot Potatoes uses both HTML and JavaScript;
+however, one does not need to know these languages to make the Web-based exercises. Instead, teachers
+use the program's exercise templates to create exercises on Web pages which then can be uploaded to a
+server where students access them. Hot Potatoes can create six different types of Web-based exercises
+which can stand alone or be linked to other exercises to form a sequence of tasks. Students can correct
+their own work based on the clues and feedback set up in advance by the teacher. Hot Potatoes also
+allows the teacher to specify an email address to which scores are sent. Although no knowledge of Web
+design is necessary to create the Web page exercises, teachers with such knowledge can customize the
+materials to a greater degree by manipulating the program code.
+Description
+Hot Potatoes is actually a software suite comprised of six different programs, referred to as modules in
+this review. Each module can be used to create a different type of interactive, Web-based exercise. The
+six different modules are referred to as "potatoes," and consist of JBC, JQuiz, JMix, JCross, JCloze, and
+JMatch, with each name referring to the type of exercise the module creates. A summary of the types of
+exercises that can be created with each module, as well as links to online interactive examples created by
+the authors of this review,1 are presented in Table 1.
+Paula Winke & David MacGregor Review of Hot Potatoes
+Language Learning & Technology 29
+Table 1. The Six Modules to Make Exercises in Hot Potatoes
+Module Exercise type What students do Interactive example
+1. JBC
+multiple-choice
+quiz
+choose the correct answer
+for each question
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JBCSample.htm
+2. JQuiz text-entry quiz
+type in words, phrases or
+even sentences (open-
+ended)
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JQuizSample.htm
+3. JMix
+jumbled-word
+exercise
+arrange jumbled words into
+phrases or sentences
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JMixSample.htm
+4. JCross crossword
+fill in the blanks to
+complete the crossword
+puzzle
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JCrossSample.htm
+5. JCloze
+fill-in-the-blank
+exercise
+enter the words that are
+missing
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JClozeSample.htm
+6. JMatch
+matching
+exercise
+match items in the 1st
+column with those in the
+2nd
+http://epsilon3.georgetown.edu/~pmw2/
+hotpot/JMatchSample.htm
+JBC allows teachers to create multiple-choice questions with as many answer choices as they like (see
+Figure 1). JQuiz is used to create open-ended questions, which differ from multiple-choice questions in
+that the student types the answer in a text-field, rather than choosing from a list of options. JBC and JQuiz
+both allow exercises to be programmed with an unlimited number of correct answers. For example, for
+the question "What is the capital of the United States?" the teacher can specify "DC," "D.C.,"
+"Washington," and other versions of the name as correct answers. Hot Potatoes also gives teachers the
+option of making answers case-sensitive, and of allowing students to see all correct answers by having a
+"Show Answer" button displayed.
+Figure 1. Creating a multiple choice question
+Paula Winke & David MacGregor Review of Hot Potatoes
+Language Learning & Technology 30
+JMix is for the creation of exercises of scrambled sentences, paragraphs, or stories (see Figure 2).
+Students drag and drop the sentence fragments to put them in order, or they can click on the fragments
+sequentially to put the text together. The teacher may add an unlimited amount of additional acceptable
+sentences, and can set up a warning to be shown if the alternate sentence put together by the student does
+not contain all of the words or punctuation of the original, preferred sentence.
+Figure 2. JMix exercise
+JCross can be used to design crossword puzzles with customized puzzle layout and optional clues for each
+word. The module begins with a blank grid template, and the teacher designs the puzzle by entering the
+words directly into the grid, or by simply providing a list of words. Words can run in the order of left to
+right or top to bottom. When finished, the module automatically crops the grid into a crossword puzzle
+and automatically assigns a number to each word. To see the clue for a word, the student clicks on the
+number in the crossword puzzle where the word begins.
+Figure 3. JCross example exercise
+Paula Winke & David MacGregor Review of Hot Potatoes
+Language Learning & Technology 31
+JCloze is a traditional cloze or fill-in-the-blank exercise template which allows the teacher to type in a
+text of any kind (paragraph, ordered-sentences, etc.), and then choose the words be left blank for students
+to fill in. Furthermore, a separate reading text can be entered (manually or from an HTML file) upon
+which the cloze-type questions can be based.
+JMatch allows the teacher to create matching and sequencing exercises based on two columns of items.
+JMatch allows for easy insertion of pictures, graphics, and images, so that the matching exercise could
+consist of pairing vocabulary words with the corresponding pictures.
+All six modules of the Hot Potatoes program suite have several useful options that allow the teacher to
+customize exercises within the bounds of the basic templates. For example, when creating exercises, the
+teacher can customize feedback such that students receive a different message according to which
+incorrect answer they choose (see Figure 1). Similarly, the teacher can choose to provide students with
+access to a "Clue," such as the first letter of a word in a crossword puzzle. Some of the modules also
+allow the teacher to enter a reading text upon which the questions can be based. Furthermore, these texts
+can be set to disappear after a pre-specified amount of time in order to add a timed component to the
+exercise, although students may click a button to see the text again. All modules except JCross allow the
+teacher to easily incorporate graphics, sounds, and video into exercises. The modules also allow teachers
+to customize the general appearance of the Web page output: They can specify the colors of the text,
+titles, and backgrounds. It should also be noted that Hot Potatoes does not support non-Roman fonts.
+There is also a Common Gateway Interface (CGI) function tab in all six modules which allows the results
+to be sent to a designated email address, as long as the host server is equipped with the proper
+FormMail.pl Perl script. Hot Potatoes sends only the student's ID, the name of the exercise, and the
+overall score; the script does not record the actual questions that were incorrectly answered, nor does it
+record the number of attempts made by the student.
+Hot Potatoes offers extended support for those who have paid for a commercial license. For those who do
+not have a commercial license, there is free email support at mholmes@uvic.ca or hotpot@uvic.ca, and
+the Bulletin Board Internet help function of Hot Potatoes, accessible from all modules, also offers free
+help on a list of topics.
+Evaluation
+Hot Potatoes will be evaluated according to the following three questions: Does the program permit the
+creation of language learning exercises that are consistent with second language acquisition theory? Is the
+program user friendly? And finally, is the program appropriate for language testing?
+The use of technology by teachers of second or foreign languages has many benefits, one of which
+includes the increase in the amount of exposure to and potential interaction with the target language
+outside of the classroom setting. Hot Potatoes exercises may fall into this category of beneficial
+technological use when accessed by students remotely as supplementary classroom work. Moreover, the
+exercises can be shared with teachers worldwide, as long as they have access to the Web.
+The effectiveness of the tasks, however, depends on the use the teacher makes of the program. Research
+suggests that learners benefit from task-based instruction, in which they are engaged in tasks with a
+primary focus on content rather than language (Long, 1996). Some of the characteristics of good task-
+based activities are that they focus on meaning, provide a communication problem to solve, have a
+relationship to real-world activities, and are not concerned with language display (Skehan, 1998). Hot
+Potatoes exercises could form the basis of task-based activities. For example, two or more students new
+to a school could share a computer terminal and cooperate to complete a JMatch activity in which they
+must identify various buildings on campus (see JMatch example). A drawback of Hot Potatoes, however,
+is that it can more easily be used to create form-focused activities in which the "interaction" is limited to
+interaction between the user and the pre-scripted feedback provided by the creator of the activity. Such
+Paula Winke & David MacGregor Review of Hot Potatoes
+Language Learning & Technology 32
+activities can only be considered interactive in the narrowest of senses, and amount to little more than
+online versions of traditional grammar activities. Therefore, it seems exercises made with Hot Potatoes
+can promote SLA, but the extent to which they do so depends on the content of the exercises created by
+the teacher. In short, Hot Potatoes is a tool, and, like even the best of tools, its value depends on the
+knowledge and creativity of the user.
+We found the six modules of Hot Potatoes logical and easy to use. They do not require programming
+knowledge, yet they still offer flexibility for teachers who have more advanced knowledge. To familiarize
+ourselves with the modules, we first read the Hot Potatoes tutorial offered with the program, which took
+about 30 minutes, and then created a basic, sample exercise with one of the modules in about an hour.
+Because all modules are similar in design and share basic features, learning one of the Hot Potatoes
+modules makes it easy to learn the other five.
+It must be emphasized that the creators of Hot Potatoes did not intend the program as a test-design
+package, nor should it be used as such. There are no provisions to prevent the student from cheating, and
+no security measures are provided. Moreover, the limited nature of the CGI Perl script feature, which
+does not include detailed information regarding students' responses to individual items, makes it
+impossible for teachers to identify students' strengths and weaknesses. Instead, the intended use of the
+program is to permit the creation of exercises that allow students to work their way towards correct
+answers based on the feedback provided. Still, some teachers may be tempted to use Hot Potatoes
+exercises as tests. For one, Hot Potatoes itself refers to two of the exercise modules as "Quizzes."
+Furthermore, there is a dearth of affordable language testing software. Because Hot Potatoes is such a
+valuable, free (for non-profit educational users who make their pages available on the Web) and easy-to-
+use tool for creating exercises, it is understandable that teachers may overestimate the capabilities of the
+program and thus try to use it for testing purposes. Nonetheless, language teachers who need a secure
+testing solution are advised to look at server-side, commercial products, such as Question Mark or Test
+Pilot (reviewed this issue) with secure browser options and statistical test reporting functions. However, it
+must be noted that these commercial software testing products were not designed specifically for
+language testing, although they can be adapted for such use. On the other hand, Hot Potatoes was
+designed specifically for the creation of language exercises, but should not be used for testing.
+Summary
+The Hot Potatoes program, which consists of modules for creating six different types of exercises, is an
+excellent resource for creating on-line, interactive language learning exercises that can be used in or out
+of the classroom. These types of exercises can be especially useful in language learning laboratories with
+Internet access, or for remote learning. When matched with both appropriate content and motivated
+students, Hot Potatoes exercises seem likely to promote second language acquisition. Hot Potatoes' user-
+friendly modules also allow more adept teachers to create complex, interactive exercises. Hot Potatoes is
+not intended as testing software, and should not be used as such. Nevertheless, the Hot Potatoes program
+suite provides teachers with flexible, easy-to-use modules for creating Web-based language exercises that
+students can work on while also receiving feedback that will direct them towards correct answers.
+NOTE
+1. In the creation of these sample exercises, the authors did not alter the original HTML source code nor
+change any of the basic functions of the modules in any way. Links to more Hot Potatoes exercises
+are listed on the University of Victoria Research and Development team's Web site.
+Paula Winke & David MacGregor Review of Hot Potatoes
+Language Learning & Technology 33
+ABOUT THE REVIEWERS
+Paula Winke has an M.A. in Linguistics from the University of Minnesota and was a Peace Corps
+Volunteer in China. She currently is a doctoral candidate in Applied Linguistics at Georgetown
+University and a Research Assistant for the Arabic and Russian Web Test Project in the Language Testing
+Division at the Center for Applied Linguistics in Washington, DC.
+Email: pmw2@georgetown.edu
+David MacGregor has an M.A. in TESOL from the School for International Training. He taught ESOL in
+Turkey, Spain, and the United States. He currently is a doctoral candidate in Applied Linguistics at
+Georgetown University and a Research Assistant in the Language Testing Division at the Center for
+Applied Linguistics in Washington, DC.
+Email: macgregd@georgetown.edu
+REFERENCES
+Long, M. (1996). The role of the linguistic environment in second language acquisition. In W. C. Ritchie
+& T. K. Bhatia (Eds.), Handbook of language acquisition: Vol. 2. Second language acquisition (pp. 413-
+478). New York: Academic Press.
+Skehan, P. (1998). A cognitive approach to language learning. Oxford, UK: Oxford University Press.

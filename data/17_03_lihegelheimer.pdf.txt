@@ -1,0 +1,1059 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2013/lihegelheimer.pdf 
+October 2013, Volume 17, Number 3 
+pp. 135–156 
+ 
+Copyright © 2013, ISSN 1094-3501  135 
+MOBILE-ASSISTED GRAMMAR EXERCISES: 
+EFFECTS ON SELF-EDITING IN L2 WRITING 
+Zhi Li, Iowa State University 
+Volker Hegelheimer, Iowa State University 
+In this paper, we report on the development and implementation of a web-based mobile 
+application, Grammar Clinic, for an ESL writing class. Drawing on insights from the 
+interactionist approach to Second Language Acquisition (SLA), the Noticing Hypothesis, 
+and mobile-assisted language learning (MALL), Grammar Clinic was designed as a series 
+of outside-class grammar exercises in the format of sentence-level error identification and 
+correction. 19 intermediate level ESL students at a large Midwestern American university 
+used this mobile application in an English academic writing class during a 16-week 
+semester. A mixed methods approach was chosen to investigate (a) the effect of Grammar 
+Clinic on the efficacy of ESL students’ self-editing as well as (b) their perceptions of this 
+mobile application as a tool to improve their English writing. Our analyses show that 
+students’ performance on Grammar Clinic assignments reflects their progress in self-
+editing. This progress is seen in the positive correlation of the students’ Grammar Clinic 
+performance with their gains on a grammar post-test, an increase of self-editing 
+corrections, and a reduction in errors in the final drafts of two major paper assignments. 
+The impact of this web-based mobile application was documented using qualitative data 
+that considered the students’ use of and perception of Grammar Clinic.  
+Keywords: Web-based Mobile Application, Mobile Assisted Language Learning, 
+Interactionist Approach to SLA, Noticing Hypothesis, Self-Editing 
+APA Citation: Li, Z., & Hegelheimer, V. Mobile-assisted grammar exercises: Effects on 
+self-editing in L2 writing. Language Learning & Technology, 17(3), 135–156. Retrieved 
+from http://llt.msu.edu/issues/october2013/lihegelheimer.pdf 
+Received: July 2, 2012; Accepted: July 5, 2013; Published: October 1, 2013 
+Copyright: © Zhi Li and Volker Hegelheimer 
+INTRODUCTION 
+Research related to both second language acquisition (SLA) and second language writing has had as its 
+major concern over grammatical errors in L2 writing. Accordingly, the effects of corrective feedback in 
+L2 writing have been extensively studied (Bitchener & Ferris, 2012). Nevertheless, ESL learners’ self-
+editing—an important self-regulatory learning step in both grammar acquisition and writing development—
+has not been widely investigated (Bitchener & Ferris, 2012; Diab, 2010, 2011). This study aims to fill that 
+gap and has two purposes: (a) to outline the SLA-informed development process of a mobile application 
+and (b) to evaluate the effect of such a mobile application on the efficacy of ESL learners’ self-editing, 
+defined as the learners’ capability to identify grammatical errors and to correct them in their L2 writing 
+(i.e., the development of their grammatical precision in academic writing). This study is situated in an 
+intermediate-level ESL writing class that is not grammar-focused, though the needs for grammar instruction 
+still exist. Therefore, outside-class grammar exercises—exercises that target specific errors and provide 
+corrective feedback—serve this context well. In this paper, we report on the development and 
+implementation of a web-based mobile application, Grammar Clinic, as a supplementary tool for ESL 
+learners’ self-editing activities. 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  136 
+BACKGROUND 
+The Role of Self-Editing in L2 Writing 
+Studies related to grammar errors in L2 writing have largely focused on written corrective feedback from 
+teachers. However, the efficacy of corrective feedback has been challenged by Truscott, and the academic 
+debate over the effect and use of corrective feedback continues (Ferris, 2004; Bruton, 2009; Truscott, 
+1999, 2007). Truscott’s (1999) rejection of corrective feedback for its minor positive effects—and his 
+assertion of potentially harmful effects—on the development of English learners’ grammar competence 
+has sparked a series of theoretical arguments and empirical studies. Recently, a number of empirical 
+studies on both short-term and long-term effects of written corrective feedback have lent support to the 
+proponents of corrective feedback (Bitchener & Ferris, 2012; Ferris, 2006, 2010; Sheen, 2007). 
+Nevertheless, this does not mean that the practice of corrective feedback is without its problems. 
+Corrective feedback, by nature, acts as a reactive measure to highlight and address learners’ weaknesses 
+in their written production. This process can be burdensome to teachers due to time constraints and the 
+necessity to prioritize feedback of various error types. As one potential solution, pre-emptive measures 
+can be taken to raise learners’ awareness of the typical errors made at their proficiency level, to help them 
+avoid making the same mistakes in new pieces of writing (Long & Robinson, 1998; Ellis, Basturkmen & 
+Loewen, 2001). At the same time, such pre-emptive measures can help complete the learning-writing-
+feedback-revision cycle. This is where the process of self-editing can play a role in L2 writing, because 
+unlike passive corrective feedback, learners will be required to identify and correct errors actively in self-
+editing activities. 
+The importance of self-editing during process-based writing classes has been acknowledged by many. 
+Recently, Bitchener and Ferris (2012) described the activity of self-editing as a source of corrective 
+feedback, and more importantly they view the competence of self-editing as an ultimate goal of providing 
+corrective feedback. Self-editing, a learner initiated activity, has been recognized as a critical step in L2 
+learners’ writing and grammar development, as it facilitates acquisition processes and promotes learner 
+autonomy (Cresswell, 2000; Fathman & Whalley, 1990; Suzuki, 2008). Polio, Fleck, and Leder (1998) 
+studied this topic when they examined the performances of two groups of ESL learners who were given 
+extra time for self-editing. They found that even though learners showed significant improvement across 
+the writing assignments, both experiment groups, which received grammar review and feedback, did not 
+perform better than the control group, which had no treatment at all in terms of developing grammatical 
+precision in their writing. This finding demonstrates the potential of self-editing in L2 writing; 
+nevertheless, it asks us to reconsider the effectiveness of grammar instruction used in the experiment. To 
+investigate self-editing in terms of the effects of teachers’ cues on Japanese college students’ self-
+correction in English writing, Makino (1993) compared the performance of three groups of learners. She 
+found that when no cues were given, learners could make limited and fewer self-corrections of grammar 
+errors, compared with the other two groups that respectively received cues on general error location or 
+cues with specific underlines. This further suggests that training or support of self-editing for ESL 
+learners is necessary. 
+Some comparative studies focusing on self- and peer-editing have shed light on learners’ actual 
+performances during each stage of the editing process. Suzuki (2008) took a qualitative approach in 
+examining 24 Japanese university students’ self- and peer-editing processes. By analyzing verbal reports, 
+she found that peer-editing generated more episodes of negotiation whereas self-editing resulted in more 
+text changes focused on word choice and grammar error correction. Diab (2010) also found that peer-
+editing helped reduce more rule-based errors, but not non-rule-based errors, compared with self-editing 
+practice. On the whole, these studies indicate that learners generally can notice their errors during self-
+editing, but that supplemental instruction or training is also needed. A tailored web-based mobile application 
+may be one option that can provide learners with opportunities to improve their self-editing practices. 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  137 
+In order to help students improve the efficacy of their self-editing, we designed a web-based mobile 
+application, Grammar Clinic. This pre-emptive measure was implemented in an ESL academic writing 
+class. The design of Grammar Clinic was informed by principles of the interactionist approach to SLA, 
+the Noticing Hypothesis, and mobile assisted language learning (MALL). 
+Designing a Mobile-Assisted Grammar Application 
+Grammar Clinic is an application that asks users to identify sentence level errors and to correct them.  It 
+provides instant feedback for its exercises and includes a short grammar handbook. A total of 15 common 
+grammatical error types are identified and used in this application: sentence fragments, run-on sentences, 
+article use, verb use, noun use, adjective use, adverb use, pronoun use, preposition use, conjunction use, 
+relative pronoun use, punctuation use, word choice, word order, and ambiguous expressions (see 
+Appendix A and B) for sample items and for the distribution of item types). These grammatical errors, to 
+some extent, represent the proficiency level of this ESL class because they were identified as the most 
+prevalent error types in a learner writing corpus developed locally using writing from the same level ESL 
+classes. All the items were piloted in an ESL class of the same level and proofread by an experienced ESL 
+instructor in the fall semester of 2011. 
+Each Grammar Clinic assignment consists of a set of 10 items which are selected depending on the 
+distribution of error type, error gravity, and item difficulty. Students are required to identify the only error 
+in each item by tapping on the error and then selecting an error type from four options (see Figure 1 for 
+Grammar Clinic screenshots). Once students identify the error, they are required to correct it, something 
+that usually requires minimal input. After completing a set of grammar exercises, students see their 
+performance report in the format of 10-point score; then, they view detailed feedback about each item. 
+The feedback page is accompanied with a messaging function for student communication with the 
+instructor (see Figure 1). 
+ 
+Figure 1. Grammar exercise application work flow. 
+Interactionist Approach to SLA and the Noticing Hypothesis 
+Drawing on the Input Hypothesis (Krashen, 1985) and the Output Hypothesis (Swain, 1995), the 
+interactionist approach  to SLA emphasizes the complete learning cycle, moving from input and 
+interaction, to feedback and output (Gass, 1997; Gass & Mackey, 2007). With an expansion of the term 
+interaction to learner-computer interaction, the interactionist theory has been widely used in computer-
+assisted language learning (CALL) software design and research (Chapelle, 2009; Heift, 2004; 
+Hegelheimer & Chapelle, 2000). In CALL program design, another important theory that has been 
+influential and that has been adapted to include modalities beyond face-to-face communication is 
+Schmidt’s Noticing Hypothesis (1990, 1993). This hypothesis states that noticing is a necessary condition 
+for learning. We employed the principles in the interactionist approach to SLA and the Noticing 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  138 
+Hypothesis to guide our design of web-based mobile application in an English academic writing class. 
+According to the interactionist theory, input includes materials that learners should be exposed to for 
+language development; input is typically a target like model, which provides positive evidence to learners 
+(Mackey, 2006). Even so, input should also include negative evidence for learners, information about 
+ungrammatical or unacceptable linguistic production (Long, 1996). The input materials in Grammar 
+Clinic are extracted from a small local learner corpus, which consists of about 100 student essays from the 
+same level of ESL classes at the same university. To keep the input material authentic, relevant, context-
+independent, original erroneous sentences in the corpus were modified and then used in Grammar Clinic 
+item writing. Each item in Grammar Clinic is a complete sentence with only one grammatical error. To 
+make the input more noticeable to learners, only one item or sentence is displayed on the screen, and the 
+error alone is highlighted once it has been spotted by learners. This focused visual enhancement can direct 
+learner’s attention to feedback uptake and follow-up error correction (Heift, 2009). 
+The term interaction in the interactionist approach embodies the importance of a learning environment in 
+which a learner must both interact with input and modify his or her output based on feedback. Within the 
+interactionist approach, an interaction can be either interpersonal or intrapersonal (Chapelle, 2001; Ellis, 
+1999). During the process of interpersonal interaction, learners will engage in the negotiation of meaning 
+and should notice a linguistic gap (Schmidt, 1993). In intrapersonal interaction, as in typical CALL 
+activities, the learners’ attention is guided to certain problematic aspects of linguistic materials and is 
+prompted by computer feedback to process the materials or reconstruct their responses with cognitive 
+effort (Chapelle, 2001; Cotos, 2011). This can be regarded as a process of negotiation of form (Heift, 
+2010). As Grammar Clinic assignments require students to identify and correct only one grammar error 
+per item, intrapersonal interactions are developed as students only direct their attention to the potentially 
+erroneous part of each sentence and process this information consciously. 
+Feedback is usually regarded as a type of negative evidence that helps learners notice the mismatch 
+between their linguistic performance and the target model, thus facilitating their linguistic development 
+(Bitchener & Ferris, 2012). In CALL activities, feedback can be in the form of evaluation plus 
+explanation, following learners’ intrapersonal interaction with a task on a computer or other devices. 
+Thus, feedback serves to enhance learners’ development. In Grammar Clinic, feedback is provided 
+instantaneously, so that learners know whether their error identification and correction are indeed on the 
+right track. In addition, a detailed explanation for each item is offered to assist learners in acquiring 
+grammatical rules. A short grammar handbook has been built into Grammar Clinic for learners as a 
+supplementary resource. 
+Output or modified output is the phase in which learners apply what they have learned from their 
+interactions and feedback to their production (Gass, 1997). Modified output is believed to be beneficial in 
+terms of supporting the development of the learners’ automaticity in their linguistic production (Gass, 
+1997). Serving as a stage for modified output in the learning cycle, Grammar Clinic in our ESL academic 
+writing class is embedded into the paper writing process and is immediately followed with self-editing 
+and peer review. 
+Mobile-Assisted Language Learning (MALL) 
+With the rapid growth of mobile device ownership,1 mobile learning—also known as m-learning—has 
+recently become a focus of attention in education (Cho, 2009; Kukulska-Hume, 2009). Not surprisingly, 
+mobile assisted language learning (MALL) has also attracted much attention with its perceived 
+advantages over traditional computer-assisted language learning (CALL). Mobility defines this relatively 
+new trend, which includes various aspects in a learning environment, such as mobile technology, learner 
+mobility, mobility of content, and so forth (Kukulska-Hume, 2009). In an overview of MALL, Kukulska-
+Hume and Shield (2008) point out that “MALL differs from computer-assisted language learning in its 
+use of personal, portable devices that enable new ways of learning, emphasizing continuity or spontaneity 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  139 
+of access and interaction across different contexts of use” (p. 273). 
+Despite the favorable perception of MALL, few empirical studies have focused on the effect of its 
+mobility on learners or its potential; indeed, most existing studies related to MALL have considered 
+vocabulary-related research (Godwin-Jones, 2011). For example, Song and Fox (2008) conducted a 
+multiple-case study to investigate how advanced undergraduates at a university in Hong Kong used their 
+Personal Digital Assistants (PDAs) for vocabulary learning. They found that mobile devices were used in 
+various ways for this task. In some cases, mobile device use was integrated with computer use and thus 
+shaped learners’ vocabulary learning activities. In Taiwan, Lu (2008) conducted a quasi-experimental 
+study on the effectiveness of English vocabulary learning through mobile phone short message service 
+(SMS) lessons for a group of 30 high school students. After a two-week treatment, the SMS lesson group 
+showed more gains in vocabulary recognition as reflected in the comparison of pre- and post-tests of 
+target word recognition. In addition, students were found to hold a positive attitude towards SMS lessons 
+via mobile phones. Unfortunately, Lu’s delayed post-test of the same target words showed that the 
+students did not retain many of the words learned through SMS. Stockwell (2010) compared the 
+vocabulary learning performance and vocabulary gains from pre-intermediate learners of English, when 
+using mobile platforms and computers/laptops. His study’s results indicate that there were no consistent 
+differences on vocabulary activity scores or vocabulary learning improvements between the two groups. 
+In designing Grammar Clinic, we adopted the principles of mobile learning advocated by Herrington, 
+Herrington, and Mantei (2009), which centers on the key feature of mobility. Considering the nature of 
+academic writing and the limitations related to mobile phones’ relatively small screen size, it would not 
+be very realistic to expect learners to write or edit a paper on mobile devices. Still, it is possible to use 
+mobile devices for grammar learning, which in turn may contribute to improvements in writing quality. 
+Thus, Grammar Clinic is designed to fit mobile devices, with the features of bite-sized and situated 
+assignment sets, simplified user operation, optimal display setting for mobile devices, and cross-platform 
+compatibility. Grammar Clinic assignments were modularized into bite-sized grammar exercises to make 
+them more accessible and to capitalize on the mobility feature of m-learning. That is, students can use 
+their mobile devices to finish Grammar Clinic assignments outside classroom whenever and wherever 
+they want. 
+In light of findings from a local needs assessment of educational technology, we intentionally designed 
+this grammar application for use on various mobile devices as a web-based application, instead of a native 
+application for a specific type of mobile device. According to a local campus-wide survey report of 
+technology access from Kemis, Davis, and Haen (2011), over 99% of the student respondents have cell 
+phones, and over 69% of them own a mobile smart device capable of internet access, including 
+iPhone/iPod Touch, Droid, Blackberry, or Windows Mobile. Given the diversity in mobile devices, we 
+discarded the plan of developing native apps for iPhone/iPod Touch or Android platforms. Instead, we 
+opted for a web-based mobile application for its wide accessibility to student users. By using JavaScript, 
+CSS, and HTML, Grammar Clinic has a flexible layout to match various mobile device displays. This 
+decision is in line with the design principles suggested by Kwon and Lee (2010), that is, we considered 
+mobile display characteristics when designing the graphic interfaces and the content layout (p. 1888).2 
+To investigate the effect of Grammar Clinic on ESL students’ efficacy of self-editing and the 
+development of their grammar precision, two research questions were considered in the implementation 
+phase of this web-based mobile application: 
+1. What was the effect of Grammar Clinic on ESL learners’ efficacy in self-editing and on the 
+development of their grammatical precision in paper writing? 
+2. How did the learners perceive Grammar Clinic as a learning application for academic writing? 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  140 
+METHODOLOGY 
+Implementation of Mobile-Assisted Grammar Application 
+To investigate the effect of using Grammar Clinic on students’ efficacy in self-editing and to capture their 
+perceptions of this mobile application as a tool to improve their grammatical precision in English writing, 
+a mixed-method approach with a sequential explanatory model was taken, following Creswell and Plano-
+Clark (2011). Quantitative data were collected and analyzed first to describe the students’ performance on 
+Grammar Clinic and their improvements in self-editing. Qualitative data were then gathered to help 
+explain quantitative findings. 
+Participants 
+This classroom-based study was conducted in an intermediate level ESL writing class. This intact class 
+formed a convenience sample in our study as Grammar Clinic was integrated in the syllabus in that class 
+and all the students were required to use this tool. There were no stand-alone grammar lessons in this 
+course. The writing class met three times a week for the 16-week spring semester of 2012. All 19 
+undergraduate ESL students in this class voluntarily participated in this study, including 10 male students 
+and 9 female students. Students’ first languages included Chinese (14), Malay (2), Arabic (1), Korean (1), 
+and Urdu (1). Student ages ranged from 19 to 22, and their length of stay at the university ranged from 
+one to three semesters, with 50% of them being in their first semester in the United States. All participants 
+were classified as high intermediate learners because they had met English proficiency requirements for 
+university admission based on standardized English proficiency tests (TOEFL iBT, 71 or IELTS, 6.0). 
+Their scores on an institutional English Placement Test (EPT) had placed them into this preparatory 
+course of English academic writing. All students were competent users of computers and Internet 
+services. 18 out of 19 students owned a smart phone or internet-enabled mobile device, such as iPod 
+Touch, iPad or other tablets. 
+Materials 
+Grammar Clinic 
+As previously described, Grammar Clinic was integrated into the course syllabus as a pre-emptive 
+measure before students started self-editing all first drafts of major course papers. Accordingly, students 
+were required to use Grammar Clinic regularly as an out-of-class-assignment and external resource. 
+Students were encouraged to use their mobile devices for the Grammar Clinic assignments, but they were 
+permitted to use computers to finish the assignments. Students were permitted multiple attempts on any of 
+the Grammar Clinic assignments, though the data reported here are from their first attempt of each 
+exercise. 
+From a set of ESL learner performance data in a study of an automated writing evaluation tool (AWE) at 
+this same university (Li, Lee, Lee, Karakaya, & Hegelheimer, 2011), fragment, run-on sentence, verb use, 
+article use, and preposition use were found to be the most frequent  errors among ESL learners at the 
+intermediate proficiency level. Therefore, considering the frequency differences among various error 
+types and the treatability of these errors, only five rule-based error types were investigated in this study, 
+namely, sentence fragments, run-on sentences, verb use, article use, and preposition use. 
+Grammar Pre/Post Test 
+A 20-item grammar quiz was used as an in-class activity at the beginning and at the end of the semester to 
+gauge students’ development in grammatical precision. The items in the grammar quiz were in the same 
+format as in Grammar Clinic assignments. They were taken from piloted Grammar Clinic assignments, 
+which were not used in the spring semester of 2012. The reliability coefficients (Cronbach’s alpha) for the 
+pre- and post-test quizzes were .726 and .723, respectively, which are acceptable for a 20-item test 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  141 
+(Alderson, Clapham, & Wall, 1995). 
+Major Paper Assignment 
+There were four major paper assignments in this academic English writing class, a course designed to 
+help ESL learners develop academic writing skills. These assignments included a personal essay  
+(Paper 1), a cause-and-effect essay (Paper 2), a compare-and-contrast essay (Paper 3), and an 
+argumentative essay (Paper 4). Starting at 400 words, the length requirement for each paper increased by 
+an increment of 150 to 200 words. To form a longitudinal comparison of students’ self-editing activity 
+and writing accuracy—and to highlight the possible immediate and long-term effects of students’ use of 
+Grammar Clinic—only the first major assignment (Paper 1) and the last major assignment (Paper 4) were 
+analyzed. 
+Student Questionnaire 
+In order to understand the ESL learner’s actual use and perception of Grammar Clinic, an online 
+questionnaire was implemented at the end of the semester. The perception questions were constructed 
+either in the format of statements accompanied by a six-point Likert scale or as open-ended questions (see 
+Appendix C). This questionnaire only elicits students’ general responses (self-reports) and does not 
+address or record students’ actual behavior using Grammar Clinic. Records tracking user behavior could 
+be collected either through paper-based weekly reports as in Manochehri, Gromik, and Aw (2012) or 
+using an online behavior tracking tool. 
+Procedures 
+The ESL academic writing class in this study followed a process-based approach, which required students 
+to go through several rounds of revision and editing, writing multiple drafts for each major assignment 
+(see Figure 2). In all the revision and editing work students carried out, the “Track Changes” and 
+“Comment” functions in Microsoft Word were used to record all changes. In terms of the purpose of 
+Grammar Clinic, this was made clear to students at the beginning of the semester.  
+Figure 2. Paper writing process in the ESL writing class. 
+A short in-class demonstration of and training on the use of Grammar Clinic was carried out at the 
+beginning of the semester. The instructor used an iPod Touch and a document camera to demonstrate how 
+to open and add Grammar Clinic to the home screen of the students’ mobile devices. The instructor 
+explained and showed the functions of Grammar Clinic with a flow chart and then asked the students to 
+explore the specific functions of Grammar Clinic on their own devices. The instructor also briefly 
+repeated the demonstration throughout the first three weeks to make sure students felt comfortable using 
+Grammar Clinic. Grammar Clinic assignments were embedded in the writing processes of the major 
+papers. Between the first draft and second draft of each paper, students were asked to finish three sets of 
+Grammar Clinic assignments on their mobile devices or computers outside class. The interval between 
+the first and the second draft writing was usually three to four days. Peer review, which focused on 
+content revision, was typically carried out three to five days after the completion of the second draft. 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  142 
+In order to answer the research questions in this study, multiple sources of data were utilized for 
+quantitative and qualitative analyses. Students’ performance on Grammar Clinic was automatically 
+recorded in a server-side database and their self-editing efforts on the second drafts of two major paper 
+assignments—Paper 1 and Paper 4—were manually coded in terms of error type and accuracy by the 
+researchers. Qualitative data concerning students’ use and perception of Grammar Clinic were gathered to 
+triangulate quantitative findings in this study. 
+Analysis 
+To study quantitatively the immediate effect of Grammar Clinic on the ESL students’ efficacy of self-
+editing and on their development of grammatical precision, we compared students’ self-editing behavior 
+and correction rate of self-editing in the second drafts of Papers 1 and 4. Then, to shed light on the long-
+term effect of Grammar Clinic, the learners’ performance on Grammar Clinic was correlated with their 
+score gains between pre and post test measurements, and differences in error rates between students’ final 
+drafts of Papers 1 and 4. Error rates for each error type were calculated using the formula suggested by 
+Chandler (2003): (error number/essay word count) × 100. Errors in students’ papers were identified by 
+the instructor of the ESL class using the same set of error codes as found in Grammar Clinic. A second 
+trained rater coded 20% of the data set (Gass & Mackey, 2005). The inter-coder reliability, calculated as 
+the complete agreement of coding, was 0.84, which is considered to be acceptable in social science 
+studies (Neuendorf, 2002). Responses concerning students’ perceptions were tallied. Their responses to 
+two open-ended questions were identified and coded into attitudes towards Grammar Clinic and other 
+concerns, which help explain quantitative findings. 
+RESULTS AND DISCUSSION 
+Learners’ Performance on Grammar Clinic 
+To help them better self-regulate their grammar learning, students were permitted multiple attempts or 
+reviews of each Grammar Clinic assignment during the semester.10 out 19 students tried to practice 
+Grammar Clinic assignments more than once. This may be indicative of their effort to get a higher score 
+on Grammar Clinic or to review the items. For the students who did not try multiple attempts, they may 
+have found it unnecessary to redo items either because of low item difficulty or lack of interest. Only the 
+scores of students’ first completed attempt in each set of assignments are reported in Table 1, because 
+scores from later attempts could be inflated due to a practice effect. As shown in Table 1, the learners 
+generally scored higher in error identification (8.82 out of 10) and relatively lower in error correction 
+(7.29 out of 10). This is not surprising considering that error correction usually requires productive  
+Table 1. Students’ Performance on Grammar Clinic 
+Assignments Error  
+identification  
+SD Error 
+correction  
+SD Overall  SD 
+1–3 (Paper 1) 8.28  1.52 6.92 2.28 7.60 1.55 
+4–6 (Paper 2) 8.62 1.12 7.44 1.27 8.03 1.04 
+7–9 (Paper 3) 8.79 1.05 7.03 2.36 7.91 1.34 
+11–13(Paper 4) 9.55 .53 7.95 1.62 8.75 .98 
+Total 8.82 .79 7.29 1.39 8.05 .86 
+Note. All scores were averages out of 10 possible points. Assignment 10 was a bonus assignment, focusing on ambiguous 
+expressions found in the students’ own writing. Assignment 12 was a special assignment, specifically focusing only on run-on 
+sentences and fragments. 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  143 
+grammar knowledge and more cognitive effort (Diab, 2010). It is encouraging that students improved 
+their Grammar Clinic performance in both aspects: error identification (from 8.28 to 9.55) and correction 
+(from 6.92 to 7.95). However, only three comparisons show statistical significance in a series of paired 
+sample t-tests: error identification scores for Paper 1 and Paper 4 (t = -4.11, 95% CI [-2.08, -0.67], 
+p = .001; Cohen’s d = -1.12), error identification scores for Paper 2 and Paper 4 (t = -4.43, 95% CI [-1.49, 
+-0.53], p = .000; Cohen’s d = -1.06 ), and error identification scores for Paper 3 and Paper 4 (t = -3.338, 
+95% CI [-1.35, -0.30], p = .004; Cohen’s d = -.91). 
+The Effects of Grammar Clinic 
+In order to investigate the effect of Grammar Clinic assignments on the efficacy of learners’ self-editing 
+and the development of their grammatical precision, we examined three related sets of variables: the 
+students’ performance of self-editing on the second drafts of Papers 1 and 4, grammar pre/post-tests, and 
+error rates in the final drafts of Papers 1 and 4. 
+In the ESL writing class, students were required to use the Microsoft Word function “Track Changes.” All 
+cases of self-editing3 were coded by the instructor using the same error code system as used in Grammar 
+Clinic (see Appendix A). Table 2 shows the averaged occurrences of learners’ self-revisions and 
+correction rates in the second drafts of Papers 1 and 4. Among the five rule-based error types, the most 
+frequent revision type when editing in Paper 1 is verb use (5.3), (including verb tense, verb form, and 
+subject-verb (SV) agreement), followed by article use (1.4) and preposition use (0.9). The most frequent 
+revision type in Paper 4 is also verb use (1.5). Article use (1.4) is another major area of self-editing. This 
+frequency pattern, to some extent, matches the item type distribution in Grammar Clinic (See Appendix 
+B), which includes 30 verb items, 20 article items, 13 run-on sentence items, 10 fragment items and 10 
+preposition items. It is noteworthy that the highest average occurrence of editing in Table 2 falls in the 
+category of  meaning-based revision “Rewrite” in Paper 1 (8.7) and 4 (7.9) and “Word Choice” in Paper 1 
+(4.9) and 4 (3.7). This high frequency of meaning-based revision reflects the students’ awareness of 
+writing as a process and their efforts to make more accurate expressions. 
+Comparing students’ self-editing practice in Paper 1, we find that the students tended to make fewer 
+changes in Paper 4 in general (26.2 vs. 19.5), especially in verb-related types (5.3 vs. 1.5). This may 
+Table 2. Students’ Self-Editing in the Second Drafts of Papers 1 and 4 
+Editing type Paper 1 Paper 4 
+Average 
+occurrence 
+Correction rate Average 
+occurrence 
+Correction rate 
+Run-on sentence 0.2 100% 0.3 100% 
+Fragment 0.1 100% 0.1 100% 
+Word choice 4.9 87% 3.7 90% 
+Article use 1.4 85% 1.4 70% 
+Verb use 5.3 84% 1.5 94% 
+Preposition use 0.9 76% 0.7 85% 
+Rewrite 8.7 N/A 7.9 N/A 
+Total 26.2 88.3% 19.5 92.7% 
+Note. The error type “Verb use” includes the cases of verb tense, verb form and SV agreement in learners’ self-revision process. 
+The category of “Rewrite” consists of learners’ insertions of new content, deletions of sentence(s), and/or rewriting of certain 
+paragraphs. The category of Rewrite was not rated in this study. 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  144 
+suggest that the quality of the learners’ fourth paper had improved by the end of the semester and that 
+they found fewer grammar problems in their own first draft paper. This finding will be further explained 
+in conjunction with the results of error rates in their final drafts of Papers 1 and 4. The only slight increase 
+of self-editing occurrence is in the case of run-on sentences (0.2 vs. 0.3). A closer look at the students’ 
+revision record reveals that only two student made revisions on run-on sentences in Paper 1 and four 
+learners in Paper 4. This suggests an increase of learners’ awareness of sentence-level grammar problems. 
+There are also some distinct differences between students’ performance of self-editing in terms of overall 
+correction rate (88.3% vs. 92.7%). The category of rewrite was not rated in this study. Except for the 
+categories of article use, an increase of correction rate can be found in two categories (verb tense and 
+prepositions), while the correction rate of run-on sentence and fragment remains 100%. A series of paired 
+sample t-tests were conducted in SPSS 19.0 to investigate whether there were any significant changes in 
+the students’ self-editing practices between Papers 1 and 4. Despite clear patterns shown in Table 2, no 
+statistically significant differences were found in the comparisons of error categories. 
+To investigate the long-term effect of Grammar Clinic assignments on the development of students’ 
+grammar ability, the relationship between Grammar Clinic performance and grammar pre/post-test scores 
+was also analyzed. As shown in Table 3, the means for pre-test and post-test were 8.23 and 8.79 out of 20, 
+respectively, indicating a relatively poor performance on both tests and a small improvement from pre-
+test to post-test. 
+Table 3. Descriptive Statistics of Grammar Pre-Test and Post-Test 
+ Mean  
+(out of 20) 
+SD Minimum Maximum α 
+Pre-test 8.23 3.56 2.5 15.0 .726 
+Post-test 8.79 3.45 2.5 15.5 .723 
+The descriptive statistics of the two tests reveal that compared with their scores on pre-test, 11 out 19 
+students obtained higher scores on the post-test, whereas two students obtained the same scores on both 
+tests and six students got lower scores at the end of the semester. Table 4 shows a series of correlation 
+coefficients (Pearson’s r) between the learners’ performances on pre /post tests and on Grammar Clinic 
+assignments. The correlation coefficients associated with pre-test scores and Grammar Clinic 
+performances are low and not statistically significant. These negative correlations between averaged 
+Grammar Clinic performance and pre-test scores (-.101 to -.138) suggest that two different 
+developmental trends existed in the ESL class. Some learners who started with low pre-test scores 
+performed well on Grammar Clinic assignments, whereas some learners who gained higher scores in pre-
+test performed poorly on Grammar Clinic assignments. This finding calls for a closer look at students’ 
+self-editing and revision processes. 
+Table 4. Correlations Between Grammar Clinic Performance and Grammar Pre-/Post Test Scores 
+ Identification score Correction score Total score 
+Pre-test -.101 -.136 -.138 
+Post-test .267 .051 .140 
+Test gains .510* .114 .390 
+Note. Test gains were obtained by subtracting pre-test scores from post test scores. *Correlation is significant at the 0.05 level (2-
+tailed). 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  145 
+It is noteworthy that learners’ performance on Grammar Clinic assignments positively correlated with 
+grammar post-test, even though the magnitudes are small and not statistically significant. The highest 
+correlation in Table 4 is from averaged total identification score on Grammar Clinic and test gains 
+(0.510). The positive correlations suggest that students made some progress in grammar ability. 
+This progress is further supported by the analysis of students’ error rates in the final draft of Papers 1 and 
+4. As shown in Table 5, there is a decreasing tendency in the total error occurrence from Paper 1 to Paper 
+4 (25.8 vs. 20.0). Reductions in normalized error rate were found in three categories from the final drafts 
+of Paper 1 to that of Paper 4: verb use (1.2 vs. 0.6), preposition use (0.3 vs. 0.2), and run-on sentences 
+(0.2 vs. 0.05). The sharp drop of error rates in run-on sentences is very encouraging given the difficulty of 
+this sentence-level error. This indicates that the learners may have gained a better meta-linguistic 
+awareness and made fewer mistakes in their writing. Results of a series of paired sample t-test indicates 
+that the error rate decrease in run-on sentence category is statistically significant (p = .016, t = -2.65 (18), 
+95% CI [-1.51, -0.17]), whereas all other differences are not. 
+Table 5. Error Rates in Students’ Final Drafts of Papers 1 and 4 
+Error type Paper 1 Paper 4 
+Average 
+occurrence 
+Normalized 
+Error ratea 
+Average 
+occurrence 
+Normalized 
+error rate 
+Article use 1.4 0.2 1.8 .23 
+Preposition use 2.1 0.3 1.6 .20 
+Verb useb 6.8 1.2 4.3 .60 
+Run-on sentence 1.3 0.2 0.4 .05 
+Fragment 1.4 0.2 1.2 .20 
+Total 25.8 N/A 20.0 N/A 
+Note. a) The error rate is calculated by (error number/essay word count) x 100. b) The error type “Verb use” includes the cases of 
+verb tense, verb form and SV agreement in learners’ self-revision process (Table 2). 
+Only the categories of article use and ambiguous expression show a slight increase in occurrence from 
+Paper 1 to Paper 4 (0.2 vs. 0.23; 0.4 vs. 0.5). Article use has been recognized as notoriously challenging 
+to English language learners to master (Ellis, Sheen, Murakami, & Takashima, 2008). In this study, 
+students were offered a total of 20 article related items in Grammar Clinic. It is not surprising that no 
+obvious progress was found in our analysis (see Table 5), given the nature of article acquisition and 
+limited items on article use. 
+In this classroom-based study, we are not able to attribute directly any improvements to the use of 
+Grammar Clinic, due to a lack of comparative reference (i.e., a control sample that did not use Grammar 
+Clinic). There are a number of compounding factors that may have contributed to the students’ 
+improvement in their efficacy of self-editing or the development of their grammatical precision, such as 
+collaborative learning during peer review and corrective feedback from the instructor. Future studies on 
+the effect of Grammar Clinic may consider experimental design to have a better control of theses 
+confounding variables. Nevertheless, the analysis results of the students’ self-editing data and error rates 
+in the final drafts suggest an existence of both the immediate and long-term effects of Grammar Clinic 
+assignments on the students’ writing performance. 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  146 
+ESL Learners’ Perceptions of Grammar Clinic 
+To better understand the effect of Grammar Clinic assignments on the development of students’ English 
+grammatical precision, the responses to the end-of-semester questionnaire items were analyzed. 17 out of 
+19 students responded to the questionnaire, representing a response rate of 89.5%, which represents the 
+majority of the class. The first part of the questionnaire was about how students used their mobile devices 
+and how they perceived mobile assisted language learning (MALL) in general. The responses to the 
+question “What are the main uses of your mobile devices” indicate that 94% of the questionnaire 
+respondents used dictionary apps on the mobile devices. Other major uses of mobile devices include 
+texting friends or using chatting tools (82%), making phone calls (71%), using social networks (65%), 
+listening to music (65%), and sending or receiving emails (53%). Only 41% reported using course 
+management system such as Blackboard/WebCT/Moodle and 24% reported learning foreign languages 
+(including English) on their mobile devices. These responses show many learners in this study did not use 
+mobile devices as a learning platform at this point in time. 
+When asked whether they were willing to use their mobile devices for learning purposes such as 
+completing Grammar Clinic assignments, 71% of the questionnaire respondents gave a positive answer. 
+82% reported that they completed Grammar Clinic exercises on their mobile devices mainly because it 
+was convenient to do so. For example, a student supported his use of mobile device by saying that “we 
+can complete Grammar Clinic assignment anywhere.” Only three students reported that they usually used 
+computers or laptop to finish Grammar Clinic assignments and one of them thought that the computer 
+was more convenient. This reflects a different view of using mobile devices for learning, as some students 
+may be reluctant to use mobile technology. Overall, this background information supports the potential of 
+mobile devices as a learning platform. 
+In terms of other questions, in response to “Did you use Grammar Clinic on your own when it was not 
+required?” only 35% of the students gave positive answers. This means that most students only treated 
+this exercise as a regular class assignment, instead of a platform for active learning of grammar. 
+Regarding the time spent on a single assignment in Grammar Clinic, 35% reported that they spent less 
+than 20 minutes and 64% reported that they spent more than 20 minutes. This duration may include item 
+review or grammar handbook consultancy. Originally, Grammar Clinic was designed to keep each 
+assignment short so that students can complete an exercise in 10 minutes, such as on the bus. Admittedly, 
+this is a dilemma for MALL. On the one hand, instructors and researchers alike want to keep assignments 
+as bite-sized activities, so the application is more manageable in a relative short time period; on the other 
+hand, they hope learners will invest more time on learning. Time management should be balanced in the 
+future design of mobile learning applications. The way mobile applications are integrated into course 
+syllabi can help make mobile learning a routine for language learners. Also, information about user 
+behavior can help teachers adjust the Grammar Clinic assignment configuration for learners, to make 
+assignments more focused by reducing or increasing item numbers. 
+The second part of the questionnaire consists of eight statements about the learners’ use and perception of 
+Grammar Clinic. This section used a six-point Likert scale with 1 meaning “completely disagree” and 6 
+meaning “completely agree.” The responses to this section are summarized in Table 6. 82% of the 
+respondents agreed that Grammar Clinic was easy to use on mobile devices or computers (M = 4.8; 
+SD = 1.13). 88% of the respondents agreed that the explanations in Grammar Clinic item review were 
+clear (M = 4.9; SD = 0.98). 76% of the respondents agreed that the error types in Grammar Clinic were 
+very typical in their own writing (M = 4.4; SD = 1.01). In regard to the item difficulty, 41% of the 
+respondents thought the assignments were difficult whereas 59% thought they were not difficult. This 
+information brings the issue of item writing to our attention. When items are too easy for some learners, 
+the learning outcome may be compromised due to the limited challenged imposed. Some detailed 
+diagnostic analysis of the existing essays in the learner corpus may be needed to inform future item 
+writing. Certainly, adding an adaptive item selection mechanism would be one good way to address the 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  147 
+potential mismatch of learner proficiency and item difficulty. This system would present an item of a 
+certain error type and difficulty level based on learners’ performance on previous item(s). 
+As for aspects related to user behavior, only 65% of the respondents claimed that they reviewed the 
+explanations after finishing an assignment. The review of explanations was designed to be a 
+metalinguistic awareness-raising activity and a grammar learning opportunity for learners. This result 
+may have impact on the way in which Grammar Clinic assignments affect the outcome of the learners’ 
+self-editing. The reason why 35% of the respondents did not review the explanation was not clear. It is 
+possible that some students found the items easy and did not need further explanation. It also could be due 
+to some design issues. The current setting for Grammar Clinic item review is by assignment, instead 
+being an on-demand review for a particular item. Some learners may have found it inconvenient to review 
+items on the current version of Grammar Clinic. 
+Table 6. Selected Responses to Mobile Application Use Questionnaire 
+Statements 1 Completely Disagree – 6 Completely Agree Disagree Agree  
+1 2 3 4 5 6 1-3 4-6 
+1. GC is easy to use on my 
+mobile device or computer. 
+0% 0% 18% 18% 29% 35% 18% 82% 
+2. The feedback or explanation 
+on GC is clear to me. 
+0% 0% 12% 12% 53% 24% 12% 88% 
+3. The error types in GC are 
+very typical in my writing. 
+0% 0% 24% 29% 35% 12% 24% 76% 
+4. The items in GC are difficult 
+for me. 
+6% 18% 35% 35% 6% 0% 59% 41% 
+5. I usually read the review 
+pages after finishing an 
+assignment. 
+0% 6% 29% 12% 29% 24% 35% 65% 
+6. The practice on GC can help 
+me notice errors in my own 
+writing. 
+6% 12% 6% 29% 35% 12% 24% 76% 
+7. The practice on GC can help 
+me notice errors in the essays 
+written by my classmates 
+(peer review). 
+6% 12% 6% 29% 29% 18% 24% 76% 
+8. I need more instructions on 
+grammar points in 101C class. 
+6% 6% 29% 18% 35% 6% 41% 59% 
+Other questionnaire results showed that 76% of the respondents believed that Grammar Clinic helped 
+them notice errors in their own writing and in reviewing others’ papers. This number is very encouraging 
+because it shows a perceived positive effect of Grammar Clinic on students’ writing development. 
+However, it is noteworthy that 59% of the students agreed that they needed more instruction on grammar 
+points in this English academic writing class. This need may be related the lack of a stand-alone grammar 
+teaching component in the English academic writing class. The short grammar handbook and Grammar 
+Clinic assignment review may not give students a sense of formal grammar learning. 
+The questionnaire also considered the students’ perceptions about how they were able to interact with the 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  148 
+different error types on Grammar Clinic. Students were given the list of error types used in Grammar 
+Clinic and were required to check the error types that they could identify and correct in others’ writing. 
+Interestingly, the top five error types that they were confident in identifying were verb tense (82%), run-
+on sentence (65%), fragment (59%), word order (53%), and conjunction use (53%). However, the top five 
+error types that they felt comfortable correcting were verb tense (53%), noun use (53%), adverb use 
+(53%), article use (53%), and conjunction use (53%). This difference in their perceived ability of 
+identifying and correcting certain types of error prompts us to reconsider the configuration of future 
+assignments. The learners’ perceptions of item difficulty and their actual performance should be taken 
+into consideration when assembling future assignments. 
+The last section of the questionnaire included two open-ended questions eliciting students’ feedback 
+about the features of Grammar Clinic. Of the 18 total comments on the two questions, 10 were positive 
+about the convenience and benefits of the Grammar Clinic assignments. For example, one student 
+commented that 
+Mobile device is very useful and portable, but sometimes it is too small to use (for website 
+browsing). Thus, a website like this is much better so that we can see every questions in one page 
+and easy to write the answers. (SJ, all abbreviations are pseudonyms) 
+Another student WK shared his positive view on the representativeness of the items in Grammar Clinic 
+assignments. He commented that “I like the sentences which are commonly used by every student. I can 
+detect my common errors in my essay.” 
+Other comments pertained to the functionality of Grammar Clinic. For example, regarding the item 
+difficulty, SJ wrote: 
+Since everybody has different level of grammar skills even if we are taking the same class, the 
+program is somehow not suitable to everybody because sometimes some grammatical errors are 
+very easy. Thus, by making different steps or categories, it could be easy for students to recognize 
+which part of errors are week or need to make a progress. 
+Another student XS complained about the usability of Grammar Clinic, saying that “Once you accidently 
+close it you have to login in again.” Overall, these suggestions and comments can help us make Grammar 
+Clinic more user-friendly and hopefully more effective in promoting ESL learners’ self-editing efficacy 
+and grammar ability development. 
+CONCLUSIONS AND IMPLICATIONS 
+As with any study, some limitations emerged that we feel need to be addressed in future research. Firstly, 
+only one group of students participated in this research. Ferris (2010) has recommended the use of a 
+control group to investigate the effect of treatment in corrective feedback research. Secondly in this study 
+the performances of all students were analyzed as one group. There were some important individual 
+differences in both pre-test/post-test results and error reductions, which our procedure obscured. More 
+qualitative methods will help investigate individual differences in user behavior and learning gains. 
+Observation, user diary, and user behavior tracking can be implemented in future studies. 
+There are some areas that can be strengthened in future versions of Grammar Clinic. The feedback 
+information in the current version of Grammar Clinic is manually prepared by the instructor. An 
+automatic feedback system based on natural language processing techniques and the use of an academic 
+English corpus will greatly facilitate the application’s usability and maintenance. The incorporation of a 
+grammar parser and other natural language processing-based feedback generators would help transform 
+Grammar Clinic into an intelligent system that would provide customized assignments and feedback to 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  149 
+ESL learners (Heift 2010). Other important features of effective mobile learning should be taken into 
+consideration, such as those suggested by Herrington et al. (2009) (e.g., multimedia environment and 
+cooperative learning platform). The feature of a user action log could be added in the future to track 
+students’ browsing and interactive behavior. In this way, it would be possible to monitor the students’ 
+investment of time and their progress on Grammar Clinic. Building on this information, the assignment 
+content and schedule adjustments could be made for learners to optimize learning. The functionality of 
+sharing comments was not well developed and utilized in this particular ESL class, a feature which could 
+help build a learning community and promote collaborative learning. 
+Despite some limitations, the analyses in this study show that the learners’ performance on Grammar 
+Clinic was positively correlated with their score gains between pre- and post-tests of grammar. In the 
+learners’ second drafts of two major papers (Papers 1 and 4), increased correction rates in verb use, 
+preposition use, and word choice were found. Along with the decrease in occurrences of self-editing in 
+Paper 1 and Paper 4, the increased correction rates indicate learners’ improvement in their English 
+grammatical precision. This finding was further supported by the decreased error rates of the final drafts 
+of each major paper. However, the results from multiple paired-sample t-tests reveal that only the error 
+rate of run-on sentences was reduced significantly from the final draft of Paper 1 to that of Paper 4. 
+Overall, Grammar Clinic is a positive example of mobile-assisted language learning as it was perceived 
+by students as a useful learning application in an ESL writing class. Grammar Clinic was regarded as 
+beneficial in helping learners raise their metalinguistic awareness and improve their self-editing ability in 
+English writing. Continued research and development in the realm of MALL is necessary as it will help 
+illuminate helpful factors for the development of a language learning specific application. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  150 
+APPENDIX A. Error Types in Grammar Exercise Application 
+Error Type  Example 
+Adjective use  There is an interest story about the development of this video game. 
+Ambiguous expression  I can’t understand these papers completely because my vocabulary foundation 
+was unstable. 
+Adverb use  People on this island have an extraordinary different way of living. 
+Article use  She was having hard time because she didn't have many friends at school. 
+Conjunction use  The reason that those inventions are so famous is because they are so 
+successful in serving their purposes. 
+Fragment  In my opinion, usually is best to take the puppy outside and play with him for 
+a while everyday. 
+Noun use  Visitors can gain information about aerospace science here. 
+Preposition use  John chose engineering major when he attended into college. 
+Pronoun use  Before I came to the United States, many people told you that America was a 
+developed country. 
+Punctuation use  However at last we succeeded in making a good film for all the students of the 
+school. 
+Relative Pronoun use  Last summer, I travelled with my parents to Dallas where was 400 km from 
+my home. 
+Run-on sentence  It was my first day in America, Ames was beautiful but too cold. 
+Word Choice  I could image the suffering he had gone through. 
+Word Order  Many people see him as a hero, no matter what ages or genders are they. 
+Verb use  The hi-tech education which is provided in these halls are good. 
+ 
+ APPENDIX B. Item Type Distribution in Grammar Clinic Assignments 
+Assign
+ments 
+Adj Adv Art Conj Frga Noun Prep Prn RlPrn Run Vb WC WO Total 
+1-3 3 0 4 1 2 2 2 1 2 3 8 1 1 30 
+4-6 3 3 2 1 0 1 4 1 1 1 12 0 1 30 
+7-9 2 1 9 0 5 2 2 0 1 2 5 0 1 30 
+11-13b 0 0 5 1 3 0 2 0 2 7 5 3 2 30 
+Total 8 4 20 3 10 5 10 2 6 13 30 4 5 120 
+Notes. a) Frg = Fragment, Run = Run-on sentence, Verb = Verb form (including Subject-verb agreement, verb tense), Art = 
+Article use, Prep = Preposition use, Adj = Adjective use, Adv = Adverb use, Noun = Noun use, Conj = Conjunction use, RelPro 
+= Relative pronoun use, WO = Word order, Pron = Pronoun use, WC = Word choice. b) Assignment 10 is a bonus assignment 
+focusing on ambiguous expressions in students’ writing. Assignment 12 is a special assignment focusing on run-on sentence and 
+fragment only. 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  151 
+APPENDIX C. Mobile Application Use Questionnaire 
+ 
+ 
+ 
+1. 
+Mobile device using experience 
+How long have you been at Iowa State University? (including IEOP program.) 
+  less than 1 semester 
+ 2 semesters 
+  3 semesters 
+ Other:  
+2. Are you using any mobile devices? (a mobile device can be cell phone, personal digital assistant 
+(PDA), tablet, electronic dictionary and etc.) 
+  Yes 
+ No 
+  Other:  
+2.1. What kind of mobile devices are you using now? (including tablets, such as kindle fire, iPad. 
+Please check all that applies.) 
+  iPhone/iTouch 
+ Blackberry 
+ Android mobile phones 
+  
+  No mobile device 
+ Tablets (iPad, Kindle Fire 
+and etc.) 
+ Other: 
+2.2. What are the main usages of your mobile device(s)? Please check all that applies. 
+  playing games 
+ using dictionary 
+ reading stories (books, 
+magazine and etc.) 
+ listening to music 
+(mp3, radio) 
+ watching videos (e.g. 
+Youtube) 
+ learning foreign 
+language  
+ making phone calls 
+ texting friends or using 
+chatting tools  
+  using social networks (such as Facebook) 
+ shopping online 
+ managing my schedule 
+ using 
+Blackboard/Moodle/WebCT  
+ using GPS/maps 
+ viewing webpages 
+ sending/receiving emails 
+ Other:  
+2.3. Would you like to use your mobile device(s) for learning purposes, for example finishing class 
+assignments (Grammar Clinic)? 
+  No, I do not want to 
+use it for assignments. 
+ Yes, I am willing to use 
+it for assignments. 
+  I don’t care. 
+ Other:  
+3. Which device(s) did you usually use for Grammar Clinic assignments? Mobile devices or 
+computers? Please explain your choice.  If you do not have a mobile device, please put ‘n/a’ in the 
+textbox. 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  152 
+APPENDIX C. Mobile Application Use Questionnaire, continued 
+4. 
+ 
+How much time did you usually spend on ONE assignment, including reviewing feedback? (for 
+example, assignment 3 with 10 items in it.) 
+  less than 10 minutes 
+ between 10 to 20 
+minutes 
+ between 20 to 30 
+minutes 
+  more than 30 minutes 
+ Other:  
+4.1. Did you use Grammar Clinic on your own when it was not required? 
+  Yes 
+ No 
+  Other:  
+5. What is your impression of Grammar Clinic application used in this class? 
+Please rating the following statements based on your own experience. 1: ‘completely disagree’, 2: 
+‘disagree’, 3: ’somewhat disagree’, 4: ‘somewhat agree’, 5: ‘agree’, 6: ‘completely agree’. 
+ 
+5.1 
+5.2 
+ 
+5.3 
+5.4 
+5.5 
+5.6 
+5.7 
+ 
+5.8 
+ 
+Grammar Clinic is easy to use on my mobile device or computer.  
+The feedback or explanation on Grammar Clinic is clear to me. (The feedback or explanation is 
+on the review pages.) 
+The error types in Grammar Clinic are very typical in my writing. 
+The items in Grammar Clinic are difficult for me.  
+I usually read the review pages after finishing an assignment.  
+The practice on Grammar Clinic can help me notice errors in my own writing. 
+The practice on Grammar Clinic can help me notice errors in the essays written by my classmates 
+(Peer review). 
+I need more instructions on grammar points in 101C class. 
+ 
+6. 
+ 
+Please check the following categories that you can IDENTIFY in editing your draft or reviewing 
+drafts written by others. 
+  Verb use (tense, 
+passive voice, linking verb 
+and etc.) 
+ Noun use (plural form) 
+ Word Choice (wrong 
+word class, ambiguous 
+expression) 
+ Preposition use (wrong 
+or missing preposition) 
+ Pronoun use (unclear 
+pronoun) 
+ Conjunction use 
+(wrong conjunction) 
+ Relative pronoun use 
+  Run-on sentence 
+ Fragment 
+ Adjective use (comparative 
+form) 
+ Adverb use 
+ Word Order 
+ Article use (missing or 
+wrong article) 
+ Punctuation use 
+ Other:  
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  153 
+APPENDIX C. Mobile Application Use Questionnaire, continued. 
+ 
+ 
+NOTES 
+1. The term “Mobile devices” in this article refers to any internet-enabled handheld device that has a 
+capability of using internet services. Typical mobile devices include personal digital assistant (PDA), 
+smart phones, and tablets. 
+2. Though a detailed account of technicality issues is beyond the scope of this paper, interested readers 
+can find more information about web-based mobile application development in Firtman (2010) and Stalk 
+(2010). 
+3. In our analysis, students’ revision behavior was also included in Table 2 to present a more 
+comprehensive picture of students’ effort in writing process. However, only the term “self-editing” is 
+used for terminology consistency. 
+ 
+ABOUT THE AUTHORS 
+Zhi Li is a doctoral student in Applied Linguistics and Technology, Iowa State University. He holds an 
+MA degree from Hunan University, China. His research interests are language assessment and 
+technology, computer-assisted language learning, and mobile-assisted language learning. 
+ 
+Volker Hegelheimer is a full professor in the Department of English and the Program in Linguistics at 
+Iowa State University. His research interests include applications of the WWW and emerging 
+technologies in language learning and language testing. He is the corresponding author for this article. 
+ 
+ 
+6-1. 
+ 
+Please check the following categories that you can CORRECT in editing your draft or reviewing 
+drafts written by others. 
+  Verb use  
+ Noun use (plural form) 
+ Word Choice  
+ Preposition use  
+ Pronoun use (unclear 
+pronoun) 
+ Conjunction use 
+(wrong conjunction) 
+ Relative pronoun use 
+ Run-on sentence 
+  Fragment 
+ Adjective use (comparative 
+form) 
+ Adverb use 
+ Word Order 
+ Article use (missing or 
+wrong article) 
+ Punctuation use 
+ Other: 
+ 
+7. 
+8. 
+ 
+Can you talk about the features in Grammar Clinic that you like and dislike? 
+Do you have any other comments or suggestions on Grammar Clinic exercise and/or 101C class 
+teaching in general? 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  154 
+REFERENCES 
+Alderson, J., Clapham, C., & Wall, D. (1995). Language test construction and evaluation. Cambridge, 
+UK: Cambridge University Press. 
+Bitchener, J., & Ferris, D. R. (2012). Written corrective feedback in Second Language Acquisition and 
+Writing. New York, NY: Routledge. 
+Bruton, A. (2009). Improving accuracy is not the only reason for writing, and even if it were. . . System, 
+37, 600–613. 
+Chapelle, C. (2001). Computer applications in second language acquisition: Foundations for teaching 
+testing and research. Cambridge, UK: Cambridge University Press. 
+Chandler, J. (2003). The efficacy of various kinds of error feedback for improvement in the accuracy and 
+fluency of L2 student writing. Journal of Second Language Writing, 12(3), 267–296. 
+Chapelle, C. (2009). The relationship between second language acquisition theory and computer-assisted 
+language learning. The Modern Language Journal, 93, 741–753. 
+Cho, S. (2009). Smartphones used for foreign language learning. Multimedia-Assisted Language 
+Learning, 12(3), 211–228. 
+Cotos, E. (2011). Potential of automated writing evaluation feedback. CALICO Journal, 28(2), 420–459. 
+Cresswell, A. (2000). Self-monitoring in student writing. ELT Journal, 54, 235–244. 
+Creswell, J., & Plano-Clark, V. (2011). Designing and conducting mixed methods research. Thousand 
+Oaks, CA: Sage. 
+Diab, N. M. (2010). Effects of peer- versus self-editing on students’ revision of language errors in revised 
+drafts. System, 38, 85–95. 
+Diab, N. M. (2011). Assessing the relationship between different types of student feedback and the 
+quality of revised writing. Assessing Writing, 16, 274–292. 
+Ellis, R. (1999). Learning a second language through interaction. Amsterdam, Netherlands: John 
+Benjamins. 
+Ellis, R., Basturkmen, H., & Loewen, S. (2001). Preemptive focus on form in the ESL classroom. TESOL 
+Quarterly, 35(3), 407–432. 
+Ellis, R., Sheen, Y., Murakami, M., & Takashima, H. (2008). The effects of focused and unfocused 
+written corrective feedback in an English as a foreign language context. System, 36, 353–371. 
+Fathman, A. K., & Whalley, E. (1990). Teacher response to student writing: Focus on form versus 
+content. In B. Kroll (Ed.), Second language writing: Research insights for the classroom (pp. 178–190). 
+Cambridge, UK: Cambridge University Press. 
+Ferris, D. R. (2004). The “Grammar Correction” Debate in L2 Writing: Where are we, and where do we 
+go from here? (and what do we do in the meantime . . .?). Journal of Second Language Writing, 13, 49–
+62. 
+Ferris, D. R. (2006). Does error feedback help student writers? New evidence on the short- and long-term 
+effects of written error correction. In K. Hyland & F. Hyland (Eds.), Feedback in second language 
+writing: Contexts and issues (pp. 81–104). Cambridge, UK: Cambridge University Press. 
+Ferris, D. R. (2010). Second language writing research and written corrective feedback in SLA. Studies in 
+Second Language Acquisition, 32, 181–201. 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  155 
+Firtman, M. (2010). Programming the mobile web. Sebastopol, CA: O’Reilly Media. 
+Gass, S. (1997). Input, interaction, and the second language learner. Mahwah, NJ: Lawrence Erlbaum. 
+Gass, S., & Mackey, A. (2005). Second language research: Methodology and design. Mahwah, NJ: 
+Lawrence Erlbaum. 
+Gass, S., & Mackey, A. (2007). Input, interaction, and output in second language acquisition. In J. 
+Williams & B. VanPatten (Eds.), Theories in second language acquisition: An introduction (pp. 175–
+199). Mahwah, NJ: Lawrence Erlbaum. 
+Godwin-Jones, R. (2011). Emerging technology: Mobile apps for language learning. Language Learning 
+& Technology, 15(2), 2–11. Retrieved from http://llt.msu.edu/issues/june2011/emerging.pdf 
+Hegelheimer, V., & Chapelle, C. A. (2000). Methodological issues in research on learner-computer 
+interactions in CALL. Language Learning & Technology, 4(1), 41–59. Retrieved from 
+http://llt.msu.edu/vol4num1/hegchap/default.html 
+Heift, T. (2004). Corrective feedback and learner uptake in CALL. ReCALL, 16(2), 416–431. 
+Heift, T. (2010). Prompting in CALL: A longitudinal study of learner uptake. Modern Language Journal, 
+94(2), 198216. 
+Herrington, A., Herrington, J., & Mantei, J. (2009). Design principles for mobile learning. In J. 
+Herrington, A. Herrington, J. Mantei, I. Olney, & B. Ferry (Eds.), New technologies, new pedagogies: 
+Mobile learning in higher education (pp. 129–138). Wollongong, Australia: University of Wollongong. 
+Retrieved from http://ro.uow.edu.au/newtech/Kemis, M., Davis, M., & Haen, K. (2011). ComETS needs 
+assessment of educational technology at Iowa State University: ISU students. Ames, Iowa. Retrieved 
+from http://www.comets.iastate.edu/downloads/ComETS_student_report.pdf 
+Krashen, S. D. (1985). The input hypothesis: Issues and implications. New York, NY: Longman. 
+Kukulska-Hulme, A. (2009). Will mobile learning change language learning? ReCALL, 21(2), 157–165. 
+Kukulska-Hulme, A., & Shield, L. (2008). An overview of mobile assisted language learning: From 
+content delivery to supported collaboration and interaction. ReCALL, 20(3), 271–289. 
+Kwon, S., & Lee, J. E. (2010). Design principles of m-learning for ESL. Procedia Social and Behavioral 
+Sciences, 2, 1884–1889. 
+Li, J., Lee, H.-W., Lee, J.-Y., Karakaya, K., & Hegelheimer, V. (2011, October). The influence of using 
+Criterion® on students’ error correction in writing. Paper presented at the Second Language Research 
+Forum, Ames, IA. 
+Long, M. (1996). The role of the linguistic environment in second language acquisition. In W. Ritchie & 
+T. Bhatia (Eds.), Handbook of Second Language Acquisition (pp. 413–468). San Diego, CA: Academic 
+Press. 
+Long, M., & Robinson, P. (1998). Focus on form: Theory, research and practice. In C. Doughty & J. 
+Williams (Eds.), Tasks and language learning: Integrating theory and practice (pp. 15-41). Cambridge, 
+UK: Cambridge University Press. 
+Lu, M. (2008). Effectiveness of vocabulary learning via mobile phone. Journal of Computer Assisted 
+Learning, 24(6), 515–525. 
+Mackey, A. (2006). Feedback, noticing and instructed second language learning. Applied Linguistics, 27, 
+405–430. 
+ 
+Zhi Li and Volker Hegelheimer Mobile-Assisted Grammar Exercises: Effects on Self-Editing in L2 Writing 
+ 
+Language Learning & Technology  156 
+Makino, T. (1993). Learner self-correction in EFL written compositions. English Language Teaching 
+Journal, 47, 337–341. 
+Manochehri, N.-N., Gromik, N. A., & Aw, S. L. (2012). The integration of portable technology to 
+enhance lifelong learning skills. In J. L. Bailey (Ed.), Southwest Decision Sciences Forty-third Annual 
+Meeting (pp. 1–9). Retrieved from 
+http://www.swdsi.org/swdsi2012/proceedings_2012/papers/Papers/PA125.pdf  
+Neuendorf, K. (2002). The content analysis guidebook. Thousand Oaks, CA: Sage Publications, Inc. 
+Polio, C., Fleck, C., & Leder, N. (1998). “If I only had more time”: ESL learners’ changes in linguistic 
+accuracy on essay revisions. Journal of Second Language Writing, 7, 43–68. 
+Schmidt, R. (1990). The role of consciousness in second language learning. Applied Linguistics, 11(2), 
+129–158. 
+Schmidt, R. (1993). Awareness and second language acquisition. Annual Review of Applied Linguistics, 
+13, 206–226. 
+Sheen, Y. (2007). The effects of focused written corrective feedback and language aptitude on ESL 
+learners’ acquisition of articles. TESOL Quarterly, 41(2), 255–283. 
+Song, Y., & Fox, R. (2008). Uses of the PDA for undergraduate students’ incidental vocabulary learning 
+of English. ReCALL, 20(3), 290–314. 
+Stark, J. (2010). Building iPhone apps with HTML, CSS, and JavaScript: Making app store apps without 
+Objective-C or Cocoa. Sebastopol, CA: O’Reilly Media. 
+Stockwell, G. (2010). Using mobile phones for vocabulary activities: Examining the effect of the 
+platform. Language Learning & Technology, 14(2), 95–110. Retrieved from 
+http://llt.msu.edu/vol14num2/stockwell.pdf 
+Suzuki, M. (2008). Japanese learners’ self revisions and peer revisions of their written compositions in 
+English. TESOL Quarterly, 42(2), 209–233. 
+Swain, M. (1995). Three functions of output in second language learning. In G. Cook & B. Seidlhofer 
+(Eds.), Principles and practice in applied linguistics (pp. 126–144). Oxford, UK: Oxford University 
+Press. 
+Truscott,  J. (1999).  The  case  for  “The  case  against  grammar  correction  in  L2  writing  classes”:  A 
+response to Ferris. Journal of Second Language Writing 8(2), 111–122. 
+Truscott, J. (2007). The effect of error correction on learners’ ability to write accurately. Journal of 
+Second Language Writing, 16, 255–272. 
+ 

@@ -1,0 +1,218 @@
+Language Learning & Technology 
+ISSN 1094-3501 
+June 2019, Volume 23, Issue 2 
+pp. 16–21 
+SOFTWARE REVIEW  
+ 
+ 
+Copyright © 2019 Jack Burston 
+ 
+ 
+Review of LearningBranch 
+Jack Burston, Cyprus University of Technology 
+ 
+LearningBranch 
+Product Type: Learning Management System 
+Media Format: HTML5 Cloud-Based 
+Cost: $3–$20 per user; $15–$39 per commercial course 
+Developer: LearningBranch 
+Available from https://www.learningbranch.com/ 
+Operating Systems: Windows 7+, Apple OSX 10+, Chrome OS, Android 5+, Linux, or iOS 11+ 
+General Description 
+LearningBranch (LB) is a multifaceted multimedia learning management system that operates on multiple 
+desktop and mobile platforms: Windows 7+, OSX 10+, Chrome, Linux, Android 5+, or IOS 11+. It is 
+entirely HTML5 cloud-based. Although Firefox and Chrome are recommended, it runs on a number of 
+other browsers. Its main components are Courses, Users, Groups, and Reports (see Figure 1). Courses is 
+where lesson content is created, stored, and assigned. Users is the database of Administrators, Instructors, 
+and Learners. Groups are the cohorts to which Users and Courses are assigned. Reports generates result 
+summaries for record keeping purposes. 
+ 
+Figure 1. LB home page 
+Courses 
+The pedagogical resources used in LB can be either acquired ready-made from the LB online catalog or 
+created by Instructors. Available courses are of two types: those for L2 English language and culture or 
+Jack Burston 17 
+ 
+those that focus on communication skills in customer service, business, hospitality, or health care. The latter 
+are all in English as well. Courses are available for individual student purchase and require an institutional 
+subscription to access. Courses consist of Lessons that can contain Activities or Assessments. Lessons can 
+be done in two ways: 
+• Regular lesson: Feedback and scores are visible. In automatically scored Activities, correct answers 
+are shown after the third attempt. 
+• Lesson with feedback hidden: Correct answers and feedback are hidden. Scores are visible. 
+Activities 
+LB has four main types of asynchronous activities: SocioLearner, Worksheet, Writing, and Typing Speed. 
+The latter is intended for corporate users, while the rest are intended to improve language and 
+communication skills. Additionally, all the asynchronous activities can be used for a wide range of other 
+educational purposes. All activities are automatically saved without the need to name, send, or store them 
+anywhere. 
+SocioLearner activities are based on Learner audio recordings that can be accompanied by a written text, a 
+graphics image, or a pre-recorded audio track. This allows for the creation of text-, graphics-, or audio-
+prompted Learner responses, listen-and-repeat exercises, record-and-compare exercises, or simultaneous 
+interpretation, among other possibilities. SocioLearner activities are manually corrected by Instructors, a 
+task facilitated by the option to speed up the playback and rewind by 5 seconds to replay a passage. In 
+addition to grading submitted recordings, Instructors can also leave audio or text-based comments. Learners 
+likewise can respond to Instructor feedback with their own written or audio recorded comments. 
+ 
+Figure 2. Worksheet activities 
+Worksheet activities consist of two types of resources: receptive displays and active language production 
+(see Figure 2). Displays are used for giving instructions or prompts in the form of text, audio, image, or 
+video. Active language production can take the form of audio recording or text input. Audio recordings can 
+either be manually evaluated by the Instructor or scored by means of a proprietary automatic speech 
+recognition (ASR) algorithm. The ASR works on the basis of a match between student audio input and the 
+anticipated response which the lesson creator types in to guide the algorithm. Written input takes the form 
+of single-answer, multiple-choice questions, multiple-choice checking, or blank-fill completion or cloze 
+exercises. 
+The Writing activity is a simple text editor that is intended for open question responses. These, of course, 
+need to be manually evaluated by Instructors. 
+Each Course offers a tracking option, where Instructors can check the results of Learner Activities. It is 
+possible to view all Lessons and Activities or just selected ones. Six icons indicate the state of an Activity: 
+• an hourglass (i.e., an activity that has not yet been submitted), 
+• a pencil (i.e., a completed SocioLearner or Writing activity that has not yet been scored), 
+• a number (i.e., an activity that has been scored), 
+• a checkmark (i.e., a completed activity that is unscored), 
+18 Language Learning & Technology 
+ 
+• a mail icon (i.e., a SocioLearner or Writing activity where the Instructor has left a message), 
+• an open mail icon (i.e., a message that has been opened by the Learner), or 
+• a red dot (i.e., a message from a Learner that has been left for the Instructor). 
+Instructors can view actual Learner responses by clicking on a pencil or number icon for an Activity. This 
+allows both correction and, in SocioLearner and Writing activities, feedback comments. 
+Assessments 
+Assessments can consist of any Activity or combination of Activities. Assessments allow control over when 
+Learners can access Activities (i.e., date and time) and for how long (see Figure 3). There are three types 
+of Assessments:  
+• In Normal assessments, Learners can open activities only once. They progress in sequence from 
+item to item. Feedback and scores are hidden. 
+• In Self-directed assessments, Learners can open activities only once and then check their scores 
+after the test, but feedback is hidden. 
+• In Free-navigation assessments, Learners can return to the activities and make multiple attempts. 
+Feedback and scores are hidden. 
+ 
+Figure 3. Assessments 
+Users 
+There are three levels of LB users: Administrator, Instructor, and Learner. Administrators have full access 
+to the system and are responsible for creating and maintaining the master Users lists. Instructor and Student 
+roles are assigned in the master Users lists. This can be done either by typing in necessary information or 
+importing it from an existing .CSV database files. Instructors can create Courses and access results. 
+Learners can only access Course Lessons and their own results. 
+Groups 
+Creating a Group is a 2-step process. First, a Group is named. Then, it is populated with Learners and 
+Instructors. Groups, which are limited to a maximum of 200 people, can be created for any purpose: course 
+enrollments, class membership, tutorial sections, testing, and so forth. Instructors add Learners (or other 
+Instructors) to a group by clicking on names in the master Users list. Provided that their names are already 
+included in the master Users list, students may optionally be invited to self-register in a group. 
+Jack Burston 19 
+ 
+Reports 
+The Reports component allows Lesson Activity summary results to be generated by Course and Group. The 
+Report database can be sorted in alphabetical order by Course, Group, Lesson, or Learner (see Figure 4). 
+Results can be further sorted by date of First Access or Last Access, percentage of Completion, Score, or 
+Final Score. Reports can be viewed online or downloaded for local archiving. 
+ 
+Figure 4. Reports 
+Evaluation 
+Technical Requirements 
+Being an entirely cloud-based platform, LB offers maximum accessibility for Learners and Instructors. The 
+only infrastructure required is access to a broadband Internet connection and an up-to-date web browser. 
+No applications need to be downloaded or maintained. Users automatically have access to the most recent 
+version of the system. For anyone with limited, or non-existent, technical infrastructure support, the 
+advantages of a cloud-based platform cannot be overestimated. As LB runs on mobile devices as well as 
+desktop, notebook, or laptop computers, it is accessible virtually anywhere (i.e., in class, at home), without 
+the need for language lab facilities. Even where local technological support is available, LB is likely to 
+offer much more immediate attention to any infrastructure problems that might be encountered. 
+LB User documentation is available online in the form of a User’s Guide for setting up an LB site as well 
+as Recording Help and several Quick Tips that cover creating content, managing users, reviewing, scoring, 
+and commenting. These are all well written, extensive, and good to have on hand, though operation of the 
+system is quite transparent. 
+LB was tested on the following four devices using a wireless DSL 10 mbps connection: 
+• a Lenovo IdeaCentre B300 64-bit desktop with 4GB of RAM, running Windows 7 Home Premium 
+and Chrome 72.0; 
+• a Doogee Valencia Y100 smartphone with 1 GB of RAM, running Android 5.1; 
+• a Leagoo KIICAA smartphone with 2 GB of RAM, running Android 7.0; and 
+• an Apple iPad (MGGT2J/A), running iOS 12.1.4. 
+20 Language Learning & Technology 
+ 
+LB operated on all devices with no crashes or error messages. Overall, performance on the desktop was 
+excellent. Pages loaded quickly and audio and video files played straightaway. Audio recordings made in 
+either Instructor or Learner mode were saved and ready for playback within about one second. Likewise, 
+the automatic correction of Worksheet Activities was essentially instantaneous. Performance on the most 
+recent mobile devices (i.e., Leagoo KIICAA, Apple iPad) was nearly as good as on the desktop, though 
+screen touch response was slower and less sensitive than clicking on a computer screen. The older 
+smartphone was noticeably slower. In sum, even users with older desktop systems should have no problems 
+running LB. So, too, those with mobile devices less than one or two years old are likely to find the operation 
+of LB more than satisfactory. Users with older mobile devices would need to upgrade their OS or 
+equipment, or be very patient, to run LB. While mobile accessibility is a definite advantage for learners, it 
+must be said that Writing Activities requiring the typing of more than a short sentence would be more easily 
+undertaken on a computer with a bigger screen and physical keyboard. Likewise, for want of screen space 
+and text-input limitations, Instructors are likely to find mobile access more suited to Activity grading, 
+Assessment grading, and Course management than Lesson creation. 
+The one notable exception to the excellent performance of LB was the operation of its ASR system. 
+According to LB, the algorithm was developed primarily for corporate users in customer service call centers 
+and is intended to evaluate intelligibility rather than correctness per se. Scored Audio typically required 5–
+10 seconds for the ASR to analyze the input. This would be acceptable were the analysis accurate. However, 
+while the ASR was able to detect non-native English pronunciation and deduct points for this, it frequently 
+failed to recognize native speaker pronunciation and incorrectly gave less than full points for intelligibility. 
+The use of Scored Audio could thus not be recommended as a language learning Activity. 
+Creation of Lessons and Tests 
+The creation of Lesson Activities and Assessments in LB could not be easier. Authoring pages are clearly 
+laid out, and options are intuitive. There is also total flexibility in the type, number, and sequencing of 
+Activities. They can easily be repositioned in a Lesson, copied, and deleted at will. It is also possible to 
+copy or move Activities to other Lessons as well as to move or copy Lessons to other Courses. Courses, 
+too, can be copied in their entirety for repurposing or simply for archiving purposes. 
+Activities support a full range of prompt types: text, image, video, and audio. With the notable exceptions 
+of image labeling, drag-and-drop Activities, and video recording, the available language production types 
+are what would be expected for language learning: audio recording, fixed-choice text selection, fixed-
+response text input, and open-ended written tasks. It needs to be noted, however, that answer evaluation in 
+fixed-response text Activities is limited to exact string matching. Alternative responses may be specified, 
+but no allowance is made for fuzzy pattern matching (i.e., wildcard symbols), capitalization, or accented 
+character discrepancies. 
+Fortunately, the absence of student video recording will soon be remedied. A pre-release version of the 
+application was made available for pilot testing and it performed very well on the desktop computer, the 
+(Leagoo) smartphone, and the iPad. 
+Learner Operation of Lessons and Tests 
+From the Learner’s perspective, once logged in to the system, Courses, Lessons, and Activities are clearly 
+visible and easily accessible. Activities are transparent and require only the selection of fixed responses, 
+text input, or the pressing of a Play or Record button. Where results and feedback are made available, these 
+are very evident and can be reviewed at any time. So, too, Learners can readily respond to Instructor 
+comments. 
+Course Management 
+As with Lesson and Test creation, LB course management could not be easier or more flexible. Being able 
+to import User lists via .CSV databases greatly facilitates student enrollment, especially where large 
+numbers are involved. Groups can be created, disabled, and deleted with minimal effort. Moreover, the 
+Jack Burston 21 
+ 
+option to allow self-registration can greatly simplify Course enrollment. Once created and assigned, 
+Courses and Lessons can be made invisible so that Learners only access resources when appropriate for 
+them to do so. The tracking function keeps Instructors well advised of student activities (or lack thereof), 
+allowing them to see scores, view and correct exercises, leave comments, and maintain two-way 
+communication with learners. Good control is also provided over when and how Assessments are 
+undertaken. Likewise, the Reporting function allows Activity results to be compiled in virtually any manner 
+an Administrator or Instructor could want. 
+Pedagogy 
+Pedagogically, by design, LB is intended to be a teacher-centered content delivery and assessment system. 
+As indicated above, it fulfills this function commendably well. In so doing, however, it offers little internal 
+support for learner-centered, communicative, or collaborative student interaction. Learner control is limited 
+to students being able to do (or not do) available Lessons and Activities in the sequence of their choice. No 
+provision is made for student–student communicative interaction. Communication is restricted to 
+asynchronous teacher–learner exchanges. That being said, LB could certainly be used to prepare learners 
+for communicative, collaborative activities subsequently undertaken by means of other applications such 
+as WhatsApp, Skype, Google Docs, Google Meet, LanSchool, NetSupport School, and so forth. Likewise, 
+the ability to use mobile devices to record audio and (eventually) video segments directly in LB may permit 
+learners to work individually or cooperatively on language learning tasks like interviews, news broadcasts, 
+geocaches, or storytelling. 
+Summary 
+For anyone seeking a learning management system as a platform for language instruction, or indeed any 
+general educational purpose, LB is most certainly worth serious consideration. It provides a stable, easily 
+accessible, and very flexible means of creating, managing, assessing, and recording language learning 
+activities—all with minimal local technical infrastructure support. While, by design, it is intended for 
+teacher-centered content delivery, the mobile access it affords allows a degree of communicative, 
+collaborative, student interaction. No less important, LB is quite affordable, not only for institutional 
+subscriptions, but also for the student purchase of commercially available courses where these are relevant. 
+The cost factor also becomes increasingly attractive as the number of users increases. 
+About the Author 
+Jack Burston holds the position of Honorary Research Fellow in the Language Centre of the Cyprus 
+University of Technology. He is a language-teaching specialist with a formal background in theoretical and 
+applied linguistics, second language acquisition and testing. His current research focuses primarily on 
+mobile-assisted language learning. 
+E-mail: jack.burston@cut.ac.cy 

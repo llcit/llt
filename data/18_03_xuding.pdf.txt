@@ -1,0 +1,757 @@
+Language Learning & Technology 
+http://llt.msu.edu/issues/october2014/xuding.pdf 
+October 2014, Volume 18, Number 3 
+pp. 80–96 
+ 
+Copyright © 2014, ISSN 1094-3501 80 
+AN EXPLORATORY STUDY OF PAUSES IN COMPUTER-ASSISTED 
+EFL WRITING 
+Cuiqin Xu, Nanjing University 
+Yanren Ding, Nanjing University 
+The advance of computer input log and screen-recording programs over the last two 
+decades has greatly facilitated research into the writing process in real time. Using 
+Inputlog 4.0 and Camtasia 6.0 to record the writing process of 24 Chinese EFL writers in 
+an argumentative task, this study explored L2 writers’ pausing patterns in computer-
+assisted writing settings and how their pausing patterns related to writing time allocation, 
+writing fluency, and text quality. Results suggest that while the skilled writers allocated 
+significantly less time to the prewriting stage, they paused significantly longer yet less 
+frequently than the less-skilled group in this stage; however, the two groups displayed no 
+significant difference in pause frequency or duration in the composing stage. Text quality 
+was found to correlate positively with prewriting pause duration and writing fluency but 
+negatively with the prewriting time. Web search and dictionary use were identified as 
+important extra writing activities that gave rise to the observed time allocation and pausing 
+patterns. These findings suggest that computer-assisted L2 writing has features distinct 
+from pen-and-paper writing and that L2 writers need to be informed of how to coordinate 
+and regulate writing resources in an electronic environment. 
+Keywords: Computer-Assisted Language Learning, Individual Learner Differences, L2 
+Writing 
+APA Citation: Xu, C. & Ding, Y. (2014). An exploratory study of pauses in computer-
+assisted EFL writing. Language Learning & Technology, 18(3), 80–96. Retrieved from 
+http://llt.msu.edu/issues/october2014/xuding.pdf 
+Received: April 4, 2013; Accepted: September 10, 2013; Published: October 1, 2014 
+Copyright: © Cuiqin Xu 
+INTRODUCTION 
+The working memory model of writing (Baddeley & Hitch, 1974; Kellogg, 1996) posits that written 
+language production draws on a single, limited pool of attentional resources with different writing 
+processes competing for such resources under the constraints of a central executive. If the resources are 
+exceeded, some processes will be suspended or even sacrificed to accommodate the immediate call for 
+other processes (DeKeyser, 2001). A possible strategy writers adopt at such moments is pausing, by 
+which they may free up attentional resources for the processes that call for priority in writing. For 
+researchers, pausing opens a window to gain insights into problems writers encounter in the course of 
+language production (Wengelin, 2006), such as “phrasing, memory search, decision, feedback, conceptual 
+integration, and so forth” (de Beaugrande, 1984, p. 166).  
+With the advent of computer keyboard writing, computer input log programs have helped make the 
+logging and analysis of pausological features in writing much easier. Yet the writing process in an 
+electronic environment may be more complex as writers have quick access to ample online resources, 
+which also entails the demanding task of managing these resources. In the case of pausing, it is no longer 
+confined to the halt of text production in a word processor but becomes an observable period of inactivity 
+in any of the writing-related windows. In the research on online writing pauses, although various input 
+log programs help to quantify pauses, there is still a need to examine pauses in their dynamic features and 
+to explore the activities that may give rise to the observed pausing patterns. Screen Recorder, by running 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 81 
+backstage, can record the writing process in an unobtrusive manner and may permit possible explanations 
+for the pausing behavior. Of particular interest to the present study is to take advantage of two computer 
+programs, Inputlog 4.0 (Leijten & Van Waes, 2006) and Camtasia 6.0, a screen-recording program 
+developed by TechSmith© Cooperation, to examine how writing skill affects the pausological features of 
+second language (L2) learners in computer-assisted writing settings and the extra writing activities such 
+as web search and dictionary use that may give rise to these features. 
+RELATED LITERATURE 
+Writing Pauses 
+Previous pausological studies in pen-and-paper settings tend to have long pausing thresholds for practical 
+reasons and have focused on the linguistic locations of pauses. Schumacher, Klare, Cronin, and Moses 
+(1984) videotaped the writing process of 22 high school graduates and 20 college students in a 30-minute 
+writing assignment. Setting the pause threshold at 10 seconds, the study found no difference in pause 
+frequency for the two groups but the college group paused shorter on average than the high school group. 
+Further dividing the writing session into equal intervals, the average pause duration remained unchanged 
+for both groups. The posttask interview showed the college group carried out more cognitive activities 
+instead of grammatical activities per pause break and produced final texts of better quality than the high 
+school group.  
+Other studies (Matsuhashi, 1981, 1987; Schilperoord, 1996) largely focused on first language (L1) and L2 
+writing pauses or the grammatical locations of pauses, such as pauses at the clause, sentence and t-unit 
+boundaries, leaving the temporal features of pausing such as pause frequency and duration to future 
+research. A more recent study by Beauvais, Olive, and Passerault (2011) examined pauses at different 
+writing stages. By employing think-aloud protocols and reaction-time (RT) tasks, the researchers 
+investigated the relationship between students’ online management of the writing processes and text 
+quality in pen-and-paper settings. The study found that text quality positively correlated with the 
+prewriting pause length and the amount of time spent on planning, suggesting that “students composing 
+an argumentative text benefit more from spending time on the planning processes, in other terms, in 
+conceptual processing, than creating formal text using the translating processes” (p. 420). 
+Enlightening as these findings on writing pauses are, different pause thresholds make it difficult to 
+compare results across various studies. In addition, researchers of L2 writing processes have raised 
+methodological concerns about the reactivity issue of think-aloud protocols (Stratman & Hamp-Lyons, 
+1994), the intimidating nature of video cameras (Levy & Ransdell, 1996) and the reliability issue of self-
+generated interview data (Spelman Miller, Lindgren, & Sullivan, 2008). 
+With computer input log tools, researchers have further pushed the boundaries of writing pause research 
+by setting shorter pausing thresholds. Using Keytrap1, Van Waes and Schellens (2003) examined how 
+writing mode, computer keyboard writing or pen-and-paper writing, affected the pausing behavior of 
+experienced writers. Defining pauses as inactive periods of three seconds or longer and dividing writing 
+into segments of 10 minutes, the researchers found that the long pauses for keyboard writing evenly 
+distributed throughout the writing process while for pen-and-paper writing, half of the long pauses were 
+concentrated at the beginning of the process. The study suggests that keyboard writers tend to start 
+writing sooner and pause more frequently than pen-and-paper writers, leading to the speculation that the 
+use of a word processor may result in a more fragmented writing process.  
+Using JEdit, Spelman Miller and her colleagues conducted a series of studies on writing pauses by setting 
+the pausing threshold at two seconds. Spelman Miller (2000) contrasted the pausing patterns of L1 and L2 
+writers and found that L2 writers paused longer across all grammatical locations and that key lexical 
+items caused L2 writers to pause more as well as caused them considerable difficulty. In 2005, Spelman 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 82 
+Miller reported a case study on how language backgrounds affected writers’ pausing and formulating 
+behavior. The study confirmed previous findings that L2 writers tend to plan less globally (Jones & 
+Tetroe, 1987) and that L2 writers were less productive (Hall, 1990). A more recent study by Spelman 
+Miller et al. (2008) adds to the mixed findings about pause frequency and duration in L2 writing. By 
+tracking how year(s) of study affected the pausing behavior of EFL writers over a 3.5-year period, the 
+study found that as the writing abilities increased,  “the writers required fewer, but equally long pauses 
+and decreased their total pause time over the period” (p. 444). 
+Illuminating as it is, the existing literature seems to have overlooked the individual differences in 
+pausological features of L2 writing (Ackerman, 2003; Robinson, 2005; for a review, see Kormos, 2012). 
+An indiscriminative analysis of the general pausing behavior throughout the writing event or in preset 
+time segments may not be sensitive to pausing features unique to the functional stages like prewriting and 
+composing. To gain a comprehensive view of L2 writing pauses, research is needed to examine pauses at 
+the prewriting and composing stages separately. 
+A second observation from the literature is that pause has been defined as a nonproductive period in text 
+production. However, in keyboard writing settings, writers may actively engage in web searching and 
+reading efforts when writing in the word processor is suspended. These activities may place considerable 
+demands on working memory, and pauses in the word processor are no longer confined to planning or 
+revising contemplation (Alves, Castro, & Olive, 2008). As online management of writing processes is a 
+fundamental component of writing skill (Levy & Ransdell, 1996), it is necessary to examine pauses in 
+multiwindow settings since online resources may affect writing processes and consequently change the 
+nature of these pauses. 
+Extra Writing Activities 
+Another unanswered question in L2 writing is how writers manage various writing resources in addition 
+to text production on paper or on a word processor. This becomes more complex in online writing 
+settings, where abundant resources are made instantly accessible by computer and particularly, Internet 
+technology. Research on activities for managing writing resources focuses mainly on dictionary use and 
+pertinent to the current study is research on L2 writers’ strategies with electronic dictionaries. Using 
+Système-D, Scott and New (1994) investigated dictionary use by intermediate American learners of 
+French in their L2 writings. They found that the participants were “clearly English-French dictionary 
+dependent” (p. 44) and that writers who produced better texts were either less dependent on the dictionary 
+or used the French-English dictionary more creatively than those who wrote poorly. 
+Using think-aloud protocols, Chon (2008) investigated the electronic dictionary use of 10 Korean 
+university students in two computer-assisted writing tasks. The results suggest that the dictionary did not 
+help writers solve lexical problems immediately due to their lack of knowledge of the L2 words offered; 
+rather, it prompted follow-up lexical problems within the dictionary entry. In summary, most studies on 
+dictionary use reported the misuse or hindering effects of dictionary rather than its scaffolding effects 
+(Chun, 2001; Rundell, 1999; Sun & Chang, 2012). 
+As an exception to the research focus on dictionary use, Stapleton (2010) reported a case study on the 
+writing processes of a 23-year old graduate student in a 4000-word L2 essay-writing task. The study 
+found that web search took up 24% of the total task time, proving itself an indispensable part of 
+computer-assisted writing. Nevertheless, the actual effects of web search on L2 writing await further 
+research. The present study aimed to examine both dictionary use and web search in computer-assisted L2 
+writing and more importantly, to relate these activities to writing pauses, writing fluency and text quality. 
+The Present Study 
+Using Inputlog 4.0 and Camtasia 6.0 to record the writing process, this study set out to investigate the 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 83 
+pausing behavior of 24 Chinese EFL writers in a computer-aided argumentative writing task. It 
+specifically examined how writing skill affected pausing in the prewriting and composing stages. 
+Following the pause threshold in previous studies (Spelman Miller, 2000, 2005; Sullivan & Lindgren, 
+2002; Wengelin, 2002), pause was defined as inactivity of two seconds or longer in any window, 
+including the word processor. The study attempted to address the following research questions: 
+1. Do skilled and less-skilled EFL writers differ in their writing time allocation, pausing patterns, 
+writing fluency, and text quality?  
+2. How do pausing patterns relate to writing fluency and to text quality? 
+3. How do web search and dictionary use relate to the pausing patterns of both skilled and less-
+skilled EFL writers? 
+METHOD 
+Participants 
+As computer experience may substantially affect strategy use in computer-assisted writing, 24 students 
+with at least four years of computer experience were recruited from a pool of 116 first-year full-time 
+undergraduate science majors at a Chinese university. The students were selected according to their 
+writing scores in the English placement test they took upon entering college. The test was modeled on 
+CET 4, a nation-wide English proficiency test given biannually for college students across China. The test 
+has an essay writing section with a total score of 15 points. Guided by the rating rubric for CET 4 writing 
+(See Appendix), experienced CET 4 writing raters holistically marked the students’ writings. Eventually, 
+11 students who scored 12 or above were selected to form the skilled group and 13 students who scored 
+eight or below formed the less-skilled group. For the qualitative part of the study, 10 participants, five 
+from each group, were selected on a voluntary basis and their writing processes, as shown by the 
+Camtasia video, were examined for web search and dictionary use.  
+All the participants were 17 to 19 years old at the time of data collection and they had been learning 
+English as a foreign language in the Chinese context for a minimum of six years. Generally, the 
+participants had few opportunities to use English for communicative purposes outside the classroom and 
+their English writing practice was largely limited to classroom instruction and assignments. To better 
+motivate the participants, the researchers promised to provide individual feedback on their writing 
+problems after the study. 
+Writing Task 
+The writing task was to develop an argumentative essay on whether drunk drivers should be imprisoned 
+for their first offense. This topic was chosen because just before this study, there had been a serious drunk 
+driving case in town, in which five people were killed and four injured. The case was widely covered by 
+local and national media and aroused great social concern. In addition, before the study, the participants 
+had not been exposed to classroom instruction on English argumentation. 
+Procedures 
+All the data were collected in the computer lab where the participants regularly had their classes. They 
+were told to write on the computer and to access the Internet and local resources on the computer 
+whenever they felt necessary. Other resources, however, were prohibited to preclude activities that could 
+not be captured by Inputlog or Camtasia (e.g., pen-and-paper drafting, paper dictionary consultation, 
+and/or peer discussion). 
+The participants were told to take as much time as they needed to complete an essay of whatever length 
+they liked. To avoid possible misunderstanding, all the instructions were given in the participants’ L1, 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 84 
+Mandarin Chinese.  
+Prior to data collection, Inputlog and Camtasia were installed on the desktop computers and set on stand 
+by. After showing the topic and task instructions on the projection screen, the teacher started Camtasia 
+recording on all desktops from the monitoring computer. At the same time, the participants were asked to 
+activate Inputlog by clicking the “Start Recording” button and click the “Stop Recording” button when 
+they finished, which marked respectively the beginning and ending of the writing session. After the 
+writing event, all the participants were informed of the Inputlog and Camtasia recording procedures and 
+signed the agreement of participation on a voluntary basis. 
+Quantitative Data Coding and Analysis 
+Identifying Pauses at the Prewriting and Composing Stages 
+The Inputlog and Camtasia files of each writing session were examined to identify the prewriting and 
+composing stages for each participant. The prewriting stage is routinely defined as the generation and 
+arrangement of ideas before a writer starts drafting. In this study, it was operationalized as the period that 
+spanned from the beginning of a writing event (the initial logging of Inputlog) to the logging of the first 
+letter of any complete sentence other than a restatement of the given topic. A restatement of the topic was 
+not recognized as the beginning of the composing stage because most participants typed the topic in the 
+word processor as a first step, followed by an observable period of inactivity or web browsing for topic-
+related information. The composing stage was defined as the period following the prewriting stage up to 
+the end of the writing event.  
+Pause frequency and pause duration were examined both globally in each writing event and separately for 
+the prewriting and composing stages. To make pauses at the two stages comparable, pause frequency at 
+each stage was standardized to the number of pauses in a 10-minute segment by following the formula 
+below: 
+Stage pause frequency = (Raw Number of Pauses/ Stage Length (seconds)) * 600(seconds) 
+Computing Writing Fluency and Scoring Texts 
+Writing fluency was calculated as the number of words produced per minute (Chenoweth & Hayes, 2001) 
+in pen-and-paper settings. Although letter was an easier unit to calculate in keyboard writing, writing 
+fluency was denoted by the number of words produced per minute in this study to align with possible 
+findings from previous studies in pen-and-paper settings and more importantly, to relate to text quality. 
+Two experienced writing raters independently scored the final texts and the rating rubric for CET 4 was 
+provided to both raters (see Appendix). The interrater reliability using Cronbach’s alpha was performed to 
+check consistency between the two raters and it reached .94. The two scores for each text were then 
+averaged and used as the final text score for further analysis. 
+Statistical Analysis 
+As nonparametric tests do not require any particular distribution of the data and the current study has a 
+small sample size, a series of Mann-Whitney U tests were run to check if the two groups differed 
+significantly and correlations were computed to see how text score related to pausing patterns and writing 
+fluency.  
+Qualitative Data Coding and Analysis 
+The Camtasia video data were designed to supplement the Inputlog data on the writers’ two specific 
+activities, web search and dictionary use. Web search was defined as the participants’ engagement in 
+accessing web information for task completion. Each web search was identified by being preceded and 
+followed by another website or window. One dictionary use referred to one look-up entry in the 
+dictionary during the writing event. Dictionary use was further categorized into Mandarin-English 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 85 
+dictionary use (hereafter referred to as L1-L2 dictionary use) and English-Mandarin dictionary use 
+(hereafter referred to as L2-L1 dictionary use). L1-L2 dictionary use referred to the student writer’s 
+behavior of inputting a Chinese item to look for its corresponding English expression and L2-L1 
+dictionary use referred to the behavior of looking up an English item for its Chinese meaning or usage.  
+As a measure of reliability, three researchers first discussed the coding procedures for web search and 
+dictionary use, and two of them coded the video data for one participant as a trial run. Differences in 
+coding were then discussed and resolved. By dividing each video file into clips of 10 minutes, the two 
+researchers coded the remaining 9 student writers separately and the interrater reliability reached .87. 
+Then differences were resolved for each 10-minute segment through discussion and full agreement was 
+reached. 
+RESULTS 
+Writing Time Allocation 
+Table 1 summarizes the descriptive statistics for the participants’ time allocation throughout the writing 
+event and separately for the prewriting and composing stages. As the sample size for this study was small 
+and the data spread out widely, the means did not suggest a good measure of the central tendency and 
+some SDs were large. Therefore, mean ranks instead of means were compared in Mann-Whitney U tests 
+to examine group differences. A Mann-Whitney U test on the writing event time showed that the two 
+groups did not differ significantly, (U = 54, z = -1.01, p = .31 >.05, r = .21), suggesting that the two 
+groups spent similar amount of time on the task.  
+Table 1. Writing Time for Skilled and for Less-Skilled Groups 
+ Skilled group (n = 11) Less-skilled group (n = 13) 
+ Mean SD Mean SD 
+Event time* 3962 496 3774 563 
+Prewriting time   479 157   943 393 
+Composing time 3483 487 2831 421 
+*Note: time shown in seconds  
+Table 1 also shows that the two groups allocated different amounts of time to different writing stages. The 
+mean of the prewriting time was 6’59” (479 seconds) for the skilled group and 15’43” (943 seconds) for 
+the less-skilled group, but the skilled group had longer composing stages (Mean =3483, SD = 487) than 
+the less-skilled group (Mean= 2831, SD = 421). The Mann-Whitney U tests on the prewriting time and 
+the composing time confirmed that, compared with the less-skilled group, the skilled group allocated 
+significantly less time to prewriting (U = 25, z = -2.69, p = .007 < .05, r = .55) but significantly more time 
+to composing (U = 20.5, z = -2.96, p = .003 < .05, r = .60). 
+This suggests that, although skilled and less-skilled L2 writers spent a similar amount of time on the task, 
+they allocated a significantly different amount of time to their prewriting and composing stages. In 
+general, the less-skilled writers experienced longer prewriting stages while the skilled writers had longer 
+composing stages. 
+Pausing Patterns 
+Table 2 summarizes the pause frequencies and durations of the two groups throughout the writing event. 
+Mann-Whitney U tests suggest the two groups did not differ significantly in terms of pause frequency (U 
+= 64, Z = -.44, p = .66 > .05, r = .09) or pause duration (U = 45.5, z = -1.51, p = .13 > .05, r = .31). 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 86 
+Table 2. Pause Frequencies and Durations for Skilled and for Less-skilled Groups 
+ Skilled group (n = 11) Less-skilled group (n = 13) 
+ Mean SD Mean SD 
+Total pause frequency 39.4 6.4 40.9 7.5 
+Total pause duration   7.6 2.2   6.3 1.0 
+*Note: frequency is shown as number of pauses of two and more seconds; duration is shown in seconds.  
+The pausing behavior was further examined at the two functional stages and the descriptive statistics were 
+summarized in Table 3. Mann-Whitney U tests suggest that at the prewriting stage, the skilled group 
+paused significantly less frequently than the less-skilled group (U = 35, z = -2.12, p = .03 < .05, r = .43) 
+and potentially longer than the less-skilled group as the group difference in pause duration approached the 
+significance level, (U = 38.5, z = -1.91, p = .056, r = .39). In the composing stage, the two groups did not 
+display any significant difference in pause frequency (U = 64.5, z = -.41, p = .69 > .05, r = .08) or pause 
+duration (U = 51.5, z = -1.16, p = .25 > .05, r = .24).  
+Table 3. Prewriting and Composing Pause Frequencies and Durations 
+ Skilled group (n = 11) Less-skilled group (n = 13) 
+ Mean SD Mean SD 
+Prewriting pause frequency 27.5 11.0 35.5 8.3 
+Prewriting pause duration 15.5 13.8   7.2 2.9 
+Composing pause frequency 41.0   7.2 42.3 8.0 
+Composing pause duration 7.2   2.0   6.1 1.1 
+*Note: frequency is shown as number of pauses of two and more seconds; duration is shown in seconds. 
+Writing fluency, text quality and pausing 
+Table 4 presents the means and standard deviations of writing fluency and text score. Mann-Whitney U 
+tests suggest that the skilled group wrote significantly more fluently than the less-skilled group (U = 37, Z 
+= -2.00, p = .047 < .05, r = .41) and produced significantly better final texts (U = 31, Z = -2.36, p = .02 
+< .05, r = .48).  
+Table 4. Writing Fluency and Text Score for Skilled and for Less-skilled Groups 
+ Skilled group (n = 11) Less-skilled group (n = 13) 
+ Mean SD Mean SD 
+Writing Fluency 3.9 1.1 3.2 0.7 
+Text Score 9.5 2.4 7.2 1.8 
+Two-tailed Pearson Correlation Coefficients were computed to assess the relationship between writing 
+fluency, text score and pausing statistics. The results suggested that text scores correlated positively with 
+prewriting pause duration (r = .43, N = 24, p < .05) and composing time (r = .57, N = 24, p < .05) but 
+correlated negatively with prewriting time (r = -.42, N = 24, p < .05). In addition, the positive correlation 
+between text score and writing fluency approached the significance level, (r = .39, N = 24, p = .06). To 
+sum up, increases in prewriting pause duration and writing fluency result in increases in text score while 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 87 
+increases in prewriting time correlated with decreases in text score. 
+Web Search and Dictionary Use 
+Web search and dictionary use were examined respectively at the prewriting and composing stages. The 
+skilled and less-skilled writers displayed very different priorities and strategies in the two stages, as 
+indicated by both how frequently and for what purpose the participants departed from the word processor. 
+Three observations were made. First, the two groups demonstrated different language preference in web 
+use, with the skilled group having engaged in more L1 web search while the less-skilled group, more L2 
+web search. Table 5 shows, in the prewriting stage, the ratio of L2/L1 web search for the skilled group 
+was two to eight and the corresponding ratio for the less-skilled group was 29 to 19. In the composing 
+stage, although both groups accessed L1 websites 13 times, the less-skilled group accessed L2 websites 
+51 times while the skilled group did not access any L2 website. 
+Table 5. L2 and L1 Web Search for Skilled and Less-skilled Writers 
+ Skilled Writers (n=5) Less-skilled Writers (n=5) 
+Prewriting L2 web   2 29 
+Prewriting L1web   8 19 
+Composing L2 web   0 51 
+Composing L1 web 13 13 
+ 
+Second, the two groups displayed different degrees of dependence on web information. As shown in 
+Table 5, during the prewriting stage, the skilled group initiated fewer web searches, but exhibited more 
+focused reading of the websites as shown by the Camtasia video. In contrast, the less-skilled group 
+featured more web searches, more websites visited, quick shifts between different websites and 
+consequently, less focused reading of web content. In the composing stage, the skilled group mainly 
+focused on text production in the word processor, with occasional reference to previously visited L1 
+websites for specific information. However, the less-skilled group engaged in new searching efforts and 
+displayed observable writing anxiety by their quick shifts between different websites and the word 
+processor, focusing neither on website reading nor on writing in the word processor. 
+Take the Skilled Writer One (hereafter referred to as S1) and the Less-skilled Writer Four (hereafter 
+referred to as LS4) to exemplify the differences between the two groups. S1, whose prewriting stage 
+spanned 13’21” (801 seconds), visited five websites in total, two in English and three in Mandarin. After 
+the writing event began, following some long pauses in the word processor, S1 used Drunk drivers should 
+be imprisoned on their first offense as the keywords to search in Google. He quickly decided on one link, 
+clicked it and stayed on it for 5’1” (301seconds) to do detailed reading, as shown by his occasional 
+highlighting some of the sentences. For his second search, S1 used Mandarin keywords on drunk driving 
+and displayed attempts to access three links. For the first link, when opened, he saw it was a video clip 
+and immediately turned it off. Then he tried a second link, but the website did not pop up quickly enough 
+before he turned it off. He then went back to the video-clip link that he had accessed earlier. Without 
+watching the video clip, he directly scrolled down for the written description for 23 seconds and then 
+resumed the word processor for focused writing, marking the end of his prewriting stage. In this stage, S1 
+referred to an L2-L1 dictionary once. In his composing stage, S1 did not initiate any new web search but 
+did refer back to the L1 web, leaving this stage focused on text production, with frequent references to L1 
+and L2 dictionaries.  
+LS4, by contrast, initiated six new web searches, and used the web 16 times in the prewriting stage, which 
+lasted for 23’53’’ (1,433 seconds). First, he searched in English Drunk drivers should be imprisoned on 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 88 
+their first offense on Baidu, a popular search engine in China. With a glance over the many links on the 
+screen, he scrolled down to the searches relevant option at the bottom of the webpage and clicked drunk 
+drivers to launch a new search. Again, he did not access any website but went to searches relevant. This 
+time, he clicked Compositions on drunk driving, for which he still did not access any website before 
+turning it off. After a quick and unproductive shift on the word processor, he used Drunk drivers should 
+be imprisoned on their first offense as keywords to search in Google. Interestingly, he chose the same 
+website as S1, but he closed it 10 seconds later in an attempt to access the translated version of the same 
+website, which unfortunately did not pop up. Thus, LS4 went back to access the English website again 
+and spent the next 3’18” (198 seconds) on about one third of the webpage, which S1 seemed to have 
+covered more thoroughly. During this reading, LS4 referred to L2-L1 dictionary nine times for unknown 
+words on this website. This was only part of his web use in the prewriting stage. In the composing stage, 
+LS4 accessed L2 websites six times and an L1 website once, without slowing down to read any of them. 
+For dictionary use, he used his L1-L2 dictionary 21 times and his L2-L1 dictionary 17 times. 
+Consequently, the composing stage of LS4 frequently broke down due to shifts back and forth between 
+different websites, dictionaries and the word processor.  
+Finally, both groups displayed heavy reliance on dictionaries during the writing event, indicating that 
+language frequently posed problems for L2 writers.  As shown in Table 6, in the prewriting stage, the 
+skilled group consulted L2-L1 dictionaries five times and L1-L2 dictionaries seven times. The 
+corresponding figures for the less-skilled group were 26 and 10 respectively. The composing stage 
+featured frequent dictionary consultation by both groups. The skilled group referred to L2-L1 dictionaries 
+28 times and L1-L2 dictionaries, 74 times, while the numbers for the less-skilled group were 45 and 105 
+respectively.  
+Table 6. Dictionary Use for Skilled and for Less-skilled Writers 
+ Skilled Writers (n=5) Less-skilled Writers (n=5) 
+Prewriting L2-L1 Dictionary 5 26 
+Prewriting L1-L2 Dictionary 7 10 
+Composing L2-L1 Dictionary 28 45 
+Composing L1-L2 Dictionary 74 105 
+*Note: L2-L1 Dict.: English-Mandarin Dictionary Use; L1-L2 Dict.: Mandarin-English Dictionary Use. 
+Nevertheless, the Camtasia video suggests that the two groups had different strategies for their dictionary 
+use. First, the skilled writers bypassed the language barrier in the prewriting stage by taking advantage of 
+L1 websites and thus relied less on dictionaries while the less-skilled writers had to depend on L2-L1 
+dictionaries for L2 website reading. In this stage, the less-skilled group referred to L2-L1 dictionaries 26 
+times, far outnumbering the five times of the same kind for the skilled group. Second, in the composing 
+stage, the skilled writers exhibited a tendency to look up words or short expressions. In contrast, the less-
+skilled writers seemed to be hoping that the “whole text translation” function, supported by some online 
+dictionaries, would do the language magic. The less-skilled group typically typed long strings of Chinese 
+characters such as complete Chinese sentences or even a Chinese paragraph for translation. Finally, the 
+two groups differed in their dictionary consultation process. The skilled writers decided quickly on 
+options suggested by a dictionary. As Camtasia video reveals, they also used dictionaries for spelling 
+check and collocation check after they had produced the right expressions in the word processor. 
+Consequently, the dictionary-consultation process of this group was brief and efficient. In contrast, the 
+less-skilled group exhibited difficulties in deciding among the options suggested in L1-L2 dictionaries. 
+These student writers, more often than not, found a possible English equivalent to a Mandarin expression 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 89 
+first, and used it as a new look-up entry in the L2-L1 dictionaries for its possible usages, which resulted in 
+frequent and time-consuming dictionary consultations for this group. 
+DISCUSSION 
+The analyses of writing time allocation, pauses, writing fluency, final text, and extra writing activities 
+reveal interesting differences in the writing behavior of both the skilled and less-skilled EFL writers in 
+computer keyboard writing settings.  
+Writing Time Allocation 
+What appears striking and unexpected in this study is that, although the two groups spent similar amounts 
+of time on the writing event, the less-skilled writers allocated significantly more time to the prewriting 
+stage than the skilled writers. Compared with previous findings in pen-and-paper L2 writing studies that 
+experienced writers spent more time on prewriting planning than novice writers (de Larios, Manchón, 
+Murphy, & Marín, 2008; de Larios, Marín, & Murphy, 2001; Sasaki, 2000, 2004), this study suggests an 
+almost reversed time allocation pattern for prewriting and composing between the skilled and less-skilled 
+writers, showing that time allocation in computer-assisted L2 writing is potentially different from that in a 
+pen-and-paper setting (Silva, 1993).  
+There could be two reasons for the observed time allocation pattern. First, the less-skilled writers could 
+have realized the importance of clear planning for good writing and strived hard for it by engaging in 
+extensive online searching. However, this goal was hindered by their lack of ability to make a choice over 
+different websites and to engage in focused reading once a choice is made. Another possibility is that the 
+less-skilled writers may lack control over information mining on the Internet and become information-
+drowned with neither efficient screening of websites nor proper management of web information.  
+Whatever the case may be, the fact that the prewriting time negatively correlated with writing fluency 
+suggests that although the less-skilled group spent significantly more time in the prewriting stage, this 
+time was not rewarded in the composing stage, as demonstrated by their less focused text production in 
+the word processor, quick shifts between different windows and observable writing blocks. In sum, the 
+less-skilled L2 writers may need more guidance on management of writing resources in an electronic 
+environment to make their prewriting stage more rewarding and their composing stage more productive. 
+Pausing, Writing Fluency, and Text Quality 
+Another interesting finding of this study is how pauses might be affected by writing skill. While 
+confirming the previous finding that writing skill did not affect the overall pause frequency and duration 
+(Schumacher et al., 1984), this study found that writing skill did affect pausing in different writing stages. 
+The skilled writers paused longer and less frequently in the prewriting stage than the less-skilled group, 
+but the two groups were not statistically different in either pause frequency or pause duration in the 
+composing stage. The positive correlation between the prewriting pause duration and text score further 
+suggests that L2 writers may benefit from long pauses in the prewriting stage (Beauvais et al., 2011).  
+The Camtasia videos showed that long pauses in the prewriting stage frequently involved 
+conceptualization and planning on the global level and focused reading of web information, which 
+produced positive effects in the composing stage. In the composing stage, the skilled group focused on 
+text production on the word processor with frequent references to dictionaries for the translation of ideas; 
+in contrast, the less-skilled group frequently departed from the word processor for new search efforts, 
+showing insufficient global planning in their prewriting stage. This was also evidenced by their low 
+writing fluency and less conceptually developed final texts. The correlation between writing fluency and 
+text score confirms that writing fluency may be an important predictor of writing quality for university 
+students (Ransdell & Levy, 1996; Thorson, 2000). 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 90 
+Two extra writing activities—web search and dictionary usage—help explain the relationship between the 
+pausing patterns, writing fluency, and text score. By engaging in more focused reading of online 
+resources and the conceptualization of ideas, the skilled writers paused longer but less frequently in the 
+prewriting stage. This led to a more focused composing stage with less dependence on web resources, 
+displaying short and frequent pauses in text production for local translation problems. However, the less-
+skilled writers engaged in excessive web search and dictionary use in both stages, and such excessive 
+engagement may have consumed much of the attentional resources that would otherwise have been 
+available for global planning of content or organization. This resulted in a fragmented composing stage, 
+marked by frequent departures from the word processor for web search or dictionary use, and 
+consequently, short and frequent pauses in this stage.  
+This result confirms previous findings that less-skilled L2 writers engaged in less global planning and 
+their low-level linguistic concerns may overload their working memory (de Larios et al., 2001; Jones & 
+Tetroe, 1987; Silva, 1993). The study also suggests pausing as a strategy for the skilled L2 writers to 
+manage the competing demands of composing in the prewriting stage (de Beaugrande, 1984; Spelman 
+Miller, 2005). One implication here for writing instruction is that L2 writers need to be taught about the 
+practical goals of each writing stage and the possible means of meeting these goals so as to avoid 
+cognitively overloading the working memory in the writing process.  
+Web Search and Dictionary Use 
+The participants’ use of websites both in L1 and in L2 shows that the two groups may have had different 
+concerns and/or priorities guiding their language preference in web usage. For skilled EFL writers, web 
+searches were aimed at information mining for global conceptualization at the prewriting stage. L1 
+websites may help meet this purpose by freeing up attentional resources from L2 language processing. By 
+contrast, the less-skilled EFL writers tried to search L2 websites for some ready-made L2 texts online that 
+they could piece together to make their own compositions. For this purpose, this group strived to read L2 
+websites with frequent use of L2-L1 dictionaries, displaying great concern over language priming even in 
+the prewriting stage. As Lynch and McLean (2000) suggest that L2 proficiency level may mediate learner 
+priority over form or content in oral production, the current study suggests a similar mediating function of 
+writing ability on learner priority over content or form in written production, with skilled writers focusing 
+on content planning in L1 and less-skilled writers struggling with their L2 for language priming.  
+There have been both theoretical speculations and empirical findings that inhibition of conceptual 
+processing occurs more often in L2 than in L1 writing (Kellogg, 1994; McCutchen, 1996; Stevenson, 
+2005). In this study, by using L1 web sites, the skilled writers achieved conceptualization in the 
+prewriting stage, leaving the composing stage more focused on the transformation of ideas. In contrast, 
+the less-skilled writers tried to access and read L2 websites in the prewriting stage and repeatedly 
+launched new web searches for topic-related information in the composing stage, suggesting that this 
+group still confronted macro-conceptual issues in the composing stage. Although these students spent 
+more time on the prewriting stage, the time spent was not awarded fruitfully as was demonstrated by their 
+fragmented and unproductive composing stage. In addition, their language concern early in the prewriting 
+stage was not rewarded in the final text.  
+While Lay (1982) reported that more L1 use in L2 writing resulted in better text, it remains unclear what 
+“more L1 use” actually means (van Weijen, van den Bergh, Rijlaarsdam & Sanders, 2009, p. 236). This 
+study suggests that L1 use in the prewriting stage may help student writers bypass L2 language problems 
+and concentrate on their conceptualization of ideas. The fact that the skilled group benefited from their 
+conceptualization in L1 suggests that L2 writers should concentrate first on “how to make meaning” 
+(Zamel, 1983, p. 180). This lends further support to previous findings that L1 may have a role to play in 
+L2 writing to make it less cognitively loaded and more conceptually developed (Cohen & Brooks-Carson, 
+2001; Knutson, 2006; Woodall, 2002). Although the literature does not provide a consensus on whether 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 91 
+L2 writers benefit more by planning in their L1 or their L2 (van Weijen et al., 2009; Wang & Wen, 2002), 
+the fact that the skilled writers had a way with conceptualization in L2 writing while the less-skilled were 
+striving for a method testifies to the scaffolding role of L1 in L2 writing.   
+The finding that both groups relied heavily on L1-L2 dictionaries in the composing stage shows language 
+continues to pose problems for L2 writers. Previous studies suggest that attention to lower-level linguistic 
+demands during L2 writing may take up a large amount of the writer’s cognitive capacity, leaving less 
+available for higher-level processing like content, audience and style (Scott, 1996; Whalen & Ménard, 
+1995). This proves particularly true with the less-skilled writers in the current study, who encountered 
+language difficulties early in the prewriting stage, resulting in less conceptualized writing plans. Moving 
+to the composing stage, this group lacked sufficient L2 knowledge to decide among the options in the 
+dictionaries, resulting in lengthy and inefficient dictionary-referencing process. The skilled group, 
+nevertheless, stayed more focused on the transformation of ideas in the composing stage and displayed 
+varied and efficient dictionary use.  
+This finding confirms that low-proficiency L2 writers were more occupied with attempts to compensate 
+for interlanguage deficits (de Larios, Manchón, & Murphy, 2006) and this could, to a large extent, inhibit 
+conceptualization at the global level. One pedagogical implication here is that bilingual dictionaries, 
+though a necessary part of L2 writing, is not always beneficial (Chon, 2008) and good timing for 
+dictionary use could be an important factor in limiting excessive concern over language in L2 writing. 
+CONCLUSION 
+Through Inputlog and Camtasia, the present study explored the writing process of Chinese EFL writers at 
+the skilled and less-skilled levels and in the prewriting and composing stages. It has yielded several 
+important findings. First, when writing in an electronic environment, less-skilled writers may spend more 
+time than skilled writers in the prewriting stage. The negative correlation between the prewriting time and 
+text quality suggests that online resources may pose potential challenges for L2 writers with information 
+mining and management. L2 writers need to better manage writing resources in the different stages of 
+writing so as not to overload their working memory. The positive correlation between prewriting pause 
+duration and text quality suggests that L2 writers are more likely to benefit from focused 
+conceptualization and reading activities in the prewriting stage. Within the current writing theory and 
+practice, this study suggests that computer-assisted L2 writing has placed more competing demands of 
+attentional resources on the working memory and that L2 writers need strategic plans to meet these 
+demands.  
+Second, low-level linguistic concerns in the early stages of writing may distract L2 writers’ attention from 
+global planning and result in fragmented composing stages and less-conceptually developed final texts. 
+As writing is primarily about making meaning (Zamel, 1983), L2 writers need to meet this primary goal 
+first. The “one at a time” problem-solving strategy may help avoid overloading the working memory with 
+both conceptual planning and linguistic concern at the same time.  
+Third, this study methodologically integrates input logging and screen recording in studying the L2 
+writing process, showing that this method promises unobtrusive inquires into the online writing process 
+both quantitatively and qualitatively. As L2 text quality may strongly correlate with efficiency of writing 
+strategies (Whalen & Ménard, 1995) and that writing strategies can be promoted to a more conscious 
+level to guide writing, the replay of the input log and screen video data may hold new pedagogical 
+possibilities for promoting strategy use, learner self-assessment, metacognitive awareness, and learner 
+autonomy in L2 writing. 
+LIMITATIONS AND SUGGESTIONS 
+First, findings of this exploratory study may not be generalized to other EFL writers in vastly different 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 92 
+settings. As Prior (1998) explicitly points out, the writing process is “locally situated, extensively 
+mediated, deeply laminated and highly heterogeneous” (p. 275), factors like the participants’ background, 
+motivation, anxiety, engagement in the task, task characteristics, and computer lab facilities may all have 
+contributed differently to what was found in this study. Future research may take these factors into 
+account and investigate to what extent or under what circumstances the findings of this study can be 
+generalized. 
+A second concern is that pause is defined in this study as an inactive period of two seconds and longer in 
+multiwindow settings. While the data permit a comprehensive view of the genuine pausing patterns of the 
+writing event, this study did not look into pauses that happened only in the word processor, making it 
+difficult to align findings directly with previous pausological studies. Future studies could distinguish 
+between pauses in the word processor and those in other windows.  
+Finally, as pause threshold in this study was set at two seconds, a relatively inclusive but short threshold, 
+the study did not examine how pause frequency and pause duration relate to specific cognitive activities 
+in the writing process hierarchically. Future studies could vary pause thresholds to examine the 
+correlation between the pausing behavior and the possible cognitive activities involved. 
+ 
+NOTE: 
+1. The basis of the Keytrap program was developed by IBM, Brussels. Dr. H. Pauwels (University of 
+Antwerp, UFSIA) updated the program and wrote the necessary application programs. For a detailed 
+description of the program, see Van Waes and Schellens (2003).  
+ 
+APPENDIX. Rating Rubric for CET4 Writing 
+Points Organization Content Language 
+2 No focus; disorganized Ideas random, 
+inappropriate or illogical 
+Incomplete or incorrect sentences; 
+severe errors that affect meaning 
+5 Attempts to focus; minimal 
+organization 
+Ideas mixed; few 
+transitions 
+Monotonous sentence structures; 
+numerous errors that interfere with 
+meaning 
+8  Single focus; some lapses 
+or flaws in organization 
+Ideas not well supported 
+or elaborated 
+Little variety in syntax; some 
+evident errors 
+11  Single focus; logical 
+organization  
+Ideas appropriate and 
+varied 
+Varied sentence structure; few 
+errors 
+14  Single, distinct focus; 
+logical progression of ideas 
+Details effective, vivid, 
+explicit and pertinent 
+Very few, if any, errors 
+Note: This rubric assigns each text into one of the five levels above, and minor deviations from the description for each level may 
+result in the loss or gain of one point. Thus, a perfect score is 15 and the lowest score is zero.  
+ 
+ACKNOWLEDGEMENTS 
+The research reported in this paper was funded by the Youth Project of Humanities and Social Sciences, 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 93 
+Ministry of Education, China (No. 14YJC740095). The authors would like to thank the reviewers and 
+LLT editors for their insightful suggestions, which help improve the original manuscript. Our thanks also 
+go to the students who kindly agreed to join the study. 
+ 
+ABOUT THE AUTHORS 
+Cuiqin Xu is an associate professor in the Department of Applied Foreign Language Studies, Nanjing 
+University. She holds a PhD in applied linguistics and her research interests are L2 writing process, 
+second language acquisition and computer-assisted language learning in EFL classrooms. 
+E-mail: cqxu@nju.edu.cn 
+Yanren Ding is a professor of applied linguistics in the Department of English, Nanjing University. His 
+research interests include EFL writing, EFL classroom studies and second language acquisition. 
+E-mail: yrding@nju.edu.cn 
+ 
+REFERENCES 
+Ackerman, P. L. (2003). Aptitude complexes and trait complexes. Educational Psychologist, 38, 85–93. 
+Alves, R., Castro, S. L., & Olive, T. (2008). Execution and pauses in writing narratives: Processing time, 
+cognitive effort and typing skill. International Journal of Psychology, 43, 469–479.  
+Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. A. Bower (Ed.), The psychology of 
+learning and motivation (pp. 47–89). San Diego, CA: Academic Press. 
+Beauvais, C., Olive, T., & Passerault, J. (2011). Why are some texts good and others not? Relationship 
+between text quality and management of the writing processes. Journal of Educational Psychology, 103, 
+415–428. 
+Camtasia 6.0 [Computer software]. TechSmith© Cooperation.  
+Chenoweth, N. A., & Hayes, J. R. (2001). Fluency in writing: Generating text in L1 and L2. Written 
+Communication, 18, 80–98. 
+Chon, Y. V. (2008). The electronic dictionary for writing: A solution or a problem? International Journal 
+of Lexicography, 22(1), 23–54. 
+Chun, D. M. (2001). L2 reading on the web: Strategies for accessing information in hypermedia, 
+Computer Assisted Language Learning, 14(5), 367–403. 
+Cohen, A. D., & Brooks-Carson, A. (2001). Research on direct versus translated writing: Students’ 
+strategies and their results. The Modern Language Journal, 85, 169–188. 
+de Beaugrande, R. 1984. Text production: Toward a science of composition. Norwood, NJ: Ablex. 
+DeKeyser, R. (2001). Automaticity and automatization. In P. Robinson (Ed.), Cognition and second 
+language instruction (pp. 125–151). Cambridge, UK: Cambridge University Press. 
+de Larios, R. J., Manchón, R. M., Murphy, L., & Marín, J. (2008). The foreign language writer’s strategic 
+behavior in the allocation of time to writing processes. Journal of Second Language Writing, 17, 30–47. 
+de Larios, J. R., Manchón, R. M., & Murphy, L. (2006). Generating text in native and foreign language 
+writing: A temporal analysis of problem-solving formulation processes. The Modern Language Journal, 
+90(1), 100–114. 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 94 
+de Larios, R. J.,  Marín, J. & Murphy, L. (2001). A temporal analysis of formulation processes in L1 and 
+L2 writing. Language Learning, 51, 497–538. 
+Hall, C. (1990). Managing the complexity of revising across languages. TESOL Quarterly, 24, 43–60. 
+Jones, S., & Tetroe, J. (1987). Composing in a second language. In A. Matsuhashi (Ed.), Writing in real 
+time (pp. 34–57). Norwood, NJ: Ablex. 
+Kellogg, R. T. (1994). The psychology of writing. Oxford, UK: Oxford University Press. 
+Kellogg, R. T. (1996). A model of working memory in writing. In C. M. Levy & S. Ransdell (Eds.), The 
+science of writing: Theories, methods, individual differences and applications (pp. 57–72). Mahwah, NJ: 
+Erlbaum. 
+Knutson, E. M. (2006). Thinking in English, writing in French. The French Review, 80(1), 88–109. 
+Kormos, J. (2012). The role of individual differences in L2 writing. Journal of Second Language Writing, 
+21(4), 390–403. 
+Lay, N. D. S. (1982). Composing processes of adult ESL learners: A case study. TESOL Quarterly, 16(3), 
+406. 
+Leijten, M., & Van Waes, L. (2006). Inputlog: New perspectives on the logging of on-line writing 
+processes in a Windows environment. In K. P. H. Sullivan & E. Lindgren (Eds.), Computer keystroke 
+logging: Methods and applications (pp. 73–93). Oxford, UK: Elsevier. 
+Levy, C.M., & Ransdell, S. (1996). The science of writing. Mahwah, NJ: Lawrence Erlbaum. 
+Lynch, T., & Mclean, J. (2000). Exploring the benefits of task repetition and recycling for classroom 
+language learners. Language Teaching Research, 4, 221–250. 
+Matsuhashi, A. (1981). Pausing and planning: The tempo of written discourse production. Research in the 
+Teaching of English, 15, 113–134. 
+Matsuhashi, A. (1987). Writing in real time: Modeling production processes. Norwood, NJ: Ablex. 
+McCutchen, D. (1996). A capacity theory of writing: Working memory in composition. Educational 
+Psychology Review, 8, 299–325. 
+Prior, P. A. (1998). Writing disciplinarity: A sociohistoric account of literate activity in the academy. 
+Mahwah, NJ: Lawrence Erlbaum. 
+Ransdell, S., & Levy, C. M. (1996). Working memory constraints on writing quality and fluency. In C. 
+M. Levy & S. Ransdell (Eds.), The science of writing: Theories, methods, individual differences, and 
+applications (pp. 93–105). Mahwah, NJ: Lawrence Erlbaum. 
+Robinson, P. (2005). Aptitude and second language acquisition. Annual Review of Applied Linguistics, 
+25, 45–73. 
+Rundell, M. (1999). Dictionary use in production. International Journal of Lexicography, 12(1), 35–53. 
+Sasaki, M. (2000). Toward an empirical model of EFL writing processes: An exploratory study. Journal 
+of Second Language Writing, 9, 259–291.  
+Sasaki, M. (2004). A multiple-data analysis of the 3.5-year development of EFL student writers. 
+Language Learning, 54, 525–582. 
+Schilperoord, J. (1996). The distribution of pause time in written text production. In G. Rijlaarsdam, H. 
+van den Bergh and M. Couzijn (Eds.), Current research in writing: Theories, models and methodology 
+(pp. 21–35). Amsterdam, The Netherlands: Amsterdam University Press. 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 95 
+Schumacher, G. M., Klare, G. R., Cronin, F. C., & Moses, J. D. (1984). Cognitive activities of beginning 
+and advanced college writers: A pausal analysis. Research in the Teaching of English, 18, 169–187. 
+Scott, V. M. (1996). Rethinking foreign language writing. Boston, MA: Heinle. 
+Scott, V. M., & New, E. (1994). Computer-aided analysis of foreign language writing processes. CALICO 
+Journal, 11, 77–90. 
+Silva, T. (1993). Toward an understanding of the distinct nature of L2 writing: The ESL research and its 
+implications. TESOL Quarterly, 27, 657–677. 
+Spelman Miller, K. (2000). Academic writers on-line: Investigating pausing in the production of text. 
+Language Teaching Research, 4, 123–148. 
+Spelman Miller, K. (2005). Second language writing research and pedagogy: A role for computer 
+logging? Computers and Composition, 22, 297–317. 
+Spelman Miller, K., Lindgren, E. & Sullivan, K. P. H. (2008). The psycholinguistic dimension in second 
+language writing: Opportunities for research and pedagogy using computer keystroke logging. TESOL 
+Quarterly, 42, 433–454. 
+Stapleton, P. (2010). Writing in an electronic age: A case study of L2 composing processes. Journal of 
+English for Academic Purposes, 9, 295–307. 
+Stevenson, M. (2005). Reading and writing in a foreign language: A comparison of conceptual and 
+linguistic processes in Dutch and English. Unpublished doctoral thesis. University of Amsterdam, The 
+Netherlands. 
+Stratman, J., & Hamp-Lyons, L. (1994). Reactivity in concurrent think-aloud protocols: Issues for 
+research. In P. Smagorinsky (Ed.), Speaking about writing (pp. 89–112). London, UK: Sage. 
+Sullivan, K. P. H., & Lindgren, E. (2002). Self-assessment in autonomous computer-aided L2 writing. 
+ELT Journal, 56, 258–266. 
+Sun, Y. & Chang, Y. (2012). Blogging to learn: becoming EFL academic writers through collaborative 
+dialogues. Language Learning & Technology, 16(1), 43–61. Retrieved from 
+http://llt.msu.edu/issues/february2012/sunchang.pdf. 
+Thorson, H. (2000). Using the computer to compare foreign and native language writing processes: A 
+statistical and case study approach. The Modern Language Journal, 84, 155–169. 
+Van Waes, L., & Schellens, P. J. (2003). Writing profiles: The effect of the writing mode on pausing and 
+revision patterns of experienced writers. Journal of Pragmatics, 35, 829–853. 
+Van Weijen, D., van den Bergh, H., Rijlaarsdam, G., & Sanders, T. (2009). L1 use during L2 writing: An 
+empirical study of a complex phenomenon. Journal of Second Language Writing, 18, 235–250. 
+Wang, W., & Wen, Q. (2002). L1 use in the L2 composing. Journal of Second Language Writing, 11, 
+225–246. 
+Wengelin, Å. (2002). Text production in adults with reading and writing difficulties. Ph.D. thesis, 
+Department of Linguistics, University of Gothenburg, Gothenburg, Sweden. 
+Wengelin, Å. (2006). Examining pauses in writing: Theory, methods and empirical data. In K. P. H. 
+Sullivan & E. Lindgren (Eds.), Computer keystroke logging: Methods and applications (pp. 107–130). 
+Oxford, UK: Elsevier. 
+Whalen, K., & Ménard, N. (1995). L1 and L2 writers’ strategic and linguistic knowledge: A model of 
+multiple-level discourse processing. Language Learning, 44, 381–418. 
+Cuiqin Xu and Yanren Ding Pauses in Computer-Assisted EFL Writing 
+ 
+Language Learning & Technology 96 
+Woodall, B. R. (2002). Language-switching: Using the first language while writing in a second. Journal 
+of Second Language Writing, 11, 7–28. 
+Zamel, V. (1983). The composing processes of advanced ESL students: Six case studies. TESOL 
+Quarterly, 17, 165–187. 
