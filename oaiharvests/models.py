@@ -24,7 +24,7 @@ class Repository(TimeStampedModel):
     def list_communities(self):
         return self.community_set.all()
 
-    def __unicode__(self):
+    def __str__(self):
         return self.name
 
     def get_absolute_url(self):
@@ -72,7 +72,7 @@ class Community(TimeStampedModel):
             keywords.extend(json.loads(i.element_data))
         return sorted(keywords)
 
-    def __unicode__(self):
+    def __str__(self):
         return self.name
 
     def get_absolute_url(self):
@@ -229,7 +229,10 @@ class Collection(TimeStampedModel):
     def get_absolute_url(self):
        return reverse('collection', args=[str(self.identifier)])
 
-    def __unicode__(self):
+    def __str__(self):
+        return self.name
+
+    def __str__(self):
         return self.name
 
 
@@ -351,9 +354,9 @@ class Record(TimeStampedModel):
         
         return None
 
-    def __unicode__(self):
+    def __str__(self):
         title = self.get_metadata_item('title')[0][0]
-        return '%s'%(title)
+        return '%s'%(title)    
 
     def get_absolute_url(self):
         return reverse('item', args=[str(self.id)])
@@ -366,7 +369,7 @@ class MetadataElement(models.Model):
     element_type = models.CharField(max_length=256)
     element_data = models.TextField(default='')
 
-    def __unicode__(self):
+    def __str__(self):
         return u'%s:%s'%(self.element_type, self.element_data)
 
     def get_absolute_url(self):
