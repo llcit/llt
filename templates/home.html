@@ -7,18 +7,20 @@
 <div class="row">
 	<div class="col-md-9">
 		<h5>Dorothy Chun and Trude Heift, Editors</h5>
-		<p class="small">Supported by the Center for Language & Technology and the National Foreign Language Resource Center (NFLRC) at the University of Hawaii, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>	
+		<p class="small">Supported by the Center for Language & Technology and the National Foreign Language Resource Center (NFLRC) at the University of Hawaii, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>
+		<h4 class="label-danger" style="color: white; padding: 0.6em; background-color: #D32F2F; font-weight: bold">Due to the ongoing COVID-19 outbreak, there might be delays in our usual operations. We apologize for the inconvenience this may cause and hope for your understanding.</h4>
 	</div>
 	<div class="col-md-3">
-		<div class="text-center panel panel-default">
-			<p style="font-size: 0.8em">Impact Factor {% if user.is_staff %}<a href="{% url 'update_factor' 1 %}">[update]</a> {% endif %}			
+		<div class="text-center panel panel-default" style="padding: 1.0em;">
+			<p style="font-size: 0.8em">Current Impact Factor {% if user.is_staff %}<a href="{% url 'update_factor' 1 %}">[update]</a> {% endif %}			
 			</p>
 
 
 			<p style="font-size: 1.5em">{{impact_factor}}</p>
-			<p style="font-size: 0.8em">In 2017, LLT was ranked #1 in the world among Open Access journals in Linguistics, and #3 in the world among Open Access journals in Education!
-			</br><a href="{% url 'page_slug_view' 'about' %}#rankings">see rankings</a>
+			<p class="text-left" style="font-size: 0.8em;">In 2017, LLT was ranked #1 in the world among Open Access journals in Linguistics, and #3 in the world among Open Access journals in Education!
+			
 			</p>
+			<div style="font-size: 0.9em"><a href="{% url 'page_slug_view' 'about' %}#rankings">see rankings</a></div>
 
 		</div>
 		
@@ -127,7 +129,7 @@
 </div>
 
 <!-- ROW 3 -->
-<div id="prev_issues" class="row">
+<div class="row" class="prev_issues">
 	<div class="col-md-12">
 		<h3 class="border-space">Previous Issues <a href="{% url 'previous_issues' %}" class="btn btn-small btn-link static_a_display">view all</a></h3>		
 	</div>			
@@ -144,7 +146,7 @@
 		</div>
 	{% endfor %}					
 </div>
-	
+
 {% endblock content %}
 		
 
