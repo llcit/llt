@@ -49,7 +49,7 @@ dt.metadata {
 }
 
 
-#footer { padding-top: 10px; text-align: center; }
+#footer { margin-top: 20px; padding-top: 0px; text-align: center;}
 
 .table-borderless td,
 .table-borderless th
