@@ -6,10 +6,32 @@
 {% block page_header %}
 <div class="row">
 	<div class="col-md-9">
-		<h5>Dorothy Chun and Trude Heift, Editors</h5>
-		<p class="small">Supported by the Center for Language & Technology and the National Foreign Language Resource Center (NFLRC) at the University of Hawaii, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>
-		<h4 class="label-danger" style="color: white; padding: 0.6em; background-color: #D32F2F; font-weight: bold">Due to the ongoing COVID-19 outbreak, there might be delays in our usual operations. We apologize for the inconvenience this may cause and hope for your understanding.</h4>
+		
+
+		
+		
+	
+		<!-- Announcements -->
+		
+		<div class="row">
+			<div class="col-md-12">
+				<h5>Dorothy Chun and Trude Heift, Editors</h5>
+				<p class="small">Supported by the Center for Language & Technology and the National Foreign Language Resource Center (NFLRC) at the University of Hawaii, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>
+			</div>
+			<div class="col-md-6">
+				<h4 class="border-space" style="font-weight: bold"><i class="fa fa-star" style="color: #7d0000;" aria-hidden="true"></i> First Annual Dorothy Chun Best Paper Award</h4>
+				<p>For the first year ever, the Dorothy Chun Best Paper Award is given to the author(s) of one paper from the previous year's volume. This year's awardee is ... drum roll please ...</p>
+			</div>
+			<div class="col-md-6">
+				<h4 class="border-space" style="font-weight: bold"><i class="fa fa-exclamation-triangle" style="color: #F4D03F;" aria-hidden="true"></i> COVID-19 Delays</h4>
+				<p>Due to the ongoing COVID-19 outbreak, there might be delays in our usual operations. We apologize for the inconvenience this may cause and hope for your understanding.</p>
+			</div>
+
+		</div>
+
+
 	</div>
+
 	<div class="col-md-3">
 		<div class="text-center panel panel-default" style="padding: 1.0em;">
 			<p style="font-size: 0.8em">Current Impact Factor {% if user.is_staff %}<a href="{% url 'update_factor' 1 %}">[update]</a> {% endif %}			
@@ -29,14 +51,13 @@
 {% endblock page_header %}
 
 {% block content %}
-
 <!-- ROW 1 -->
 <div class="row">
 	<!-- LEFT PANEL -->
 	<div class="col-md-9">
 		<div class="row">
 			<div class="col-md-12">
-				<h3><a href="{% url 'collection' latest.identifier %}" class="static_a_display" style="color: #000">{{ title.0 }} <sup><span class="badge">newest</span></sup></a> {% if user.is_staff %}<small><a class="btn btn-xs btn-default" href="{% url 'oai_collection' latest.pk %}">Update</a></small>{% endif %}</h3>
+				<h3><a href="{% url 'collection' latest.identifier %}" class="static_a_display" style="color: #000">{{ title.0 }} </a> {% if user.is_staff %}<small><a class="btn btn-xs btn-default" href="{% url 'oai_collection' latest.pk %}">Update</a></small>{% endif %}</h3>
 				<h4><strong>{{ title.1 }}</strong></h4>
 			</div>
 
