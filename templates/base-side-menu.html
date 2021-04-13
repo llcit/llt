@@ -19,7 +19,7 @@
 
 			<li><a href="{% url 'page_slug_view' 'dissertations' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 14 %}<i class="fa fa-circle lt-gray"></i>{% endif %} CALL Dissertations</a></li>
 
-			<li><a href="{% url 'previous_issues' %}" class="btn btn-md btn-link static_a_display">{{curr_page}} {% if curr_page == None %}<i class="fa fa-circle lt-gray"></i>{% endif %} Previous Issues</a></li>
+			<li><a href="{% url 'previous_issues' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 'previous_issues' %}<i class="fa fa-circle lt-gray"></i>{% endif %} Previous Issues</a></li>
 
 			<li><a href="{% url 'page_slug_view' 'special-issue-archive' %}" class="btn btn-md btn-link static_a_display">{% if curr_page == 17 %}<i class="fa fa-circle lt-gray"></i>{% endif %} Special Issues</a></li>		
 		</ul>
