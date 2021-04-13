@@ -2,7 +2,8 @@
 {% extends 'base.html' %}
 
 {% block page_header %}
-	<h2>Previous Issues [<a href="{% url 'page_slug_view' 'special-issue-archive' %}" class="static_a_display">Browse Special Issue Archive</a>]</h2> 
+	<h2>Previous Issues</h2>
+	<h3><a href="{% url 'page_slug_view' 'special-issue-archive' %}" class="btn btn-md btn-link static_a_display">Special Issue Archive</a></h3>
 {% endblock page_header %}
 
 {% block content %}
