@@ -16,7 +16,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<h5>Dorothy Chun and Trude Heift, Editors</h5>
-				<p class="small">Supported by the Center for Language & Technology and the National Foreign Language Resource Center (NFLRC) at the University of Hawaii, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>
+				<p class="small">Published by the National Foreign Language Resource Center (NFLRC) with additional support by the NFLRC and the Center for Language & Technology at the University of Hawai‘i at Mānoa, and the Center for Open Educational Resources and Language Learning (COERLL) at the University of Texas at Austin</p>
 			</div>
 			<div class="col-md-6">
 				<h4 class="border-space" style="font-weight: bold"><i class="fa fa-star" style="color: #7d0000;" aria-hidden="true"></i> First Annual Dorothy Chun Award!</h4>
@@ -60,8 +60,6 @@
 				<h3><a href="{% url 'collection' latest.identifier %}" class="static_a_display" style="color: #000">{{ title.0 }} </a> {% if user.is_staff %}<small><a class="btn btn-xs btn-default" href="{% url 'oai_collection' latest.pk %}">Update</a></small>{% endif %}</h3>
 				<h4><strong>{{ title.1 }}</strong></h4>
 			</div>
-
-
 			<div class="col-md-6">
 				{% if toc.Preface %}<h4 class="border-space">&nbsp;</h4>{% endif %}
 
